@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,6 +118,12 @@ nav a.active{
   background:rgba(255,122,0,.14);
   color:var(--orange);
   border:1px solid var(--orange);
+}
+
+.cached{
+  background:rgba(22,217,255,.12);
+  color:var(--cyan);
+  border:1px solid var(--cyan);
 }
 
 .hero{
@@ -335,6 +342,15 @@ nav a.active{
   line-height:1.35;
 }
 
+.news-title a{
+  color:#f3f8ff;
+  text-decoration:none;
+}
+
+.news-title a:hover{
+  color:var(--cyan);
+}
+
 .news-meta{
   color:#8fa2b5;
   font-size:12px;
@@ -461,6 +477,13 @@ th{
   text-align:center;
 }
 
+.source-status{
+  margin-top:14px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+
 footer{
   color:#7f91a3;
   font-size:12px;
@@ -516,6 +539,11 @@ footer{
         <div><span class="green">●</span> Updated: <span id="updated">loading...</span></div>
         <div>↻ Auto-refresh ready</div>
       </div>
+
+      <div class="source-status">
+        <span id="kevStatus" class="badge cached">KEV LOADING</span>
+        <span id="newsStatus" class="badge cached">NEWS LOADING</span>
+      </div>
     </div>
 
     <div class="globe"></div>
@@ -565,29 +593,14 @@ footer{
 <section class="main-grid">
 
   <div class="card panel">
-    <h3>LATEST CYBERSECURITY NEWS <span class="badge demo">DEMO</span></h3>
-
-    <div class="news-item">
-      <div class="thumb">🔐</div>
-      <div>
-        <div class="news-title">CISA Known Exploited Vulnerabilities feed connected.</div>
-        <div class="news-meta">CISA KEV · live signal</div>
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="thumb">⚠️</div>
-      <div>
-        <div class="news-title">Internet-facing products remain priority targets for exploitation.</div>
-        <div class="news-meta">NetPulse Signal · demo</div>
-      </div>
-    </div>
-
-    <div class="news-item">
-      <div class="thumb">🌐</div>
-      <div>
-        <div class="news-title">Routing and exposure signals are being monitored for anomaly correlation.</div>
-        <div class="news-meta">BGP Watch · demo</div>
+    <h3>LATEST CYBERSECURITY NEWS <span id="newsBadge" class="badge cached">LOADING</span></h3>
+    <div id="newsList">
+      <div class="news-item">
+        <div class="thumb">⏳</div>
+        <div>
+          <div class="news-title">Loading live cybersecurity news...</div>
+          <div class="news-meta">RSS · loading</div>
+        </div>
       </div>
     </div>
   </div>
@@ -664,12 +677,33 @@ const KEV_URLS = [
   "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
 ];
 
-function formatDateNow(){
-  const d = new Date();
-  return d.toLocaleString("en-US", { dateStyle:"medium", timeStyle:"medium" });
+const RSS_FEEDS = [
+  {
+    name: "The Hacker News",
+    url: "https://feeds.feedburner.com/TheHackersNews"
+  },
+  {
+    name: "BleepingComputer",
+    url: "https://www.bleepingcomputer.com/feed/"
+  },
+  {
+    name: "KrebsOnSecurity",
+    url: "https://krebsonsecurity.com/feed/"
+  }
+];
+
+function nowText(){
+  return new Date().toLocaleString("en-US", { dateStyle:"medium", timeStyle:"medium" });
 }
 
-document.getElementById("updated").textContent = formatDateNow();
+document.getElementById("updated").textContent = nowText();
+
+function setBadge(id, text, type){
+  const el = document.getElementById(id);
+  if(!el) return;
+  el.textContent = text;
+  el.className = "badge " + type;
+}
 
 async function fetchFirstWorking(urls){
   for(const url of urls){
@@ -714,6 +748,8 @@ async function loadKEV(){
         `${latest[0].cveID} affecting ${vendorProduct(latest[0])} is listed in the CISA Known Exploited Vulnerabilities catalog.`;
     }
 
+    setBadge("kevStatus","KEV LIVE","live");
+
   }catch(e){
     document.getElementById("kevCount").textContent = "N/A";
     document.getElementById("kevTable").innerHTML = `
@@ -721,11 +757,76 @@ async function loadKEV(){
     `;
     document.getElementById("signalText").textContent =
       "CISA KEV feed is temporarily unavailable. NetPulse is showing cached/demo indicators.";
+    setBadge("kevStatus","KEV UNAVAILABLE","demo");
   }
 }
 
+function proxyUrl(url){
+  return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url);
+}
+
+function parseRSS(xmlText, sourceName){
+  const parser = new DOMParser();
+  const xml = parser.parseFromString(xmlText, "application/xml");
+  const items = [...xml.querySelectorAll("item")].slice(0,3);
+
+  return items.map(item => ({
+    title: item.querySelector("title")?.textContent?.trim() || "Untitled",
+    link: item.querySelector("link")?.textContent?.trim() || "#",
+    pubDate: item.querySelector("pubDate")?.textContent?.trim() || "",
+    source: sourceName
+  }));
+}
+
+async function loadNews(){
+  const all = [];
+
+  for(const feed of RSS_FEEDS){
+    try{
+      const res = await fetch(proxyUrl(feed.url), {cache:"no-store"});
+      if(!res.ok) continue;
+      const text = await res.text();
+      all.push(...parseRSS(text, feed.name));
+    }catch(e){}
+  }
+
+  if(all.length === 0){
+    document.getElementById("newsList").innerHTML = `
+      <div class="news-item">
+        <div class="thumb">⚠️</div>
+        <div>
+          <div class="news-title">Live RSS news temporarily unavailable.</div>
+          <div class="news-meta">NetPulse · cached/demo mode</div>
+        </div>
+      </div>
+    `;
+    setBadge("newsBadge","CACHED","cached");
+    setBadge("newsStatus","NEWS CACHED","cached");
+    return;
+  }
+
+  all.sort((a,b)=> new Date(b.pubDate) - new Date(a.pubDate));
+
+  document.getElementById("newsList").innerHTML = all.slice(0,5).map((n,i)=>`
+    <div class="news-item">
+      <div class="thumb">${["🔐","⚠️","🌐","🧬","🛡️"][i] || "🔎"}</div>
+      <div>
+        <div class="news-title">
+          <a href="${n.link}" target="_blank" rel="noopener noreferrer">${n.title}</a>
+        </div>
+        <div class="news-meta">${n.source} · ${n.pubDate ? new Date(n.pubDate).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"}) : "live feed"}</div>
+      </div>
+    </div>
+  `).join("");
+
+  setBadge("newsBadge","LIVE","live");
+  setBadge("newsStatus","NEWS LIVE","live");
+}
+
 loadKEV();
+loadNews();
 </script>
 
 </body>
 </html>
+```
