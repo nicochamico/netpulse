@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">|
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NETPULSE</title>
 
@@ -172,37 +172,15 @@ td a{color:var(--cyan);text-decoration:none}
 }
 .biggreen{font-size:34px;font-weight:900;color:var(--green);text-align:center}
 
-.sources{
-  margin-top:14px;
-  padding:22px;
-}
-.sources h3{
-  font-size:17px;
-  margin-bottom:16px;
-}
-.source-grid{
-  display:grid;
-  grid-template-columns:repeat(5,1fr);
-  gap:12px;
-}
-.source-item{
-  padding:14px;
-  border:1px solid #123a5a;
-  border-radius:10px;
-  background:#041322;
-}
-.source-name{
-  font-size:13px;
-  font-weight:900;
-}
-.source-note{
-  margin-top:8px;
-  font-size:12px;
-  color:var(--muted);
-  line-height:1.4;
-}
+.sources{margin-top:14px;padding:22px}
+.sources h3{font-size:17px;margin-bottom:16px}
+.source-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.source-item{padding:14px;border:1px solid #123a5a;border-radius:10px;background:#041322}
+.source-name{font-size:13px;font-weight:900}
+.source-note{margin-top:8px;font-size:12px;color:var(--muted);line-height:1.4}
 
 footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
+footer a{color:var(--cyan);text-decoration:none;font-weight:800}
 
 @media(max-width:1200px){
   .hero,.main-grid,.signal{grid-template-columns:1fr}
@@ -251,7 +229,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
       <p>NetPulse tracks cybersecurity news, exploited vulnerabilities, ransomware activity, routing anomalies and Internet exposure signals.</p>
 
       <div class="status-row">
-        <div><span class="green">●</span> Updated: <span id="updated">loading...</span></div>
+        <div><span class="green">●</span> Updated: <span id="updated">loading</span></div>
         <div>↻ Static JSON pipeline active</div>
       </div>
 
@@ -266,12 +244,12 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
   </div>
 
   <div class="card risk-card">
-    <h2>NETPULSE RISK SCORE <span id="riskBadge" class="badge partial">PARTIAL LIVE</span></h2>
+    <h2>NETPULSE RISK SCORE <span id="riskBadge" class="badge partial">LIVE CORE</span></h2>
 
     <div class="gauge"></div>
 
     <div class="score">
-      <span id="riskScore">...</span><small>/100</small>
+      <span id="riskScore">--</span><small>/100</small>
     </div>
 
     <div class="risk-label" id="riskLabel">LOADING</div>
@@ -299,7 +277,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
 <section class="kpis">
   <a class="card kpi" href="#kev">
     <div class="kpi-top"><span>EXPLOITED CVES <span class="badge live">LIVE</span><br>(KEV)</span><span class="icon red">🛡️</span></div>
-    <div class="kpi-value red" id="kevCount">...</div>
+    <div class="kpi-value red" id="kevCount">--</div>
     <div class="delta red">CISA KEV catalog</div>
     <div class="mini-line red"></div>
     <div class="kpi-foot" id="kevFreshness">loading</div>
@@ -315,8 +293,8 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
 
   <a class="card kpi" href="#bgp">
     <div class="kpi-top"><span>BGP ANOMALIES <span class="badge pending">CONNECTOR PENDING</span><br>(24H)</span><span class="icon green">⛓</span></div>
-    <div class="kpi-value green" id="bgpCount">N/A</div>
-    <div class="delta green">routing connector pending</div>
+    <div class="kpi-value green" id="bgpCount">--</div>
+    <div class="delta green">watchlist configured</div>
     <div class="mini-line green"></div>
     <div class="kpi-foot">NetPulse BGP pipeline</div>
   </a>
@@ -331,7 +309,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
 
   <a class="card kpi" href="#ransomware">
     <div class="kpi-top"><span>RANSOMWARE VICTIMS <span class="badge live">LIVE</span><br>(RECENT)</span><span class="icon blue">☣</span></div>
-    <div class="kpi-value blue" id="ransomwareVictims">...</div>
+    <div class="kpi-value blue" id="ransomwareVictims">--</div>
     <div class="delta blue" id="ransomwareDelta">ransomware.live</div>
     <div class="mini-line blue"></div>
     <div class="kpi-foot" id="ransomwareFreshness">loading</div>
@@ -346,7 +324,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
       <div class="news-item">
         <div class="thumb">⏳</div>
         <div>
-          <div class="news-title">Loading news from data/news.json...</div>
+          <div class="news-title">Loading news from data/news.json</div>
           <div class="news-meta">NetPulse pipeline</div>
         </div>
       </div>
@@ -368,7 +346,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
           </tr>
         </thead>
         <tbody id="kevTable">
-          <tr><td>Loading...</td><td></td><td></td><td></td><td></td></tr>
+          <tr><td>Loading</td><td></td><td></td><td></td><td></td></tr>
         </tbody>
       </table>
     </div>
@@ -384,12 +362,12 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
   <div class="card panel" id="bgp">
     <h3>BGP WATCH - LAST 24 HOURS <span class="badge pending">CONNECTOR PENDING</span></h3>
 
-    <div class="mapbox">BGP CONNECTOR PENDING</div>
+    <div class="mapbox">BGP WATCHLIST CONFIGURED</div>
 
-    <div class="bgp-row"><b>Event</b><b>Prefix</b><b>Origin ASN</b><b>Peer/Path ASN</b><b>RPKI</b></div>
+    <div class="bgp-row"><b>Event</b><b>Prefix</b><b>Origin ASN</b><b>Name</b><b>Status</b></div>
     <div id="bgpRows">
       <div style="color:#9fb2c5;font-size:13px;line-height:1.6;margin-top:14px;">
-        Connect this panel to the NetPulse BGP Incident Analyzer pipeline to publish real prefix, origin ASN, path ASN and RPKI status.
+        Loading BGP watchlist.
       </div>
     </div>
   </div>
@@ -399,7 +377,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
 <section class="card signal" id="ransomware">
   <div>
     <h3>⚡ SIGNAL OF THE DAY <span class="badge live">LIVE</span></h3>
-    <p id="signalText">Loading live signal...</p>
+    <p id="signalText">Loading live signal</p>
   </div>
 
   <div class="spark"></div>
@@ -430,14 +408,16 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
       <div class="source-note">Recent public ransomware victim reports.</div>
     </div>
     <div class="source-item">
-      <div class="source-name">NetPulse BGP <span class="badge pending">CONNECTOR PENDING</span></div>
-      <div class="source-note">Reserved for the BGP Incident Analyzer pipeline.</div>
+      <div class="source-name">NetPulse BGP <span class="badge pending">WATCHLIST READY</span></div>
+      <div class="source-note">Watchlist configured. Live routing connector pending.</div>
     </div>
   </div>
 </section>
 
 <footer>
-  © 2026 NetPulse.org · Static JSON pipeline · Live sources clearly marked · Pending connectors are not simulated
+  © 2026 NetPulse.org · Static JSON pipeline · 
+  <a href="methodology.html">Methodology</a> · 
+  Live sources clearly marked · Pending connectors are not simulated
 </footer>
 
 </div>
@@ -509,6 +489,8 @@ async function loadKEV(){
 
   }catch(e){
     document.getElementById("kevCount").textContent = "N/A";
+    document.getElementById("updated").textContent = "unavailable";
+    document.getElementById("kevFreshness").textContent = "unavailable";
     document.getElementById("kevTable").innerHTML = `<tr><td>KEV unavailable</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>`;
     setBadge("kevStatus","KEV ERROR","pending");
   }
@@ -557,7 +539,7 @@ async function loadRisk(){
     document.getElementById("riskTrend").textContent = "↗ " + (data.trend || "0");
 
     if(data.status === "partial_live"){
-      setBadge("riskBadge","PARTIAL LIVE","partial");
+      setBadge("riskBadge","LIVE CORE","partial");
     }else if(data.status === "fresh"){
       setBadge("riskBadge","LIVE","live");
     }else{
@@ -588,6 +570,17 @@ async function loadRansomware(){
   }
 }
 
+async function loadIndicators(){
+  try{
+    const data = await getJSON("data/indicators.json");
+    document.getElementById("internetNoise").textContent = data.internet_noise || "N/A";
+    document.getElementById("exposedSystems").textContent = data.exposed_systems ?? "N/A";
+  }catch(e){
+    document.getElementById("internetNoise").textContent = "N/A";
+    document.getElementById("exposedSystems").textContent = "N/A";
+  }
+}
+
 async function loadBGP(){
   try{
     const watchlist = await getJSON("data/watchlist.json");
@@ -612,7 +605,6 @@ async function loadBGP(){
         BGP watchlist unavailable.
       </div>
     `;
-  }
   }
 }
 
