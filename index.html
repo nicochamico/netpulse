@@ -353,9 +353,9 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
 
     <div class="card panel" id="noise" style="margin-top:12px;min-height:180px;">
       <h3>INTERNET NOISE <span class="badge pending">CONNECTOR PENDING</span></h3>
-      <div style="color:#9fb2c5;font-size:13px;line-height:1.6;">
-        This block is ready for GreyNoise, Shadowserver, internal NetFlow, or a custom Internet noise collector.
-      </div>
+       <div id="noiseRows" style="color:#d7e3ee;font-size:13px;line-height:1.7;">
+        Loading Internet noise profile.
+       </div>
     </div>
   </div>
 
@@ -572,12 +572,28 @@ async function loadRansomware(){
 
 async function loadIndicators(){
   try{
-    const data = await getJSON("data/indicators.json");
-    document.getElementById("internetNoise").textContent = data.internet_noise || "N/A";
-    document.getElementById("exposedSystems").textContent = data.exposed_systems ?? "N/A";
+    const profile = await getJSON("data/noise_profile.json");
+    const services = profile.services || [];
+
+    document.getElementById("internetNoise").textContent = services.length || "N/A";
+
+    document.getElementById("noiseRows").innerHTML = services.map(s => `
+      <div style="display:grid;grid-template-columns:1fr 70px 70px 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;">
+        <div>${s.name || "-"}</div>
+        <div>${s.port || "-"}</div>
+        <div>${s.protocol || "-"}</div>
+        <div class="${s.risk === "critical" ? "red" : s.risk === "high" ? "orange" : "blue"}">${s.risk || "-"}</div>
+      </div>
+    `).join("");
+
   }catch(e){
     document.getElementById("internetNoise").textContent = "N/A";
     document.getElementById("exposedSystems").textContent = "N/A";
+
+    const noiseRows = document.getElementById("noiseRows");
+    if(noiseRows){
+      noiseRows.innerHTML = "Internet noise profile unavailable.";
+    }
   }
 }
 
