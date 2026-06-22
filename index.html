@@ -302,9 +302,9 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
   <a class="card kpi" href="#exposure">
     <div class="kpi-top"><span>EXPOSED SYSTEMS <span class="badge pending">CONNECTOR PENDING</span><br>(INDEX)</span><span class="icon purple">▣</span></div>
     <div class="kpi-value purple" id="exposedSystems">N/A</div>
-    <div class="delta purple">collector not connected</div>
+    <div class="delta purple">profile configured</div>
     <div class="mini-line purple"></div>
-    <div class="kpi-foot">exposure source required</div>
+    <div class="kpi-foot">monitored exposure categories</div>
   </a>
 
   <a class="card kpi" href="#ransomware">
@@ -576,7 +576,9 @@ async function loadIndicators(){
     const services = profile.services || [];
 
     document.getElementById("internetNoise").textContent = services.length || "N/A";
-
+    const exposure = await getJSON("data/exposure_profile.json");
+    const categories = exposure.categories || [];
+    document.getElementById("exposedSystems").textContent = categories.length || "N/A";
     document.getElementById("noiseRows").innerHTML = services.map(s => `
       <div style="display:grid;grid-template-columns:1fr 70px 70px 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;">
         <div>${s.name || "-"}</div>
