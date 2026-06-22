@@ -1,7 +1,7 @@
 {
-  "source": "CISA KEV",
+  "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-06-22T17:42:21.237375+00:00",
+  "last_success": "2026-06-22T19:05:57.728740+00:00",
   "count": 1623,
   "items": [
     {
@@ -17,7 +17,9 @@
       "notes": "https://advisory.splunk.com/advisories/SVD-2026-0603 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-20253",
       "cwes": [
         "CWE-306"
-      ]
+      ],
+      "epss": 0.10035,
+      "epss_percentile": 0.95018
     },
     {
       "cveID": "CVE-2026-48907",
@@ -32,7 +34,9 @@
       "notes": "https://www.joomlacontenteditor.net/news/jce-security-update-and-a-free-patch-for-older-sites ; https://www.joomlacontenteditor.net/support/changelog/editor ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-48907",
       "cwes": [
         "CWE-284"
-      ]
+      ],
+      "epss": 0.06854,
+      "epss_percentile": 0.93214
     },
     {
       "cveID": "CVE-2026-54420",
@@ -47,7 +51,9 @@
       "notes": "https://blog.litespeedtech.com/2026/06/01/security-update-for-litespeed-cpanel-plugin-2/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-54420",
       "cwes": [
         "CWE-61"
-      ]
+      ],
+      "epss": 0.00654,
+      "epss_percentile": 0.46413
     },
     {
       "cveID": "CVE-2026-20262",
@@ -62,7 +68,9 @@
       "notes": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-arbfw-c2rZvQ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-20262",
       "cwes": [
         "CWE-22"
-      ]
+      ],
+      "epss": 0.01145,
+      "epss_percentile": 0.62568
     },
     {
       "cveID": "CVE-2026-35273",
@@ -77,7 +85,9 @@
       "notes": "https://www.oracle.com/security-alerts/alert-cve-2026-35273.html ; https://support.oracle.com/signin/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-35273",
       "cwes": [
         "CWE-306"
-      ]
+      ],
+      "epss": 0.07511,
+      "epss_percentile": 0.93709
     },
     {
       "cveID": "CVE-2026-10520",
@@ -92,7 +102,9 @@
       "notes": "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Sentry-CVE-2026-10520-CVE-2026-10523?language=en_US ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-10520",
       "cwes": [
         "CWE-78"
-      ]
+      ],
+      "epss": 0.59524,
+      "epss_percentile": 0.99003
     },
     {
       "cveID": "CVE-2026-11645",
@@ -108,7 +120,9 @@
       "cwes": [
         "CWE-787",
         "CWE-125"
-      ]
+      ],
+      "epss": 0.00713,
+      "epss_percentile": 0.48759
     },
     {
       "cveID": "CVE-2026-7473",
@@ -123,7 +137,9 @@
       "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24005-security-advisory-0137 ; https://nvd.nist.gov/vuln/detail/CVE-2026-7473",
       "cwes": [
         "CWE-1023"
-      ]
+      ],
+      "epss": 0.00378,
+      "epss_percentile": 0.29395
     },
     {
       "cveID": "CVE-2026-20245",
@@ -138,7 +154,9 @@
       "notes": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-privesc-4uxFrdzx ; https://nvd.nist.gov/vuln/detail/CVE-2026-20245",
       "cwes": [
         "CWE-116"
-      ]
+      ],
+      "epss": 0.00952,
+      "epss_percentile": 0.56644
     },
     {
       "cveID": "CVE-2026-42271",
@@ -154,7 +172,9 @@
       "cwes": [
         "CWE-78",
         "CWE-77"
-      ]
+      ],
+      "epss": 0.53701,
+      "epss_percentile": 0.98861
     }
   ]
 }

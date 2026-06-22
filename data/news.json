@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-22T17:42:21.237375+00:00",
+  "last_success": "2026-06-22T19:05:57.728740+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "published": "Mon, 22 Jun 2026 23:30:48 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
@@ -62,6 +68,12 @@
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "published": "Sat, 20 Jun 2026 11:23:46 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "published": "Sat, 20 Jun 2026 10:09:19 -0400"
     }
   ]
 }

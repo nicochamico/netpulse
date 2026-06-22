@@ -1,26 +1,8 @@
 {
-  "status": "demo",
-  "count": 27,
-  "items": [
-    {
-      "type": "Possible Hijack",
-      "asn": "AS135377",
-      "time": "10:15"
-    },
-    {
-      "type": "Prefix Leak",
-      "asn": "AS2914",
-      "time": "09:42"
-    },
-    {
-      "type": "More Specifics",
-      "asn": "AS12389",
-      "time": "08:33"
-    },
-    {
-      "type": "Invalid Origin",
-      "asn": "AS4766",
-      "time": "06:55"
-    }
-  ]
+  "source": "NetPulse BGP connector",
+  "status": "unavailable",
+  "last_success": null,
+  "count": null,
+  "items": [],
+  "note": "BGP connector pending. Connect this to the NetPulse/BGP Incident Analyzer pipeline."
 }
