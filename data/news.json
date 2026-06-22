@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-22T19:05:57.728740+00:00",
+  "last_success": "2026-06-22T21:33:59.345195+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "published": "Mon, 22 Jun 2026 17:05:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "published": "Mon, 22 Jun 2026 16:01:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400"
@@ -62,18 +74,6 @@
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
       "published": "Sun, 21 Jun 2026 10:14:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "published": "Sat, 20 Jun 2026 11:23:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "published": "Sat, 20 Jun 2026 10:09:19 -0400"
     }
   ]
 }
