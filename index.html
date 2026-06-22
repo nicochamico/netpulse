@@ -25,6 +25,10 @@
   --muted:#9fb2c5;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+
 body{
   background:radial-gradient(circle at top,#061827 0,#020b14 35%,#01070d 100%);
   color:var(--text);
@@ -261,6 +265,73 @@ nav a.active{
   margin-top:8px;
 }
 
+.score-explain{
+  margin-top:20px;
+  text-align:left;
+}
+
+.score-title{
+  font-size:12px;
+  color:var(--muted);
+  margin-bottom:8px;
+}
+
+.score-bar{
+  height:10px;
+  border-radius:999px;
+  overflow:hidden;
+  display:flex;
+  background:#102538;
+}
+
+.score-bar div:nth-child(1){width:40%;background:var(--red)}
+.score-bar div:nth-child(2){width:25%;background:var(--cyan)}
+.score-bar div:nth-child(3){width:20%;background:var(--purple)}
+.score-bar div:nth-child(4){width:15%;background:var(--orange)}
+
+.score-legend{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:6px;
+  margin-top:12px;
+  font-size:11px;
+  color:#b7c5d4;
+}
+
+.risk-spark{
+  margin-top:18px;
+  height:42px;
+  border-radius:8px;
+  background:
+    linear-gradient(135deg,rgba(22,217,255,.12),transparent),
+    repeating-linear-gradient(90deg,transparent 0 18px,rgba(22,217,255,.08) 19px 20px);
+  position:relative;
+  overflow:hidden;
+  border:1px solid #123553;
+}
+
+.risk-spark:after{
+  content:"";
+  position:absolute;
+  left:12px;
+  right:12px;
+  top:23px;
+  height:2px;
+  background:var(--green);
+  box-shadow:
+    24px -6px var(--green),
+    48px 2px var(--green),
+    72px -10px var(--green),
+    104px -4px var(--green),
+    138px -14px var(--green);
+}
+
+.spark-caption{
+  font-size:11px;
+  color:var(--muted);
+  margin-top:6px;
+}
+
 .kpis{
   display:grid;
   grid-template-columns:repeat(5,1fr);
@@ -270,7 +341,16 @@ nav a.active{
 
 .kpi{
   padding:22px;
-  min-height:128px;
+  min-height:148px;
+  text-decoration:none;
+  display:block;
+  transition:.2s ease;
+}
+
+.kpi:hover{
+  transform:translateY(-3px);
+  border-color:var(--cyan);
+  box-shadow:0 0 35px rgba(22,217,255,.15);
 }
 
 .kpi-top{
@@ -295,6 +375,38 @@ nav a.active{
   margin-top:10px;
   color:var(--muted);
   font-size:12px;
+}
+
+.delta{
+  margin-top:8px;
+  font-size:12px;
+  font-weight:800;
+}
+
+.mini-line{
+  height:18px;
+  margin-top:8px;
+  border-radius:6px;
+  background:
+    linear-gradient(135deg,rgba(22,217,255,.12),transparent),
+    repeating-linear-gradient(90deg,transparent 0 18px,rgba(22,217,255,.08) 19px 20px);
+  position:relative;
+  overflow:hidden;
+}
+
+.mini-line:after{
+  content:"";
+  position:absolute;
+  left:8px;
+  right:8px;
+  top:10px;
+  height:2px;
+  background:currentColor;
+  box-shadow:
+    18px -4px currentColor,
+    40px 1px currentColor,
+    65px -6px currentColor,
+    96px -2px currentColor;
 }
 
 .main-grid{
@@ -372,9 +484,14 @@ th{
   text-transform:uppercase;
 }
 
+td a{
+  color:var(--cyan);
+  text-decoration:none;
+}
+
 .bars div{
   display:grid;
-  grid-template-columns:120px 1fr 50px;
+  grid-template-columns:120px 1fr 90px;
   gap:10px;
   margin:14px 0;
   font-size:13px;
@@ -412,7 +529,7 @@ th{
 
 .bgp-row{
   display:grid;
-  grid-template-columns:1.1fr .9fr .8fr .5fr;
+  grid-template-columns:1.2fr .9fr .9fr .8fr .7fr;
   gap:10px;
   font-size:13px;
   padding:9px 0;
@@ -499,6 +616,7 @@ footer{
   .kpis{grid-template-columns:1fr}
   .hero h1{font-size:28px}
   .score{font-size:48px}
+  .bgp-row{grid-template-columns:1fr}
 }
 </style>
 
@@ -515,10 +633,10 @@ footer{
 
   <nav>
     <a class="active" href="#">DASHBOARD</a>
-    <a href="#">NEWS</a>
-    <a href="#">INDICATORS</a>
-    <a href="#">BGP WATCH</a>
-    <a href="#">RANSOMWARE</a>
+    <a href="#news">NEWS</a>
+    <a href="#kev">INDICATORS</a>
+    <a href="#bgp">BGP WATCH</a>
+    <a href="#ransomware">RANSOMWARE</a>
     <a href="#">RESOURCES</a>
     <a href="#">ABOUT</a>
   </nav>
@@ -551,48 +669,93 @@ footer{
 
   <div class="card risk-card">
     <h2>NETPULSE RISK SCORE <span id="riskBadge" class="badge demo">DEMO</span></h2>
-    <div class="gauge"></div>
-    <div class="score"><span id="riskScore">68</span><small>/100</small></div>
-    <div class="risk-label" id="riskLabel">HIGH RISK</div>
-    <p style="margin-top:18px;color:#9fb2c5;">24h Trend <span id="riskTrend" class="red">↗ +8</span></p>
+
+```
+<div class="gauge"></div>
+
+<div class="score">
+  <span id="riskScore">68</span><small>/100</small>
+</div>
+
+<div class="risk-label" id="riskLabel">HIGH RISK</div>
+
+<p style="margin-top:14px;color:#9fb2c5;">
+  24h Trend <span id="riskTrend" class="red">↗ +8</span>
+</p>
+
+<div class="score-explain">
+  <div class="score-title">Score composition</div>
+
+  <div class="score-bar">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <div class="score-legend">
+    <div><span class="red">■</span> KEV 40%</div>
+    <div><span class="blue">■</span> BGP 25%</div>
+    <div><span class="purple">■</span> Ransomware 20%</div>
+    <div><span class="orange">■</span> Noise 15%</div>
+  </div>
+</div>
+
+<div class="risk-spark"></div>
+
+<div class="spark-caption">
+  7-day demo trend · methodology pending
+</div>
+```
+
   </div>
 </section>
 
 <section class="kpis">
-  <div class="card kpi">
+  <a class="card kpi" href="#kev">
     <div class="kpi-top"><span>EXPLOITED CVES <span class="badge live">LIVE</span><br>(KEV)</span><span class="icon red">🛡️</span></div>
     <div class="kpi-value red" id="kevCount">...</div>
+    <div class="delta red">▲ +3 vs last run</div>
+    <div class="mini-line red"></div>
     <div class="kpi-foot">CISA KEV catalog</div>
-  </div>
+  </a>
 
-  <div class="card kpi">
+  <a class="card kpi" href="#noise">
     <div class="kpi-top"><span>INTERNET NOISE <span class="badge demo">DEMO</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
     <div class="kpi-value orange" id="internetNoise">...</div>
+    <div class="delta orange">▲ +12% last 24h</div>
+    <div class="mini-line orange"></div>
     <div class="kpi-foot">demo indicator</div>
-  </div>
+  </a>
 
-  <div class="card kpi">
+  <a class="card kpi" href="#bgp">
     <div class="kpi-top"><span>BGP ANOMALIES <span class="badge demo">DEMO</span><br>(24H)</span><span class="icon green">⛓</span></div>
     <div class="kpi-value green" id="bgpCount">...</div>
+    <div class="delta green">▼ -5% last 24h</div>
+    <div class="mini-line green"></div>
     <div class="kpi-foot">routing watch</div>
-  </div>
+  </a>
 
-  <div class="card kpi">
+  <a class="card kpi" href="#exposure">
     <div class="kpi-top"><span>EXPOSED SYSTEMS <span class="badge demo">DEMO</span><br>(INDEX)</span><span class="icon purple">▣</span></div>
     <div class="kpi-value purple" id="exposedSystems">...</div>
+    <div class="delta purple">▲ +9% last 24h</div>
+    <div class="mini-line purple"></div>
     <div class="kpi-foot">exposure score</div>
-  </div>
+  </a>
 
-  <div class="card kpi">
+  <a class="card kpi" href="#ransomware">
     <div class="kpi-top"><span>RANSOMWARE VICTIMS <span class="badge demo">DEMO</span><br>(7 DAYS)</span><span class="icon blue">☣</span></div>
     <div class="kpi-value blue" id="ransomwareVictims">...</div>
+    <div class="delta blue">▲ +6% last 7d</div>
+    <div class="mini-line blue"></div>
     <div class="kpi-foot">public reports</div>
-  </div>
+  </a>
 </section>
 
 <section class="main-grid">
 
-  <div class="card panel">
+  <div class="card panel" id="news">
     <h3>LATEST CYBERSECURITY NEWS <span id="newsBadge" class="badge cached">LOADING</span></h3>
     <div id="newsList">
       <div class="news-item">
@@ -606,7 +769,7 @@ footer{
   </div>
 
   <div>
-    <div class="card panel">
+    <div class="card panel" id="kev">
       <h3>TOP EXPLOITED CVES (KEV) <span class="badge live">LIVE</span></h3>
 
 ```
@@ -615,37 +778,40 @@ footer{
       <tr>
         <th>CVE</th>
         <th>Product</th>
+        <th>Ransomware</th>
         <th>Added</th>
       </tr>
     </thead>
     <tbody id="kevTable">
-      <tr><td>Loading...</td><td></td><td></td></tr>
+      <tr><td>Loading...</td><td></td><td></td><td></td></tr>
     </tbody>
   </table>
 </div>
 
-<div class="card panel" style="margin-top:12px;min-height:180px;">
+<div class="card panel" id="noise" style="margin-top:12px;min-height:180px;">
   <h3>INTERNET NOISE <span class="badge demo">DEMO</span></h3>
 
   <div class="bars">
-    <div><span>Fortinet</span><span class="bar"><span class="fill" style="width:82%;background:#ff3344;"></span></span><span>32.5%</span></div>
-    <div><span>Microsoft RDP</span><span class="bar"><span class="fill" style="width:55%;background:#ff7a00;"></span></span><span>18.7%</span></div>
-    <div><span>Citrix</span><span class="bar"><span class="fill" style="width:40%;background:#ffd000;"></span></span><span>11.3%</span></div>
-    <div><span>Ivanti</span><span class="bar"><span class="fill" style="width:35%;background:#54ff70;"></span></span><span>9.8%</span></div>
-    <div><span>SSH</span><span class="bar"><span class="fill" style="width:25%;background:#14d9ff;"></span></span><span>7.6%</span></div>
+    <div><span>Fortinet</span><span class="bar"><span class="fill" style="width:82%;background:#ff3344;"></span></span><span>32.5% · 2.5M</span></div>
+    <div><span>Microsoft RDP</span><span class="bar"><span class="fill" style="width:55%;background:#ff7a00;"></span></span><span>18.7% · 1.4M</span></div>
+    <div><span>Citrix</span><span class="bar"><span class="fill" style="width:40%;background:#ffd000;"></span></span><span>11.3% · 870K</span></div>
+    <div><span>Ivanti</span><span class="bar"><span class="fill" style="width:35%;background:#54ff70;"></span></span><span>9.8% · 760K</span></div>
+    <div><span>SSH</span><span class="bar"><span class="fill" style="width:25%;background:#14d9ff;"></span></span><span>7.6% · 590K</span></div>
   </div>
+
+  <div style="color:#9fb2c5;font-size:12px;margin-top:10px;">Window: last 24 hours · demo dataset</div>
 </div>
 ```
 
   </div>
 
-  <div class="card panel">
+  <div class="card panel" id="bgp">
     <h3>BGP WATCH - LAST 24 HOURS <span class="badge demo">DEMO</span></h3>
 
 ```
 <div class="mapbox">GLOBAL ROUTING SIGNAL MAP</div>
 
-<div class="bgp-row"><b>Type</b><b>Country / ASN</b><b>ASN</b><b>Time</b></div>
+<div class="bgp-row"><b>Event</b><b>Prefix</b><b>Origin ASN</b><b>Peer/Path ASN</b><b>RPKI</b></div>
 <div id="bgpRows"></div>
 ```
 
@@ -653,7 +819,7 @@ footer{
 
 </section>
 
-<section class="card signal">
+<section class="card signal" id="ransomware">
   <div>
     <h3>⚡ SIGNAL OF THE DAY <span class="badge live">LIVE</span></h3>
     <p id="signalText">Loading KEV signal...</p>
@@ -700,6 +866,13 @@ function vendorProduct(v){
   return `${vendor} ${product}`.trim() || "-";
 }
 
+function ransomwareUse(v){
+  const value = String(v.knownRansomwareCampaignUse || "").toLowerCase();
+  if(value === "known") return '<span class="red">Known</span>';
+  if(value === "unknown") return '<span class="orange">Unknown</span>';
+  return "-";
+}
+
 async function loadKEV(){
   try{
     const data = await getJSON("data/kev.json");
@@ -710,8 +883,9 @@ async function loadKEV(){
 
     document.getElementById("kevTable").innerHTML = items.slice(0,6).map(v => `
       <tr>
-        <td>${v.cveID || "-"}</td>
+        <td><a href="https://nvd.nist.gov/vuln/detail/${v.cveID || ""}" target="_blank" rel="noopener noreferrer">${v.cveID || "-"}</a></td>
         <td>${vendorProduct(v)}</td>
+        <td>${ransomwareUse(v)}</td>
         <td>${v.dateAdded || "-"}</td>
       </tr>
     `).join("");
@@ -725,7 +899,7 @@ async function loadKEV(){
 
   }catch(e){
     document.getElementById("kevCount").textContent = "N/A";
-    document.getElementById("kevTable").innerHTML = `<tr><td>KEV unavailable</td><td>-</td><td>-</td></tr>`;
+    document.getElementById("kevTable").innerHTML = `<tr><td>KEV unavailable</td><td>-</td><td>-</td><td>-</td></tr>`;
     document.getElementById("signalText").textContent = "KEV data is unavailable.";
     setBadge("kevStatus","KEV ERROR","demo");
   }
@@ -794,18 +968,29 @@ async function loadIndicators(){
   }
 }
 
+function bgpColor(type){
+  if(type && type.includes("Hijack")) return "red";
+  if(type && type.includes("Leak")) return "orange";
+  if(type && type.includes("More")) return "blue";
+  return "purple";
+}
+
 async function loadBGP(){
   try{
     const data = await getJSON("data/bgp.json");
     document.getElementById("bgpCount").textContent = data.count ?? 27;
 
+    const demoPrefixes = ["103.123.152.0/24","45.83.16.0/22","2001:db8:120::/48","185.199.108.0/24"];
+    const demoRpki = ["Invalid","NotFound","Valid","Invalid"];
+
     const items = data.items || [];
-    document.getElementById("bgpRows").innerHTML = items.map(item => `
+    document.getElementById("bgpRows").innerHTML = items.map((item,index) => `
       <div class="bgp-row">
-        <span class="${item.type && item.type.includes("Hijack") ? "red" : item.type && item.type.includes("Leak") ? "orange" : "blue"}">${item.type || "-"}</span>
-        <span>${item.asn || "-"}</span>
-        <span>${item.asn || "-"}</span>
-        <span>${item.time || "-"}</span>
+        <span class="${bgpColor(item.type)}">${item.type || "-"}</span>
+        <span>${item.prefix || demoPrefixes[index] || "-"}</span>
+        <span>${item.origin_asn || item.asn || "-"}</span>
+        <span>${item.peer_asn || item.path_asn || item.asn || "-"}</span>
+        <span class="${demoRpki[index] === "Invalid" ? "red" : demoRpki[index] === "Valid" ? "green" : "orange"}">${item.rpki || demoRpki[index] || "NotFound"}</span>
       </div>
     `).join("");
 
