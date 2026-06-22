@@ -45,7 +45,7 @@ nav a.active{color:var(--cyan);border-bottom:2px solid var(--cyan);padding-botto
 }
 .live{background:rgba(93,255,122,.14);color:var(--green);border:1px solid var(--green)}
 .partial{background:rgba(22,217,255,.12);color:var(--cyan);border:1px solid var(--cyan)}
-.demo{background:rgba(255,122,0,.14);color:var(--orange);border:1px solid var(--orange)}
+.pending{background:rgba(255,122,0,.14);color:var(--orange);border:1px solid var(--orange)}
 .cached{background:rgba(22,217,255,.12);color:var(--cyan);border:1px solid var(--cyan)}
 .green{color:var(--green)}.red{color:var(--red)}.orange{color:var(--orange)}.blue{color:var(--cyan)}.purple{color:var(--purple)}
 
@@ -144,10 +144,6 @@ td,th{border-bottom:1px solid #102a42;padding:10px 6px;text-align:left}
 th{color:#8fa2b5;font-size:11px;text-transform:uppercase}
 td a{color:var(--cyan);text-decoration:none}
 
-.bars div{display:grid;grid-template-columns:120px 1fr 90px;gap:10px;margin:14px 0;font-size:13px}
-.bar{background:#102538;height:7px;border-radius:10px;overflow:hidden;margin-top:6px}
-.fill{height:100%;border-radius:10px}
-
 .mapbox{
   height:155px;border-radius:12px;
   background:
@@ -175,6 +171,37 @@ td a{color:var(--cyan);text-decoration:none}
   box-shadow:22px -8px var(--green),58px -1px var(--green),96px -18px var(--green),145px -6px var(--green),205px -28px var(--green),270px -16px var(--green);
 }
 .biggreen{font-size:34px;font-weight:900;color:var(--green);text-align:center}
+
+.sources{
+  margin-top:14px;
+  padding:22px;
+}
+.sources h3{
+  font-size:17px;
+  margin-bottom:16px;
+}
+.source-grid{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:12px;
+}
+.source-item{
+  padding:14px;
+  border:1px solid #123a5a;
+  border-radius:10px;
+  background:#041322;
+}
+.source-name{
+  font-size:13px;
+  font-weight:900;
+}
+.source-note{
+  margin-top:8px;
+  font-size:12px;
+  color:var(--muted);
+  line-height:1.4;
+}
+
 footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
 
 @media(max-width:1200px){
@@ -182,10 +209,12 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
   .hero-left{grid-template-columns:1fr}
   .globe{display:none}
   .kpis{grid-template-columns:repeat(2,1fr)}
+  .source-grid{grid-template-columns:repeat(2,1fr)}
   nav{display:none}
 }
 @media(max-width:700px){
   .kpis{grid-template-columns:1fr}
+  .source-grid{grid-template-columns:1fr}
   .hero h1{font-size:28px}
   .score{font-size:48px}
   .bgp-row{grid-template-columns:1fr}
@@ -208,7 +237,7 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
     <a href="#kev">INDICATORS</a>
     <a href="#bgp">BGP WATCH</a>
     <a href="#ransomware">RANSOMWARE</a>
-    <a href="#">RESOURCES</a>
+    <a href="#sources">SOURCES</a>
     <a href="#">ABOUT</a>
   </nav>
 
@@ -277,25 +306,25 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
   </a>
 
   <a class="card kpi" href="#noise">
-    <div class="kpi-top"><span>INTERNET NOISE <span class="badge demo">PENDING</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
+    <div class="kpi-top"><span>INTERNET NOISE <span class="badge pending">CONNECTOR PENDING</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
     <div class="kpi-value orange" id="internetNoise">N/A</div>
-    <div class="delta orange">collector pending</div>
+    <div class="delta orange">collector not connected</div>
     <div class="mini-line orange"></div>
     <div class="kpi-foot">external source required</div>
   </a>
 
   <a class="card kpi" href="#bgp">
-    <div class="kpi-top"><span>BGP ANOMALIES <span class="badge demo">PENDING</span><br>(24H)</span><span class="icon green">⛓</span></div>
+    <div class="kpi-top"><span>BGP ANOMALIES <span class="badge pending">CONNECTOR PENDING</span><br>(24H)</span><span class="icon green">⛓</span></div>
     <div class="kpi-value green" id="bgpCount">N/A</div>
-    <div class="delta green">connector pending</div>
+    <div class="delta green">routing connector pending</div>
     <div class="mini-line green"></div>
     <div class="kpi-foot">NetPulse BGP pipeline</div>
   </a>
 
   <a class="card kpi" href="#exposure">
-    <div class="kpi-top"><span>EXPOSED SYSTEMS <span class="badge demo">PENDING</span><br>(INDEX)</span><span class="icon purple">▣</span></div>
+    <div class="kpi-top"><span>EXPOSED SYSTEMS <span class="badge pending">CONNECTOR PENDING</span><br>(INDEX)</span><span class="icon purple">▣</span></div>
     <div class="kpi-value purple" id="exposedSystems">N/A</div>
-    <div class="delta purple">collector pending</div>
+    <div class="delta purple">collector not connected</div>
     <div class="mini-line purple"></div>
     <div class="kpi-foot">exposure source required</div>
   </a>
@@ -345,15 +374,15 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
     </div>
 
     <div class="card panel" id="noise" style="margin-top:12px;min-height:180px;">
-      <h3>INTERNET NOISE <span class="badge demo">PENDING</span></h3>
+      <h3>INTERNET NOISE <span class="badge pending">CONNECTOR PENDING</span></h3>
       <div style="color:#9fb2c5;font-size:13px;line-height:1.6;">
-        Internet Noise is not connected yet. This block is ready for a reliable scanner/noise source such as GreyNoise, Shadowserver, internal NetFlow, or a custom collector.
+        This block is ready for GreyNoise, Shadowserver, internal NetFlow, or a custom Internet noise collector.
       </div>
     </div>
   </div>
 
   <div class="card panel" id="bgp">
-    <h3>BGP WATCH - LAST 24 HOURS <span class="badge demo">PENDING</span></h3>
+    <h3>BGP WATCH - LAST 24 HOURS <span class="badge pending">CONNECTOR PENDING</span></h3>
 
     <div class="mapbox">BGP CONNECTOR PENDING</div>
 
@@ -381,8 +410,34 @@ footer{color:#7f91a3;font-size:12px;padding:28px 0;text-align:center}
   </div>
 </section>
 
+<section class="card sources" id="sources">
+  <h3>DATA SOURCES</h3>
+  <div class="source-grid">
+    <div class="source-item">
+      <div class="source-name">CISA KEV <span class="badge live">LIVE</span></div>
+      <div class="source-note">Known Exploited Vulnerabilities catalog.</div>
+    </div>
+    <div class="source-item">
+      <div class="source-name">FIRST EPSS <span class="badge live">LIVE</span></div>
+      <div class="source-note">Exploit prediction score for CVE prioritization.</div>
+    </div>
+    <div class="source-item">
+      <div class="source-name">Cybersecurity RSS <span class="badge live">LIVE</span></div>
+      <div class="source-note">Security news feeds collected by GitHub Actions.</div>
+    </div>
+    <div class="source-item">
+      <div class="source-name">ransomware.live <span class="badge live">LIVE</span></div>
+      <div class="source-note">Recent public ransomware victim reports.</div>
+    </div>
+    <div class="source-item">
+      <div class="source-name">NetPulse BGP <span class="badge pending">CONNECTOR PENDING</span></div>
+      <div class="source-note">Reserved for the BGP Incident Analyzer pipeline.</div>
+    </div>
+  </div>
+</section>
+
 <footer>
-  © 2026 NetPulse.org · Static JSON pipeline · Live sources: CISA KEV, FIRST EPSS, RSS, ransomware.live
+  © 2026 NetPulse.org · Static JSON pipeline · Live sources clearly marked · Pending connectors are not simulated
 </footer>
 
 </div>
@@ -455,7 +510,7 @@ async function loadKEV(){
   }catch(e){
     document.getElementById("kevCount").textContent = "N/A";
     document.getElementById("kevTable").innerHTML = `<tr><td>KEV unavailable</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>`;
-    setBadge("kevStatus","KEV ERROR","demo");
+    setBadge("kevStatus","KEV ERROR","pending");
   }
 }
 
@@ -489,8 +544,8 @@ async function loadNews(){
         </div>
       </div>
     `;
-    setBadge("newsBadge","ERROR","demo");
-    setBadge("newsStatus","NEWS ERROR","demo");
+    setBadge("newsBadge","ERROR","pending");
+    setBadge("newsStatus","NEWS ERROR","pending");
   }
 }
 
@@ -506,7 +561,7 @@ async function loadRisk(){
     }else if(data.status === "fresh"){
       setBadge("riskBadge","LIVE","live");
     }else{
-      setBadge("riskBadge","UNAVAILABLE","demo");
+      setBadge("riskBadge","UNAVAILABLE","pending");
     }
   }catch(e){
     document.getElementById("riskScore").textContent = "N/A";
@@ -529,7 +584,7 @@ async function loadRansomware(){
   }catch(e){
     document.getElementById("ransomwareVictims").textContent = "N/A";
     document.getElementById("ransomwareFreshness").textContent = "unavailable";
-    setBadge("ransomwareStatus","RANSOMWARE ERROR","demo");
+    setBadge("ransomwareStatus","RANSOMWARE ERROR","pending");
   }
 }
 
