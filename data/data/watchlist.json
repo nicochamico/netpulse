@@ -1,0 +1,13 @@
+{
+  "source": "NetPulse Watchlist",
+  "status": "configured",
+  "description": "Prefixes monitored by NetPulse BGP connector.",
+  "prefixes": [
+    {
+      "name": "Public demo monitored prefix",
+      "prefix": "103.123.152.0/24",
+      "legitimate_origins": [],
+      "note": "Historical NetPulse anomaly case. Legitimate origins must be confirmed before production use."
+    }
+  ]
+}
