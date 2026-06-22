@@ -1,376 +1,613 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NETPULSE</title>
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 
 <style>
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
+*{margin:0;padding:0;box-sizing:border-box}
 
 body{
-    background:#020b14;
-    color:#fff;
-    font-family:Inter,sans-serif;
+  background:#020b14;
+  color:#f4f8ff;
+  font-family:Inter,Arial,sans-serif;
 }
 
-.container{
-    width:95%;
-    margin:auto;
+.wrapper{
+  width:96%;
+  margin:auto;
 }
 
 header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:30px 0;
-    border-bottom:1px solid #0f2438;
+  height:80px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:1px solid #0d2a42;
+}
+
+.brand{
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+
+.pulse{
+  color:#14d9ff;
+  font-size:34px;
 }
 
 .logo{
-    color:#12d8ff;
-    font-size:42px;
-    font-weight:800;
+  font-size:28px;
+  font-weight:900;
 }
 
-.tag{
-    color:#9aa7b4;
+.logo span{
+  display:block;
+  color:#9fb2c5;
+  font-size:12px;
+  font-weight:500;
 }
 
 nav a{
-    color:#c5d1dc;
-    text-decoration:none;
-    margin-left:30px;
+  color:#d9e6f2;
+  text-decoration:none;
+  margin:0 14px;
+  font-size:13px;
+  font-weight:700;
+}
+
+nav a.active{
+  color:#14d9ff;
+  border-bottom:2px solid #14d9ff;
+  padding-bottom:28px;
+}
+
+.donate{
+  border:1px solid #14d9ff;
+  padding:12px 20px;
+  border-radius:8px;
 }
 
 .hero{
-    margin-top:35px;
-    display:grid;
-    grid-template-columns:2fr 1fr;
-    gap:25px;
+  display:grid;
+  grid-template-columns:1.6fr .95fr;
+  gap:18px;
+  margin-top:18px;
 }
 
 .card{
-    background:#061523;
-    border:1px solid #12314d;
-    border-radius:22px;
-    padding:35px;
-    box-shadow:0 0 40px rgba(0,150,255,.08);
+  background:linear-gradient(145deg,#061727,#03111e);
+  border:1px solid #103553;
+  border-radius:14px;
+  box-shadow:0 0 28px rgba(0,180,255,.08);
+}
+
+.hero-left{
+  min-height:260px;
+  display:grid;
+  grid-template-columns:1fr 340px;
+  padding:32px;
+  overflow:hidden;
 }
 
 .hero h1{
-    font-size:58px;
-    line-height:1.1;
-    margin-bottom:30px;
+  font-size:34px;
+  line-height:1.18;
+  max-width:560px;
 }
 
 .hero p{
-    color:#b4c0cb;
-    font-size:22px;
-    line-height:1.7;
+  color:#b7c5d4;
+  margin-top:18px;
+  font-size:15px;
+  line-height:1.6;
+  max-width:600px;
 }
 
-.updated{
-    margin-top:30px;
-    color:#77ff8f;
+.status-row{
+  margin-top:34px;
+  display:flex;
+  gap:34px;
+  color:#c6d6e5;
+  font-size:13px;
 }
 
-.risk{
-    text-align:center;
+.green{color:#62f58a}
+.red{color:#ff4d5d}
+.orange{color:#ff7a00}
+.blue{color:#14d9ff}
+.purple{color:#a546ff}
+
+.globe{
+  width:300px;
+  height:300px;
+  border-radius:50%;
+  background:
+    radial-gradient(circle at 40% 40%,rgba(20,217,255,.9),transparent 8%),
+    radial-gradient(circle at 65% 55%,rgba(20,217,255,.7),transparent 6%),
+    radial-gradient(circle at 50% 50%,rgba(0,125,190,.3),transparent 60%),
+    url("https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg");
+  background-size:cover;
+  opacity:.85;
+  box-shadow:0 0 45px rgba(20,217,255,.25);
+  border:1px solid rgba(20,217,255,.25);
+  animation:float 5s ease-in-out infinite;
+}
+
+@keyframes float{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-8px)}
+}
+
+.risk-card{
+  padding:24px;
+  text-align:center;
+}
+
+.risk-card h2{
+  font-size:16px;
+  margin-bottom:18px;
 }
 
 .gauge{
-    font-size:110px;
-    color:#12d8ff;
-    margin-top:30px;
+  width:210px;
+  height:110px;
+  margin:20px auto 8px;
+  background:conic-gradient(from 230deg,#86d946 0 70deg,#ffb000 70deg 125deg,#ff374d 125deg 180deg,transparent 180deg 360deg);
+  border-radius:210px 210px 0 0;
+  position:relative;
 }
 
-.risk-text{
-    color:#ff5959;
-    font-size:28px;
-    font-weight:bold;
+.gauge:after{
+  content:"";
+  position:absolute;
+  width:150px;
+  height:75px;
+  left:30px;
+  bottom:0;
+  background:#04111e;
+  border-radius:150px 150px 0 0;
+}
+
+.score{
+  position:relative;
+  margin-top:-80px;
+  z-index:2;
+  font-size:52px;
+  font-weight:900;
+}
+
+.score small{
+  font-size:18px;
+  color:#aebdca;
+}
+
+.risk-label{
+  color:#ff3d4d;
+  font-weight:900;
+  margin-top:8px;
 }
 
 .kpis{
-    display:grid;
-    grid-template-columns:repeat(5,1fr);
-    gap:20px;
-    margin-top:25px;
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:12px;
+  margin-top:14px;
 }
 
 .kpi{
-    background:#061523;
-    border:1px solid #12314d;
-    border-radius:20px;
-    padding:25px;
+  padding:22px;
+  min-height:125px;
 }
 
-.kpi-title{
-    color:#dce6f0;
-    margin-bottom:20px;
+.kpi-top{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size:13px;
+  font-weight:800;
+}
+
+.icon{
+  font-size:28px;
 }
 
 .kpi-value{
-    color:#12d8ff;
-    font-size:50px;
-    font-weight:bold;
+  margin-top:18px;
+  font-size:32px;
+  font-weight:900;
 }
 
-.grid2{
-    margin-top:25px;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    gap:25px;
+.kpi-foot{
+  margin-top:10px;
+  color:#9eb0bf;
+  font-size:12px;
 }
 
-.section{
-    background:#061523;
-    border:1px solid #12314d;
-    border-radius:20px;
-    padding:25px;
+.main-grid{
+  display:grid;
+  grid-template-columns:1.05fr .95fr 1.1fr;
+  gap:12px;
+  margin-top:14px;
 }
 
-.section h2{
-    margin-bottom:25px;
+.panel{
+  padding:20px;
+  min-height:330px;
 }
 
-.news{
-    margin-bottom:20px;
-    padding-bottom:20px;
-    border-bottom:1px solid #0f2438;
+.panel h3{
+  font-size:17px;
+  margin-bottom:18px;
 }
 
-.news:last-child{
-    border:none;
+.news-item{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  gap:14px;
+  margin-bottom:14px;
+  border-bottom:1px solid #102a42;
+  padding-bottom:14px;
 }
 
-.news small{
-    color:#8ca1b6;
+.thumb{
+  height:66px;
+  border-radius:8px;
+  background:linear-gradient(135deg,#03395a,#12d9ff);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:28px;
 }
 
-.table{
-    width:100%;
+.news-title{
+  font-size:14px;
+  font-weight:700;
+  line-height:1.35;
 }
 
-.table tr td{
-    padding:12px 0;
-    border-bottom:1px solid #0f2438;
+.news-meta{
+  color:#8fa2b5;
+  font-size:12px;
+  margin-top:5px;
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:13px;
+}
+
+td,th{
+  border-bottom:1px solid #102a42;
+  padding:10px 6px;
+  text-align:left;
+}
+
+th{
+  color:#8fa2b5;
+  font-size:11px;
+  text-transform:uppercase;
+}
+
+.bars div{
+  display:grid;
+  grid-template-columns:120px 1fr 50px;
+  gap:10px;
+  margin:14px 0;
+  font-size:13px;
+}
+
+.bar{
+  background:#102538;
+  height:7px;
+  border-radius:10px;
+  overflow:hidden;
+  margin-top:6px;
+}
+
+.fill{
+  height:100%;
+  border-radius:10px;
+  background:#14d9ff;
+}
+
+.bgp-row{
+  display:grid;
+  grid-template-columns:1.1fr .9fr .8fr .5fr;
+  gap:10px;
+  font-size:13px;
+  padding:9px 0;
+  border-bottom:1px solid #102a42;
 }
 
 .signal{
-    margin-top:25px;
-    background:#061523;
-    border:1px solid #12314d;
-    border-radius:20px;
-    padding:35px;
+  margin-top:14px;
+  padding:22px;
+  display:grid;
+  grid-template-columns:1fr 1fr 160px;
+  gap:20px;
+  align-items:center;
 }
 
-.signal h2{
-    color:#77ff8f;
-    margin-bottom:20px;
+.signal h3{
+  color:#68ff82;
+  margin-bottom:10px;
+}
+
+.spark{
+  height:90px;
+  border-radius:10px;
+  background:
+    linear-gradient(135deg,rgba(92,255,100,.18),transparent),
+    repeating-linear-gradient(100deg,transparent 0 20px,rgba(20,217,255,.08) 21px 22px);
+  border:1px solid #123553;
+  position:relative;
+}
+
+.spark:after{
+  content:"";
+  position:absolute;
+  left:25px;
+  right:25px;
+  top:45px;
+  height:3px;
+  background:#55ff42;
+  box-shadow:20px -10px #55ff42,60px -2px #55ff42,100px -22px #55ff42,150px -6px #55ff42,210px -30px #55ff42,260px -18px #55ff42;
+}
+
+.biggreen{
+  font-size:34px;
+  font-weight:900;
+  color:#54ff70;
+  text-align:center;
 }
 
 footer{
-    text-align:center;
-    color:#8ea0b2;
-    padding:40px;
+  color:#7f91a3;
+  font-size:12px;
+  padding:28px 0;
+  text-align:center;
 }
 
 @media(max-width:1200px){
-
-.hero{
-    grid-template-columns:1fr;
+  .hero,.main-grid,.signal{grid-template-columns:1fr}
+  .hero-left{grid-template-columns:1fr}
+  .globe{display:none}
+  .kpis{grid-template-columns:repeat(2,1fr)}
+  nav{display:none}
 }
 
-.kpis{
-    grid-template-columns:1fr 1fr;
+@media(max-width:700px){
+  .kpis{grid-template-columns:1fr}
+  .hero h1{font-size:28px}
 }
-
-.grid2{
-    grid-template-columns:1fr;
-}
-
-}
-
-@media(max-width:800px){
-
-.kpis{
-    grid-template-columns:1fr;
-}
-
-.hero h1{
-    font-size:40px;
-}
-
-}
-
 </style>
 </head>
 
 <body>
-
-<div class="container">
+<div class="wrapper">
 
 <header>
+  <div class="brand">
+    <div class="pulse">⌁</div>
+    <div class="logo">NETPULSE<span>Cyber Signals. Real Intelligence.</span></div>
+  </div>
 
-<div>
-<div class="logo">NETPULSE</div>
-<div class="tag">Cyber Signals. Real Intelligence.</div>
-</div>
+  <nav>
+    <a class="active" href="#">DASHBOARD</a>
+    <a href="#">NEWS</a>
+    <a href="#">INDICATORS</a>
+    <a href="#">BGP WATCH</a>
+    <a href="#">RANSOMWARE</a>
+    <a href="#">RESOURCES</a>
+    <a href="#">ABOUT</a>
+  </nav>
 
-<nav>
-<a href="#">Dashboard</a>
-<a href="#">News</a>
-<a href="#">BGP</a>
-<a href="#">Ransomware</a>
-</nav>
-
+  <div class="donate">DONATE 💙</div>
 </header>
 
 <section class="hero">
+  <div class="card hero-left">
+    <div>
+      <h1>Cyber intelligence and Internet signals in one place.</h1>
+      <p>NetPulse tracks cybersecurity news, exploited vulnerabilities, Internet noise, routing anomalies and risk indicators.</p>
 
-<div class="card">
+      <div class="status-row">
+        <div><span class="green">●</span> Updated: <span id="updated">loading...</span></div>
+        <div>↻ Auto-refresh ready</div>
+      </div>
+    </div>
 
-<h1>
-Cyber intelligence and Internet signals in one place.
-</h1>
+    <div class="globe"></div>
+  </div>
 
-<p>
-Cybersecurity news, routing anomalies, exploited vulnerabilities and global Internet signals.
-</p>
-
-<div class="updated">
-🟢 Updated 2 minutes ago
-</div>
-
-</div>
-
-<div class="card risk">
-
-<h2>NETPULSE RISK SCORE</h2>
-
-<div class="gauge">
-68
-</div>
-
-<div class="risk-text">
-HIGH
-</div>
-
-</div>
-
+  <div class="card risk-card">
+    <h2>NETPULSE RISK SCORE</h2>
+    <div class="gauge"></div>
+    <div class="score"><span id="riskScore">68</span><small>/100</small></div>
+    <div class="risk-label" id="riskLabel">HIGH RISK</div>
+    <p style="margin-top:18px;color:#9fb2c5;">24h Trend <span class="red">↗ +8</span></p>
+  </div>
 </section>
 
 <section class="kpis">
+  <div class="card kpi">
+    <div class="kpi-top"><span>EXPLOITED CVES<br>(KEV)</span><span class="icon red">🛡️</span></div>
+    <div class="kpi-value red" id="kevCount">...</div>
+    <div class="kpi-foot">CISA KEV catalog</div>
+  </div>
 
-<div class="kpi">
-<div class="kpi-title">Exploited CVEs</div>
-<div class="kpi-value">42</div>
-</div>
+  <div class="card kpi">
+    <div class="kpi-top"><span>INTERNET NOISE<br>(SCANS)</span><span class="icon orange">◎</span></div>
+    <div class="kpi-value orange">7.8M</div>
+    <div class="kpi-foot">demo indicator</div>
+  </div>
 
-<div class="kpi">
-<div class="kpi-title">Internet Noise</div>
-<div class="kpi-value">7.8M</div>
-</div>
+  <div class="card kpi">
+    <div class="kpi-top"><span>BGP ANOMALIES<br>(24H)</span><span class="icon green">⛓</span></div>
+    <div class="kpi-value green">27</div>
+    <div class="kpi-foot">routing watch</div>
+  </div>
 
-<div class="kpi">
-<div class="kpi-title">BGP Anomalies</div>
-<div class="kpi-value">27</div>
-</div>
+  <div class="card kpi">
+    <div class="kpi-top"><span>EXPOSED SYSTEMS<br>(INDEX)</span><span class="icon purple">▣</span></div>
+    <div class="kpi-value purple">65</div>
+    <div class="kpi-foot">exposure score</div>
+  </div>
 
-<div class="kpi">
-<div class="kpi-title">Exposed Systems</div>
-<div class="kpi-value">65</div>
-</div>
+  <div class="card kpi">
+    <div class="kpi-top"><span>RANSOMWARE VICTIMS<br>(7 DAYS)</span><span class="icon blue">☣</span></div>
+    <div class="kpi-value blue">136</div>
+    <div class="kpi-foot">public reports</div>
+  </div>
+</section>
 
-<div class="kpi">
-<div class="kpi-title">Ransomware Victims</div>
-<div class="kpi-value">136</div>
-</div>
+<section class="main-grid">
+
+  <div class="card panel">
+    <h3>LATEST CYBERSECURITY NEWS</h3>
+
+    <div class="news-item">
+      <div class="thumb">🔐</div>
+      <div>
+        <div class="news-title">CISA adds exploited vulnerabilities to the KEV catalog.</div>
+        <div class="news-meta">CISA · live feed</div>
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="thumb">⚠️</div>
+      <div>
+        <div class="news-title">Internet-facing products remain priority targets for exploitation.</div>
+        <div class="news-meta">NetPulse Signal · today</div>
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="thumb">🌐</div>
+      <div>
+        <div class="news-title">Routing and exposure signals are being monitored for anomaly correlation.</div>
+        <div class="news-meta">BGP Watch · today</div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <div class="card panel">
+      <h3>TOP EXPLOITED CVES (KEV)</h3>
+
+      <table>
+        <thead>
+          <tr>
+            <th>CVE</th>
+            <th>Product</th>
+            <th>Added</th>
+          </tr>
+        </thead>
+        <tbody id="kevTable">
+          <tr><td>Loading...</td><td></td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="card panel" style="margin-top:12px;min-height:180px;">
+      <h3>INTERNET NOISE - TOP SCANNED TECHNOLOGIES</h3>
+
+      <div class="bars">
+        <div><span>Fortinet</span><span class="bar"><span class="fill" style="width:82%;background:#ff3344;"></span></span><span>32.5%</span></div>
+        <div><span>Microsoft RDP</span><span class="bar"><span class="fill" style="width:55%;background:#ff7a00;"></span></span><span>18.7%</span></div>
+        <div><span>Citrix</span><span class="bar"><span class="fill" style="width:40%;background:#ffd000;"></span></span><span>11.3%</span></div>
+        <div><span>Ivanti</span><span class="bar"><span class="fill" style="width:35%;background:#54ff70;"></span></span><span>9.8%</span></div>
+        <div><span>SSH</span><span class="bar"><span class="fill" style="width:25%;background:#14d9ff;"></span></span><span>7.6%</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card panel">
+    <h3>BGP WATCH - LAST 24 HOURS</h3>
+
+    <div style="height:155px;border-radius:12px;background:radial-gradient(circle,#173653,#04111e);display:flex;align-items:center;justify-content:center;color:#14d9ff;margin-bottom:18px;">
+      GLOBAL ROUTING SIGNAL MAP
+    </div>
+
+    <div class="bgp-row"><b>Type</b><b>Country / ASN</b><b>ASN</b><b>Time</b></div>
+    <div class="bgp-row"><span class="red">Possible Hijack</span><span>AS135377</span><span>AS135377</span><span>10:15</span></div>
+    <div class="bgp-row"><span class="orange">Prefix Leak</span><span>AS2914</span><span>AS2914</span><span>09:42</span></div>
+    <div class="bgp-row"><span class="green">More Specifics</span><span>AS12389</span><span>AS12389</span><span>08:33</span></div>
+    <div class="bgp-row"><span class="blue">Invalid Origin</span><span>AS4766</span><span>AS4766</span><span>06:55</span></div>
+  </div>
 
 </section>
 
-<div class="grid2">
+<section class="card signal">
+  <div>
+    <h3>⚡ SIGNAL OF THE DAY</h3>
+    <p id="signalText">Loading KEV signal...</p>
+  </div>
 
-<div class="section">
+  <div class="spark"></div>
 
-<h2>Latest Cybersecurity News</h2>
-
-<div class="news">
-Fortinet vulnerability added to KEV.<br>
-<small>The Hacker News · 1h ago</small>
-</div>
-
-<div class="news">
-Massive Microsoft phishing campaign.<br>
-<small>BleepingComputer · 2h ago</small>
-</div>
-
-<div class="news">
-Akira ransomware publishes new victims.<br>
-<small>Krebs · 3h ago</small>
-</div>
-
-</div>
-
-<div class="section">
-
-<h2>Top Exploited CVEs</h2>
-
-<table class="table">
-
-<tr>
-<td>CVE-2025-43266</td>
-<td>Fortinet</td>
-</tr>
-
-<tr>
-<td>CVE-2025-29824</td>
-<td>Ivanti</td>
-</tr>
-
-<tr>
-<td>CVE-2025-33073</td>
-<td>Microsoft</td>
-</tr>
-
-<tr>
-<td>CVE-2025-22457</td>
-<td>Cisco</td>
-</tr>
-
-</table>
-
-</div>
-
-</div>
-
-<div class="signal">
-
-<h2>⚡ Signal of the Day</h2>
-
-<p>
-Fortinet scanning activity increased 35% during the last 24 hours after a new vulnerability was added to the KEV catalog.
-</p>
-
-</div>
+  <div>
+    <div class="biggreen">+35%</div>
+    <div style="text-align:center;color:#9fb2c5;">vs previous day</div>
+  </div>
+</section>
 
 <footer>
-
-© 2026 NETPULSE
-
+  © 2026 NetPulse.org · Public cyber intelligence dashboard
 </footer>
 
 </div>
 
+<script>
+const KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json";
+
+function formatDateNow(){
+  const d = new Date();
+  return d.toLocaleString("en-US", { dateStyle:"medium", timeStyle:"medium" });
+}
+
+document.getElementById("updated").textContent = formatDateNow();
+
+async function loadKEV(){
+  try{
+    const res = await fetch(KEV_URL);
+    const json = await res.json();
+
+    const vulns = json.vulnerabilities || [];
+    document.getElementById("kevCount").textContent = vulns.length;
+
+    const latest = vulns.slice(-6).reverse();
+
+    document.getElementById("kevTable").innerHTML = latest.map(v => `
+      <tr>
+        <td>${v.cveID || "-"}</td>
+        <td>${v.vendorProject || ""} ${v.product || ""}</td>
+        <td>${v.dateAdded || "-"}</td>
+      </tr>
+    `).join("");
+
+    if(latest[0]){
+      document.getElementById("signalText").textContent =
+        `${latest[0].cveID} affecting ${latest[0].vendorProject || "a vendor"} ${latest[0].product || ""} is listed in the CISA Known Exploited Vulnerabilities catalog.`;
+    }
+
+  }catch(e){
+    document.getElementById("kevCount").textContent = "N/A";
+    document.getElementById("kevTable").innerHTML =
+      "<tr><td>CISA KEV unavailable</td><td>cached mode</td><td>-</td></tr>";
+    document.getElementById("signalText").textContent =
+      "CISA KEV feed is temporarily unavailable. NetPulse is showing cached/demo indicators.";
+  }
+}
+
+loadKEV();
+</script>
+
 </body>
 </html>
-```
