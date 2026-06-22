@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NetPulse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #07111c;
+      color: #f4f7fb;
+    }
+    header {
+      padding: 28px 8%;
+      border-bottom: 1px solid #123;
+    }
+    .logo {
+      font-size: 28px;
+      font-weight: bold;
+      color: #00d5ff;
+    }
+    .hero {
+      padding: 70px 8%;
+    }
+    h1 {
+      font-size: 48px;
+      max-width: 760px;
+    }
+    p {
+      color: #b8c7d9;
+      font-size: 18px;
+      max-width: 700px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+      padding: 20px 8% 70px;
+    }
+    .card {
+      background: #0d1b2a;
+      border: 1px solid #18344f;
+      border-radius: 16px;
+      padding: 24px;
+    }
+    .value {
+      font-size: 36px;
+      color: #00d5ff;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">NETPULSE</div>
+    <div>Cyber Signals. Real Intelligence.</div>
+  </header>
+
+  <section class="hero">
+    <h1>Cyber intelligence and Internet signals in one place.</h1>
+    <p>
+      NetPulse tracks cybersecurity news, exploited vulnerabilities,
+      Internet noise, routing anomalies and risk indicators.
+    </p>
+  </section>
+
+  <section class="grid">
+    <div class="card">
+      <h3>Risk Score</h3>
+      <div class="value">68/100</div>
+      <p>Status: High</p>
+    </div>
+    <div class="card">
+      <h3>Exploited CVEs</h3>
+      <div class="value">42</div>
+      <p>CISA KEV signal</p>
+    </div>
+    <div class="card">
+      <h3>Internet Noise</h3>
+      <div class="value">7.8M</div>
+      <p>Scanning activity</p>
+    </div>
+    <div class="card">
+      <h3>BGP Watch</h3>
+      <div class="value">27</div>
+      <p>Routing anomalies</p>
+    </div>
+  </section>
+</body>
+</html>
