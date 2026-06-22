@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-22T21:33:59.345195+00:00",
+  "last_success": "2026-06-22T23:22:47.052949+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "published": "Mon, 22 Jun 2026 18:42:21 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "published": "Mon, 22 Jun 2026 17:52:18 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
       "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
       "published": "Mon, 22 Jun 2026 17:05:01 -0400"
@@ -62,18 +74,6 @@
       "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
       "published": "Mon, 22 Jun 2026 13:28:57 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "published": "Mon, 22 Jun 2026 10:05:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "published": "Sun, 21 Jun 2026 10:14:22 -0400"
     }
   ]
 }

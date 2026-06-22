@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-22T21:33:59.345195+00:00",
+  "last_success": "2026-06-22T23:22:47.052949+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-06-22T21:34:37.845749+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/ehgbayern/",
+      "country": "DE",
+      "data_size": null,
+      "description": "Founded in 1991, the company has evolved from a regional waste management enterprise into a specialized provider of infrastructure operations, …",
+      "discovered": "2026-06-22T21:34:49.725878+00:00",
+      "domain": "ehg.bayern",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-06-22T21:34:37",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7a98a1c85cdcd09235db7c3a5bc6ddfc.png",
+      "url": "https://www.ransomware.live/id/ZWhnLmJheWVybkBzYWZlcGF5",
+      "victim": "ehg.bayern"
+    },
+    {
+      "activity": "Construction",
+      "attackdate": "2026-06-22T21:33:15.563603+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2f47ce8d-8f40-49d9-8e70-d7d4e7b877c8",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-06-22T21:34:04.767008+00:00",
+      "domain": "www.schumacherhomes.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a683bd5f3d1335612c50d6a47387b16a.png",
+      "url": "https://www.ransomware.live/id/U2NodW1hY2hlciBIb21lc0BxaWxpbg==",
+      "victim": "Schumacher Homes"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-06-22T21:21:53.985212+00:00",
@@ -341,40 +385,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/V2FsbCBJU0RAY21kb3JnYW5pemF0aW9u",
       "victim": "Wall ISD"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-06-21T17:33:52.318506+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=82904dd5-6ccd-4761-8ce6-0ced7832d2e9",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-06-21T17:34:10.311295+00:00",
-      "domain": "www.tri-tec.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a6be050cface61f71f108900bb35e6f2.png",
-      "url": "https://www.ransomware.live/id/VHJpLXRlY0BxaWxpbg==",
-      "victim": "Tri-tec"
-    },
-    {
-      "activity": "Construction",
-      "attackdate": "2026-06-21T17:08:26.825474+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2ec671d4-73db-487a-b84b-cdd8c34d9c61",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-06-21T17:08:46.847433+00:00",
-      "domain": "www.florida-engineering-services.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ac4147b51bbc0c3092954628207c4b88.png",
-      "url": "https://www.ransomware.live/id/RmxvcmlkYSBFbmdpbmVlcmluZyBTZXJ2aWNlc0BxaWxpbg==",
-      "victim": "Florida Engineering Services"
     }
   ]
 }
