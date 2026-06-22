@@ -30,11 +30,11 @@ jobs:
       - name: Run feed collector
         run: python scripts/update_feeds.py
 
-            - name: Commit updated data
+      - name: Commit updated data
         run: |
           git config user.name "netpulse-bot"
           git config user.email "netpulse-bot@users.noreply.github.com"
           git add data/*.json
-          git commit -m "Update NetPulse feeds" || echo "No changes to commit"
+          git commit -m "Update NetPulse feeds" || true
           git pull --rebase origin main
-          git push origin main
+          git push origin main || true
