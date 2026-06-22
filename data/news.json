@@ -1,0 +1,67 @@
+{
+  "source": "Cybersecurity RSS",
+  "status": "fresh",
+  "last_success": "2026-06-22T17:42:21.237375+00:00",
+  "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "published": "Mon, 22 Jun 2026 21:43:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "published": "Mon, 22 Jun 2026 19:59:46 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "published": "Mon, 22 Jun 2026 18:50:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "published": "Mon, 22 Jun 2026 18:15:08 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "published": "Mon, 22 Jun 2026 17:28:00 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "published": "Mon, 22 Jun 2026 13:41:31 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "published": "Mon, 22 Jun 2026 13:28:57 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "published": "Mon, 22 Jun 2026 10:05:15 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "published": "Sun, 21 Jun 2026 10:14:22 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "published": "Sat, 20 Jun 2026 11:23:46 -0400"
+    }
+  ]
+}
