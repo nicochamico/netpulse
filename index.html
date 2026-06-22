@@ -588,23 +588,31 @@ async function loadRansomware(){
   }
 }
 
-async function loadIndicators(){
-  try{
-    const data = await getJSON("data/indicators.json");
-    document.getElementById("internetNoise").textContent = data.internet_noise || "N/A";
-    document.getElementById("exposedSystems").textContent = data.exposed_systems ?? "N/A";
-  }catch(e){
-    document.getElementById("internetNoise").textContent = "N/A";
-    document.getElementById("exposedSystems").textContent = "N/A";
-  }
-}
-
 async function loadBGP(){
   try{
-    const data = await getJSON("data/bgp.json");
-    document.getElementById("bgpCount").textContent = data.count ?? "N/A";
+    const watchlist = await getJSON("data/watchlist.json");
+    const prefixes = watchlist.prefixes || [];
+
+    document.getElementById("bgpCount").textContent = prefixes.length || "N/A";
+
+    document.getElementById("bgpRows").innerHTML = prefixes.map(item => `
+      <div class="bgp-row">
+        <div>Monitored Prefix</div>
+        <div>${item.prefix || "-"}</div>
+        <div>${item.legitimate_origins && item.legitimate_origins.length ? item.legitimate_origins.join(", ") : "pending"}</div>
+        <div>${item.name || "watchlist"}</div>
+        <div class="orange">Pending</div>
+      </div>
+    `).join("");
+
   }catch(e){
     document.getElementById("bgpCount").textContent = "N/A";
+    document.getElementById("bgpRows").innerHTML = `
+      <div style="color:#9fb2c5;font-size:13px;line-height:1.6;margin-top:14px;">
+        BGP watchlist unavailable.
+      </div>
+    `;
+  }
   }
 }
 
