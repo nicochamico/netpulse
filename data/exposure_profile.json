@@ -1,0 +1,27 @@
+{
+  "source": "NetPulse Exposure Profile",
+  "status": "configured",
+  "description": "Exposure categories monitored by NetPulse.",
+  "categories": [
+    {
+      "name": "Remote Access",
+      "examples": ["RDP", "VPN", "SSH"],
+      "risk": "critical"
+    },
+    {
+      "name": "Web Administration",
+      "examples": ["admin panels", "CMS login", "management UI"],
+      "risk": "high"
+    },
+    {
+      "name": "Databases",
+      "examples": ["MongoDB", "Elasticsearch", "PostgreSQL"],
+      "risk": "critical"
+    },
+    {
+      "name": "Storage",
+      "examples": ["S3 buckets", "object storage", "public shares"],
+      "risk": "high"
+    }
+  ]
+}
