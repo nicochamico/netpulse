@@ -1,5 +1,5 @@
-```html
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -59,7 +59,6 @@ header{
 .logo{
   font-size:30px;
   font-weight:900;
-  letter-spacing:.5px;
 }
 
 .logo span{
@@ -153,7 +152,6 @@ nav a.active{
   margin-top:18px;
   font-size:15px;
   line-height:1.6;
-  max-width:620px;
 }
 
 .status-row{
@@ -182,7 +180,6 @@ nav a.active{
     repeating-linear-gradient(90deg,rgba(22,217,255,.18) 0 1px,transparent 1px 28px),
     repeating-linear-gradient(0deg,rgba(22,217,255,.13) 0 1px,transparent 1px 28px),
     radial-gradient(circle at 50% 50%,#0a5277 0,#062b45 42%,#02111f 70%);
-  opacity:.95;
   box-shadow:0 0 45px rgba(22,217,255,.25);
   border:1px solid rgba(22,217,255,.25);
   animation:float 5s ease-in-out infinite;
@@ -394,7 +391,6 @@ th{
 .fill{
   height:100%;
   border-radius:10px;
-  background:var(--cyan);
 }
 
 .mapbox{
@@ -505,6 +501,7 @@ footer{
   .score{font-size:48px}
 }
 </style>
+
 </head>
 
 <body>
@@ -535,26 +532,29 @@ footer{
       <h1>Cyber intelligence and Internet signals in one place.</h1>
       <p>NetPulse tracks cybersecurity news, exploited vulnerabilities, Internet noise, routing anomalies and risk indicators.</p>
 
-      <div class="status-row">
-        <div><span class="green">●</span> Updated: <span id="updated">loading...</span></div>
-        <div>↻ Auto-refresh ready</div>
-      </div>
+```
+  <div class="status-row">
+    <div><span class="green">●</span> Updated: <span id="updated">loading...</span></div>
+    <div>↻ Static JSON pipeline active</div>
+  </div>
 
-      <div class="source-status">
-        <span id="kevStatus" class="badge cached">KEV LOADING</span>
-        <span id="newsStatus" class="badge cached">NEWS LOADING</span>
-      </div>
-    </div>
+  <div class="source-status">
+    <span id="kevStatus" class="badge cached">KEV LOADING</span>
+    <span id="newsStatus" class="badge cached">NEWS LOADING</span>
+  </div>
+</div>
 
-    <div class="globe"></div>
+<div class="globe"></div>
+```
+
   </div>
 
   <div class="card risk-card">
-    <h2>NETPULSE RISK SCORE <span class="badge demo">DEMO</span></h2>
+    <h2>NETPULSE RISK SCORE <span id="riskBadge" class="badge demo">DEMO</span></h2>
     <div class="gauge"></div>
     <div class="score"><span id="riskScore">68</span><small>/100</small></div>
     <div class="risk-label" id="riskLabel">HIGH RISK</div>
-    <p style="margin-top:18px;color:#9fb2c5;">24h Trend <span class="red">↗ +8</span></p>
+    <p style="margin-top:18px;color:#9fb2c5;">24h Trend <span id="riskTrend" class="red">↗ +8</span></p>
   </div>
 </section>
 
@@ -567,25 +567,25 @@ footer{
 
   <div class="card kpi">
     <div class="kpi-top"><span>INTERNET NOISE <span class="badge demo">DEMO</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
-    <div class="kpi-value orange">7.8M</div>
+    <div class="kpi-value orange" id="internetNoise">...</div>
     <div class="kpi-foot">demo indicator</div>
   </div>
 
   <div class="card kpi">
     <div class="kpi-top"><span>BGP ANOMALIES <span class="badge demo">DEMO</span><br>(24H)</span><span class="icon green">⛓</span></div>
-    <div class="kpi-value green">27</div>
+    <div class="kpi-value green" id="bgpCount">...</div>
     <div class="kpi-foot">routing watch</div>
   </div>
 
   <div class="card kpi">
     <div class="kpi-top"><span>EXPOSED SYSTEMS <span class="badge demo">DEMO</span><br>(INDEX)</span><span class="icon purple">▣</span></div>
-    <div class="kpi-value purple">65</div>
+    <div class="kpi-value purple" id="exposedSystems">...</div>
     <div class="kpi-foot">exposure score</div>
   </div>
 
   <div class="card kpi">
     <div class="kpi-top"><span>RANSOMWARE VICTIMS <span class="badge demo">DEMO</span><br>(7 DAYS)</span><span class="icon blue">☣</span></div>
-    <div class="kpi-value blue">136</div>
+    <div class="kpi-value blue" id="ransomwareVictims">...</div>
     <div class="kpi-foot">public reports</div>
   </div>
 </section>
@@ -598,8 +598,8 @@ footer{
       <div class="news-item">
         <div class="thumb">⏳</div>
         <div>
-          <div class="news-title">Loading live cybersecurity news...</div>
-          <div class="news-meta">RSS · loading</div>
+          <div class="news-title">Loading news from data/news.json...</div>
+          <div class="news-meta">NetPulse pipeline</div>
         </div>
       </div>
     </div>
@@ -609,43 +609,46 @@ footer{
     <div class="card panel">
       <h3>TOP EXPLOITED CVES (KEV) <span class="badge live">LIVE</span></h3>
 
-      <table>
-        <thead>
-          <tr>
-            <th>CVE</th>
-            <th>Product</th>
-            <th>Added</th>
-          </tr>
-        </thead>
-        <tbody id="kevTable">
-          <tr><td>Loading...</td><td></td><td></td></tr>
-        </tbody>
-      </table>
-    </div>
+```
+  <table>
+    <thead>
+      <tr>
+        <th>CVE</th>
+        <th>Product</th>
+        <th>Added</th>
+      </tr>
+    </thead>
+    <tbody id="kevTable">
+      <tr><td>Loading...</td><td></td><td></td></tr>
+    </tbody>
+  </table>
+</div>
 
-    <div class="card panel" style="margin-top:12px;min-height:180px;">
-      <h3>INTERNET NOISE <span class="badge demo">DEMO</span></h3>
+<div class="card panel" style="margin-top:12px;min-height:180px;">
+  <h3>INTERNET NOISE <span class="badge demo">DEMO</span></h3>
 
-      <div class="bars">
-        <div><span>Fortinet</span><span class="bar"><span class="fill" style="width:82%;background:#ff3344;"></span></span><span>32.5%</span></div>
-        <div><span>Microsoft RDP</span><span class="bar"><span class="fill" style="width:55%;background:#ff7a00;"></span></span><span>18.7%</span></div>
-        <div><span>Citrix</span><span class="bar"><span class="fill" style="width:40%;background:#ffd000;"></span></span><span>11.3%</span></div>
-        <div><span>Ivanti</span><span class="bar"><span class="fill" style="width:35%;background:#54ff70;"></span></span><span>9.8%</span></div>
-        <div><span>SSH</span><span class="bar"><span class="fill" style="width:25%;background:#14d9ff;"></span></span><span>7.6%</span></div>
-      </div>
-    </div>
+  <div class="bars">
+    <div><span>Fortinet</span><span class="bar"><span class="fill" style="width:82%;background:#ff3344;"></span></span><span>32.5%</span></div>
+    <div><span>Microsoft RDP</span><span class="bar"><span class="fill" style="width:55%;background:#ff7a00;"></span></span><span>18.7%</span></div>
+    <div><span>Citrix</span><span class="bar"><span class="fill" style="width:40%;background:#ffd000;"></span></span><span>11.3%</span></div>
+    <div><span>Ivanti</span><span class="bar"><span class="fill" style="width:35%;background:#54ff70;"></span></span><span>9.8%</span></div>
+    <div><span>SSH</span><span class="bar"><span class="fill" style="width:25%;background:#14d9ff;"></span></span><span>7.6%</span></div>
+  </div>
+</div>
+```
+
   </div>
 
   <div class="card panel">
     <h3>BGP WATCH - LAST 24 HOURS <span class="badge demo">DEMO</span></h3>
 
-    <div class="mapbox">GLOBAL ROUTING SIGNAL MAP</div>
+```
+<div class="mapbox">GLOBAL ROUTING SIGNAL MAP</div>
 
-    <div class="bgp-row"><b>Type</b><b>Country / ASN</b><b>ASN</b><b>Time</b></div>
-    <div class="bgp-row"><span class="red">Possible Hijack</span><span>AS135377</span><span>AS135377</span><span>10:15</span></div>
-    <div class="bgp-row"><span class="orange">Prefix Leak</span><span>AS2914</span><span>AS2914</span><span>09:42</span></div>
-    <div class="bgp-row"><span class="green">More Specifics</span><span>AS12389</span><span>AS12389</span><span>08:33</span></div>
-    <div class="bgp-row"><span class="blue">Invalid Origin</span><span>AS4766</span><span>AS4766</span><span>06:55</span></div>
+<div class="bgp-row"><b>Type</b><b>Country / ASN</b><b>ASN</b><b>Time</b></div>
+<div id="bgpRows"></div>
+```
+
   </div>
 
 </section>
@@ -665,39 +668,12 @@ footer{
 </section>
 
 <footer>
-  © 2026 NetPulse.org · Public cyber intelligence dashboard · LIVE data marked explicitly
+  © 2026 NetPulse.org · Static JSON pipeline · LIVE and DEMO sources clearly marked
 </footer>
 
 </div>
 
 <script>
-const KEV_URLS = [
-  "https://raw.githubusercontent.com/cisagov/kev-data/develop/known_exploited_vulnerabilities.json",
-  "https://raw.githubusercontent.com/cisagov/kev-data/main/known_exploited_vulnerabilities.json",
-  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
-];
-
-const RSS_FEEDS = [
-  {
-    name: "The Hacker News",
-    url: "https://feeds.feedburner.com/TheHackersNews"
-  },
-  {
-    name: "BleepingComputer",
-    url: "https://www.bleepingcomputer.com/feed/"
-  },
-  {
-    name: "KrebsOnSecurity",
-    url: "https://krebsonsecurity.com/feed/"
-  }
-];
-
-function nowText(){
-  return new Date().toLocaleString("en-US", { dateStyle:"medium", timeStyle:"medium" });
-}
-
-document.getElementById("updated").textContent = nowText();
-
 function setBadge(id, text, type){
   const el = document.getElementById(id);
   if(!el) return;
@@ -705,16 +681,17 @@ function setBadge(id, text, type){
   el.className = "badge " + type;
 }
 
-async function fetchFirstWorking(urls){
-  for(const url of urls){
-    try{
-      const res = await fetch(url, {cache:"no-store"});
-      if(!res.ok) continue;
-      const json = await res.json();
-      if(json && json.vulnerabilities) return json;
-    }catch(e){}
-  }
-  throw new Error("All KEV sources unavailable");
+function fmtDate(value){
+  if(!value) return "unknown";
+  const d = new Date(value);
+  if(isNaN(d)) return value;
+  return d.toLocaleString("en-US", {dateStyle:"medium", timeStyle:"short"});
+}
+
+async function getJSON(path){
+  const res = await fetch(path + "?v=" + Date.now(), {cache:"no-store"});
+  if(!res.ok) throw new Error(path + " unavailable");
+  return await res.json();
 }
 
 function vendorProduct(v){
@@ -725,17 +702,13 @@ function vendorProduct(v){
 
 async function loadKEV(){
   try{
-    const json = await fetchFirstWorking(KEV_URLS);
-    const vulns = json.vulnerabilities || [];
+    const data = await getJSON("data/kev.json");
+    const items = data.items || [];
 
-    document.getElementById("kevCount").textContent = vulns.length;
+    document.getElementById("kevCount").textContent = data.count ?? "N/A";
+    document.getElementById("updated").textContent = fmtDate(data.last_success);
 
-    const latest = vulns
-      .slice()
-      .sort((a,b)=> String(b.dateAdded || "").localeCompare(String(a.dateAdded || "")))
-      .slice(0,6);
-
-    document.getElementById("kevTable").innerHTML = latest.map(v => `
+    document.getElementById("kevTable").innerHTML = items.slice(0,6).map(v => `
       <tr>
         <td>${v.cveID || "-"}</td>
         <td>${vendorProduct(v)}</td>
@@ -743,90 +716,110 @@ async function loadKEV(){
       </tr>
     `).join("");
 
-    if(latest[0]){
+    if(items[0]){
       document.getElementById("signalText").textContent =
-        `${latest[0].cveID} affecting ${vendorProduct(latest[0])} is listed in the CISA Known Exploited Vulnerabilities catalog.`;
+        `${items[0].cveID} affecting ${vendorProduct(items[0])} is listed in the CISA Known Exploited Vulnerabilities catalog.`;
     }
 
     setBadge("kevStatus","KEV LIVE","live");
 
   }catch(e){
     document.getElementById("kevCount").textContent = "N/A";
-    document.getElementById("kevTable").innerHTML = `
-      <tr><td>CVE feed unavailable</td><td>cached/demo mode</td><td>-</td></tr>
-    `;
-    document.getElementById("signalText").textContent =
-      "CISA KEV feed is temporarily unavailable. NetPulse is showing cached/demo indicators.";
-    setBadge("kevStatus","KEV UNAVAILABLE","demo");
+    document.getElementById("kevTable").innerHTML = `<tr><td>KEV unavailable</td><td>-</td><td>-</td></tr>`;
+    document.getElementById("signalText").textContent = "KEV data is unavailable.";
+    setBadge("kevStatus","KEV ERROR","demo");
   }
-}
-
-function proxyUrl(url){
-  return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url);
-}
-
-function parseRSS(xmlText, sourceName){
-  const parser = new DOMParser();
-  const xml = parser.parseFromString(xmlText, "application/xml");
-  const items = [...xml.querySelectorAll("item")].slice(0,3);
-
-  return items.map(item => ({
-    title: item.querySelector("title")?.textContent?.trim() || "Untitled",
-    link: item.querySelector("link")?.textContent?.trim() || "#",
-    pubDate: item.querySelector("pubDate")?.textContent?.trim() || "",
-    source: sourceName
-  }));
 }
 
 async function loadNews(){
-  const all = [];
+  try{
+    const data = await getJSON("data/news.json");
+    const items = data.items || [];
 
-  for(const feed of RSS_FEEDS){
-    try{
-      const res = await fetch(proxyUrl(feed.url), {cache:"no-store"});
-      if(!res.ok) continue;
-      const text = await res.text();
-      all.push(...parseRSS(text, feed.name));
-    }catch(e){}
-  }
+    document.getElementById("newsList").innerHTML = items.slice(0,5).map((n,i)=>`
+      <div class="news-item">
+        <div class="thumb">${["🔐","⚠️","🌐","🧬","🛡️"][i] || "🔎"}</div>
+        <div>
+          <div class="news-title">
+            <a href="${n.link || "#"}" target="_blank" rel="noopener noreferrer">${n.title || "Untitled"}</a>
+          </div>
+          <div class="news-meta">${n.source || "RSS"} · ${n.published || "live feed"}</div>
+        </div>
+      </div>
+    `).join("");
 
-  if(all.length === 0){
+    setBadge("newsBadge","LIVE","live");
+    setBadge("newsStatus","NEWS LIVE","live");
+
+  }catch(e){
     document.getElementById("newsList").innerHTML = `
       <div class="news-item">
         <div class="thumb">⚠️</div>
         <div>
-          <div class="news-title">Live RSS news temporarily unavailable.</div>
-          <div class="news-meta">NetPulse · cached/demo mode</div>
+          <div class="news-title">News data unavailable.</div>
+          <div class="news-meta">data/news.json</div>
         </div>
       </div>
     `;
-    setBadge("newsBadge","CACHED","cached");
-    setBadge("newsStatus","NEWS CACHED","cached");
-    return;
+    setBadge("newsBadge","ERROR","demo");
+    setBadge("newsStatus","NEWS ERROR","demo");
   }
+}
 
-  all.sort((a,b)=> new Date(b.pubDate) - new Date(a.pubDate));
+async function loadRisk(){
+  try{
+    const data = await getJSON("data/risk.json");
+    document.getElementById("riskScore").textContent = data.score ?? 68;
+    document.getElementById("riskLabel").textContent = data.label || "HIGH RISK";
+    document.getElementById("riskTrend").textContent = "↗ " + (data.trend || "+8");
 
-  document.getElementById("newsList").innerHTML = all.slice(0,5).map((n,i)=>`
-    <div class="news-item">
-      <div class="thumb">${["🔐","⚠️","🌐","🧬","🛡️"][i] || "🔎"}</div>
-      <div>
-        <div class="news-title">
-          <a href="${n.link}" target="_blank" rel="noopener noreferrer">${n.title}</a>
-        </div>
-        <div class="news-meta">${n.source} · ${n.pubDate ? new Date(n.pubDate).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"}) : "live feed"}</div>
+    if(data.status === "demo"){
+      setBadge("riskBadge","DEMO","demo");
+    }else{
+      setBadge("riskBadge","LIVE","live");
+    }
+  }catch(e){}
+}
+
+async function loadIndicators(){
+  try{
+    const data = await getJSON("data/indicators.json");
+    document.getElementById("internetNoise").textContent = data.internet_noise || "7.8M";
+    document.getElementById("exposedSystems").textContent = data.exposed_systems ?? 65;
+    document.getElementById("ransomwareVictims").textContent = data.ransomware_victims ?? 136;
+  }catch(e){
+    document.getElementById("internetNoise").textContent = "7.8M";
+    document.getElementById("exposedSystems").textContent = "65";
+    document.getElementById("ransomwareVictims").textContent = "136";
+  }
+}
+
+async function loadBGP(){
+  try{
+    const data = await getJSON("data/bgp.json");
+    document.getElementById("bgpCount").textContent = data.count ?? 27;
+
+    const items = data.items || [];
+    document.getElementById("bgpRows").innerHTML = items.map(item => `
+      <div class="bgp-row">
+        <span class="${item.type && item.type.includes("Hijack") ? "red" : item.type && item.type.includes("Leak") ? "orange" : "blue"}">${item.type || "-"}</span>
+        <span>${item.asn || "-"}</span>
+        <span>${item.asn || "-"}</span>
+        <span>${item.time || "-"}</span>
       </div>
-    </div>
-  `).join("");
+    `).join("");
 
-  setBadge("newsBadge","LIVE","live");
-  setBadge("newsStatus","NEWS LIVE","live");
+  }catch(e){
+    document.getElementById("bgpCount").textContent = "27";
+  }
 }
 
 loadKEV();
 loadNews();
+loadRisk();
+loadIndicators();
+loadBGP();
 </script>
 
 </body>
 </html>
-```
