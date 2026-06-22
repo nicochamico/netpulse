@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NetPulse Methodology</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  --bg:#020b14;
+  --card:#061827;
+  --card2:#03111f;
+  --line:#123a5a;
+  --cyan:#16d9ff;
+  --green:#5dff7a;
+  --red:#ff4055;
+  --orange:#ff7a00;
+  --purple:#a94dff;
+  --text:#f3f8ff;
+  --muted:#9fb2c5;
+}
+
+body{
+  background:radial-gradient(circle at top,#061827 0,#020b14 35%,#01070d 100%);
+  color:var(--text);
+  font-family:Inter,Arial,sans-serif;
+}
+
+.wrapper{
+  width:92%;
+  max-width:1100px;
+  margin:auto;
+}
+
+header{
+  height:82px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:1px solid #0d2a42;
+}
+
+.logo{
+  font-size:30px;
+  font-weight:900;
+}
+
+.logo span{
+  display:block;
+  color:var(--muted);
+  font-size:12px;
+  font-weight:500;
+}
+
+a{
+  color:var(--cyan);
+  text-decoration:none;
+}
+
+.card{
+  background:linear-gradient(145deg,var(--card),var(--card2));
+  border:1px solid var(--line);
+  border-radius:14px;
+  box-shadow:0 0 32px rgba(0,180,255,.08);
+}
+
+.hero{
+  padding:34px;
+  margin-top:18px;
+}
+
+h1{
+  font-size:42px;
+  line-height:1.15;
+  margin-bottom:16px;
+}
+
+p{
+  color:#b7c5d4;
+  line-height:1.7;
+  font-size:15px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+  margin-top:14px;
+}
+
+.block{
+  padding:24px;
+}
+
+h2{
+  font-size:20px;
+  margin-bottom:14px;
+}
+
+ul{
+  padding-left:20px;
+  color:#b7c5d4;
+  line-height:1.8;
+  font-size:15px;
+}
+
+.badge{
+  display:inline-block;
+  padding:4px 8px;
+  border-radius:999px;
+  font-size:10px;
+  font-weight:900;
+  margin-left:8px;
+}
+
+.live{
+  background:rgba(93,255,122,.14);
+  color:var(--green);
+  border:1px solid var(--green);
+}
+
+.partial{
+  background:rgba(22,217,255,.12);
+  color:var(--cyan);
+  border:1px solid var(--cyan);
+}
+
+.pending{
+  background:rgba(255,122,0,.14);
+  color:var(--orange);
+  border:1px solid var(--orange);
+}
+
+.score{
+  display:grid;
+  gap:10px;
+  margin-top:12px;
+}
+
+.row{
+  display:grid;
+  grid-template-columns:160px 1fr 70px;
+  gap:12px;
+  align-items:center;
+  color:#dce8f5;
+  font-size:14px;
+}
+
+.bar{
+  height:10px;
+  background:#102538;
+  border-radius:999px;
+  overflow:hidden;
+}
+
+.fill{
+  height:100%;
+  border-radius:999px;
+}
+
+.red{background:var(--red)}
+.blue{background:var(--cyan)}
+.purple{background:var(--purple)}
+.orange{background:var(--orange)}
+
+.note{
+  margin-top:14px;
+  padding:16px;
+  border-left:3px solid var(--cyan);
+  background:#041322;
+  color:#b7c5d4;
+  line-height:1.6;
+  font-size:14px;
+}
+
+footer{
+  color:#7f91a3;
+  font-size:12px;
+  padding:28px 0;
+  text-align:center;
+}
+
+@media(max-width:800px){
+  .grid{grid-template-columns:1fr}
+  h1{font-size:32px}
+  .row{grid-template-columns:1fr}
+}
+</style>
+</head>
+
+<body>
+<div class="wrapper">
+
+<header>
+  <div class="logo">NETPULSE<span>Cyber Signals. Real Intelligence.</span></div>
+  <a href="index.html">← Back to dashboard</a>
+</header>
+
+<section class="card hero">
+  <h1>Risk Score Methodology</h1>
+  <p>
+    NetPulse Risk Score is a normalized cyber signal indicator designed to summarize current public risk signals from exploited vulnerabilities, exploit probability, ransomware activity and routing intelligence.
+  </p>
+
+  <div class="note">
+    Current status: <strong>partial live</strong>. The score already uses live CISA KEV, FIRST EPSS and ransomware.live data. BGP, Internet Noise and Exposure collectors are still connector pending.
+  </div>
+</section>
+
+<section class="grid">
+
+  <div class="card block">
+    <h2>Current Score Inputs <span class="badge partial">PARTIAL LIVE</span></h2>
+
+    <div class="score">
+      <div class="row">
+        <div>KEV Signal</div>
+        <div class="bar"><div class="fill red" style="width:35%"></div></div>
+        <div>35%</div>
+      </div>
+
+      <div class="row">
+        <div>EPSS Signal</div>
+        <div class="bar"><div class="fill blue" style="width:30%"></div></div>
+        <div>30%</div>
+      </div>
+
+      <div class="row">
+        <div>Ransomware</div>
+        <div class="bar"><div class="fill purple" style="width:20%"></div></div>
+        <div>20%</div>
+      </div>
+
+      <div class="row">
+        <div>BGP Signal</div>
+        <div class="bar"><div class="fill orange" style="width:15%"></div></div>
+        <div>15%</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card block">
+    <h2>Live Sources</h2>
+    <ul>
+      <li>CISA Known Exploited Vulnerabilities catalog <span class="badge live">LIVE</span></li>
+      <li>FIRST EPSS exploit prediction scores <span class="badge live">LIVE</span></li>
+      <li>Cybersecurity RSS feeds <span class="badge live">LIVE</span></li>
+      <li>ransomware.live recent victim feed <span class="badge live">LIVE</span></li>
+    </ul>
+  </div>
+
+  <div class="card block">
+    <h2>Pending Connectors</h2>
+    <ul>
+      <li>BGP Incident Analyzer connector <span class="badge pending">CONNECTOR PENDING</span></li>
+      <li>Internet Noise collector <span class="badge pending">CONNECTOR PENDING</span></li>
+      <li>Exposed Systems index <span class="badge pending">CONNECTOR PENDING</span></li>
+    </ul>
+  </div>
+
+  <div class="card block">
+    <h2>Interpretation</h2>
+    <ul>
+      <li><strong>0–39:</strong> Low risk signal</li>
+      <li><strong>40–69:</strong> Medium risk signal</li>
+      <li><strong>70–100:</strong> High risk signal</li>
+    </ul>
+
+    <div class="note">
+      The score is not a prediction of breach probability. It is a public cyber signal index for prioritization and situational awareness.
+    </div>
+  </div>
+
+</section>
+
+<footer>
+  © 2026 NetPulse.org · Methodology page · Public cyber intelligence dashboard
+</footer>
+
+</div>
+</body>
+</html>
