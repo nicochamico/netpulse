@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-23T14:55:31.233469+00:00",
+  "last_success": "2026-06-23T17:20:03.964314+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-06-23T16:01:14.683026+00:00",
+      "claim_url": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion/cloudquantum",
+      "country": "",
+      "data_size": null,
+      "description": "cloudquantum.co - software company that builds and delivers software solutions and products, such as an app for organizing activities and tools for automatically processing information from documents and media - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+      "discovered": "2026-06-23T16:01:37.312347+00:00",
+      "domain": "",
+      "group": "nova",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/21e1dacea500aaf04f534bce830a3cea.png",
+      "url": "https://www.ransomware.live/id/Y2xvdWRxdWFudHVtQG5vdmE=",
+      "victim": "cloudquantum"
+    },
     {
       "activity": "Consumer Services",
       "attackdate": "2026-06-23T13:20:27.482816+00:00",
@@ -356,23 +373,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2Jhc3NvY2lhdGlvbnNASWNhcnVz",
       "victim": "Cbassociations"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-06-22T20:50:12.862355+00:00",
-      "claim_url": "",
-      "country": "IN",
-      "data_size": null,
-      "description": "EON Meditech specializes in innovative medical technology solutions aimed at enhancing patient care and improving healthcare outcomes. Their product offerings include advanced medical devices and software solutions tailored for healthcare providers. The company primarily serves hospitals, clinics, and healthcare professionals looking for cutting-edge technology to streamline operations and enhance patient experiences. EON Meditech is committed to driving advancements in the medical field through research and development.",
-      "discovered": "2026-06-22T20:50:15.598300+00:00",
-      "domain": "www.eonmeditech.com",
-      "group": "cmdorganization",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RU9OIE1lZGl0ZWNoIFB2dEBjbWRvcmdhbml6YXRpb24=",
-      "victim": "EON Meditech Pvt"
     }
   ]
 }

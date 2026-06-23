@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-23T14:55:31.233469+00:00",
+  "last_success": "2026-06-23T17:20:03.964314+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "published": "Tue, 23 Jun 2026 20:46:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "published": "Tue, 23 Jun 2026 20:46:40 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -28,16 +40,10 @@
       "published": "Tue, 23 Jun 2026 11:08:40 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "published": "Tue, 23 Jun 2026 09:26:58 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "published": "Mon, 22 Jun 2026 23:30:48 +0530"
+      "source": "BleepingComputer",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "published": "Tue, 23 Jun 2026 11:31:59 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
       "published": "Mon, 22 Jun 2026 17:52:18 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "published": "Mon, 22 Jun 2026 17:05:01 -0400"
     }
   ]
 }
