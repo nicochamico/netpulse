@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-23T20:10:04.050619+00:00",
+  "last_success": "2026-06-23T22:16:55.108684+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-06-23T20:23:36.381706+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=81f498aa-ec4a-446c-895b-68848e8f843a",
+      "country": "SG",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-06-23T20:23:54.103972+00:00",
+      "domain": "www.leeinternational.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/123e51bc0a370afb5b624fc16b48214f.png",
+      "url": "https://www.ransomware.live/id/TGVlIEludGVybmF0aW9uYWxAcWlsaW4=",
+      "victim": "Lee International"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-06-23T19:52:34.512331+00:00",
@@ -356,23 +373,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SERTIChIZHNjb3JwKUBJY2FydXM=",
       "victim": "HDS (Hdscorp)"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-06-22T21:21:13.260787+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Salesforce data for this corp.\n\nData stolen: SF data - compressed",
-      "discovered": "2026-06-22T21:21:16.000368+00:00",
-      "domain": "",
-      "group": "Icarus",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/R21zLW5ldEBJY2FydXM=",
-      "victim": "Gms-net"
     }
   ]
 }
