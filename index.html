@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -292,7 +293,7 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
   </a>
 
   <a class="card kpi" href="#bgp">
-    <div class="kpi-top"><span>BGP WATCHLIST <span class="badge pending">CONNECTOR PENDING</span><br>(PREFIXES)</span><span class="icon green">⛓</span></div>
+    <div class="kpi-top"><span>BGP WATCHLIST <span id="bgpKpiBadge" class="badge pending">CONNECTOR PENDING</span><br>(PREFIXES)</span><span class="icon green">⛓</span></div>
     <div class="kpi-value green" id="bgpCount">--</div>
     <div class="delta green">watchlist configured</div>
     <div class="mini-line green"></div>
@@ -360,9 +361,9 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
   </div>
 
   <div class="card panel" id="bgp">
-    <h3>BGP WATCH - LAST 24 HOURS <span class="badge pending">CONNECTOR PENDING</span></h3>
+    <h3>BGP WATCH - LAST 24 HOURS <span id="bgpPanelBadge" class="badge pending">CONNECTOR PENDING</span></h3>
 
-    <div class="mapbox">BGP WATCHLIST CONFIGURED</div>
+    <div class="mapbox" id="bgpMap">BGP WATCHLIST CONFIGURED</div>
 
     <div class="bgp-row"><b>Event</b><b>Prefix</b><b>Origin ASN</b><b>Name</b><b>Status</b></div>
     <div id="bgpRows">
@@ -408,7 +409,7 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
       <div class="source-note">Recent public ransomware victim reports.</div>
     </div>
     <div class="source-item">
-      <div class="source-name">NetPulse BGP <span class="badge pending">WATCHLIST READY</span></div>
+      <div class="source-name">NetPulse BGP <span id="bgpSourceBadge" class="badge pending">WATCHLIST READY</span></div>
       <div class="source-note">Watchlist configured. Live routing connector pending.</div>
     </div>
   </div>
@@ -441,6 +442,15 @@ async function getJSON(path){
   const res = await fetch(path + "?v=" + Date.now(), {cache:"no-store"});
   if(!res.ok) throw new Error(path + " unavailable");
   return await res.json();
+}
+
+function esc(value){
+  return String(value ?? "-")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 function vendorProduct(v){
@@ -533,21 +543,32 @@ async function loadNews(){
 
 async function loadRisk(){
   try{
-    const data = await getJSON("data/risk.json");
-    document.getElementById("riskScore").textContent = data.score ?? "N/A";
-    document.getElementById("riskLabel").textContent = data.label || "UNAVAILABLE";
+    let data;
+
+    try{
+      data = await getJSON("data/score.json");
+    }catch(_){
+      data = await getJSON("data/risk.json");
+    }
+
+    const score = data.score ?? "N/A";
+    const band = data.band || data.label || "unavailable";
+
+    document.getElementById("riskScore").textContent = score;
+    document.getElementById("riskLabel").textContent = String(band).toUpperCase() + " RISK";
     document.getElementById("riskTrend").textContent = "↗ " + (data.trend || "0");
 
-    if(data.status === "partial_live"){
-      setBadge("riskBadge","LIVE CORE","partial");
-    }else if(data.status === "fresh"){
+    if(data.status === "live" || data.status === "fresh"){
       setBadge("riskBadge","LIVE","live");
+    }else if(data.status === "partial_live"){
+      setBadge("riskBadge","LIVE CORE","partial");
     }else{
       setBadge("riskBadge","UNAVAILABLE","pending");
     }
   }catch(e){
     document.getElementById("riskScore").textContent = "N/A";
     document.getElementById("riskLabel").textContent = "UNAVAILABLE";
+    setBadge("riskBadge","ERROR","pending");
   }
 }
 
@@ -601,26 +622,71 @@ async function loadIndicators(){
 
 async function loadBGP(){
   try{
-    const watchlist = await getJSON("data/watchlist.json");
-    const prefixes = watchlist.prefixes || [];
+    const data = await getJSON("data/bgp.json");
+    const events = data.events || [];
 
-    document.getElementById("bgpCount").textContent = prefixes.length || "N/A";
+    document.getElementById("bgpCount").textContent = data.watchlist_size ?? events.length ?? "N/A";
 
-    document.getElementById("bgpRows").innerHTML = prefixes.map(item => `
-      <div class="bgp-row">
-        <div>Monitored Prefix</div>
-        <div>${item.prefix || "-"}</div>
-        <div>${item.legitimate_origins && item.legitimate_origins.length ? item.legitimate_origins.join(", ") : "pending"}</div>
-        <div>${item.name || "watchlist"}</div>
-        <div class="orange">Pending</div>
-      </div>
-    `).join("");
+    setBadge("bgpKpiBadge", "LIVE", "live");
+    setBadge("bgpPanelBadge", "LIVE", "live");
+    setBadge("bgpSourceBadge", "LIVE", "live");
+
+    const bgpMap = document.getElementById("bgpMap");
+    if(bgpMap){
+      bgpMap.textContent = `${data.anomalies ?? 0} BGP ANOMALIES · SIGNAL ${data.signal ?? 0}/100`;
+    }
+
+    const caption = document.querySelector(".spark-caption");
+    if(caption){
+      caption.textContent = "Calculated from live KEV, EPSS, ransomware and BGP routing feeds.";
+    }
+
+    if(data.generated_at){
+      document.getElementById("updated").textContent = fmtDate(data.generated_at);
+    }
+
+    if(!events.length){
+      document.getElementById("bgpRows").innerHTML = `
+        <div style="color:#9fb2c5;font-size:13px;line-height:1.6;margin-top:14px;">
+          No BGP events found in the current watchlist.
+        </div>
+      `;
+      return;
+    }
+
+    document.getElementById("bgpRows").innerHTML = events.map(e => {
+      const status = e.status || "OK";
+      const cls =
+        status.includes("RPKI_INVALID") || status.includes("ORIGIN_CHANGE") ? "red" :
+        status.includes("MOAS") || status.includes("WITHDRAWN") || status.includes("HIGH_CHURN") ? "orange" :
+        "green";
+
+      return `
+        <div class="bgp-row">
+          <div class="${cls}">${esc(e.event)}</div>
+          <div>${esc(e.prefix)}</div>
+          <div>AS${esc(e.origin_asn)}</div>
+          <div>${esc(e.name || e.holder || "-")}</div>
+          <div class="${cls}">${esc(status)}</div>
+        </div>
+      `;
+    }).join("");
 
   }catch(e){
     document.getElementById("bgpCount").textContent = "N/A";
+
+    setBadge("bgpKpiBadge", "ERROR", "pending");
+    setBadge("bgpPanelBadge", "ERROR", "pending");
+    setBadge("bgpSourceBadge", "ERROR", "pending");
+
+    const bgpMap = document.getElementById("bgpMap");
+    if(bgpMap){
+      bgpMap.textContent = "BGP CONNECTOR UNAVAILABLE";
+    }
+
     document.getElementById("bgpRows").innerHTML = `
       <div style="color:#9fb2c5;font-size:13px;line-height:1.6;margin-top:14px;">
-        BGP watchlist unavailable.
+        BGP connector unavailable. Check data/bgp.json.
       </div>
     `;
   }
