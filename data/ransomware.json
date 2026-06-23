@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-23T07:52:55.967007+00:00",
+  "last_success": "2026-06-23T11:20:30.457413+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Transportation/Logistics",
+      "attackdate": "2026-06-23T10:50:21.195633+00:00",
+      "claim_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=171",
+      "country": "AT",
+      "data_size": null,
+      "description": "Vienna Airport (Flughafen Wien AG) is an Austrian company, the operator of Vienna International A...",
+      "discovered": "2026-06-23T10:50:47.891497+00:00",
+      "domain": "viennaairport.com",
+      "group": "apt73",
+      "infostealer": {
+        "employees": 13,
+        "employees_url": 8,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-06-23T10:50:21",
+        "users": 193,
+        "users_url": 41
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/74d151dc9070877a43eb8ed273bed939.png",
+      "url": "https://www.ransomware.live/id/dmllbm5hYWlycG9ydC5jb21AYXB0NzM=",
+      "victim": "viennaairport.com"
+    },
+    {
+      "activity": "Transportation/Logistics",
+      "attackdate": "2026-06-23T10:01:31.563318+00:00",
+      "claim_url": "http://novadmrkp4vbk2padk5t6pbxolndceuc7hrcq4mjaoyed6nxsqiuzyyd.onion/ftl-fast-transit-line",
+      "country": "",
+      "data_size": null,
+      "description": "FTL International N.V. specializes in shipping, consolidation, forwarding, and groupage services, with a strong presence in major Northern European ports and an office in Colombo, Sri Lanka. With over 25 years of experience, they offer cost-effective port-to-port and door-to-door logistics solutions, including air freight and cargo insurance. Their services cater to a wide range of clients looking for reliable shipping options across the globe. FTL is committed to exceptional personalized attention and efficient shipment handling, embodying their motto 'Experience the Difference - Data included sales data, invoices and costumers full names and phones etc; Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+      "discovered": "2026-06-23T10:01:48.199190+00:00",
+      "domain": "",
+      "group": "nova",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/94d716da5888d7e0b41c21b3096317d5.png",
+      "url": "https://www.ransomware.live/id/RlRMLUZhc3QgVHJhbnNpdCBMaW5lQG5vdmE=",
+      "victim": "FTL-Fast Transit Line"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-06-23T05:20:44.340167+00:00",
@@ -351,40 +395,6 @@
       "screenshot": "https://images.ransomware.live/victims/fee0aaa857adfb3442bd6391dc2ab044.png",
       "url": "https://www.ransomware.live/id/QWVyb3NwYWNlICYgQWR2YW5jZWQgQ29tcG9zaXRlcyBHbWJIQGF1cm9yYQ==",
       "victim": "Aerospace & Advanced Composites GmbH"
-    },
-    {
-      "activity": "Construction",
-      "attackdate": "2026-06-22T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/ntp-bv-civil-engineering-construction-87342294",
-      "country": "NL",
-      "data_size": null,
-      "description": "[engineering] NTP B.V. (trading as NTP Infra / NTP Groep) is a Dutch civil engineering contractor headquartered in Hattem, Gelderland. They build roads, lay cables, install sewers, and perform ground works across the Netherlands. With 150–200 employees, offices in Hattem, Enschede, and Zevenaar, and a 2024/2025 acquisition of Aannemingsbedrijf Dubbink B.V., they are a typical mid-market Dutch “aannemingsbedrijf” — government contracts, municipal works, private developments.\n\nTheir file server contained everything: 10+ years of operations, every employee's personal files, the complete HR/payroll system exports, every network device configuration, every project bid, and every financial record.",
-      "discovered": "2026-06-22T09:51:37.622356+00:00",
-      "domain": "NTP B.V. Civil Engineering Construction",
-      "group": "aurora",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7d3c8fe203f965c8d255b2bbfa5f876d.png",
-      "url": "https://www.ransomware.live/id/TlRQIEIuVi4gQ2l2aWwgRW5naW5lZXJpbmcgQ29uc3RydWN0aW9uQGF1cm9yYQ==",
-      "victim": "NTP B.V. Civil Engineering Construction"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-06-22T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/kochs-gmbh-5d95e438",
-      "country": "DE",
-      "data_size": null,
-      "description": "[manufacturer] *** — a family-owned German manufacturer of windows, doors, and aluminium façade systems headquartered in Herzogenrath, Nordrhein-Westfalen, with ~240 employees across Germany, the Netherlands, and Hungary.\nThe exposed material includes:\n\n22 GB of payroll database backups (7 MSSQL .bak files, 2016–2023) — every employee's salary, bank IBAN, tax class, social insurance number, pension contributions, and wage garnishments.\n2.3 GB of DATEV payroll records (through May 2026) — individual named salary documents, garnishment data, company car records for all three entities.\n7 Active Directory passwords in plaintext batch scripts — including both Managing Directors, with one MD's credentials spanning three separate AD domains.\n28+ proprietary application source code repositories — WinPro ERP, Apertum CRM, MES integrations, production viewers, time-tracking, and rack-management systems. Each one hardcodes its database credentials.\nSSL/TLS private keys for kochs.de (2021–2026) — enabling domain impersonation and man-in-the-middle attacks.\n77 VPN pre-shared keys from the LANCOM gateway configuration — the complete remote-access roster since 2018.\nManaging Director's MRI and X-ray scans — brain and spine medical imaging, GDPR Art. 9 special category health data.\n16 named employee disciplinary records, 11 driver's license scans, attorney-client privileged litigation files from two active employment lawsuits.\nComplete financial records — 2024 annual accounts, P&L, balance sheets, SFirm banking database, Syska ProFI general ledger, cost accounting through December 2024.",
-      "discovered": "2026-06-22T09:50:57.145437+00:00",
-      "domain": "Kochs GmbH",
-      "group": "aurora",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6e945a97470a1abced58bf8e5d733b82.png",
-      "url": "https://www.ransomware.live/id/S29jaHMgR21iSEBhdXJvcmE=",
-      "victim": "Kochs GmbH"
     }
   ]
 }
