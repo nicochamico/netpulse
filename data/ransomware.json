@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-23T17:20:03.964314+00:00",
+  "last_success": "2026-06-23T20:10:04.050619+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-06-23T19:52:34.512331+00:00",
+      "claim_url": "",
+      "country": "MM",
+      "data_size": null,
+      "description": "Everything for the main platform is there. Full dump and PII data's. If AYA Bank dont contact us or pay the ransom we will start sale",
+      "discovered": "2026-06-23T19:52:36.310851+00:00",
+      "domain": "",
+      "group": "lapsus$",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QVlBIEJBTktAbGFwc3VzJA==",
+      "victim": "AYA BANK"
+    },
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-06-23T19:20:21.715383+00:00",
+      "claim_url": "",
+      "country": "GB",
+      "data_size": null,
+      "description": "Coldstat Refrigeration offers a full range of industry-proven refrigeration services. From large restaurant chains to individual stores and cafes—Coldstat is ready to meet all your needs. The company’s qualified staff will help you determine the best solution based on your individual needs. Coldstat’s refrigeration services include: sales of commercial refrigeration equipment, installation, maintenance and repair, layout planning, custom system design, and removal of old equipment.Translated with DeepL.com (free version)",
+      "discovered": "2026-06-23T19:20:24.570382+00:00",
+      "domain": "www.coldstat.com",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Q29sZHN0YXQgUmVmcmlnZXJhdGlvbkBjbWRvcmdhbml6YXRpb24=",
+      "victim": "Coldstat Refrigeration"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-06-23T16:01:14.683026+00:00",
@@ -339,40 +373,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/R21zLW5ldEBJY2FydXM=",
       "victim": "Gms-net"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-06-22T21:20:52.505244+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Salesforce data for Cqcrm\n\nData stolen: SF data - compressed",
-      "discovered": "2026-06-22T21:20:55.241001+00:00",
-      "domain": "",
-      "group": "Icarus",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q3Fjcm1ASWNhcnVz",
-      "victim": "Cqcrm"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-06-22T21:20:27.979689+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Salesforce data for this corp.\n\nData stolen: SF data. Compressed size.",
-      "discovered": "2026-06-22T21:20:34.415723+00:00",
-      "domain": "",
-      "group": "Icarus",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2Jhc3NvY2lhdGlvbnNASWNhcnVz",
-      "victim": "Cbassociations"
     }
   ]
 }

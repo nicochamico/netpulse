@@ -1,9 +1,78 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-06-23T17:20:03.964314+00:00",
-  "count": 1623,
+  "last_success": "2026-06-23T20:10:04.050619+00:00",
+  "count": 1627,
   "items": [
+    {
+      "cveID": "CVE-2025-67038",
+      "vendorProject": "Lantronix",
+      "product": "EDS5000",
+      "vulnerabilityName": "Lantronix EDS5000 Code Injection Vulnerability",
+      "dateAdded": "2026-06-23",
+      "shortDescription": "Lantronix EDS5000 contains a code injection vulnerability that could allow attackers to inject arbitrary OS commands into the username parameter. Injected commands are executed with root privileges.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-06-26",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://ltrxdev.atlassian.net/wiki/spaces/LTRXTS/pages/2538438657/Latest+Firmware+for+the+EDS5000+series+EDS5008+EDS5016+EDS5032 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2025-67038",
+      "cwes": [
+        "CWE-78",
+        "CWE-94"
+      ],
+      "epss": 0.00469,
+      "epss_percentile": 0.36913
+    },
+    {
+      "cveID": "CVE-2026-34910",
+      "vendorProject": "Ubiquiti",
+      "product": "UniFi OS",
+      "vulnerabilityName": "Ubiquiti UniFi OS Improper Input Validation Vulnerability",
+      "dateAdded": "2026-06-23",
+      "shortDescription": "Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-06-26",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-34910",
+      "cwes": [
+        "CWE-20"
+      ],
+      "epss": 0.33615,
+      "epss_percentile": 0.98163
+    },
+    {
+      "cveID": "CVE-2026-34909",
+      "vendorProject": "Ubiquiti",
+      "product": "UniFi OS",
+      "vulnerabilityName": "Ubiquiti UniFi OS Path Traversal Vulnerability",
+      "dateAdded": "2026-06-23",
+      "shortDescription": "Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-06-26",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-34909",
+      "cwes": [
+        "CWE-22"
+      ],
+      "epss": 0.00895,
+      "epss_percentile": 0.54838
+    },
+    {
+      "cveID": "CVE-2026-34908",
+      "vendorProject": "Ubiquiti",
+      "product": "UniFi OS",
+      "vulnerabilityName": "Ubiquiti UniFi OS Improper Access Control Vulnerability",
+      "dateAdded": "2026-06-23",
+      "shortDescription": "Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-06-26",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-34908",
+      "cwes": [
+        "CWE-284"
+      ],
+      "epss": 0.0086,
+      "epss_percentile": 0.53745
+    },
     {
       "cveID": "CVE-2026-20253",
       "vendorProject": "Splunk",
@@ -105,76 +174,6 @@
       ],
       "epss": 0.98937,
       "epss_percentile": 0.99922
-    },
-    {
-      "cveID": "CVE-2026-11645",
-      "vendorProject": "Google",
-      "product": "Chromium V8",
-      "vulnerabilityName": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
-      "dateAdded": "2026-06-09",
-      "shortDescription": "Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-      "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-      "dueDate": "2026-06-23",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0153744567.html ; https://issues.chromium.org/issues/506689381 ; https://nvd.nist.gov/vuln/detail/CVE-2026-11645",
-      "cwes": [
-        "CWE-787",
-        "CWE-125"
-      ],
-      "epss": 0.01654,
-      "epss_percentile": 0.73511
-    },
-    {
-      "cveID": "CVE-2026-7473",
-      "vendorProject": "Arista",
-      "product": "Extensible Operating System",
-      "vulnerabilityName": "Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability",
-      "dateAdded": "2026-06-09",
-      "shortDescription": "Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP.",
-      "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-      "dueDate": "2026-06-23",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24005-security-advisory-0137 ; https://nvd.nist.gov/vuln/detail/CVE-2026-7473",
-      "cwes": [
-        "CWE-1023"
-      ],
-      "epss": 0.00836,
-      "epss_percentile": 0.52954
-    },
-    {
-      "cveID": "CVE-2026-20245",
-      "vendorProject": "Cisco",
-      "product": "Catalyst SD-WAN Manager",
-      "vulnerabilityName": "Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability",
-      "dateAdded": "2026-06-09",
-      "shortDescription": "Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system.",
-      "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-      "dueDate": "2026-06-23",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-privesc-4uxFrdzx ; https://nvd.nist.gov/vuln/detail/CVE-2026-20245",
-      "cwes": [
-        "CWE-116"
-      ],
-      "epss": 0.09922,
-      "epss_percentile": 0.94974
-    },
-    {
-      "cveID": "CVE-2026-42271",
-      "vendorProject": "BerriAI",
-      "product": "LiteLLM",
-      "vulnerabilityName": "BerriAI LiteLLM Command Injection Vulnerability",
-      "dateAdded": "2026-06-08",
-      "shortDescription": "BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host.",
-      "requiredAction": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
-      "dueDate": "2026-06-22",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "This vulnerability affects a common open-source component, third-party library, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https://github.com/BerriAI/litellm/security/advisories/GHSA-v4p8-mg3p-g94g ; https://github.com/BerriAI/litellm/releases/tag/v1.83.7-stable ; https://nvd.nist.gov/vuln/detail/CVE-2026-42271",
-      "cwes": [
-        "CWE-78",
-        "CWE-77"
-      ],
-      "epss": 0.74993,
-      "epss_percentile": 0.99442
     }
   ]
 }
