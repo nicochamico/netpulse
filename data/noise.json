@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-06-23T23:57:23.009427+00:00",
+  "sources": [
+    "abuse.ch Feodo Tracker",
+    "GreyNoise Community (optional)"
+  ],
+  "active_c2_ips": 5,
+  "by_malware": [
+    {
+      "malware": "QakBot",
+      "count": 4
+    },
+    {
+      "malware": "Emotet",
+      "count": 1
+    }
+  ],
+  "watchlist_hits": [],
+  "greynoise": [
+    {
+      "ip": "185.220.101.1",
+      "noise": true,
+      "riot": false,
+      "classification": "malicious",
+      "name": "unknown",
+      "last_seen": "2026-06-23"
+    }
+  ],
+  "signal": 5
+}
