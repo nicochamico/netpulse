@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-06-23T03:51:40.679459+00:00",
+  "last_success": "2026-06-23T07:52:55.967007+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-06-23T05:20:44.340167+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/z2GHGsNi1FlBYEXDYy5wwYjDlAkyGVUg",
+      "country": "",
+      "data_size": null,
+      "description": "Randa Apparel & Accessories is a global powerhouse and one of the world's leading apparel and lifestyle accessories companies, headquartered in New York City at 417 Fifth Avenue, 11th Floor. Founded in 1910, with the founder's family having been in the neckwear business since that time and the curre…",
+      "discovered": "2026-06-23T05:20:58.867277+00:00",
+      "domain": "www.randa.net",
+      "group": "chaos",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/491608e1fdd69c3619ffc7c6b7d3c0d8.png",
+      "url": "https://www.ransomware.live/id/cmFuZGEubmV0QGNoYW9z",
+      "victim": "randa.net"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-06-23T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/corporacin-primax-sa-9fd84393",
+      "country": "PE",
+      "data_size": null,
+      "description": "[distribution, fuel] ***.A. is Peru's largest fuel distribution company, operating 2,185+ stations across Peru, Ecuador, Colombia, and Uruguay with annualised revenue of approximately USD 3.4 billion (Peru alone).\n\nThe dataset spans every function of the business:\n\nComplete financial reporting — Monthly P&L, balance sheet, cash flow, and EBITDA through May 2025. GRIO (Grupo Romero Investment Office) management reporting packages. Budget 2025 vs. actuals.\nEmployee identity data for 15,000–60,000 individuals — DNI national ID numbers, bank accounts, salary amounts, pension fund details, scanned identity documents.\nLive system credentials — Plaintext SQL database passwords, banking SFTP credentials (Banco Bolivariano Ecuador), AD encryption master key, OSINERGMIN fuel-control system credentials.\nComplete OT network map — IP addresses and identifiers for 137 fuel stations on the internal 10.55.40.x network, plus JD Edwards ERP production servers.\n54 GB of POS transaction data — XML records of consumer fuel purchases across the entire station network.\nLegal and M&A documentation — Arbitration case files (PUCP/AMCHAM), UNO Corp acquisition materials (Dec 2025), bank covenant waivers.",
+      "discovered": "2026-06-23T06:21:35.978085+00:00",
+      "domain": "Corporación Primax S.A.",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2a2601548ed59272a55b6b7e16ae2a74.png",
+      "url": "https://www.ransomware.live/id/Q29ycG9yYWNpw7NuIFByaW1heCBTLkEuQGF1cm9yYQ==",
+      "victim": "Corporación Primax S.A."
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-06-22T22:55:36.751000+00:00",
@@ -351,40 +385,6 @@
       "screenshot": "https://images.ransomware.live/victims/6e945a97470a1abced58bf8e5d733b82.png",
       "url": "https://www.ransomware.live/id/S29jaHMgR21iSEBhdXJvcmE=",
       "victim": "Kochs GmbH"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-06-22T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/nationsbuilders-insurance-services-ce70e554",
-      "country": "",
-      "data_size": null,
-      "description": "[insurance] *** (NBIS) is the premier US underwriter of crane & rigging, concrete-pumping, heavy-haul, and residential-builder insurance — a specialty managing general underwriter founded in Atlanta in 2001, acquired by Align Financial / DUAL North America (Howden Group) in August 2021. 2,748,845 filetree entries across 24 shares (AIM, IMAGERIGHT, the claims and policy-admin stores, HR, finance, IT, and a decade of M&A diligence rooms).",
-      "discovered": "2026-06-22T09:22:20.112884+00:00",
-      "domain": "NationsBuilders Insurance Services",
-      "group": "aurora",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/014b329653e4cfbfc7435d7a942af813.png",
-      "url": "https://www.ransomware.live/id/TmF0aW9uc0J1aWxkZXJzIEluc3VyYW5jZSBTZXJ2aWNlc0BhdXJvcmE=",
-      "victim": "NationsBuilders Insurance Services"
-    },
-    {
-      "activity": "Telecommunication",
-      "attackdate": "2026-06-21T18:03:52.309932+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7c929c34-bd54-46a7-ae1a-8b195d3bf091",
-      "country": "TH",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-06-21T18:04:09.141153+00:00",
-      "domain": "www.sivatelbangkok.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/fc63b03123b9e08512db021999d4753e.png",
-      "url": "https://www.ransomware.live/id/U2l2YXRlbCBCYW5na29rQHFpbGlu",
-      "victim": "Sivatel Bangkok"
     }
   ]
 }

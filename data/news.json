@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-23T03:51:40.679459+00:00",
+  "last_success": "2026-06-23T07:52:55.967007+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "published": "Tue, 23 Jun 2026 11:08:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+      "published": "Tue, 23 Jun 2026 09:26:58 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
@@ -26,18 +38,6 @@
       "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
       "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
       "published": "Mon, 22 Jun 2026 18:50:12 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "published": "Mon, 22 Jun 2026 18:15:08 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "published": "Mon, 22 Jun 2026 17:28:00 +0530"
     },
     {
       "source": "BleepingComputer",
