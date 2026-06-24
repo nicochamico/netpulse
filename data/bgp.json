@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-06-24T00:29:50.606521+00:00",
+  "generated_at": "2026-06-24T00:43:15.127989+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 2,
-  "signal": 50,
+  "anomalies": 0,
+  "churn_events": 0,
+  "signal": 0,
   "events": [
     {
-      "event": "HIGH_CHURN",
+      "event": "OK",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
       "origins_seen": [
@@ -14,18 +15,20 @@
       ],
       "name": "Cloudflare",
       "holder": "CLOUDFLARENET - Cloudflare, Inc.",
-      "status": "HIGH_CHURN",
+      "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 824,
+        "announcements": 814,
         "withdrawals": 5
       },
+      "updates_per_peer": 2.2,
       "peers_visible": 372,
-      "severity": 10,
-      "ts": "2026-06-24T00:29:50.606479+00:00"
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-06-24T00:43:15.127942+00:00"
     },
     {
-      "event": "HIGH_CHURN",
+      "event": "OK",
       "prefix": "8.8.8.0/24",
       "origin_asn": 15169,
       "origins_seen": [
@@ -33,15 +36,17 @@
       ],
       "name": "Google DNS",
       "holder": "GOOGLE - Google LLC",
-      "status": "HIGH_CHURN",
+      "status": "OK",
       "rpki": "valid",
       "updates_24h": {
         "announcements": 176,
         "withdrawals": 23
       },
+      "updates_per_peer": 0.53,
       "peers_visible": 373,
-      "severity": 10,
-      "ts": "2026-06-24T00:29:46.338854+00:00"
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-06-24T00:43:10.710916+00:00"
     }
   ]
 }
