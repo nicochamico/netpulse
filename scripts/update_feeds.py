@@ -237,7 +237,7 @@ def update_bgp():
         "note": "BGP connector pending. Connect this to the NetPulse/BGP Incident Analyzer pipeline."
     }
 
-    save_json(f"{DATA_DIR}/bgp.json", output)
+   # save_json(f"{DATA_DIR}/bgp.json", output)
 
 
 def update_indicators():
