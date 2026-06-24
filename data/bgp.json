@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-06-23T23:57:21.845804+00:00",
-  "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
-  "watchlist_size": 2,
-  "anomalies": 2,
-  "signal": 50,
-  "events": [
-    {
-      "event": "HIGH_CHURN",
-      "prefix": "1.1.1.0/24",
-      "origin_asn": 13335,
-      "origins_seen": [
-        13335
-      ],
-      "name": "Cloudflare",
-      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
-      "status": "HIGH_CHURN",
-      "rpki": "valid",
-      "updates_24h": {
-        "announcements": 767,
-        "withdrawals": 5
-      },
-      "peers_visible": 370,
-      "severity": 10,
-      "ts": "2026-06-23T23:57:21.845750+00:00"
-    },
-    {
-      "event": "HIGH_CHURN",
-      "prefix": "8.8.8.0/24",
-      "origin_asn": 15169,
-      "origins_seen": [
-        15169
-      ],
-      "name": "Google DNS",
-      "holder": "GOOGLE - Google LLC",
-      "status": "HIGH_CHURN",
-      "rpki": "valid",
-      "updates_24h": {
-        "announcements": 167,
-        "withdrawals": 20
-      },
-      "peers_visible": 371,
-      "severity": 10,
-      "ts": "2026-06-23T23:57:16.205868+00:00"
-    }
-  ]
+  "source": "NetPulse BGP connector",
+  "status": "unavailable",
+  "last_success": null,
+  "count": null,
+  "items": [],
+  "note": "BGP connector pending. Connect this to the NetPulse/BGP Incident Analyzer pipeline."
 }
