@@ -659,6 +659,18 @@ async function loadNoise(){
     document.getElementById("noiseRows").innerHTML = "Internet noise connector unavailable. Check data/noise.json.";
   }
 }
+async function loadExposure(){
+  try{
+    const data = await getJSON("data/exposure.json");
+
+    document.getElementById("exposedSystems").textContent = data.signal ?? "N/A";
+    setBadge("exposureKpiBadge", "LIVE", "live");
+
+  }catch(e){
+    document.getElementById("exposedSystems").textContent = "N/A";
+    setBadge("exposureKpiBadge", "ERROR", "pending");
+  }
+}
 async function loadBGP(){
   try{
     const data = await getJSON("data/bgp.json");
@@ -735,8 +747,9 @@ loadKEV();
 loadNews();
 loadRisk();
 loadRansomware();
-//loadIndicators();
+// loadIndicators();
 loadNoise();
+loadExposure();
 loadBGP();
 </script>
 
