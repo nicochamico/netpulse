@@ -684,7 +684,7 @@ async function loadBGP(){
 
     const bgpMap = document.getElementById("bgpMap");
     if(bgpMap){
-      bgpMap.textContent = `${data.anomalies ?? 0} BGP ANOMALIES · SIGNAL ${data.signal ?? 0}/100`;
+      bgpMap.textContent = `${data.anomalies ?? 0} SECURITY ANOMALIES · ${data.watchlist_size ?? events.length ?? 0} PREFIXES HEALTHY · SIGNAL ${data.signal ?? 0}/100`;
     }
 
     const caption = document.querySelector(".spark-caption");
