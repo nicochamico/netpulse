@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-NetPulse - BGP connector
-=========================
+NetPulse - BGP connector  (v2)
+==============================
 Genera data/bgp.json a partir de la API publica de RIPEstat (sin API key).
 
 Para cada prefijo de la watchlist evalua, en tiempo (casi) real:
@@ -10,12 +10,16 @@ Para cada prefijo de la watchlist evalua, en tiempo (casi) real:
   - ORIGIN_CHANGE   -> origen visto != expected_origin de la watchlist
   - RPKI_INVALID    -> validacion RPKI del par (origen, prefijo)
   - WITHDRAWN       -> el prefijo no es visible por ningun peer
-  - Churn 24h       -> nro de announcements/withdrawals (bgp-updates)
+  - HIGH_CHURN      -> inestabilidad NORMALIZADA por peer (informativo)
 
-Salida normalizada lista para el front (tabla BGP WATCH) + un 'signal' 0-100
-que el Risk Score puede consumir como el 15% pendiente.
+Cambios v2:
+  * Churn medido por peer visible (updates/peer/24h y withdrawal ratio),
+    no como conteo absoluto -> elimina falsos positivos en prefijos anycast.
+  * HIGH_CHURN es informativo: NO cuenta como anomalia de seguridad ni
+    infla el 'signal'. El signal sale solo de MOAS/ORIGIN_CHANGE/RPKI/WITHDRAWN.
 
-Sin dependencias externas: solo stdlib (urllib).
+Salida normalizada para el front (tabla BGP WATCH) + 'signal' 0-100 para el
+Risk Score (15%). Sin dependencias externas: solo stdlib.
 """
 
 import json
@@ -35,6 +39,21 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 WATCHLIST = os.path.join(HERE, "watchlist.json")
 OUT = os.path.join(HERE, "..", "data", "bgp.json")
 
+# Anomalias de SEGURIDAD (alimentan el signal)
+SEC_SEV = {
+    "ORIGIN_CHANGE": 35,   # posible hijack
+    "RPKI_INVALID": 30,
+    "MOAS": 25,
+    "WITHDRAWN": 20,
+}
+# Informativo (visible en la tabla, NO infla el score)
+INFO_SEV = {"HIGH_CHURN": 5}
+
+# Umbrales de churn normalizado
+CHURN_UPP = 10.0          # updates por peer / 24h
+CHURN_WD_RATIO = 0.5      # withdrawals / peers visibles (flap real)
+HIGH_CHURN_ABS_GUARD = 0  # 0 = sin guarda absoluta; subir si quieres piso minimo
+
 
 def ripestat(endpoint, **params):
     """GET tipado a RIPEstat. Devuelve el dict 'data' o None si falla."""
@@ -51,7 +70,7 @@ def ripestat(endpoint, **params):
 
 
 def seen_origins(prefix):
-    """Origenes distintos vistos por los route collectors + visibilidad."""
+    """Origenes distintos vistos por los route collectors + nro de peers."""
     data = ripestat("looking-glass", resource=prefix)
     origins, peers_total = set(), 0
     if not data:
@@ -97,16 +116,6 @@ def churn_24h(prefix):
     return a, w
 
 
-# Pesos del signal BGP (transparentes, alineados con tu metodologia)
-SEV = {
-    "ORIGIN_CHANGE": 35,
-    "RPKI_INVALID": 30,
-    "MOAS": 25,
-    "WITHDRAWN": 20,
-    "HIGH_CHURN": 10,
-}
-
-
 def evaluate(entry):
     prefix = entry["prefix"]
     expected = int(entry["expected_origin"])
@@ -120,6 +129,7 @@ def evaluate(entry):
 
     statuses = []
     primary_origin = expected
+    rpki = "n/a"
     if origins:
         # origen "principal" = el mas plausible (expected si esta presente)
         primary_origin = expected if expected in origins else sorted(origins)[0]
@@ -135,14 +145,25 @@ def evaluate(entry):
         time.sleep(SLEEP_BETWEEN)
         if rpki == "invalid":
             statuses.append("RPKI_INVALID")
-    if (ann + wd) >= 50:
+
+    # churn NORMALIZADO por peer visible (no conteo absoluto)
+    upp = (ann + wd) / peers if peers else 0          # updates/peer/24h
+    wd_ratio = wd / peers if peers else 0             # withdrawals = flap real
+    high_churn = (
+        peers > 0
+        and (upp >= CHURN_UPP or wd_ratio >= CHURN_WD_RATIO)
+        and (ann + wd) >= HIGH_CHURN_ABS_GUARD
+    )
+    if high_churn:
         statuses.append("HIGH_CHURN")
 
-    score = max((SEV[s] for s in statuses), default=0)
+    # severidad = solo anomalias de SEGURIDAD
+    sec = [s for s in statuses if s in SEC_SEV]
+    score = max((SEC_SEV[s] for s in sec), default=0)
     if not statuses:
         statuses = ["OK"]
 
-    holder = as_holder(primary_origin)
+    holder = as_holder(primary_origin) if origins else f"AS{expected}"
     time.sleep(SLEEP_BETWEEN)
 
     return {
@@ -153,10 +174,12 @@ def evaluate(entry):
         "name": name or holder,
         "holder": holder,
         "status": "+".join(statuses),
-        "rpki": rpki_status(primary_origin, prefix) if origins else "n/a",
+        "rpki": rpki,
         "updates_24h": {"announcements": ann, "withdrawals": wd},
+        "updates_per_peer": round(upp, 2),
         "peers_visible": peers,
-        "severity": score,
+        "is_security_anomaly": bool(sec),
+        "severity": score,                 # severidad de SEGURIDAD (0 si sana)
         "ts": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -166,7 +189,7 @@ def main():
         cfg = json.load(f)
     entries = cfg.get("bgp", [])
 
-    events, anomalies = [], 0
+    events = []
     for entry in entries:
         try:
             ev = evaluate(entry)
@@ -174,13 +197,16 @@ def main():
             print(f"  [error] {entry.get('prefix')}: {e}", file=sys.stderr)
             continue
         events.append(ev)
-        if ev["status"] != "OK":
-            anomalies += 1
 
-    # signal 0-100: combinacion de severidad max + densidad de anomalias
+    # signal 0-100: SOLO anomalias de seguridad
+    sec_events = [e for e in events if e["severity"] > 0]
+    anomalies = len(sec_events)                       # HIGH_CHURN no cuenta
     max_sev = max((e["severity"] for e in events), default=0)
-    density = (anomalies / len(events) * 40) if events else 0
+    density = min(30, (anomalies / len(events) * 30)) if events else 0
     signal = min(100, round(max_sev + density))
+
+    # churn informativo aparte (visibilidad, no afecta el score)
+    churn_events = sum(1 for e in events if "HIGH_CHURN" in e["status"])
 
     events.sort(key=lambda e: (-e["severity"], e["prefix"]))
 
@@ -188,15 +214,17 @@ def main():
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
         "watchlist_size": len(entries),
-        "anomalies": anomalies,
-        "signal": signal,                 # <-- consumido por el Risk Score (15%)
+        "anomalies": anomalies,            # solo seguridad
+        "churn_events": churn_events,      # informativo
+        "signal": signal,                  # <-- consumido por el Risk Score (15%)
         "events": events,
     }
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, indent=2, ensure_ascii=False)
-    print(f"[ok] {len(events)} prefijos, {anomalies} anomalias, signal={signal} -> {OUT}")
+    print(f"[ok] {len(events)} prefijos | anomalias_seg={anomalies} "
+          f"churn={churn_events} signal={signal} -> {OUT}")
 
 
 if __name__ == "__main__":
