@@ -285,7 +285,7 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
   </a>
 
   <a class="card kpi" href="#noise">
-    <div class="kpi-top"><span>INTERNET NOISE <span class="badge pending">CONNECTOR PENDING</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
+    <div class="kpi-top"><span>INTERNET NOISE <span id="noiseKpiBadge" class="badge pending">CONNECTOR PENDING</span><br>(SCANS)</span><span class="icon orange">◎</span></div>
     <div class="kpi-value orange" id="internetNoise">N/A</div>
     <div class="delta orange">profile configured</div>
     <div class="mini-line orange"></div>
@@ -353,7 +353,7 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
     </div>
 
     <div class="card panel" id="noise" style="margin-top:12px;min-height:180px;">
-      <h3>INTERNET NOISE <span class="badge pending">CONNECTOR PENDING</span></h3>
+      <h3>INTERNET NOISE <span id="noisePanelBadge" class="badge pending">CONNECTOR PENDING</span></h3>
        <div id="noiseRows" style="color:#d7e3ee;font-size:13px;line-height:1.7;">
         Loading Internet noise profile.
        </div>
@@ -619,7 +619,46 @@ async function loadIndicators(){
     }
   }
 }
+async function loadNoise(){
+  try{
+    const data = await getJSON("data/noise.json");
+    const malware = data.by_malware || [];
+    const greynoise = data.greynoise || [];
 
+    document.getElementById("internetNoise").textContent = data.signal ?? "N/A";
+
+    setBadge("noiseKpiBadge", "LIVE", "live");
+    setBadge("noisePanelBadge", "LIVE", "live");
+
+    document.getElementById("noiseRows").innerHTML = `
+      <div style="display:grid;grid-template-columns:1fr 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;font-weight:800;color:#8fa2b5;">
+        <div>Signal</div>
+        <div>${data.signal ?? 0}/100</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;">
+        <div>Active C2 IPs</div>
+        <div class="orange">${data.active_c2_ips ?? 0}</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;">
+        <div>Watchlist hits</div>
+        <div class="${(data.watchlist_hits || []).length ? "red" : "green"}">${(data.watchlist_hits || []).length}</div>
+      </div>
+      ${malware.slice(0,5).map(m => `
+        <div style="display:grid;grid-template-columns:1fr 90px;gap:10px;border-bottom:1px solid #102a42;padding:8px 0;">
+          <div>${m.malware || "unknown"}</div>
+          <div class="blue">${m.count || 0}</div>
+        </div>
+      `).join("")}
+    `;
+
+  }catch(e){
+    document.getElementById("internetNoise").textContent = "N/A";
+    setBadge("noiseKpiBadge", "ERROR", "pending");
+    setBadge("noisePanelBadge", "ERROR", "pending");
+
+    document.getElementById("noiseRows").innerHTML = "Internet noise connector unavailable. Check data/noise.json.";
+  }
+}
 async function loadBGP(){
   try{
     const data = await getJSON("data/bgp.json");
@@ -697,6 +736,7 @@ loadNews();
 loadRisk();
 loadRansomware();
 loadIndicators();
+loadNoise();
 loadBGP();
 </script>
 
