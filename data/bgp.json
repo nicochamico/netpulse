@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T00:18:38.084813+00:00",
+  "generated_at": "2026-06-24T00:29:50.606521+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
   "anomalies": 2,
@@ -17,12 +17,12 @@
       "status": "HIGH_CHURN",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 831,
+        "announcements": 824,
         "withdrawals": 5
       },
-      "peers_visible": 370,
+      "peers_visible": 372,
       "severity": 10,
-      "ts": "2026-06-24T00:18:38.084771+00:00"
+      "ts": "2026-06-24T00:29:50.606479+00:00"
     },
     {
       "event": "HIGH_CHURN",
@@ -39,9 +39,9 @@
         "announcements": 176,
         "withdrawals": 23
       },
-      "peers_visible": 371,
+      "peers_visible": 373,
       "severity": 10,
-      "ts": "2026-06-24T00:18:33.655602+00:00"
+      "ts": "2026-06-24T00:29:46.338854+00:00"
     }
   ]
 }

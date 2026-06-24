@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-24T00:29:51.308365+00:00",
+  "source": "Shodan InternetDB",
+  "monitored": 2,
+  "unique_cves": [],
+  "risky_ports_total": 0,
+  "systems": [
+    {
+      "ip": "1.1.1.1",
+      "open_ports": [
+        53,
+        80,
+        443,
+        2083,
+        8880
+      ],
+      "risky_ports": [],
+      "vulns": [],
+      "tags": [],
+      "hostnames": [
+        "one.one.one.one"
+      ]
+    },
+    {
+      "ip": "9.9.9.9",
+      "open_ports": [
+        53,
+        443,
+        853
+      ],
+      "risky_ports": [],
+      "vulns": [],
+      "tags": [],
+      "hostnames": [
+        "dns9.quad9.net"
+      ]
+    }
+  ],
+  "signal": 0
+}
