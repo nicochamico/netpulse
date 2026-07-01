@@ -253,72 +253,14 @@ def update_indicators():
     save_json(f"{DATA_DIR}/indicators.json", indicators)
 
 
-def calculate_risk_score():
-    try:
-        kev = json.load(open(f"{DATA_DIR}/kev.json", encoding="utf-8"))
-        ransomware = json.load(open(f"{DATA_DIR}/ransomware.json", encoding="utf-8"))
-        bgp = json.load(open(f"{DATA_DIR}/bgp.json", encoding="utf-8"))
-
-        kev_items = kev.get("items", [])
-        ransomware_count = ransomware.get("count") or 0
-        bgp_count = bgp.get("count") or 0
-
-        avg_epss = 0
-        epss_values = [
-            item.get("epss")
-            for item in kev_items
-            if isinstance(item.get("epss"), (int, float))
-        ]
-
-        if epss_values:
-            avg_epss = sum(epss_values) / len(epss_values)
-
-        kev_score = min(100, len(kev_items) * 10)
-        epss_score = min(100, avg_epss * 100)
-        ransomware_score = min(100, ransomware_count)
-        bgp_score = min(100, bgp_count * 2)
-
-        score = round(
-            kev_score * 0.35 +
-            epss_score * 0.30 +
-            ransomware_score * 0.20 +
-            bgp_score * 0.15
-        )
-
-        if score >= 70:
-            label = "HIGH RISK"
-        elif score >= 40:
-            label = "MEDIUM RISK"
-        else:
-            label = "LOW RISK"
-
-        output = {
-            "source": "NetPulse calculated risk score",
-            "status": "partial_live",
-            "last_success": NOW_ISO,
-            "score": score,
-            "label": label,
-            "trend": "+0",
-            "components": {
-                "kev_score": kev_score,
-                "epss_score": round(epss_score, 2),
-                "ransomware_score": ransomware_score,
-                "bgp_score": bgp_score
-            }
-        }
-
-    except Exception as e:
-        output = {
-            "source": "NetPulse calculated risk score",
-            "status": "unavailable",
-            "last_success": None,
-            "error": str(e),
-            "score": None,
-            "label": "UNAVAILABLE",
-            "trend": "0"
-        }
-
-    save_json(f"{DATA_DIR}/risk.json", output)
+# NOTA: el calculo del Risk Score (risk.json) YA NO vive aca.
+# Se movio a collectors/risk_score.py, que corre despues de bgp_collector.py
+# en connectors.yml (cada 15 min) y lee kev.json/ransomware.json/bgp.json ya
+# generados. Tenerlo duplicado aca causaba dos problemas:
+#   1. bgp_score siempre daba 0 (leia una key 'count' que bgp.json no tiene).
+#   2. kev_score/ransomware_score saturaban en 100 casi cualquier dia porque
+#      usaban el tamano total del feed en vez de actividad reciente.
+# Ver collectors/risk_score.py para el detalle de los fixes.
 
 
 if __name__ == "__main__":
@@ -327,4 +269,3 @@ if __name__ == "__main__":
     update_ransomware()
     update_bgp()
     update_indicators()
-    calculate_risk_score()
