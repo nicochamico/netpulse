@@ -60,7 +60,7 @@ KEV_WINDOW_HOURS = 48
 KEV_WINDOW_CAP = 8            # 8+ CVEs KEV nuevos en 48h -> kev_score = 100
 
 RANSOMWARE_WINDOW_HOURS = 24
-RANSOMWARE_WINDOW_CAP = 15    # 15+ victimas nuevas en 24h -> ransomware_score = 100
+RANSOMWARE_WINDOW_CAP = 40    # 15+ victimas nuevas en 24h -> ransomware_score = 100
 
 WEIGHTS = {"kev": 0.35, "epss": 0.30, "ransomware": 0.20, "bgp": 0.15}
 
