@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-06-24T00:01:14.114196+00:00",
+  "last_success": "2026-07-01T22:36:30.610246+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-      "published": "Tue, 23 Jun 2026 23:50:49 +0530"
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "published": "Thu, 02 Jul 2026 01:10:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-      "published": "Tue, 23 Jun 2026 20:46:43 +0530"
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "published": "Thu, 02 Jul 2026 00:58:07 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "published": "Tue, 23 Jun 2026 20:46:40 +0530"
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "published": "Wed, 01 Jul 2026 23:23:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "published": "Tue, 23 Jun 2026 19:52:03 +0530"
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "published": "Wed, 01 Jul 2026 22:48:50 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "published": "Tue, 23 Jun 2026 17:00:00 +0530"
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "published": "Wed, 01 Jul 2026 20:56:55 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "published": "Tue, 23 Jun 2026 14:24:32 +0530"
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "published": "Wed, 01 Jul 2026 20:55:46 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "published": "Tue, 23 Jun 2026 17:48:32 -0400"
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "published": "Wed, 01 Jul 2026 17:37:24 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "published": "Tue, 23 Jun 2026 17:06:32 -0400"
+      "title": "Kubota says hackers had month-long access to network systems",
+      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "published": "Wed, 01 Jul 2026 17:09:06 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "published": "Tue, 23 Jun 2026 16:22:21 -0400"
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "published": "Wed, 01 Jul 2026 16:08:13 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "published": "Tue, 23 Jun 2026 15:59:12 -0400"
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "published": "Wed, 01 Jul 2026 13:32:22 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-      "published": "Tue, 23 Jun 2026 14:30:16 -0400"
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "published": "Wed, 01 Jul 2026 12:54:22 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Scattered Spider members plead guilty to hacking Transport for London",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-      "published": "Tue, 23 Jun 2026 11:31:59 -0400"
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "published": "Wed, 01 Jul 2026 12:38:01 -0400"
     }
   ]
 }
