@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-01T22:36:30.610246+00:00",
+  "last_success": "2026-07-01T22:43:29.488655+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-01T22:29:15.009053+00:00",
+      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bakaxah/",
+      "country": "",
+      "data_size": null,
+      "description": "Organization with 772 emails extracted. Domain: bd.zh.ch",
+      "discovered": "2026-07-01T22:29:28.985124+00:00",
+      "domain": "",
+      "group": "medusalocker",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/27d181d5ae653ee15a9b9e69bd1073a2.png",
+      "url": "https://www.ransomware.live/id/QmRAbWVkdXNhbG9ja2Vy",
+      "victim": "Bd"
+    },
     {
       "activity": "Public Sector",
       "attackdate": "2026-07-01T22:28:42.161789+00:00",
@@ -446,23 +463,6 @@
       "screenshot": "https://images.ransomware.live/victims/2bfd05dc265b2ba026f5c0ee403dfcb2.png",
       "url": "https://www.ransomware.live/id/U3RhcnBvb2xAd29ybGRsZWFrcw==",
       "victim": "Starpool"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-01T13:17:47.962560+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2f884907-4973-409e-92dd-5ef8c7f3431a",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-01T13:18:10.632763+00:00",
-      "domain": "www.mattatuckscrap.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4957de662aa705eb77f766966f261fca.png",
-      "url": "https://www.ransomware.live/id/TWF0dGF0dWNrIEluZHVzdHJpYWwgU2NyYXAgTWV0YWxAcWlsaW4=",
-      "victim": "Mattatuck Industrial Scrap Metal"
     }
   ]
 }
