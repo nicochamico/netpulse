@@ -555,7 +555,7 @@ async function loadRisk(){
     const band = data.band || data.label || "unavailable";
 
     document.getElementById("riskScore").textContent = score;
-    document.getElementById("riskLabel").textContent = String(band).toUpperCase() + " RISK";
+    document.getElementById("riskLabel").textContent = String(band).toUpperCase();
     document.getElementById("riskTrend").textContent = "↗ " + (data.trend || "0");
 
     if(data.status === "live" || data.status === "fresh"){
