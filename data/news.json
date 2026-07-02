@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-02T00:04:49.835996+00:00",
+  "last_success": "2026-07-02T04:56:03.219095+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "published": "Thu, 02 Jul 2026 00:25:42 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
       "published": "Wed, 01 Jul 2026 17:37:24 -0400"
@@ -68,12 +74,6 @@
       "title": "Webinar: Why traditional email security is no longer enough",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
       "published": "Wed, 01 Jul 2026 12:54:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-      "published": "Wed, 01 Jul 2026 12:38:01 -0400"
     }
   ]
 }

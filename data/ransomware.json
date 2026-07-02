@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-02T00:04:49.835996+00:00",
+  "last_success": "2026-07-02T04:56:03.219095+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-02T03:20:43.847622+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/B0nIY7hm7oGVMGt4nThiJP6lUOZYZqUxryCZuOL8ruilfFsdT3CjmeEG+71I3+LCrskYlHzCsSTiSo1po4gEt2TExKVHRN",
+      "country": "",
+      "data_size": null,
+      "description": "Data breach exposes employees and patients of a pediatric clinic.",
+      "discovered": "2026-07-02T03:21:32.892469+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c89b5778d3e244e715f4bd8def055777.png",
+      "url": "https://www.ransomware.live/id/Tm9ydGhlYXN0IFBlZGlhdHJpY3MgJiBBZG9sZXNjZW50IE1lZGljaW5lQGFudWJpcw==",
+      "victim": "Northeast Pediatrics & Adolescent Medicine"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-01T23:59:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a45a1b85ae71db30c88ab68",
+      "country": "US",
+      "data_size": null,
+      "description": "Colorado Rehabilitation & Occupational Medicine (CROM) is a leading Denver-area physiatry practice specializing in non-surgical treatments for musculoskeletal and neurological conditions. Founded in 1992, CROM operates multiple clinics across the Front Range, focusing on helping patients recover from sports, work, and auto injuries without narcotics or surgery.",
+      "discovered": "2026-07-02T00:28:12.052835+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/152e305bff9cdd02fcc8fedd6e19f6cb.png",
+      "url": "https://www.ransomware.live/id/Q29sb3JhZG8gUmVoYWJpbGl0YXRpb24gYW5kIE9jY3VwYXRpb25hbCBNZWRpY2luZUBpbmNyYW5zb20=",
+      "victim": "Colorado Rehabilitation and Occupational Medicine"
+    },
     {
       "activity": "Consumer Services",
       "attackdate": "2026-07-01T22:33:43.074747+00:00",
@@ -449,60 +483,6 @@
       "screenshot": "https://images.ransomware.live/victims/0d7974a4f0938c0221ac3f000bf01c20.png",
       "url": "https://www.ransomware.live/id/Ymxhb2Zvb2QuY29tQGtyeWJpdA==",
       "victim": "blaofood.com"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-01T13:59:09.843143+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/39313bc67cfc4e123e9e7a7cbaa11adc275a96ff72e3a951d4593db6d028fc86/",
-      "country": "TW",
-      "data_size": null,
-      "description": "JAWS Co., Ltd. (兆旭公司) is a Taiwanese manufacturer of electronic connectors and cable assemblies, founded in May ...",
-      "discovered": "2026-07-01T13:59:28.466047+00:00",
-      "domain": "jaws.com.tw",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-07-01T13:59:09",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/71a41a3b49c3e6f5a861afeca288748c.png",
-      "url": "https://www.ransomware.live/id/amF3cy5jb20udHdAa3J5Yml0",
-      "victim": "jaws.com.tw"
-    },
-    {
-      "activity": "Transportation/Logistics",
-      "attackdate": "2026-07-01T13:58:31.222923+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/dc7ee87eb6a2e25dcd3f3dfd202126715f6160d98647bff01de1092dd89f9e33/",
-      "country": "ES",
-      "data_size": null,
-      "description": "Global Software Partner S.L. (GSP) is a Spanish IT consulting and software company with over 30 years of experience in e...",
-      "discovered": "2026-07-01T13:58:50.660972+00:00",
-      "domain": "gsp.es",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T14:30:02",
-        "users": 9,
-        "users_url": 3
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/bb50e90c38c276bbcfe61d9d2022a08a.png",
-      "url": "https://www.ransomware.live/id/Z3NwLmVzQGtyeWJpdA==",
-      "victim": "gsp.es"
     }
   ]
 }
