@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-02T11:32:14.316344+00:00",
+  "last_success": "2026-07-02T13:54:29.239991+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-02T13:20:39.942067+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/ZxMuptij8OrXtBb4TyaPrfDFsvfmfD4otvTwmnvCXIBU5W+YfSjke0DNnrdrCPDPvRWvmCkwFFbjgtFGU3mvjEl1dFI5V3NB",
+      "country": "",
+      "data_size": null,
+      "description": "Employee data, internal files, and a few unexpected discoveries.",
+      "discovered": "2026-07-02T13:21:32.374956+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/50d09192e033a23bbac427d70f5d761c.png",
+      "url": "https://www.ransomware.live/id/UXVlc3QgSGVhbHRoY2FyZSBTb2x1dGlvbnNAYW51Ymlz",
+      "victim": "Quest Healthcare Solutions"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-07-02T09:55:25.820499+00:00",
@@ -426,33 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/fb7e030f70fa9691b6a4c1071a43a7fe.png",
       "url": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucm91bmRzaGllbGQuY29tL0BpbmNyYW5zb20=",
       "victim": "https://www.roundshield.com/"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-01T15:51:30.512121+00:00",
-      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/digitaldynamics",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-01T15:51:52.782912+00:00",
-      "domain": "digitaldynamics.com",
-      "group": "BrainCipher",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-07-01T15:51:30",
-        "users": 1,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9c1f78b9cfa1554ea156d56fce49917a.png",
-      "url": "https://www.ransomware.live/id/ZGlnaXRhbGR5bmFtaWNzLmNvbUBCcmFpbkNpcGhlcg==",
-      "victim": "digitaldynamics.com"
     }
   ]
 }

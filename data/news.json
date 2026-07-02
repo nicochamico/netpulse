@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-02T11:32:14.316344+00:00",
+  "last_success": "2026-07-02T13:54:29.239991+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "published": "Thu, 02 Jul 2026 18:34:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "published": "Thu, 02 Jul 2026 17:00:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
@@ -28,16 +40,16 @@
       "published": "Thu, 02 Jul 2026 11:16:45 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "published": "Thu, 02 Jul 2026 01:10:06 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "published": "Thu, 02 Jul 2026 08:15:47 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-      "published": "Thu, 02 Jul 2026 00:58:07 +0530"
+      "source": "BleepingComputer",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "published": "Thu, 02 Jul 2026 07:35:25 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
       "published": "Thu, 02 Jul 2026 00:25:42 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "published": "Wed, 01 Jul 2026 17:37:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kubota says hackers had month-long access to network systems",
-      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-      "published": "Wed, 01 Jul 2026 17:09:06 -0400"
     }
   ]
 }
