@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-02T04:56:03.219095+00:00",
+  "last_success": "2026-07-02T08:11:25.091047+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "published": "Thu, 02 Jul 2026 12:54:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "published": "Thu, 02 Jul 2026 11:16:45 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
@@ -26,18 +38,6 @@
       "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
       "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "published": "Wed, 01 Jul 2026 22:48:50 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "published": "Wed, 01 Jul 2026 20:56:55 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "published": "Wed, 01 Jul 2026 20:55:46 +0530"
     },
     {
       "source": "BleepingComputer",

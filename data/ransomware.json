@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-02T04:56:03.219095+00:00",
+  "last_success": "2026-07-02T08:11:25.091047+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-07-02T07:25:46.065348+00:00",
+      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/f2c0075f-ac9b-426d-bbfa-1959e1305d76",
+      "country": "DE",
+      "data_size": null,
+      "description": "TOFUTOWN is a traditional organic manufacturer specializing in plant-based foods, founded in 1981. The company offers a diverse range of products including vegan spreads, tofu, and seitan, all made from high-quality organic ingredients. With a commitment to sustainability and natural ingredients, TOFUTOWN caters to health-conscious consumers looking for convenient and delicious plant-based meal options.",
+      "discovered": "2026-07-02T07:26:30.193038+00:00",
+      "domain": "",
+      "group": "payload",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3ac4135b1958efc23cc94404bcf200c5.png",
+      "url": "https://www.ransomware.live/id/VG9mdXRvd25AcGF5bG9hZA==",
+      "victim": "Tofutown"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-02T03:20:43.847622+00:00",
@@ -456,33 +473,6 @@
       "screenshot": "https://images.ransomware.live/victims/c7385ce39c96d0b6f7cf313d6f589175.png",
       "url": "https://www.ransomware.live/id/cHJpbnRyb25peC5jb21AQnJhaW5DaXBoZXI=",
       "victim": "printronix.com"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-07-01T13:59:47.453004+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/299da2348c6c4fbf61255f0840df240808a4e97e8cb36cedd90fbec981d5f489/",
-      "country": "",
-      "data_size": null,
-      "description": "B'Laofood Joint Stock Company (formerly B'Laofood Company Limited until March 25, 2026) is a Vietnamese leading manufact...",
-      "discovered": "2026-07-01T14:00:06.543797+00:00",
-      "domain": "blaofood.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T13:59:47",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0d7974a4f0938c0221ac3f000bf01c20.png",
-      "url": "https://www.ransomware.live/id/Ymxhb2Zvb2QuY29tQGtyeWJpdA==",
-      "victim": "blaofood.com"
     }
   ]
 }
