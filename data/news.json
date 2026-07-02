@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-02T18:24:35.151535+00:00",
+  "last_success": "2026-07-02T20:17:20.228611+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "published": "Fri, 03 Jul 2026 00:24:06 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "published": "Fri, 03 Jul 2026 00:00:33 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
@@ -26,18 +38,6 @@
       "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
       "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
       "published": "Thu, 02 Jul 2026 14:43:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "published": "Thu, 02 Jul 2026 13:30:49 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "published": "Thu, 02 Jul 2026 12:54:23 +0530"
     },
     {
       "source": "BleepingComputer",
