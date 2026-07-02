@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-02T08:11:25.091047+00:00",
+  "last_success": "2026-07-02T11:32:14.316344+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "published": "Thu, 02 Jul 2026 14:43:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "published": "Thu, 02 Jul 2026 13:30:49 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -28,16 +40,22 @@
       "published": "Thu, 02 Jul 2026 00:58:07 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "published": "Wed, 01 Jul 2026 23:23:06 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "published": "Thu, 02 Jul 2026 06:52:43 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "published": "Wed, 01 Jul 2026 22:48:50 +0530"
+      "source": "BleepingComputer",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "published": "Thu, 02 Jul 2026 06:46:58 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "published": "Thu, 02 Jul 2026 04:58:25 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Kubota says hackers had month-long access to network systems",
       "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
       "published": "Wed, 01 Jul 2026 17:09:06 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "published": "Wed, 01 Jul 2026 16:08:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "published": "Wed, 01 Jul 2026 13:32:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "published": "Wed, 01 Jul 2026 12:54:22 -0400"
     }
   ]
 }

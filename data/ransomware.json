@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-02T08:11:25.091047+00:00",
+  "last_success": "2026-07-02T11:32:14.316344+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-02T09:55:25.820499+00:00",
+      "claim_url": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion/news.php?id=1",
+      "country": "",
+      "data_size": null,
+      "description": "[AI generated] X-Copper Professional is a Canadian legal and paralegal services firm specializing in traffic ticket defense and driving-related legal matters. Based in Ontario, Canada, the company represents clients facing speeding tickets, careless driving charges, and other Highway Traffic Act violations. It employs licensed paralegals and lawyers to help clients reduce or dismiss charges, minimizing fines, demerit points, and insurance premium impacts.",
+      "discovered": "2026-07-02T09:55:44.685259+00:00",
+      "domain": "",
+      "group": "moneymessage",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "url": "https://www.ransomware.live/id/WC1Db3BwZXIgUHJvZmVzc2lvbmFsQG1vbmV5bWVzc2FnZQ==",
+      "victim": "X-Copper Professional"
+    },
+    {
+      "activity": "Hospitality and Tourism",
+      "attackdate": "2026-07-02T09:25:46.663966+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=58f96ce6-c718-4160-9b1e-9a4653f88936",
+      "country": "AU",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-02T09:26:15.587822+00:00",
+      "domain": "www.pennanthillsgolfclub.com.au",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/37aa7cc3e341f09ed42106df33691744.png",
+      "url": "https://www.ransomware.live/id/UGVubmFudCBIaWxscyBHb2xmIENsdWJAcWlsaW4=",
+      "victim": "Pennant Hills Golf Club"
+    },
     {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-07-02T07:25:46.065348+00:00",
@@ -419,60 +453,6 @@
       "screenshot": "https://images.ransomware.live/victims/9c1f78b9cfa1554ea156d56fce49917a.png",
       "url": "https://www.ransomware.live/id/ZGlnaXRhbGR5bmFtaWNzLmNvbUBCcmFpbkNpcGhlcg==",
       "victim": "digitaldynamics.com"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-01T15:50:52.721731+00:00",
-      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/goldenstateortho",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Golden State Ortho appears to be an orthopedic medical practice or orthopedic supply company based in the United States, likely California given the \"Golden State\" reference. It operates in the healthcare industry, potentially offering orthopedic surgical services, prosthetics, orthotics, or related medical products and patient care. Specific verified details about this company are limited, so full operational details cannot be confirmed with certainty.",
-      "discovered": "2026-07-01T15:51:11.297961+00:00",
-      "domain": "goldenstateortho.com",
-      "group": "BrainCipher",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T15:50:52",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8dd76617c3a3e0e00cdc7b3d22501ece.png",
-      "url": "https://www.ransomware.live/id/Z29sZGVuc3RhdGVvcnRoby5jb21AQnJhaW5DaXBoZXI=",
-      "victim": "goldenstateortho.com"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-01T15:50:13.327719+00:00",
-      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/printronix",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Printronix is a US-based company specializing in industrial printing solutions. Founded in 1974 and headquartered in Irvine, California, it manufactures line matrix printers, thermal printers, and related accessories primarily for enterprise and industrial environments. Its products serve industries such as manufacturing, logistics, and supply chain management, offering high-volume, mission-critical printing capabilities used in warehouses and distribution centers worldwide.",
-      "discovered": "2026-07-01T15:50:32.498123+00:00",
-      "domain": "printronix.com",
-      "group": "BrainCipher",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-07-01T15:50:13",
-        "users": 12,
-        "users_url": 8
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c7385ce39c96d0b6f7cf313d6f589175.png",
-      "url": "https://www.ransomware.live/id/cHJpbnRyb25peC5jb21AQnJhaW5DaXBoZXI=",
-      "victim": "printronix.com"
     }
   ]
 }
