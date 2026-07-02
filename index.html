@@ -94,10 +94,12 @@ nav a.active{color:var(--cyan);border-bottom:2px solid var(--cyan);padding-botto
 .score-explain{margin-top:20px;text-align:left}
 .score-title{font-size:12px;color:var(--muted);margin-bottom:8px}
 .score-bar{height:10px;border-radius:999px;overflow:hidden;display:flex;background:#102538}
-.score-bar div:nth-child(1){width:35%;background:var(--red)}
-.score-bar div:nth-child(2){width:30%;background:var(--cyan)}
-.score-bar div:nth-child(3){width:20%;background:var(--purple)}
+.score-bar div:nth-child(1){width:30%;background:var(--red)}
+.score-bar div:nth-child(2){width:25%;background:var(--cyan)}
+.score-bar div:nth-child(3){width:15%;background:var(--purple)}
 .score-bar div:nth-child(4){width:15%;background:var(--orange)}
+.score-bar div:nth-child(5){width:7.5%;background:var(--green)}
+.score-bar div:nth-child(6){width:7.5%;background:var(--purple)}
 .score-legend{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:12px;font-size:11px;color:#b7c5d4}
 .risk-spark{
   margin-top:18px;height:42px;border-radius:8px;
@@ -261,12 +263,14 @@ footer a{color:var(--cyan);text-decoration:none;font-weight:800}
 
     <div class="score-explain">
       <div class="score-title">Score composition</div>
-      <div class="score-bar"><div></div><div></div><div></div><div></div></div>
+      <div class="score-bar"><div></div><div></div><div></div><div></div><div></div><div></div></div>
       <div class="score-legend">
-        <div><span class="red">■</span> KEV 35%</div>
-        <div><span class="blue">■</span> EPSS 30%</div>
-        <div><span class="purple">■</span> Ransomware 20%</div>
-        <div><span class="orange">■</span> BGP 15%</div>
+      <div><span class="red">■</span> KEV 30%</div>
+      <div><span class="blue">■</span> EPSS 25%</div>
+      <div><span class="purple">■</span> Ransomware 15%</div>
+      <div><span class="orange">■</span> BGP 15%</div>
+      <div><span class="green">■</span> Noise 7.5%</div>
+      <div><span class="purple">■</span> Exposure 7.5%</div>
       </div>
     </div>
 
