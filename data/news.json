@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T15:54:37.306846+00:00",
+  "last_success": "2026-07-03T17:23:07.209787+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "published": "Fri, 03 Jul 2026 21:37:15 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
@@ -32,12 +38,6 @@
       "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
       "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
       "published": "Fri, 03 Jul 2026 00:00:33 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "published": "Thu, 02 Jul 2026 20:54:18 +0530"
     },
     {
       "source": "BleepingComputer",
