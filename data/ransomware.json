@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-03T13:58:10.608666+00:00",
+  "last_success": "2026-07-03T15:54:37.306846+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-03T14:20:12.391011+00:00",
+      "claim_url": "http://2mgkz2ntx5vpgt4jj4gir77eqx7g6owapm2mkzpjswyl74fni7jgdmyd.onion/detail/e8e546c8-f6a7-4f9d-8b1a-e2a538880752",
+      "country": "BR",
+      "data_size": null,
+      "description": "Redeplast is a Brazilian footwear manufacturer with over 20 years of experience in the industry. The...",
+      "discovered": "2026-07-03T14:20:33.846657+00:00",
+      "domain": "redeplastrs.com.br",
+      "group": "Blackfield",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-03T14:20:12",
+        "users": 1,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e4cac71ebaa83b5c8e30e6e4c11a029b.png",
+      "url": "https://www.ransomware.live/id/cmVkZXBsYXN0cnMuY29tLmJyQEJsYWNrZmllbGQ=",
+      "victim": "redeplastrs.com.br"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-03T12:21:26.890589+00:00",
@@ -474,33 +501,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Y2FydmFsaW1hLmNvbS5ickBpbmNyYW5zb20=",
       "victim": "carvalima.com.br"
-    },
-    {
-      "activity": "Consumer Services",
-      "attackdate": "2026-07-01T23:59:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a468b5b5ae71db30ca45835",
-      "country": "BR",
-      "data_size": null,
-      "description": "Estrutural Zortea is a Brazilian company founded in 1995, specializing in the design, fabrication, and assembly of large-scale metal structures. ISO 9001-2015 certified, they provide industrial, logistics, and port solutions throughout the country. Specialties include: roofing for grain warehouses and industrial sheds, hoppers, silos, metal towers, and buildings.",
-      "discovered": "2026-07-02T16:28:50.505689+00:00",
-      "domain": "ezortea.com.br",
-      "group": "incransom",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 7,
-        "update": "2026-07-02T16:28:07",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/43179238099f009636c906b6626048d6.png",
-      "url": "https://www.ransomware.live/id/ZXpvcnRlYS5jb20uYnJAaW5jcmFuc29t",
-      "victim": "ezortea.com.br"
     }
   ]
 }
