@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T21:02:52.337910+00:00",
+  "last_success": "2026-07-03T23:00:24.420512+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "published": "Sat, 04 Jul 2026 01:49:31 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
@@ -32,12 +38,6 @@
       "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
       "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
       "published": "Fri, 03 Jul 2026 16:35:43 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "published": "Fri, 03 Jul 2026 13:33:37 +0530"
     },
     {
       "source": "BleepingComputer",
