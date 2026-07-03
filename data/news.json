@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T17:23:07.209787+00:00",
+  "last_success": "2026-07-03T19:17:40.096253+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+      "published": "Sat, 04 Jul 2026 00:25:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
@@ -34,10 +40,10 @@
       "published": "Fri, 03 Jul 2026 00:24:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "published": "Fri, 03 Jul 2026 00:00:33 +0530"
+      "source": "BleepingComputer",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "published": "Fri, 03 Jul 2026 13:50:04 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
       "published": "Thu, 02 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "published": "Thu, 02 Jul 2026 08:15:47 -0400"
     }
   ]
 }
