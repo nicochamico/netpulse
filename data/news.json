@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T19:17:40.096253+00:00",
+  "last_success": "2026-07-03T21:02:52.337910+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "published": "Sat, 04 Jul 2026 01:10:01 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
@@ -32,12 +38,6 @@
       "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
       "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
       "published": "Fri, 03 Jul 2026 13:33:37 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "published": "Fri, 03 Jul 2026 00:24:06 +0530"
     },
     {
       "source": "BleepingComputer",
