@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-03T00:03:44.693497+00:00",
+  "last_success": "2026-07-03T04:40:05.929206+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-03T00:50:44.262864+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/8MVbCGG1xTXXCrZgdByc2+uH18XQuzuiZVxUiEHdts9ZtUDTGSyY2xhM3Y48zpnft0RpZy6eE0+c1wfLLFyFBsdWZlbjZk",
+      "country": "CH",
+      "data_size": null,
+      "description": "Data breach at one of the largest family-owned manufacturing businesses in Switzerland.",
+      "discovered": "2026-07-03T00:51:31.334328+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/110744645546f3d0c6ecd6e3bcab709e.png",
+      "url": "https://www.ransomware.live/id/RmVycnVtIEFHQGFudWJpcw==",
+      "victim": "Ferrum AG"
+    },
+    {
+      "activity": "Public Sector",
+      "attackdate": "2026-07-02T23:59:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a4704745ae71db30cb3362a",
+      "country": "US",
+      "data_size": null,
+      "description": "Oak Park, Michigan, is a vibrant, diverse inner-ring suburb of Metro Detroit located in Oakland County. Incorporated as a city in 1945, it spans 5.5 square miles and is home to roughly 30,000 residents. The city is currently experiencing a renaissance, transforming areas like the 11 Mile Road corridor into bustling hubs with breweries, restaurants, and new community spaces.",
+      "discovered": "2026-07-03T00:55:46.305369+00:00",
+      "domain": "oakparkmi.gov",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-03T00:55:06",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/28ff8c7df2ee49dafb4c43f5edd26a39.png",
+      "url": "https://www.ransomware.live/id/b2FrcGFya21pLmdvdkBpbmNyYW5zb20=",
+      "victim": "oakparkmi.gov"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-02T16:21:37.062004+00:00",
@@ -447,60 +491,6 @@
       "screenshot": "https://images.ransomware.live/victims/ca1b8cef7510facdd5eaff4add616b0f.png",
       "url": "https://www.ransomware.live/id/RXN0cmVsYUBtZWR1c2Fsb2NrZXI=",
       "victim": "Estrela"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-01T22:33:10.961106+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bavaqai/",
-      "country": "",
-      "data_size": null,
-      "description": "Organization with 23 emails extracted. Domain: karneslegal.com",
-      "discovered": "2026-07-01T22:33:24.863491+00:00",
-      "domain": "karneslegal.com",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T22:33:39.256965",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/66bebc8fb30749bd126ce50415b9559c.png",
-      "url": "https://www.ransomware.live/id/S2FybmVzbGVnYWxAbWVkdXNhbG9ja2Vy",
-      "victim": "Karneslegal"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-01T22:32:39.098593+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bavacai/",
-      "country": "DE",
-      "data_size": null,
-      "description": "Organization with 933 emails extracted. Domain: sgs-gmbh.com",
-      "discovered": "2026-07-01T22:32:52.866151+00:00",
-      "domain": "sgs-gmbh.com",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T22:33:19.218659",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0c6f00d2b62fb69f349bcbd01197561f.png",
-      "url": "https://www.ransomware.live/id/U2dzIEdtYmhAbWVkdXNhbG9ja2Vy",
-      "victim": "Sgs Gmbh"
     }
   ]
 }
