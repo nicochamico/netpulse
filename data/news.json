@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T11:30:38.087393+00:00",
+  "last_success": "2026-07-03T13:58:10.608666+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "published": "Fri, 03 Jul 2026 19:06:33 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
@@ -32,12 +38,6 @@
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
       "published": "Thu, 02 Jul 2026 20:54:18 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-      "published": "Thu, 02 Jul 2026 18:34:13 +0530"
     },
     {
       "source": "BleepingComputer",

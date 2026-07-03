@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-03T11:30:38.087393+00:00",
+  "last_success": "2026-07-03T13:58:10.608666+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-03T12:21:26.890589+00:00",
+      "claim_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=177",
+      "country": "TR",
+      "data_size": null,
+      "description": "Aydeniz Group is a family-owned group of companies founded in 1975, operating in several key indu...",
+      "discovered": "2026-07-03T12:22:02.886675+00:00",
+      "domain": "aydeniz.com",
+      "group": "apt73",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-03T12:21:26",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c5e7fa5f91c98add18a9eceb3a9d21dd.png",
+      "url": "https://www.ransomware.live/id/YXlkZW5pei5jb21AYXB0NzM=",
+      "victim": "aydeniz.com"
+    },
     {
       "activity": "Consumer Services",
       "attackdate": "2026-07-03T09:54:18.698341+00:00",
@@ -474,33 +501,6 @@
       "screenshot": "https://images.ransomware.live/victims/43179238099f009636c906b6626048d6.png",
       "url": "https://www.ransomware.live/id/ZXpvcnRlYS5jb20uYnJAaW5jcmFuc29t",
       "victim": "ezortea.com.br"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-01T23:59:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a468c355ae71db30ca47b2d",
-      "country": "US",
-      "data_size": null,
-      "description": "Hamilton Eye Institute is a comprehensive vision care practice operating out of two Pennsylvania locations: Allentown and Easton. They provide routine eye exams, medical/surgical eye treatments, and an in-house MediSpa.",
-      "discovered": "2026-07-02T16:27:48.235320+00:00",
-      "domain": "hamilton-eye.com",
-      "group": "incransom",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-02T16:25:46",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/aGFtaWx0b24tZXllLmNvbUBpbmNyYW5zb20=",
-      "victim": "hamilton-eye.com"
     }
   ]
 }
