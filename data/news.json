@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-03T08:07:35.739709+00:00",
+  "last_success": "2026-07-03T11:30:38.087393+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+      "published": "Fri, 03 Jul 2026 16:35:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "published": "Fri, 03 Jul 2026 13:33:37 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -26,18 +38,6 @@
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
       "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
       "published": "Thu, 02 Jul 2026 18:34:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-      "published": "Thu, 02 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "published": "Thu, 02 Jul 2026 14:43:13 +0530"
     },
     {
       "source": "BleepingComputer",

@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-03T08:07:35.739709+00:00",
+  "last_success": "2026-07-03T11:30:38.087393+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-03T09:54:18.698341+00:00",
+      "claim_url": "http://krybitxdpxohsmjooeb3gbgpmdddreh6mnflzac6bnezz74b7yje67yd.onion/blog/cba113326007e55f5a42925d7f85f9edac137e1947522b425477006d0da47d78/",
+      "country": "MY",
+      "data_size": null,
+      "description": "MAJUHOME Concept (Maju Home Furnishing Sdn. Bhd.) is a Malaysian leading one-stop mega furniture mall and lifestyle bran...",
+      "discovered": "2026-07-03T09:54:38.036607+00:00",
+      "domain": "majuhome.com.my",
+      "group": "krybit",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-05-04T23:38:23",
+        "users": 17,
+        "users_url": 3
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/fbaa0204bb1bf70c23a301d594064dd0.png",
+      "url": "https://www.ransomware.live/id/bWFqdWhvbWUuY29tLm15QGtyeWJpdA==",
+      "victim": "majuhome.com.my"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-03T09:35:55.577574+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/fd765fef9902cef123bf95c1e2a5a98d9f043c02de3d477ef73afac9c1e1a84d/",
+      "country": "MX",
+      "data_size": null,
+      "description": "DUFLO SAS (Duflo Servicios Integrales S.A.S.) is a Colombian company specializing in integrated facility management and ...",
+      "discovered": "2026-07-03T09:36:16.243098+00:00",
+      "domain": "duflosa.com",
+      "group": "krybit",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 8,
+        "update": "2026-07-03T09:35:55",
+        "users": 1,
+        "users_url": 2
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e5ed6e7dc00db0ea994d018a447dd503.png",
+      "url": "https://www.ransomware.live/id/ZHVmbG9zYS5jb21Aa3J5Yml0",
+      "victim": "duflosa.com"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-07-03T00:50:44.262864+00:00",
@@ -447,50 +501,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/aGFtaWx0b24tZXllLmNvbUBpbmNyYW5zb20=",
       "victim": "hamilton-eye.com"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-01T23:59:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a45a1b85ae71db30c88ab68",
-      "country": "US",
-      "data_size": null,
-      "description": "Colorado Rehabilitation & Occupational Medicine (CROM) is a leading Denver-area physiatry practice specializing in non-surgical treatments for musculoskeletal and neurological conditions. Founded in 1992, CROM operates multiple clinics across the Front Range, focusing on helping patients recover from sports, work, and auto injuries without narcotics or surgery.",
-      "discovered": "2026-07-02T00:28:12.052835+00:00",
-      "domain": "",
-      "group": "incransom",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/152e305bff9cdd02fcc8fedd6e19f6cb.png",
-      "url": "https://www.ransomware.live/id/Q29sb3JhZG8gUmVoYWJpbGl0YXRpb24gYW5kIE9jY3VwYXRpb25hbCBNZWRpY2luZUBpbmNyYW5zb20=",
-      "victim": "Colorado Rehabilitation and Occupational Medicine"
-    },
-    {
-      "activity": "Consumer Services",
-      "attackdate": "2026-07-01T22:33:43.074747+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/barafai/",
-      "country": "BR",
-      "data_size": null,
-      "description": "Organization with 11 emails extracted. Domain: estrela.ind",
-      "discovered": "2026-07-01T22:33:59.107635+00:00",
-      "domain": "estrela.ind",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-01T22:34:22.025494",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ca1b8cef7510facdd5eaff4add616b0f.png",
-      "url": "https://www.ransomware.live/id/RXN0cmVsYUBtZWR1c2Fsb2NrZXI=",
-      "victim": "Estrela"
     }
   ]
 }
