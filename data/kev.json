@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-04T13:19:24.526681+00:00",
+  "last_success": "2026-07-04T15:02:59.665147+00:00",
   "count": 1631,
   "items": [
     {
@@ -19,7 +19,7 @@
         "CWE-502"
       ],
       "epss": 0.03219,
-      "epss_percentile": 0.86673
+      "epss_percentile": 0.86679
     },
     {
       "cveID": "CVE-2026-48558",
@@ -36,7 +36,7 @@
         "CWE-347"
       ],
       "epss": 0.0116,
-      "epss_percentile": 0.63264
+      "epss_percentile": 0.63282
     },
     {
       "cveID": "CVE-2026-12569",
@@ -54,7 +54,7 @@
         "CWE-502"
       ],
       "epss": 0.01106,
-      "epss_percentile": 0.61823
+      "epss_percentile": 0.61843
     },
     {
       "cveID": "CVE-2026-20230",
@@ -89,7 +89,7 @@
         "CWE-94"
       ],
       "epss": 0.01131,
-      "epss_percentile": 0.6249
+      "epss_percentile": 0.6251
     },
     {
       "cveID": "CVE-2026-34910",
@@ -123,7 +123,7 @@
         "CWE-22"
       ],
       "epss": 0.02269,
-      "epss_percentile": 0.80917
+      "epss_percentile": 0.80926
     },
     {
       "cveID": "CVE-2026-34908",
@@ -140,7 +140,7 @@
         "CWE-284"
       ],
       "epss": 0.02452,
-      "epss_percentile": 0.82418
+      "epss_percentile": 0.82427
     },
     {
       "cveID": "CVE-2026-20253",

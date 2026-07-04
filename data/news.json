@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-04T13:19:24.526681+00:00",
+  "last_success": "2026-07-04T15:02:59.665147+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "published": "Sat, 04 Jul 2026 18:17:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -34,10 +40,10 @@
       "published": "Fri, 03 Jul 2026 21:37:15 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-      "published": "Fri, 03 Jul 2026 19:06:33 +0530"
+      "source": "BleepingComputer",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "published": "Sat, 04 Jul 2026 10:16:38 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
       "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
       "published": "Thu, 02 Jul 2026 11:18:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "published": "Thu, 02 Jul 2026 10:00:10 -0400"
     }
   ]
 }
