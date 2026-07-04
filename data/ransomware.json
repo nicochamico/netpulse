@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-04T20:54:42.721748+00:00",
+  "last_success": "2026-07-04T21:57:05.051141+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-04T20:23:08+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Baraga County Memorial Hospital is a critical access hospital serving Baraga County with emergency, surgery, imaging, rehab, and outpatient care.",
+      "discovered": "2026-07-04T20:50:32.613367+00:00",
+      "domain": "",
+      "group": "Wallstreet",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QmFyYWdhIENvdW50eSBNZW1vcmlhbCBIb3NwaXRhbEBXYWxsc3RyZWV0",
+      "victim": "Baraga County Memorial Hospital"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-04T20:21:48+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Gold Standard Automotive Network administers vehicle service contracts sold through dealerships, offering coverage for repairs after your factory warranty ends, with claim approvals handled through the company.",
+      "discovered": "2026-07-04T20:50:52.769714+00:00",
+      "domain": "",
+      "group": "Wallstreet",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/R29sZCBTdGFuZGFyZCBBdXRvbW90aXZlQFdhbGxzdHJlZXQ=",
+      "victim": "Gold Standard Automotive"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-04T18:17:22+00:00",
@@ -422,60 +456,6 @@
       "screenshot": "https://images.ransomware.live/victims/af23f3bac6e8c9ff8d5156d1d7e260fd.png",
       "url": "https://www.ransomware.live/id/aG9saWRheXBhbGFjZS5jb21AYXB0NzM=",
       "victim": "holidaypalace.com"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-02T15:51:35.515599+00:00",
-      "claim_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=174",
-      "country": "AT",
-      "data_size": null,
-      "description": "ritavo.com is the website of Rita Võ Group, a private multidisciplinary holding company from Vie...",
-      "discovered": "2026-07-02T15:52:08.127189+00:00",
-      "domain": "ritavo.com",
-      "group": "apt73",
-      "infostealer": {
-        "employees": 43,
-        "employees_url": 11,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 17,
-        "update": "2026-07-02T15:51:35",
-        "users": 3,
-        "users_url": 10
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/be43664cd61fa5fd9057b754a6d80a98.png",
-      "url": "https://www.ransomware.live/id/cml0YXZvLmNvbUBhcHQ3Mw==",
-      "victim": "ritavo.com"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-02T13:25:49+00:00",
-      "claim_url": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/companies/0890882219",
-      "country": "PK",
-      "data_size": null,
-      "description": "[AI generated] Treet Group of Companies is a Pakistani conglomerate headquartered in Lahore, Pakistan. It operates across multiple industries including razor blades and personal care products, textile manufacturing, and power generation. The group is best known for producing Treet razor blades, one of the most recognized brands in Pakistan. It is publicly listed and has been a significant industrial player in Pakistan for several decades.",
-      "discovered": "2026-07-02T14:00:46.490630+00:00",
-      "domain": "treetcorp.com",
-      "group": "worldleaks",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 10,
-        "update": "2026-07-02T14:00:22",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9364f1e417d3f3c050838124973deab7.png",
-      "url": "https://www.ransomware.live/id/VHJlZXQgR3JvdXAgb2YgQ29tcGFuaWVzQHdvcmxkbGVha3M=",
-      "victim": "Treet Group of Companies"
     }
   ]
 }
