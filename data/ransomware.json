@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-04T15:02:59.665147+00:00",
+  "last_success": "2026-07-04T17:01:38.335531+00:00",
   "count": 100,
   "items": [
     {
@@ -12,9 +12,35 @@
       "data_size": null,
       "description": "Revenue: 30 billion",
       "discovered": "2026-07-04T11:30:53.057392+00:00",
-      "domain": "Deutsche Bank",
+      "domain": "db.com",
       "group": "unsafe",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 354,
+        "employees_url": 100,
+        "infostealer_stats": {
+          "Acreed": 12,
+          "Atomic": 17,
+          "Azorult": 101,
+          "CRYPTBOT": 16,
+          "DarkCrystal": 13,
+          "Ficker": 1,
+          "Generic Stealer": 838,
+          "Lumma": 945,
+          "Mystic": 6,
+          "Raccoon": 450,
+          "RedLine": 1133,
+          "StealC": 85,
+          "Taurus": 5,
+          "UNKNOWN": 53,
+          "Vidar": 158
+        },
+        "last_employee_compromised": "2026-07-02T14:38:46+00:00",
+        "last_user_compromised": "2026-07-02T14:32:17+00:00",
+        "thirdparties": 528,
+        "update": "2026-07-04T16:15:31.806537",
+        "users": 4022,
+        "users_url": 100
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/eb517bbef7d2327ac981cb3487379ae7.png",
