@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-07-04T13:28:13.658639+00:00",
+  "generated_at": "2026-07-04T14:50:41.256711+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 0,
+  "anomalies": 1,
   "churn_events": 0,
-  "signal": 0,
+  "signal": 35,
   "events": [
     {
-      "event": "OK",
+      "event": "WITHDRAWN",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
-      "origins_seen": [
-        13335
-      ],
+      "origins_seen": [],
       "name": "Cloudflare",
-      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
-      "status": "OK",
-      "rpki": "valid",
+      "holder": "AS13335",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
       "updates_24h": {
-        "announcements": 806,
-        "withdrawals": 13
+        "announcements": 818,
+        "withdrawals": 8
       },
-      "updates_per_peer": 2.24,
-      "peers_visible": 365,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-07-04T13:28:13.658583+00:00"
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-07-04T14:50:41.256652+00:00"
     },
     {
       "event": "OK",
@@ -39,14 +37,14 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 44,
+        "announcements": 43,
         "withdrawals": 4
       },
       "updates_per_peer": 0.13,
-      "peers_visible": 366,
+      "peers_visible": 367,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-07-04T13:28:08.293006+00:00"
+      "ts": "2026-07-04T14:50:37.977345+00:00"
     }
   ]
 }
