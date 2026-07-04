@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-04T06:17:06.930474+00:00",
+  "last_success": "2026-07-04T09:20:56.947501+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Construction",
+      "attackdate": "2026-07-04T07:56:13.178585+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=8fJN1qE5MO0ev0",
+      "country": "AU",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-07-04T07:56:28.947685+00:00",
+      "domain": "www.locatiarchitects.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/90b3e02014e58ab4a26c58a6dc9abb24.png",
+      "url": "https://www.ransomware.live/id/TG9jYXRpIEFyY2hpdGVjdHNAcGxheQ==",
+      "victim": "Locati Architects"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-07-04T07:55:38.796959+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=omRP0Z54cH0P8e",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-07-04T07:55:54.839310+00:00",
+      "domain": "www.silvestriandassociates.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/37f9c752b5237f9fdf08f9a31b86fa1b.png",
+      "url": "https://www.ransomware.live/id/U2lsdmVzdHJpICYgQXNzb2NpYXRlcyBJbnN1cmFuY2VAcGxheQ==",
+      "victim": "Silvestri & Associates Insurance"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-07-03T18:56:34.531562+00:00",
@@ -416,40 +450,6 @@
       "screenshot": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
       "url": "https://www.ransomware.live/id/WC1Db3BwZXIgUHJvZmVzc2lvbmFsQG1vbmV5bWVzc2FnZQ==",
       "victim": "X-Copper Professional"
-    },
-    {
-      "activity": "Hospitality and Tourism",
-      "attackdate": "2026-07-02T09:25:46.663966+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=58f96ce6-c718-4160-9b1e-9a4653f88936",
-      "country": "AU",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-02T09:26:15.587822+00:00",
-      "domain": "www.pennanthillsgolfclub.com.au",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/37aa7cc3e341f09ed42106df33691744.png",
-      "url": "https://www.ransomware.live/id/UGVubmFudCBIaWxscyBHb2xmIENsdWJAcWlsaW4=",
-      "victim": "Pennant Hills Golf Club"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-07-02T07:25:46.065348+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/f2c0075f-ac9b-426d-bbfa-1959e1305d76",
-      "country": "DE",
-      "data_size": null,
-      "description": "TOFUTOWN is a traditional organic manufacturer specializing in plant-based foods, founded in 1981. The company offers a diverse range of products including vegan spreads, tofu, and seitan, all made from high-quality organic ingredients. With a commitment to sustainability and natural ingredients, TOFUTOWN caters to health-conscious consumers looking for convenient and delicious plant-based meal options.",
-      "discovered": "2026-07-02T07:26:30.193038+00:00",
-      "domain": "",
-      "group": "payload",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3ac4135b1958efc23cc94404bcf200c5.png",
-      "url": "https://www.ransomware.live/id/VG9mdXRvd25AcGF5bG9hZA==",
-      "victim": "Tofutown"
     }
   ]
 }
