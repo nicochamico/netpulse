@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-04T11:24:41.517668+00:00",
+  "last_success": "2026-07-04T13:19:24.526681+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-07-04T11:30:30.323251+00:00",
+      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a48eb478b37a93648b56d3e?page=1",
+      "country": "DE",
+      "data_size": null,
+      "description": "Revenue: 30 billion",
+      "discovered": "2026-07-04T11:30:53.057392+00:00",
+      "domain": "Deutsche Bank",
+      "group": "unsafe",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/eb517bbef7d2327ac981cb3487379ae7.png",
+      "url": "https://www.ransomware.live/id/RGV1dHNjaGUgQmFua0B1bnNhZmU=",
+      "victim": "Deutsche Bank"
+    },
     {
       "activity": "Construction",
       "attackdate": "2026-07-04T07:56:13.178585+00:00",
@@ -433,23 +450,6 @@
       "screenshot": "https://images.ransomware.live/victims/50d09192e033a23bbac427d70f5d761c.png",
       "url": "https://www.ransomware.live/id/UXVlc3QgSGVhbHRoY2FyZSBTb2x1dGlvbnNAYW51Ymlz",
       "victim": "Quest Healthcare Solutions"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-02T09:55:25.820499+00:00",
-      "claim_url": "http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion/news.php?id=1",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] X-Copper Professional is a Canadian legal and paralegal services firm specializing in traffic ticket defense and driving-related legal matters. Based in Ontario, Canada, the company represents clients facing speeding tickets, careless driving charges, and other Highway Traffic Act violations. It employs licensed paralegals and lawyers to help clients reduce or dismiss charges, minimizing fines, demerit points, and insurance premium impacts.",
-      "discovered": "2026-07-02T09:55:44.685259+00:00",
-      "domain": "",
-      "group": "moneymessage",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
-      "url": "https://www.ransomware.live/id/WC1Db3BwZXIgUHJvZmVzc2lvbmFsQG1vbmV5bWVzc2FnZQ==",
-      "victim": "X-Copper Professional"
     }
   ]
 }
