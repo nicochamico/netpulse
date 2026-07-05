@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:41:26.600733+00:00",
+  "generated_at": "2026-07-05T15:02:46.240070+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -20,9 +20,6 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "www.traffic-engg-poc.staging.deliveryhero.com",
-        "github.traffic-engg-poc.staging.deliveryhero.com",
-        "staging.deliveryhero.com",
         "one.one.one.one"
       ]
     },
