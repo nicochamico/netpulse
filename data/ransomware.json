@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-05T20:11:46.677207+00:00",
+  "last_success": "2026-07-05T21:59:16.696266+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy",
+      "attackdate": "2026-07-05T21:35:53.437318+00:00",
+      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/0833681d-0958-4396-ad0e-648449982275",
+      "country": "",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-05T21:36:46.778344+00:00",
+      "domain": "",
+      "group": "payload",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/be474519812b2163cf7617484c6a9580.png",
+      "url": "https://www.ransomware.live/id/RU5CIFZlcnNpY2hAcGF5bG9hZA==",
+      "victim": "ENB Versich"
+    },
     {
       "activity": "Consumer Services",
       "attackdate": "2026-07-05T14:03:23.567568+00:00",
@@ -442,33 +459,6 @@
       "screenshot": "https://images.ransomware.live/victims/010be21a169814763d898ac4311622e3.png",
       "url": "https://www.ransomware.live/id/QXBleCBBZ3JvLCBMTENAZ2VuZXNpcw==",
       "victim": "Apex Agro, LLC"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-03T00:00:00+00:00",
-      "claim_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/bb6e5af34c5f138531a5/",
-      "country": "US",
-      "data_size": null,
-      "description": "A healthcare organization",
-      "discovered": "2026-07-05T13:58:29.352165+00:00",
-      "domain": "mirageendoscopycenter.com",
-      "group": "genesis",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-05T13:58:08",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f6d78edab281d4c1f7ced9076eae2376.png",
-      "url": "https://www.ransomware.live/id/TWlyYWdlIEVuZG9zY29weSBDZW50ZXJAZ2VuZXNpcw==",
-      "victim": "Mirage Endoscopy Center"
     }
   ]
 }
