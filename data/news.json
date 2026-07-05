@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-05T12:14:20.876353+00:00",
+  "last_success": "2026-07-05T14:40:52.754881+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Flipper Zero firmware development continues with community help",
+      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "published": "Sun, 05 Jul 2026 10:14:52 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
       "published": "Sat, 04 Jul 2026 10:16:38 -0400"
@@ -68,12 +74,6 @@
       "title": "Claude Fable relaunch disappoints users with nerfed performance",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
       "published": "Thu, 02 Jul 2026 20:48:30 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-      "published": "Thu, 02 Jul 2026 11:18:51 -0400"
     }
   ]
 }
