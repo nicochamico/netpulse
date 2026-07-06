@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-06T12:02:55.670096+00:00",
+  "last_success": "2026-07-06T16:18:40.991489+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "published": "Mon, 06 Jul 2026 18:31:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "published": "Mon, 06 Jul 2026 17:00:02 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "published": "Mon, 06 Jul 2026 16:28:16 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
@@ -22,22 +40,16 @@
       "published": "Mon, 06 Jul 2026 12:57:50 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "published": "Mon, 06 Jul 2026 12:03:56 +0530"
+      "source": "BleepingComputer",
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "published": "Mon, 06 Jul 2026 10:00:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "published": "Sat, 04 Jul 2026 18:17:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-      "published": "Sat, 04 Jul 2026 16:47:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "published": "Mon, 06 Jul 2026 09:18:37 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
       "published": "Fri, 03 Jul 2026 10:12:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "published": "Thu, 02 Jul 2026 21:37:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Fable relaunch disappoints users with nerfed performance",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-      "published": "Thu, 02 Jul 2026 20:48:30 -0400"
     }
   ]
 }
