@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-06T16:18:40.991489+00:00",
+  "last_success": "2026-07-06T18:53:29.151499+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Transportation/Logistics",
+      "attackdate": "2026-07-06T16:51:31.491930+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/GbzoPKkEKNZWucBEz8ILCyDUBnkCn0JH",
+      "country": "CA",
+      "data_size": null,
+      "description": "Air Creebec, founded in 1982, is a regional airline company based Waskaganish, Quebec. The company provides regular flights, air charter, medical transportation, and cargo services.",
+      "discovered": "2026-07-06T16:51:47.571751+00:00",
+      "domain": "www.zoominfo.com/c/air-creebec-inc/901712",
+      "group": "chaos",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/786b2108fadc9a24419b43949be20187.png",
+      "url": "https://www.ransomware.live/id/YWlyY3JlZWJlYy5jYUBjaGFvcw==",
+      "victim": "aircreebec.ca"
+    },
     {
       "activity": "Business Services",
       "attackdate": "2026-07-06T14:38:45.430000+00:00",
@@ -12,9 +29,19 @@
       "data_size": null,
       "description": "**Website**: hansaresearch.com\n\n**Revenue**: $22 Million\n\nHansa Research is a global, full-service market research and consumer insights agency. They help companies make data-driven decisions by provi",
       "discovered": "2026-07-06T14:56:41.770684+00:00",
-      "domain": "",
+      "domain": "hansaresearch.com",
       "group": "morpheus",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 5,
+        "update": "2026-07-06T17:22:32.382763",
+        "users": 0,
+        "users_url": 1
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
@@ -410,33 +437,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QXNpc2tlbkBXYWxsc3RyZWV0",
       "victim": "Asisken"
-    },
-    {
-      "activity": "Public Sector",
-      "attackdate": "2026-07-04T18:15:09+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "The Edgewood Police Department is part of the Pierce County Sheriff’s Department, providing public safety and law enforcement services for the city.",
-      "discovered": "2026-07-04T18:20:51.529157+00:00",
-      "domain": "edgewood-fl.gov",
-      "group": "Wallstreet",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-05T19:28:16.002675",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RWRnZXdvb2QgUG9saWNlIERlcGFydG1lbnRAV2FsbHN0cmVldA==",
-      "victim": "Edgewood Police Department"
     }
   ]
 }
