@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-06T18:53:29.151499+00:00",
+  "last_success": "2026-07-06T20:51:22.668776+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "published": "Tue, 07 Jul 2026 00:04:26 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
@@ -34,10 +40,16 @@
       "published": "Mon, 06 Jul 2026 16:28:16 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "published": "Mon, 06 Jul 2026 14:20:54 +0530"
+      "source": "BleepingComputer",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "published": "Mon, 06 Jul 2026 16:27:37 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "published": "Mon, 06 Jul 2026 16:23:45 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Flipper Zero firmware development continues with community help",
       "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
       "published": "Sun, 05 Jul 2026 10:14:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "published": "Sat, 04 Jul 2026 10:16:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "published": "Fri, 03 Jul 2026 13:50:04 -0400"
     }
   ]
 }
