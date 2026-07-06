@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-06T02:57:38.146708+00:00",
+  "last_success": "2026-07-06T07:17:14.648279+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "published": "Mon, 06 Jul 2026 12:03:56 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
@@ -32,12 +38,6 @@
       "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
       "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
       "published": "Sat, 04 Jul 2026 00:25:24 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "published": "Fri, 03 Jul 2026 21:37:15 +0530"
     },
     {
       "source": "BleepingComputer",

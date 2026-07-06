@@ -1,14 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-06T02:57:38.146708+00:00",
+  "last_success": "2026-07-06T07:17:14.648279+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-07-06T06:42:41.109714+00:00",
+      "claim_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/solventa--riskmetrica--calificadora-de-riesgos",
+      "country": "PY",
+      "data_size": null,
+      "description": "Status: upcoming | Files: 0 files | Deadline: 2026-07-08T00:00:00Z",
+      "discovered": "2026-07-06T06:42:57.538761+00:00",
+      "domain": "syr.com.py",
+      "group": "Doommageddon",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-06T06:43:28.333069",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a815cf71ef9524cd6f5c0083f388263f.png",
+      "url": "https://www.ransomware.live/id/U29sdmVudGEgJiBSaXNrbWV0cmljYSB8IENhbGlmaWNhZG9yYSBkZSBSaWVzZ29zQERvb21tYWdlZGRvbg==",
+      "victim": "Solventa & Riskmetrica | Calificadora de Riesgos"
+    },
     {
       "activity": "Energy",
       "attackdate": "2026-07-05T21:35:53.437318+00:00",
       "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/0833681d-0958-4396-ad0e-648449982275",
-      "country": "",
+      "country": "CH",
       "data_size": null,
       "description": "[AI generated] N/A",
       "discovered": "2026-07-05T21:36:46.778344+00:00",
@@ -432,33 +459,6 @@
       "screenshot": "https://images.ransomware.live/victims/110744645546f3d0c6ecd6e3bcab709e.png",
       "url": "https://www.ransomware.live/id/RmVycnVtIEFHQGFudWJpcw==",
       "victim": "Ferrum AG"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-07-03T00:00:00+00:00",
-      "claim_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/f03a75d4c88c0b18f790/",
-      "country": "US",
-      "data_size": null,
-      "description": "A Chemical Production Company",
-      "discovered": "2026-07-05T13:59:07.846000+00:00",
-      "domain": "apexagchem.com",
-      "group": "genesis",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-05T13:58:50",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/010be21a169814763d898ac4311622e3.png",
-      "url": "https://www.ransomware.live/id/QXBleCBBZ3JvLCBMTENAZ2VuZXNpcw==",
-      "victim": "Apex Agro, LLC"
     }
   ]
 }
