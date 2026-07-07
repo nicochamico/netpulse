@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-07T14:27:37.628743+00:00",
+  "last_success": "2026-07-07T17:12:05.779390+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "published": "Tue, 07 Jul 2026 20:44:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "published": "Tue, 07 Jul 2026 19:34:50 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
@@ -28,16 +40,10 @@
       "published": "Tue, 07 Jul 2026 14:40:51 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "published": "Tue, 07 Jul 2026 12:10:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "published": "Tue, 07 Jul 2026 10:46:51 +0530"
+      "source": "BleepingComputer",
+      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+      "published": "Tue, 07 Jul 2026 11:21:21 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "BeyondTrust warns of critical flaws in remote access software",
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
       "published": "Tue, 07 Jul 2026 04:12:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "published": "Tue, 07 Jul 2026 03:37:38 -0400"
     }
   ]
 }
