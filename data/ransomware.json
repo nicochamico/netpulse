@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-07T00:06:02.947696+00:00",
+  "last_success": "2026-07-07T04:50:30.758895+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-06T23:59:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a468fe25ae71db30ca4f6ae",
+      "country": "BR",
+      "data_size": null,
+      "description": "Company operating in the automotive sector. Heavy and agricultural segment. Forming of tubes and welded assemblies. \r Tecnocurva manufactures curved, welded, and stamped tubular assemblies, structural and exhaust pipes, and stamped parts with high technical standards and a total focus on performance.",
+      "discovered": "2026-07-07T00:27:08.593691+00:00",
+      "domain": "tecnocurva.com.br",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-07T00:26:28",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ecd3328120cb9783d90aa8120374a28e.png",
+      "url": "https://www.ransomware.live/id/dGVjbm9jdXJ2YS5jb20uYnJAaW5jcmFuc29t",
+      "victim": "tecnocurva.com.br"
+    },
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-06T23:59:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a4706c25ae71db30cb381c1",
+      "country": "DE",
+      "data_size": null,
+      "description": "Samberger is a long-established medical supply store and sports and analysis center in Munich, offering orthopedic aids, shoe insoles and health products.",
+      "discovered": "2026-07-07T00:26:06.409789+00:00",
+      "domain": "samberger24.de",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-07T00:25:31",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/66e018d2819254519992123341bdd6c8.png",
+      "url": "https://www.ransomware.live/id/c2FtYmVyZ2VyMjQuZGVAaW5jcmFuc29t",
+      "victim": "samberger24.de"
+    },
     {
       "activity": "Business Services",
       "attackdate": "2026-07-06T19:42:42.903066+00:00",
@@ -419,50 +473,6 @@
       "screenshot": "https://images.ransomware.live/victims/d4d4ee95757ab40c6aa4fb8a97b0c3ea.png",
       "url": "https://www.ransomware.live/id/TWF4IEZvcmRoYW1AcWlsaW4=",
       "victim": "Max Fordham"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-06T12:51:24.505780+00:00",
-      "claim_url": "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/page_company.php?id=180",
-      "country": "IR",
-      "data_size": null,
-      "description": "azarestan.com (Azarestan Business Development Group) is a holding company based in Iran. Azaresta...",
-      "discovered": "2026-07-06T12:51:56.956264+00:00",
-      "domain": "azarestan.com",
-      "group": "apt73",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-06T12:51:24",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/YXphcmVzdGFuLmNvbUBhcHQ3Mw==",
-      "victim": "azarestan.com"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-06T12:08:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Entertainment Providers Stolen data: 10 GB",
-      "discovered": "2026-07-06T12:50:20.289580+00:00",
-      "domain": "www.upstaging.com",
-      "group": "Booba Project",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VXBzdGFnaW5nQEJvb2JhIFByb2plY3Q=",
-      "victim": "Upstaging"
     }
   ]
 }
