@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T17:26:45.611774+00:00",
+  "last_success": "2026-07-08T19:21:26.477441+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+      "published": "Wed, 08 Jul 2026 14:56:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
       "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
       "published": "Wed, 08 Jul 2026 12:47:25 -0400"
@@ -68,12 +74,6 @@
       "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
       "published": "Wed, 08 Jul 2026 05:58:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "published": "Wed, 08 Jul 2026 04:15:20 -0400"
     }
   ]
 }
