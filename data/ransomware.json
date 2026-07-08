@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-08T15:19:32.139470+00:00",
+  "last_success": "2026-07-08T17:26:45.611774+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-08T15:26:08.962642+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=0894a7b6-f612-4096-bc99-8ecafeaa427e",
+      "country": "BR",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-08T15:26:34.181642+00:00",
+      "domain": "www.sjlouis.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8e04425bf0df8ff189192e7351af25d4.png",
+      "url": "https://www.ransomware.live/id/Uy5KLiBMb3Vpc0BxaWxpbg==",
+      "victim": "S.J. Louis"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-08T14:55:08.134491+00:00",
@@ -419,23 +436,6 @@
       "screenshot": "https://images.ransomware.live/victims/b661be5a27ea135ded860c09724127e5.png",
       "url": "https://www.ransomware.live/id/TGVjaG5lciBNYXNzaXZoYXVzIEdtYkhAcWlsaW4=",
       "victim": "Lechner Massivhaus GmbH"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-07T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=5163330a-cd61-4240-adf9-a6e97f3f6313",
-      "country": "DE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-07T18:28:52.750935+00:00",
-      "domain": "www.cop-gmbh.de",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cb97c154ffc0e8ebf6b535e21a8cf45c.png",
-      "url": "https://www.ransomware.live/id/Q09Qwq4gVmVydHJpZWJzLUdtYkggWmVudHJhbGVAcWlsaW4=",
-      "victim": "COP® Vertriebs-GmbH Zentrale"
     }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T15:19:32.139470+00:00",
+  "last_success": "2026-07-08T17:26:45.611774+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "published": "Wed, 08 Jul 2026 22:32:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "published": "Wed, 08 Jul 2026 20:37:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
@@ -28,16 +40,10 @@
       "published": "Wed, 08 Jul 2026 17:21:24 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "published": "Wed, 08 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "published": "Wed, 08 Jul 2026 16:51:07 +0530"
+      "source": "BleepingComputer",
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "published": "Wed, 08 Jul 2026 12:47:25 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
       "published": "Wed, 08 Jul 2026 04:15:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-      "published": "Wed, 08 Jul 2026 03:16:55 -0400"
     }
   ]
 }
