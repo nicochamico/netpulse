@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T07:26:36.147326+00:00",
+  "last_success": "2026-07-08T10:14:08.219578+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "published": "Wed, 08 Jul 2026 14:34:33 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
@@ -34,10 +40,16 @@
       "published": "Tue, 07 Jul 2026 20:44:14 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "published": "Tue, 07 Jul 2026 19:34:50 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "published": "Wed, 08 Jul 2026 05:58:11 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "published": "Wed, 08 Jul 2026 04:15:20 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Hidden backdoor in Tenda router firmware grants admin access",
       "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
       "published": "Tue, 07 Jul 2026 13:27:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "published": "Tue, 07 Jul 2026 11:21:21 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "published": "Tue, 07 Jul 2026 10:01:11 -0400"
     }
   ]
 }
