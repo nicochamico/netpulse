@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T10:14:08.219578+00:00",
+  "last_success": "2026-07-08T12:19:22.280906+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "published": "Wed, 08 Jul 2026 17:21:24 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "published": "Wed, 08 Jul 2026 16:51:07 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
@@ -22,22 +40,16 @@
       "published": "Wed, 08 Jul 2026 11:03:12 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "published": "Tue, 07 Jul 2026 22:40:15 +0530"
+      "source": "BleepingComputer",
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "published": "Wed, 08 Jul 2026 08:00:00 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "published": "Tue, 07 Jul 2026 22:07:33 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "published": "Tue, 07 Jul 2026 20:44:14 +0530"
+      "source": "BleepingComputer",
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "published": "Wed, 08 Jul 2026 07:24:16 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
       "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
       "published": "Tue, 07 Jul 2026 18:06:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "published": "Tue, 07 Jul 2026 14:52:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "published": "Tue, 07 Jul 2026 13:27:22 -0400"
     }
   ]
 }
