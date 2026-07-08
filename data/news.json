@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T04:12:27.077011+00:00",
+  "last_success": "2026-07-08T07:26:36.147326+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "published": "Wed, 08 Jul 2026 11:46:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "published": "Wed, 08 Jul 2026 11:03:12 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
@@ -28,16 +40,10 @@
       "published": "Tue, 07 Jul 2026 19:34:50 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-      "published": "Tue, 07 Jul 2026 18:57:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
-      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-      "published": "Tue, 07 Jul 2026 18:57:09 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "published": "Wed, 08 Jul 2026 03:16:55 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
       "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
       "published": "Tue, 07 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "published": "Tue, 07 Jul 2026 08:12:20 -0400"
     }
   ]
 }
