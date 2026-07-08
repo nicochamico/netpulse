@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-08T19:21:26.477441+00:00",
+  "last_success": "2026-07-08T21:04:43.312004+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+      "published": "Wed, 08 Jul 2026 15:54:59 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
       "published": "Wed, 08 Jul 2026 14:56:02 -0400"
@@ -68,12 +74,6 @@
       "title": "Telco giant KDDI says data breach affects over 12 million people",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
       "published": "Wed, 08 Jul 2026 07:24:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "published": "Wed, 08 Jul 2026 05:58:11 -0400"
     }
   ]
 }
