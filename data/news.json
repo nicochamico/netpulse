@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-09T16:25:56.442183+00:00",
+  "last_success": "2026-07-09T18:48:57.964504+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "published": "Fri, 10 Jul 2026 00:08:49 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "published": "Thu, 09 Jul 2026 23:38:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "published": "Thu, 09 Jul 2026 22:19:02 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "published": "Thu, 09 Jul 2026 20:39:28 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
@@ -16,28 +40,16 @@
       "published": "Thu, 09 Jul 2026 16:30:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "published": "Thu, 09 Jul 2026 16:13:09 +0530"
+      "source": "BleepingComputer",
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "published": "Thu, 09 Jul 2026 13:08:29 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "published": "Thu, 09 Jul 2026 14:18:48 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-      "published": "Thu, 09 Jul 2026 12:51:06 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "published": "Thu, 09 Jul 2026 10:45:02 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "published": "Thu, 09 Jul 2026 13:00:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
       "published": "Thu, 09 Jul 2026 05:47:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "published": "Thu, 09 Jul 2026 03:47:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "published": "Thu, 09 Jul 2026 01:42:49 -0400"
     }
   ]
 }
