@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-09T18:48:57.964504+00:00",
+  "last_success": "2026-07-09T20:45:21.602622+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-07-09T19:20:20.891259+00:00",
+      "claim_url": "",
+      "country": "GB",
+      "data_size": null,
+      "description": "Finance Yorkshire provides funding solutions for small and medium-sized enterprises (SMEs) located in or planning to relocate to Yorkshire. Their offerings include business loans ranging from £25,000 to £250,000, equity-linked investments, and seedcorn startup finance, with a focus on supporting growth and innovation. The organization aims to invest over £50 million in the region over the next five years, targeting businesses that seek to expand, create jobs, and enhance productivity. With a legacy of successful investments, Finance Yorkshire is dedicated to fostering the development of technology and knowledge-based companies.",
+      "discovered": "2026-07-09T19:20:22.583117+00:00",
+      "domain": "www.finance-yorkshire.com",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RmluYW5jZSBZb3Jrc2hpcmVAY21kb3JnYW5pemF0aW9u",
+      "victim": "Finance Yorkshire"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-09T17:26:59.758449+00:00",
@@ -406,33 +423,6 @@
       "screenshot": "https://images.ransomware.live/victims/8e04425bf0df8ff189192e7351af25d4.png",
       "url": "https://www.ransomware.live/id/Uy5KLiBMb3Vpc0BxaWxpbg==",
       "victim": "S.J. Louis"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-08T14:55:08.134491+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/cff99e0ccf21ac4aa31288af8d0cc04b21b86ff674e9742c30e81e6261b4e256/",
-      "country": "CN",
-      "data_size": null,
-      "description": "Shanghai Xuerong Biotechnology Co., Ltd. (上海雪榕生物科技股份有限公司), formerly known as Shanghai Gaoron...",
-      "discovered": "2026-07-08T14:55:28.464430+00:00",
-      "domain": "xuerong.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-08T14:55:08",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7415c6207c966e02666aa0108e6dfb7e.png",
-      "url": "https://www.ransomware.live/id/eHVlcm9uZy5jb21Aa3J5Yml0",
-      "victim": "xuerong.com"
     }
   ]
 }

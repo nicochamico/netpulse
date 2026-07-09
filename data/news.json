@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-09T18:48:57.964504+00:00",
+  "last_success": "2026-07-09T20:45:21.602622+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "published": "Thu, 09 Jul 2026 16:10:00 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "published": "Thu, 09 Jul 2026 13:08:29 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft to retire the OWA Light client in Exchange Server",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
       "published": "Thu, 09 Jul 2026 07:00:35 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "published": "Thu, 09 Jul 2026 05:47:28 -0400"
     }
   ]
 }
