@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-09T20:45:21.602622+00:00",
+  "last_success": "2026-07-09T22:20:06.844575+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
+      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
+      "published": "Thu, 09 Jul 2026 18:14:13 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
       "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
       "published": "Thu, 09 Jul 2026 16:10:00 -0400"
@@ -68,12 +74,6 @@
       "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
       "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
       "published": "Thu, 09 Jul 2026 10:02:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "published": "Thu, 09 Jul 2026 07:00:35 -0400"
     }
   ]
 }
