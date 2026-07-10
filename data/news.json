@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-10T14:20:16.560935+00:00",
+  "last_success": "2026-07-10T16:54:12.285196+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "published": "Fri, 10 Jul 2026 20:21:49 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "published": "Fri, 10 Jul 2026 19:49:50 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
@@ -28,16 +40,28 @@
       "published": "Fri, 10 Jul 2026 17:00:02 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "published": "Fri, 10 Jul 2026 16:26:23 +0530"
+      "source": "BleepingComputer",
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "published": "Fri, 10 Jul 2026 12:37:01 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "published": "Fri, 10 Jul 2026 16:00:20 +0530"
+      "source": "BleepingComputer",
+      "title": "Progress urges ShareFile customers to shut down servers over \"credible\" threat",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "published": "Fri, 10 Jul 2026 12:26:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "published": "Fri, 10 Jul 2026 11:48:38 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "published": "Fri, 10 Jul 2026 11:30:19 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Zimbra urges customers to patch critical web client XSS flaw",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "published": "Fri, 10 Jul 2026 07:47:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "published": "Fri, 10 Jul 2026 04:17:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-      "published": "Thu, 09 Jul 2026 18:14:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-      "published": "Thu, 09 Jul 2026 16:10:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "published": "Thu, 09 Jul 2026 13:08:29 -0400"
     }
   ]
 }

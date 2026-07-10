@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-10T14:20:16.560935+00:00",
+  "last_success": "2026-07-10T16:54:12.285196+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-07-10T15:57:05.622957+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=63fc378c-2a9e-4383-82fd-e8075df9a758",
+      "country": "MA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-10T15:57:41.264897+00:00",
+      "domain": "www.eurodefis.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/69761099489a1f1bf5b39d432bd00af2.png",
+      "url": "https://www.ransomware.live/id/RXVyb2RlZmlAcWlsaW4=",
+      "victim": "Eurodefi"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-07-10T15:26:03.706341+00:00",
+      "claim_url": "http://t26owzk2773mecpebt4l2eztx6lvn5642fn7annaynq7vwvb6wonkrid.onion/index.php?p=",
+      "country": "US",
+      "data_size": null,
+      "description": "Borger Independent School District serves approximately 2,500 students on six campuses in Hutchinson County, Texas. The district fails to foster a collaborative environment for students, parents, and the community. They are not responsible or committed to ensuring the security of your data. This is not the first time they have neglected their students, with confidential information about staff, students, and their parents, as well as all incidents, the district's financial situation, and other information they concealed, leaking online. We offer you 330 GB of this information.",
+      "discovered": "2026-07-10T15:26:21.459274+00:00",
+      "domain": "borgerisd.net",
+      "group": "interlock",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 5,
+        "update": "2026-07-10T15:26:03",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f8ed78eb1f995dec16e179242de98292.png",
+      "url": "https://www.ransomware.live/id/Qm9yZ2VyIElTREBpbnRlcmxvY2s=",
+      "victim": "Borger ISD"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-10T13:26:53.636858+00:00",
@@ -399,40 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/d245583067659733aaaeb89e42c113b0.png",
       "url": "https://www.ransomware.live/id/M0dpIFNvbHV0aW9ucywgaXMgYW4gSVQgU2VydmljZXMgUHJvdmlkZXIgbG9jYXRlZCBpbiBNb250cmVhbCwgUXVlYmVjLkBEZWFkbG9jaw==",
       "victim": "3Gi Solutions, is an IT Services Provider located in Montreal, Quebec."
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-10T13:09:39.853097+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/44d7f179-1705-48b8-a021-7b684a75e456",
-      "country": "BR",
-      "data_size": null,
-      "description": "Werken Química Brasil S.A. is a company specializing in the development and supply of chemical products, headquartered in Indaial, Santa Catarina. It operates primarily within the textile industry, offering solutions for pretreatment, dyeing, printing, yarn lubrication, and effluent treatment, with a focus on functional technologies.",
-      "discovered": "2026-07-10T13:09:41.919621+00:00",
-      "domain": "www.werken.com.br",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0aa03e5418a3e05f92949ebcdf218881.png",
-      "url": "https://www.ransomware.live/id/V2Vya2VuIFF1w61taWNhIEJyYXNpbCBTLkEuQERlYWRsb2Nr",
-      "victim": "Werken Química Brasil S.A."
-    },
-    {
-      "activity": "Public Sector",
-      "attackdate": "2026-07-10T13:09:18.992027+00:00",
-      "claim_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion/s3.php?d=d2FzYWJpOnppZGxvY2hvdmljZS5jenxldS1jZW50cmFsLTF8QjJPVElQV01GWlRWUkNHQjJNMDF8VnEybFhGdldXU053aVMyVmlhYlR1WHpzVldYakxIQkJaNlZCTHBxcQ%3D%3D",
-      "country": "CZ",
-      "data_size": null,
-      "description": "Internal city administration documents have been leaked. Personal data from the database will be sold on darknet forums. Mayor 'Jan Vitula' claims the attack was prevented and no data was stolen. An investigation has been launched with the police, and countermeasures are being taken. =) xD In press: https://www.denik.cz/regiony/zidlochovice-hackeri-kyberneticky-utok-vykupne-data-software-ransomware-kldr.html https://www.irozhlas.cz/zpravy-domov/poslete-bitcoiny-nebo-vas-nepustime-k-datum-urad-v-zidlochovicich-zjistuje-skody_2603172012_bva https://www.***.cz/cs/aktuality/dulezite-upozorneni-mimoradne-uzavreni-meu.html Over 150 gigabytes of internal data",
-      "discovered": "2026-07-10T13:09:20.876310+00:00",
-      "domain": "www.zidlochovice.cz",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ce47069c51e8fc705cfe4574ff4b9ed7.png",
-      "url": "https://www.ransomware.live/id/xb1pZGxvY2hvdmljZSBjaXR5QERlYWRsb2Nr",
-      "victim": "Židlochovice city"
     }
   ]
 }
