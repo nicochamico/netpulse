@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-10T00:02:09.327069+00:00",
+  "last_success": "2026-07-10T04:49:22.662219+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-10T03:24:27.052375+00:00",
+      "claim_url": "",
+      "country": "ES",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-10T03:24:28.917422+00:00",
+      "domain": "new-tiles.com",
+      "group": "gunra",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-10T03:24:26",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TmV3IFRpbGVzIFMuTC5AZ3VucmE=",
+      "victim": "New Tiles S.L."
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-10T02:56:58.705976+00:00",
+      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/hynet",
+      "country": "GB",
+      "data_size": null,
+      "description": "Hynet helps businesses protect and manage their most important asset: information. With a team of skilled tech experts, they solve complex IT challenges by providing smart data storage and network security services. Their remote team works closely with clients to improve productivity and keep company data safe from growing digital threats - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+      "discovered": "2026-07-10T02:57:59.060098+00:00",
+      "domain": "",
+      "group": "nova",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/839f654f9193503304e4b054dd3509bc.png",
+      "url": "https://www.ransomware.live/id/SHluZXRAbm92YQ==",
+      "victim": "Hynet"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-07-09T19:20:20.891259+00:00",
@@ -389,40 +433,6 @@
       "screenshot": "https://images.ransomware.live/victims/e460e1583ef257df9e71d6d5c02e886a.png",
       "url": "https://www.ransomware.live/id/UGVsaWdybyBTcG9ydHNAcWlsaW4=",
       "victim": "Peligro Sports"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-09T00:00:00+00:00",
-      "claim_url": "",
-      "country": "MX",
-      "data_size": null,
-      "description": "Pinturas PRISA is a Mexican company from the state of Jalisco with nearly 80 years of history, specializing in the production of high-quality paints and coatings for industrial sectors (automotive, woodworking, manufacturing) and retail customers.",
-      "discovered": "2026-07-09T08:20:07.194384+00:00",
-      "domain": "",
-      "group": "AiLock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UGludHVyYXMgUHJpc2FAQWlMb2Nr",
-      "victim": "Pinturas Prisa"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-08T15:26:08.962642+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=0894a7b6-f612-4096-bc99-8ecafeaa427e",
-      "country": "BR",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-08T15:26:34.181642+00:00",
-      "domain": "www.sjlouis.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8e04425bf0df8ff189192e7351af25d4.png",
-      "url": "https://www.ransomware.live/id/Uy5KLiBMb3Vpc0BxaWxpbg==",
-      "victim": "S.J. Louis"
     }
   ]
 }
