@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-10T08:20:10.855880+00:00",
+  "last_success": "2026-07-10T11:49:20.689253+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "published": "Fri, 10 Jul 2026 14:30:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "published": "Fri, 10 Jul 2026 13:40:12 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -28,16 +40,10 @@
       "published": "Thu, 09 Jul 2026 20:39:28 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "published": "Thu, 09 Jul 2026 17:56:58 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Summer of Clearinghouses",
-      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-      "published": "Thu, 09 Jul 2026 16:30:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "published": "Fri, 10 Jul 2026 07:47:38 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
       "published": "Thu, 09 Jul 2026 13:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "published": "Thu, 09 Jul 2026 10:39:51 -0400"
     }
   ]
 }

@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-10T08:20:10.855880+00:00",
+  "last_success": "2026-07-10T11:49:20.689253+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-10T09:53:15+00:00",
+      "claim_url": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion/blog?uuid=5e7268b2-200b-3bbc-87d1-c4add2955fb3",
+      "country": "CN",
+      "data_size": null,
+      "description": "Confidential data will be released soon.",
+      "discovered": "2026-07-10T10:53:44.840128+00:00",
+      "domain": "txdkj.com",
+      "group": "blackwater",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-10T10:53:28",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/18e9f5b78c642267712b2f753a1e550e.png",
+      "url": "https://www.ransomware.live/id/dHhka2ouY29tQGJsYWNrd2F0ZXI=",
+      "victim": "txdkj.com"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-10T08:20:14.321991+00:00",
+      "claim_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/hospital-di-camp",
+      "country": "",
+      "data_size": null,
+      "description": "Status: upcoming | Data size: N/A | Files: 0 files | Deadline: 2026-07-21T00:00:00Z",
+      "discovered": "2026-07-10T08:20:29.041483+00:00",
+      "domain": "",
+      "group": "Doommageddon",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a792bf72caeffdf933678f7617ac40e5.png",
+      "url": "https://www.ransomware.live/id/SG9zcGl0YWwgRGkgQ2FtcEBEb29tbWFnZWRkb24=",
+      "victim": "Hospital Di Camp"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-07-10T03:24:27.052375+00:00",
@@ -399,40 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/a5308277d24925b008466ac85686be80.png",
       "url": "https://www.ransomware.live/id/VG9wIE5vdGNoIERlbnRpc3RyeSBvZiBEYWxsYXNAQ1JQeE8=",
       "victim": "Top Notch Dentistry of Dallas"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-09T06:40:11.543168+00:00",
-      "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=benjamin-wang-ddc",
-      "country": "US",
-      "data_size": null,
-      "description": "Sector: Medical | Data leaked: 1.2 GB",
-      "discovered": "2026-07-09T06:40:37.871389+00:00",
-      "domain": "",
-      "group": "CRPxO",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d99573019faed6f713a831945180b732.png",
-      "url": "https://www.ransomware.live/id/QmVuamFtaW4gSC4gV2FuZyBERFMgSW5jLkBDUlB4Tw==",
-      "victim": "Benjamin H. Wang DDS Inc."
-    },
-    {
-      "activity": "Consumer Services",
-      "attackdate": "2026-07-09T05:27:29.187201+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=55e65e6a-8abe-400a-af69-a5afda4c8eca",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-09T05:27:52.300517+00:00",
-      "domain": "www.peligrosportsnyc.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e460e1583ef257df9e71d6d5c02e886a.png",
-      "url": "https://www.ransomware.live/id/UGVsaWdybyBTcG9ydHNAcWlsaW4=",
-      "victim": "Peligro Sports"
     }
   ]
 }
