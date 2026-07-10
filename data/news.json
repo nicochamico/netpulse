@@ -1,13 +1,19 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-10T18:21:37.984157+00:00",
+  "last_success": "2026-07-10T20:20:45.929604+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "published": "Fri, 10 Jul 2026 22:00:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
       "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "published": "Fri, 10 Jul 2026 22:59:28 +0530"
+      "published": "Fri, 10 Jul 2026 21:59:00 +0530"
     },
     {
       "source": "The Hacker News",
@@ -32,12 +38,6 @@
       "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
       "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
       "published": "Fri, 10 Jul 2026 18:45:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "published": "Fri, 10 Jul 2026 17:17:43 +0530"
     },
     {
       "source": "BleepingComputer",
