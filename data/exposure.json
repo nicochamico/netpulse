@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T13:35:57.166709+00:00",
+  "generated_at": "2026-07-10T16:07:07.915576+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -20,7 +20,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one"
+        "one.one.one.one",
+        "www.pglsgd.kerala.gov.in",
+        "mail.okmanuf.ru"
       ]
     },
     {
