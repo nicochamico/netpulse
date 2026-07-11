@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-11T05:38:16.236373+00:00",
+  "last_success": "2026-07-11T07:51:24.067832+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "published": "Sat, 11 Jul 2026 12:15:55 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
@@ -32,12 +38,6 @@
       "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
       "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
       "published": "Fri, 10 Jul 2026 19:49:50 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "published": "Fri, 10 Jul 2026 18:45:23 +0530"
     },
     {
       "source": "BleepingComputer",
