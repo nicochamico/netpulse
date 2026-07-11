@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-11T14:50:40.399085+00:00",
+  "last_success": "2026-07-11T15:53:21.752513+00:00",
   "count": 100,
   "items": [
     {
@@ -149,6 +149,23 @@
       "screenshot": "https://images.ransomware.live/victims/f8ed78eb1f995dec16e179242de98292.png",
       "url": "https://www.ransomware.live/id/Qm9yZ2VyIElTREBpbnRlcmxvY2s=",
       "victim": "Borger ISD"
+    },
+    {
+      "activity": "Construction",
+      "attackdate": "2026-07-10T15:06:02.067570+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=71752b28-6410-4be5-b260-ffa493fdc9d3",
+      "country": "AU",
+      "data_size": null,
+      "description": "Access Group International is a leading privately owned provider of access, material handling, power generation, and construction equipment. The company is dedicated to safety, performance, and reliability, serving Australia's demanding industries with dependable equipment and expertise. Their integrated services include maintenance, OEM manufacturing, transport, logistics, and workforce solutions, allowing for seamless project support. With a focus on adaptability and tailored solutions, Access Group International is a trusted partner for projects of all sizes.",
+      "discovered": "2026-07-11T15:25:06.066641+00:00",
+      "domain": "www.accessgroup.net.au",
+      "group": "dragonforce",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9b64e6ace1529f1fe1b677cf1641dc48.png",
+      "url": "https://www.ransomware.live/id/QWNjZXNzIEVxdWlwbWVudCBIaXJlQGRyYWdvbmZvcmNl",
+      "victim": "Access Equipment Hire"
     },
     {
       "activity": "Not Found",
@@ -376,23 +393,6 @@
       "screenshot": "https://images.ransomware.live/victims/615ac017450a4b0e7583b9b5ea24f26e.png",
       "url": "https://www.ransomware.live/id/V0ggTcO8bGxlckBEZWFkbG9jaw==",
       "victim": "WH Müller"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-10T13:12:09.536069+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/16533b83-d9f6-4717-abe3-8adb93f7b763",
-      "country": "US",
-      "data_size": null,
-      "description": "Doctus offers top-tier medical records services in the USA, specializing in the management and organization of medical documentation.",
-      "discovered": "2026-07-10T13:12:11.758659+00:00",
-      "domain": "www.doctususa.com",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b98aa022d5c27f1a6d7e463293848634.png",
-      "url": "https://www.ransomware.live/id/RE9DVFVTIFVTQSBJbmNARGVhZGxvY2s=",
-      "victim": "DOCTUS USA Inc"
     }
   ]
 }
