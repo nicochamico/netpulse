@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-11T09:26:19.023545+00:00",
+  "last_success": "2026-07-11T11:02:36.701336+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy",
+      "attackdate": "2026-07-11T10:50:28.080537+00:00",
+      "claim_url": "",
+      "country": "GH",
+      "data_size": null,
+      "description": "Wassa is located in south-western Ghana. Golden Star commenced production from the surface operation at Wassa in 2005 and commercial production was achieved at Wassa Underground on January 1, 2017. In early 2018 Wassa transitioned into an underground-focused operation. Thanks to the scale of the historical open pit mining operation the processing plant has significant excess capacity and is currently only running at 70-80% (based on 2020 actuals) utilization. Development of the large inferred mineral resource which comprises the southern Extension zone, was the subject of a Preliminary Economic Assessment which was included in the March 2021 Technical Report. Given the scale of the resource at Wassa, the Company is exploring the potential to increase the mining rate in order to fill the mill.",
+      "discovered": "2026-07-11T10:50:29.730582+00:00",
+      "domain": "www.gsr.com",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/R29sZGVuIFN0YXIgUmVzb3VyY2VzQGNtZG9yZ2FuaXphdGlvbg==",
+      "victim": "Golden Star Resources"
+    },
     {
       "activity": "Construction",
       "attackdate": "2026-07-10T21:26:03.370903+00:00",
@@ -416,33 +433,6 @@
       "screenshot": "https://images.ransomware.live/victims/90296102ab68fae860f22d026b131389.png",
       "url": "https://www.ransomware.live/id/QWJoYXkgUHJhYmhhdmFuYUBEZWFkbG9jaw==",
       "victim": "Abhay Prabhavana"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-10T13:10:23.969682+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/4d566f56-112b-4ae5-bc14-af224bba2b37",
-      "country": "TR",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-10T13:10:26.975500+00:00",
-      "domain": "gmm.com.tr",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-10T13:10:23",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/da96289c7079d9cd7c24d26eb83b370d.png",
-      "url": "https://www.ransomware.live/id/R8O8dmVuIE3DvGhlbmRpc2xpayBNYWtpbmFARGVhZGxvY2s=",
-      "victim": "Güven Mühendislik Makina"
     }
   ]
 }
