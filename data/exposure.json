@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:28:37.852226+00:00",
+  "generated_at": "2026-07-11T14:02:52.992108+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "www.pglsgd.kerala.gov.in",
-        "mail.okmanuf.ru"
+        "frwebauth.net.sas.com",
+        "le-rcsd-al.schoolloop.com"
       ]
     },
     {
