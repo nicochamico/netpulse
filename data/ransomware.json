@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-12T17:02:41.870288+00:00",
+  "last_success": "2026-07-12T19:01:41.985045+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy",
+      "attackdate": "2026-07-12T17:00:35.413649+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=2aedf0cd-9031-4333-aa3b-3b775041d7d3",
+      "country": "RO",
+      "data_size": null,
+      "description": "STEP Oiltools is a leading global provider of solids control and drilling waste management services, primarily serving the oil and gas and civil engineering industries. The company offers a range of products including mini separation systems, modular recyclers, and dewatering systems, aimed at enhancing efficiency and sustainability in drilling operations. With a commitment to health and safety, STEP Oiltools has received recognition for its high standards in workplace safety. Their clientele includes major players in the energy sector, civil construction, and water treatment markets.",
+      "discovered": "2026-07-12T17:55:01.344752+00:00",
+      "domain": "stepoiltools.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-12T17:54:55",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U1RFUCBPaWx0b29sc0BkcmFnb25mb3JjZQ==",
+      "victim": "STEP Oiltools"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-12T16:59:17.464674+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=7dc6bb41-0cc2-4c0a-8b60-dffc1a57317a",
+      "country": "SA",
+      "data_size": null,
+      "description": "Al Saidi Al Saidi Trading and Industry is a prominent group of companies providing tailored chemical and logistics solutions primarily for clients in the Middle East. They offer a comprehensive range of global logistics services, including supply chain management and freight forwarding, designed to enhance business efficiency. Additionally, the company specializes in manufacturing chemicals for the Oil & Gas and petrochemical industries, focusing on reliability and sustainability. With a commitment to high-quality, environmentally friendly products, Al Saidi aims to support clients in maximizing their operational effectiveness.",
+      "discovered": "2026-07-12T17:55:26.704310+00:00",
+      "domain": "alsaidi.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-12T17:55:23",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWwgLSBTYWlkaSBGYWN0b3J5QGRyYWdvbmZvcmNl",
+      "victim": "Al - Saidi Factory"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-12T13:01:22.589962+00:00",
@@ -369,60 +423,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2F0Y29ycEBEZWFkbG9jaw==",
       "victim": "Catcorp"
-    },
-    {
-      "activity": "Construction",
-      "attackdate": "2026-07-10T13:14:48.947189+00:00",
-      "claim_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion/s3.php?d=d2FzYWJpOndlaW5iZXJnLmh1fGV1LWNlbnRyYWwtMXxBWkg0WUIzNTkxNExCREpFS0tKQnxFekw0emNQbUZLdXU3YXI3dzVmWmUzenBFMHZlOE5ET1JucHpCYVBB",
-      "country": "HU",
-      "data_size": null,
-      "description": "Weinberg ''93 Építő Kft., a prominent Hungarian construction and steel fabrication company. Overview: Founded in 1993 and headquartered in Sбrospatak, it is a 100% privately owned Hungarian company. Core Services: The firm specializes in general contracting and the manufacture of complex steel structures. Major Projects: They have handled significant industrial developments, including: - Volvo Trucks Hungary: Completed a 5,500 mІ advanced truck center in Ecser. - Continental Automotive: Construction of electronics manufacturing plants. - East Gate PRO Business Park: Developed BREEAM-certified sustainable warehouses. - Becton Dickinson: Expansion of a major syringe factory in Hungary. Recognitions: The company has received numerous awards, such as the Lechner Цdцn Award (2024) and the Steel Structure Award (2022). Over 650 gigabytes of sensitive internal data were stolen from this company: all commercial information about contractors, information about specialized construction technologies and metal structure production, internal financial transactions, and operations demonstrating corruption in construction projects. We invite all journalists, lawyers, and law enforcement agencies to review this information.",
-      "discovered": "2026-07-10T13:14:50.464738+00:00",
-      "domain": "weinberg.hu",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 3,
-        "update": "2026-07-10T13:14:48",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3c8438e6e6199bda09bc8eac197ea405.png",
-      "url": "https://www.ransomware.live/id/V2VpbmJlcmcgJyc5MyDDiXDDrXTFkSBLZnQuQERlYWRsb2Nr",
-      "victim": "Weinberg ''93 Építő Kft."
-    },
-    {
-      "activity": "Public Sector",
-      "attackdate": "2026-07-10T13:14:27.732787+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/756b97e0-6273-42e6-9cb0-9c78a9557b67",
-      "country": "US",
-      "data_size": null,
-      "description": "The Morton Grove Park District (MGPD) is a separate municipal agency established in 1951, governed by five elected commissioners and subject to Illinois state laws. Their motto is: Everyone who lives in, works in, or visits Morton Grove has constitutional rights, no matter their citizenship or immigration status. The Village is committed to making sure every person feels safe, supported, and respected. More than 50 GB of data containing personal and sensitive information belonging to both internal employees and the organization's clients and suppliers. Documents on financial plans and internal policies are protected by a non-disclosure policy. (Including racist and sexist insights) We invite all journalists, lawyers, and law enforcement agencies to review this information.",
-      "discovered": "2026-07-10T13:14:29.947231+00:00",
-      "domain": "mortongroveparks.com",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-10T13:14:27",
-        "users": 7,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d9acf218032c2467f914793429a7646a.png",
-      "url": "https://www.ransomware.live/id/VGhlIE1vcnRvbiBHcm92ZSBQYXJrIERpc3RyaWN0QERlYWRsb2Nr",
-      "victim": "The Morton Grove Park District"
     }
   ]
 }
