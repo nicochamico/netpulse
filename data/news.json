@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-12T19:01:41.985045+00:00",
+  "last_success": "2026-07-12T20:43:32.818819+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "published": "Sun, 12 Jul 2026 15:39:12 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
       "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
       "published": "Sun, 12 Jul 2026 10:27:32 -0400"
@@ -68,12 +74,6 @@
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
       "published": "Fri, 10 Jul 2026 13:46:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police suspects Dutch hackers were involved in Odido breach",
-      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-      "published": "Fri, 10 Jul 2026 12:37:01 -0400"
     }
   ]
 }

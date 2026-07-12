@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-12T19:01:41.985045+00:00",
+  "last_success": "2026-07-12T20:43:32.818819+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-12T19:20:25.203066+00:00",
+      "claim_url": "",
+      "country": "ES",
+      "data_size": null,
+      "description": "Aldaco is a Spanish company specializing in industrial engineering, construction materials, civil engineering, mining and labor security, with seats in Asturias, Galicia and Madrid. The company distributes machines and technical tools, offers specialized asesoramients and support for professional projects.",
+      "discovered": "2026-07-12T19:20:26.738726+00:00",
+      "domain": "aldacogrupoavance.es",
+      "group": "Deadlock",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-12T19:20:25",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWxkYWNvIEF2YW5jZSAyMDIyIFMuTC5ARGVhZGxvY2s=",
+      "victim": "Aldaco Avance 2022 S.L."
+    },
     {
       "activity": "Energy",
       "attackdate": "2026-07-12T17:00:35.413649+00:00",
@@ -406,23 +433,6 @@
       "screenshot": "https://images.ransomware.live/victims/7e16c792e581418586842b9fa005c99e.png",
       "url": "https://www.ransomware.live/id/TmF2YW5hIFJlYWwgRXN0YXRlQHFpbGlu",
       "victim": "Navana Real Estate"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-10T13:15:09.460369+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Business direction: Mew mew",
-      "discovered": "2026-07-10T13:15:10.940807+00:00",
-      "domain": "",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2F0Y29ycEBEZWFkbG9jaw==",
-      "victim": "Catcorp"
     }
   ]
 }
