@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T12:38:23.084775+00:00",
+  "generated_at": "2026-07-12T14:15:30.942210+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "frwebauth.net.sas.com",
-        "le-rcsd-al.schoolloop.com"
+        "wlc.ynap.com",
+        "wlc.asdk12.org"
       ]
     },
     {
