@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-12T08:14:24.250781+00:00",
+  "last_success": "2026-07-12T10:25:47.945903+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-12T09:22:11.331671+00:00",
+      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/and-other-company-heads-ixu0o85yt7",
+      "country": "CZ",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-12T09:22:29.394967+00:00",
+      "domain": "ghz-shop.cz",
+      "group": "titan",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-12T09:25:45.615966",
+        "users": 0,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6d0dd5d86e76ccaa8df71dcbea91c7e5.png",
+      "url": "https://www.ransomware.live/id/Q29vcGVyYXRlIHNlcnZpY2UgQ1ogcy5yLm8uQHRpdGFu",
+      "victim": "Cooperate service CZ s.r.o."
+    },
+    {
+      "activity": "Construction",
+      "attackdate": "2026-07-12T09:21:41.023111+00:00",
+      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/eureka-construction-inc-6mdwho3d0m",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-12T09:22:00.220767+00:00",
+      "domain": "eurekaconst.com",
+      "group": "titan",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-12T09:26:12.088884",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d24fd361caee8e970c8ebdf37ac59faf.png",
+      "url": "https://www.ransomware.live/id/RXVyZWthIENvbnN0cnVjdGlvbiBJTkNAdGl0YW4=",
+      "victim": "Eureka Construction INC"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-07-11T13:34:52.828675+00:00",
@@ -349,50 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/915bc06574c99112f06669863b272fee.png",
       "url": "https://www.ransomware.live/id/V2lCZWF0cyBTLnIubC5ARGVhZGxvY2s=",
       "victim": "WiBeats S.r.l."
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-10T13:13:01.608578+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/5cef915e-9de4-4e46-ab3e-61aa2fb557f5",
-      "country": "MX",
-      "data_size": null,
-      "description": "Grupo Vanguardia is an automotive group",
-      "discovered": "2026-07-10T13:13:03.243903+00:00",
-      "domain": "grupovanguardia.com",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-07-10T13:13:01",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/db9dd21037b335ac7d7b31308191f455.png",
-      "url": "https://www.ransomware.live/id/R3J1cG8gVmFuZ3VhcmRpYUBEZWFkbG9jaw==",
-      "victim": "Grupo Vanguardia"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-10T13:12:33.177931+00:00",
-      "claim_url": "https://www.swisstransfer.com/d/82bede2b-0f53-4644-9801-6a68a1c4a605",
-      "country": "DE",
-      "data_size": null,
-      "description": "WH Müller is a family business in the field of electrical engineering and IT technology.",
-      "discovered": "2026-07-10T13:12:42.701332+00:00",
-      "domain": "www.whm.de",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/615ac017450a4b0e7583b9b5ea24f26e.png",
-      "url": "https://www.ransomware.live/id/V0ggTcO8bGxlckBEZWFkbG9jaw==",
-      "victim": "WH Müller"
     }
   ]
 }
