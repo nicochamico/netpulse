@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-13T18:42:00.552381+00:00",
+  "last_success": "2026-07-13T20:12:58.387396+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "published": "Mon, 13 Jul 2026 15:44:19 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "published": "Mon, 13 Jul 2026 15:04:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
       "published": "Mon, 13 Jul 2026 11:20:16 -0400"
@@ -62,18 +74,6 @@
       "title": "UK charges suspects linked to Russian Coms call spoofing platform",
       "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
       "published": "Mon, 13 Jul 2026 09:23:30 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-      "published": "Mon, 13 Jul 2026 07:19:05 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "published": "Mon, 13 Jul 2026 05:32:23 -0400"
     }
   ]
 }

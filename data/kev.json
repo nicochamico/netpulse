@@ -1,9 +1,26 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-13T18:42:00.552381+00:00",
-  "count": 1637,
+  "last_success": "2026-07-13T20:12:58.387396+00:00",
+  "count": 1638,
   "items": [
+    {
+      "cveID": "CVE-2008-4128",
+      "vendorProject": "Cisco",
+      "product": "IOS",
+      "vulnerabilityName": "Cisco IOS Cross-Site Request Forgery Vulnerability",
+      "dateAdded": "2026-07-13",
+      "shortDescription": "Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain \"show privilege\" command to the /level/15/exec/- URI, and (2) a certain \"alias exec\" command to the /level/15/exec/-/configure/http URI.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-16",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://www.cisco.com/c/en/us/obsolete/ios-nx-os-software/cisco-ios-software-releases-12-4-mainline.html ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2008-4128",
+      "cwes": [
+        "CWE-352"
+      ],
+      "epss": 0.12036,
+      "epss_percentile": 0.95649
+    },
     {
       "cveID": "CVE-2026-56291",
       "vendorProject": "Balbooa",
@@ -157,23 +174,6 @@
       ],
       "epss": 0.01247,
       "epss_percentile": 0.6585
-    },
-    {
-      "cveID": "CVE-2026-20230",
-      "vendorProject": "Cisco",
-      "product": "Unified Communications Manager",
-      "vulnerabilityName": "Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
-      "dateAdded": "2026-06-25",
-      "shortDescription": "Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-06-28",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-cucm-ssrf-cXPnHcW.html ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-20230",
-      "cwes": [
-        "CWE-918"
-      ],
-      "epss": 0.41694,
-      "epss_percentile": 0.98523
     }
   ]
 }
