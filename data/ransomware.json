@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-12T23:51:17.125473+00:00",
+  "last_success": "2026-07-13T02:34:41.217812+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-12T23:50:21.320068+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Els for Autism Foundation, founded by Liezl and Ernie Els, offers programs and resources for adults and children with autism spectrum disorder (ASD). The Els Center of Excellence campus is a world-class site hosting leading-edge programs and services for individuals with autism. Based in Jupiter, Florida, The Els Center of Excellence is on track to be a global leader in the field of autism and a leading example of what can be available to individuals on the spectrum.",
+      "discovered": "2026-07-12T23:50:22.758258+00:00",
+      "domain": "www.elsforautism.org",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RWxzIGZvciBBdXRpc21AY21kb3JnYW5pemF0aW9u",
+      "victim": "Els for Autism"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-12T22:22:50.450271+00:00",
@@ -416,23 +433,6 @@
       "screenshot": "https://images.ransomware.live/victims/f8ed78eb1f995dec16e179242de98292.png",
       "url": "https://www.ransomware.live/id/Qm9yZ2VyIElTREBpbnRlcmxvY2s=",
       "victim": "Borger ISD"
-    },
-    {
-      "activity": "Construction",
-      "attackdate": "2026-07-10T15:06:02.067570+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=71752b28-6410-4be5-b260-ffa493fdc9d3",
-      "country": "AU",
-      "data_size": null,
-      "description": "Access Group International is a leading privately owned provider of access, material handling, power generation, and construction equipment. The company is dedicated to safety, performance, and reliability, serving Australia's demanding industries with dependable equipment and expertise. Their integrated services include maintenance, OEM manufacturing, transport, logistics, and workforce solutions, allowing for seamless project support. With a focus on adaptability and tailored solutions, Access Group International is a trusted partner for projects of all sizes.",
-      "discovered": "2026-07-11T15:25:06.066641+00:00",
-      "domain": "www.accessgroup.net.au",
-      "group": "dragonforce",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9b64e6ace1529f1fe1b677cf1641dc48.png",
-      "url": "https://www.ransomware.live/id/QWNjZXNzIEVxdWlwbWVudCBIaXJlQGRyYWdvbmZvcmNl",
-      "victim": "Access Equipment Hire"
     }
   ]
 }
