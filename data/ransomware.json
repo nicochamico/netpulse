@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-13T16:30:38.332654+00:00",
+  "last_success": "2026-07-13T18:42:00.552381+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-13T18:26:35.381731+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=bc461bc1-70b4-4976-b6e6-6c0c4bf8cc8e",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-13T18:26:38.482934+00:00",
+      "domain": "www.titantvinc.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VGl0YW5UViwgSW5jLkBxaWxpbg==",
+      "victim": "TitanTV, Inc."
+    },
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-13T16:58:26.389637+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/shuttlemeadowcccom/",
+      "country": "US",
+      "data_size": null,
+      "description": "Founded in 1917, the club is one of the oldest and most prestigious private golf clubs in New England. It …",
+      "discovered": "2026-07-13T16:58:29.252978+00:00",
+      "domain": "shuttlemeadowcc.com",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-13T16:58:26",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/c2h1dHRsZW1lYWRvd2NjLmNvbUBzYWZlcGF5",
+      "victim": "shuttlemeadowcc.com"
+    },
     {
       "activity": "Business Services",
       "attackdate": "2026-07-13T15:38:32.129675+00:00",
@@ -482,60 +526,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/d3J0d29ybGQuY29tQG0zcng=",
       "victim": "wrtworld.com"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-12T09:22:11.331671+00:00",
-      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/and-other-company-heads-ixu0o85yt7",
-      "country": "CZ",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-12T09:22:29.394967+00:00",
-      "domain": "ghz-shop.cz",
-      "group": "titan",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-12T09:25:45.615966",
-        "users": 0,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6d0dd5d86e76ccaa8df71dcbea91c7e5.png",
-      "url": "https://www.ransomware.live/id/Q29vcGVyYXRlIHNlcnZpY2UgQ1ogcy5yLm8uQHRpdGFu",
-      "victim": "Cooperate service CZ s.r.o."
-    },
-    {
-      "activity": "Construction",
-      "attackdate": "2026-07-12T09:21:41.023111+00:00",
-      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/eureka-construction-inc-6mdwho3d0m",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-12T09:22:00.220767+00:00",
-      "domain": "eurekaconst.com",
-      "group": "titan",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-12T09:26:12.088884",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d24fd361caee8e970c8ebdf37ac59faf.png",
-      "url": "https://www.ransomware.live/id/RXVyZWthIENvbnN0cnVjdGlvbiBJTkNAdGl0YW4=",
-      "victim": "Eureka Construction INC"
     }
   ]
 }

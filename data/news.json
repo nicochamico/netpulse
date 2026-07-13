@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-13T16:30:38.332654+00:00",
+  "last_success": "2026-07-13T18:42:00.552381+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "published": "Mon, 13 Jul 2026 23:06:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "published": "Mon, 13 Jul 2026 22:47:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
@@ -26,18 +38,6 @@
       "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
       "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
       "published": "Mon, 13 Jul 2026 17:24:46 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "published": "Mon, 13 Jul 2026 17:07:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "published": "Mon, 13 Jul 2026 16:32:33 +0530"
     },
     {
       "source": "BleepingComputer",
