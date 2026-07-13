@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-13T10:23:20.383479+00:00",
+  "last_success": "2026-07-13T16:30:38.332654+00:00",
   "count": 1637,
   "items": [
     {
@@ -19,7 +19,7 @@
         "CWE-434"
       ],
       "epss": 0.00836,
-      "epss_percentile": 0.5347
+      "epss_percentile": 0.5349
     },
     {
       "cveID": "CVE-2026-48939",
@@ -36,7 +36,7 @@
         "CWE-434"
       ],
       "epss": 0.01505,
-      "epss_percentile": 0.7136
+      "epss_percentile": 0.71379
     },
     {
       "cveID": "CVE-2026-48908",
@@ -53,7 +53,7 @@
         "CWE-434"
       ],
       "epss": 0.01569,
-      "epss_percentile": 0.72453
+      "epss_percentile": 0.72473
     },
     {
       "cveID": "CVE-2026-55255",
@@ -69,8 +69,8 @@
       "cwes": [
         "CWE-639"
       ],
-      "epss": 0.00467,
-      "epss_percentile": 0.37296
+      "epss": 0.0056,
+      "epss_percentile": 0.42686
     },
     {
       "cveID": "CVE-2026-56290",
@@ -87,7 +87,7 @@
         "CWE-284"
       ],
       "epss": 0.02912,
-      "epss_percentile": 0.85374
+      "epss_percentile": 0.85384
     },
     {
       "cveID": "CVE-2026-48282",
@@ -104,7 +104,7 @@
         "CWE-22"
       ],
       "epss": 0.28583,
-      "epss_percentile": 0.97909
+      "epss_percentile": 0.9791
     },
     {
       "cveID": "CVE-2026-45659",
@@ -121,7 +121,7 @@
         "CWE-502"
       ],
       "epss": 0.03219,
-      "epss_percentile": 0.86733
+      "epss_percentile": 0.86743
     },
     {
       "cveID": "CVE-2026-48558",
@@ -138,7 +138,7 @@
         "CWE-347"
       ],
       "epss": 0.0116,
-      "epss_percentile": 0.63396
+      "epss_percentile": 0.63418
     },
     {
       "cveID": "CVE-2026-12569",
@@ -156,7 +156,7 @@
         "CWE-502"
       ],
       "epss": 0.01247,
-      "epss_percentile": 0.65828
+      "epss_percentile": 0.6585
     },
     {
       "cveID": "CVE-2026-20230",
@@ -173,7 +173,7 @@
         "CWE-918"
       ],
       "epss": 0.41694,
-      "epss_percentile": 0.98522
+      "epss_percentile": 0.98523
     }
   ]
 }
