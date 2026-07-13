@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-13T06:14:43.457569+00:00",
+  "last_success": "2026-07-13T10:23:20.383479+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "published": "Mon, 13 Jul 2026 13:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "published": "Mon, 13 Jul 2026 11:06:02 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -28,16 +40,10 @@
       "published": "Fri, 10 Jul 2026 22:00:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "published": "Fri, 10 Jul 2026 21:59:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "published": "Fri, 10 Jul 2026 21:27:14 +0530"
+      "source": "BleepingComputer",
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "published": "Mon, 13 Jul 2026 05:32:23 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
       "published": "Sat, 11 Jul 2026 05:03:57 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "published": "Fri, 10 Jul 2026 17:59:02 -0400"
     }
   ]
 }

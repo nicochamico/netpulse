@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-13T06:14:43.457569+00:00",
+  "last_success": "2026-07-13T10:23:20.383479+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-13T09:13:33.226181+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=45c18967-51db-4181-97c5-6a0d59ab1122",
+      "country": "",
+      "data_size": null,
+      "description": "Trans World Trading Company, Inc. is a leading business conglomerate in the Philippines, recognized for its trust and reliability since 1946. The company specializes in providing sustainable material solutions through its divisions in plastics, chemicals, industrial products, and agrochemicals. With a strong commitment to integrating global innovations with local expertise, it serves various industries across the nation. Trans World continues to expand its operations and influence, shaping the future of the Philippine industry",
+      "discovered": "2026-07-13T09:23:46.364855+00:00",
+      "domain": "twtci.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-07-13T09:23:42",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/d3d3LnR3dGNpLmNvbSBUcmFucyBXb3JsZCBUcmFkaW5nQGRyYWdvbmZvcmNl",
+      "victim": "www.twtci.com Trans World Trading"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-13T09:06:29.814698+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=f23e19db-7e99-4185-9673-3ef7cf7a8c17",
+      "country": "TR",
+      "data_size": null,
+      "description": "DEGEREMCIA is a food operator that is dedicated to the production, distribution and sale of prepared food. It operates mainly through its own chain of fast-food stores; its main brands include Naturissimo and Soldia.",
+      "discovered": "2026-07-13T09:24:09.043553+00:00",
+      "domain": "degeremcia.net",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 7,
+        "employees_url": 3,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 2,
+        "update": "2026-07-13T09:24:06",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/ZGVnZXJlbWNpYS5jb21AZHJhZ29uZm9yY2U=",
+      "victim": "degeremcia.com"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-12T23:50:21.320068+00:00",
@@ -389,50 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/f42b7537d43f38869f241d48f66de50b.png",
       "url": "https://www.ransomware.live/id/VGhlIFNjaHVldHQgQ29tcGFuaWVzQGRyYWdvbmZvcmNl",
       "victim": "The Schuett Companies"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-07-10T15:57:05.622957+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=63fc378c-2a9e-4383-82fd-e8075df9a758",
-      "country": "MA",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-10T15:57:41.264897+00:00",
-      "domain": "www.eurodefis.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/69761099489a1f1bf5b39d432bd00af2.png",
-      "url": "https://www.ransomware.live/id/RXVyb2RlZmlAcWlsaW4=",
-      "victim": "Eurodefi"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-07-10T15:26:03.706341+00:00",
-      "claim_url": "http://t26owzk2773mecpebt4l2eztx6lvn5642fn7annaynq7vwvb6wonkrid.onion/index.php?p=",
-      "country": "US",
-      "data_size": null,
-      "description": "Borger Independent School District serves approximately 2,500 students on six campuses in Hutchinson County, Texas. The district fails to foster a collaborative environment for students, parents, and the community. They are not responsible or committed to ensuring the security of your data. This is not the first time they have neglected their students, with confidential information about staff, students, and their parents, as well as all incidents, the district's financial situation, and other information they concealed, leaking online. We offer you 330 GB of this information.",
-      "discovered": "2026-07-10T15:26:21.459274+00:00",
-      "domain": "borgerisd.net",
-      "group": "interlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 5,
-        "update": "2026-07-10T15:26:03",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f8ed78eb1f995dec16e179242de98292.png",
-      "url": "https://www.ransomware.live/id/Qm9yZ2VyIElTREBpbnRlcmxvY2s=",
-      "victim": "Borger ISD"
     }
   ]
 }
