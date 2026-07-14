@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T02:12:25.605099+00:00",
+  "last_success": "2026-07-14T05:27:14.775226+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-14T03:57:04.210390+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=44c613b3-9f46-4e31-a76b-0af290178914",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-14T03:57:06.724334+00:00",
+      "domain": "www.sedemi.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U2VkZW1pQHFpbGlu",
+      "victim": "Sedemi"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-14T00:04:24.878950+00:00",
@@ -386,50 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SXJvbm1hcmtAYWtpcmE=",
       "victim": "Ironmark"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-13T00:00:00+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "Again, thanks to database Synopsys provided us with After analyzing technical leaks by other groups and cross-referencing targets from TARGETLIST.txt A company access was found and in the archives, a $10,000 gem: Bosch CAN module implementation Now it is going for free for every engineer and car enthusiast, thanks to Synopsys providing us with neat roadmap to tech sector Sorry, Bosch, you got third-partied! Call the Synopsys CEO and thank them for letting us all know where the valuable data is!",
-      "discovered": "2026-07-13T11:33:36.109970+00:00",
-      "domain": "bosch.de",
-      "group": "D1R",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {
-          "Acreed": 18,
-          "Atomic": 7,
-          "Azorult": 153,
-          "CRYPTBOT": 16,
-          "DarkCrystal": 4,
-          "Ficker": 3,
-          "Generic Stealer": 1100,
-          "Lumma": 960,
-          "Mystic": 12,
-          "Predator": 10,
-          "Raccoon": 470,
-          "RedLine": 2018,
-          "StealC": 244,
-          "Taurus": 7,
-          "UNKNOWN": 57,
-          "Vidar": 246
-        },
-        "last_employee_compromised": "2021-06-27T11:48:18+00:00",
-        "last_user_compromised": "2026-07-03T21:04:52+00:00",
-        "thirdparties": 3,
-        "update": "2026-07-13T11:34:28.016893",
-        "users": 5626,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Qm9zY2hARDFS",
-      "victim": "Bosch"
     }
   ]
 }
