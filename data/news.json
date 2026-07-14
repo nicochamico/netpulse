@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-14T14:47:26.235608+00:00",
+  "last_success": "2026-07-14T16:12:15.755337+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "published": "Tue, 14 Jul 2026 12:08:47 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "published": "Tue, 14 Jul 2026 11:31:52 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
       "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
       "published": "Tue, 14 Jul 2026 10:00:10 -0400"
@@ -62,18 +74,6 @@
       "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
       "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
       "published": "Tue, 14 Jul 2026 07:42:21 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft starts testing cleaner Windows Search without ads",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-      "published": "Tue, 14 Jul 2026 06:47:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-      "published": "Tue, 14 Jul 2026 05:40:13 -0400"
     }
   ]
 }

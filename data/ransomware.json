@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T14:47:26.235608+00:00",
+  "last_success": "2026-07-14T16:12:15.755337+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-14T15:22:50.533448+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/chSvrDZ6H4X7x4CIf4EweWaLEPLccdzH",
+      "country": "US",
+      "data_size": null,
+      "description": "Aphena Pharma Solutions\n\nWe have gained full access to your corporate infrastructure. During this operation, we stole 142 GB of your most critical corporate data.\n\nThe stolen data includes:\n\n    Financial statements: capital expenditures (CAPEX), fixed assets, accounts receivable and accounts payabl…",
+      "discovered": "2026-07-14T15:23:06.966353+00:00",
+      "domain": "www.zoominfo.com/c/aphena-pharma-solutions-inc/96862903",
+      "group": "chaos",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8f631dc24531c508fa00d87e3b765a80.png",
+      "url": "https://www.ransomware.live/id/YXBoZW5hcGhhcm1hLmNvbUBjaGFvcw==",
+      "victim": "aphenapharma.com"
+    },
     {
       "activity": "Business Services",
       "attackdate": "2026-07-14T13:45:45.901755+00:00",
@@ -356,23 +373,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/T3ptaXQgcy5yLm8uQHRpdGFu",
       "victim": "Ozmit s.r.o."
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-13T20:03:07.930480+00:00",
-      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/cooperate-consulting-cz-s-r-o-ix05ayj8k5",
-      "country": "CZ",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-13T20:03:11.726682+00:00",
-      "domain": "",
-      "group": "titan",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q29vcGVyYXRlIGNvbnN1bHRpbmcgQ1ogcy5yLm8uQHRpdGFu",
-      "victim": "Cooperate consulting CZ s.r.o."
     }
   ]
 }
