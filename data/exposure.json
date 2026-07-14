@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:13:30.661678+00:00",
+  "generated_at": "2026-07-14T14:16:13.227471+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -14,6 +14,7 @@
         2082,
         2083,
         2087,
+        8443,
         8880
       ],
       "risky_ports": [],
@@ -21,8 +22,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "wlc.ynap.com",
-        "wlc.asdk12.org"
+        "barracuda.commercemtg.com",
+        "anchor1.caremark.com"
       ]
     },
     {
