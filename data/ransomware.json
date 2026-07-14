@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T05:27:14.775226+00:00",
+  "last_success": "2026-07-14T07:59:17.807013+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy",
+      "attackdate": "2026-07-14T07:20:24.436975+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "TARGET is a rapidly growing digital oilfield services and solutions company, providing advanced web-based visualization, collaboration and workflow tools to the petrotechnical community. The MEERA platform and its associated products set a new benchmark for the industry, giving teams the ability to work effectively together using the same data sources, regardless of their device, location or domain.",
+      "discovered": "2026-07-14T07:20:25.970689+00:00",
+      "domain": "www.target-energysolutions.com",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VGFyZ2V0IEVuZXJneSBTb2x1dGlvbnNAY21kb3JnYW5pemF0aW9u",
+      "victim": "Target Energy Solutions"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-14T03:57:04.210390+00:00",
@@ -376,33 +393,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SmFrdWIgQS5TLkBxaWxpbg==",
       "victim": "Jakub A.S."
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-13T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Founded and headquartered in Annapolis Junction, Maryland, Ironmark is a provider of marketing,\ncreative, printing and communications services. They specialize in marketing strategy, creativ\ne & web development, digital marketing, printing services, and more.\n\nWe will upload 190gb of corporate data soon. Employee personal information (passports, DLs and \nother personal information), projects information, detailed financials, client internal informa\ntion, contracts and agreements, NDAs and so on.\n",
-      "discovered": "2026-07-13T13:23:04.270953+00:00",
-      "domain": "ironmarkusa.com",
-      "group": "akira",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-07-13T13:50:02.737632",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SXJvbm1hcmtAYWtpcmE=",
-      "victim": "Ironmark"
     }
   ]
 }
