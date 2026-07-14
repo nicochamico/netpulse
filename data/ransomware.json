@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T07:59:17.807013+00:00",
+  "last_success": "2026-07-14T10:06:34.190784+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-14T09:20:13.370664+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=927c723b-c1df-46f6-953a-9f8505bcc6e2",
+      "country": "MX",
+      "data_size": null,
+      "description": "Asimar | Asian Marine Service PCL is a leading shipyard in Thailand with over 35 years of experience in the shipbuilding and repair industry. The company specializes in ship repair, ship building, steel fabrication, and engineering services for marine, offshore, and onshore sectors. Committed to quality and timely delivery, Asimar aims to achieve ultimate client satisfaction while adhering to classification society standards. Established in 1981, Asimar has evolved from a marine survey company to a prominent player in the ship repair services market.",
+      "discovered": "2026-07-14T09:24:51.535546+00:00",
+      "domain": "asimar.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 4,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-07-14T09:24:48",
+        "users": 5,
+        "users_url": 5
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/YXNpbWFyLmNvbUBkcmFnb25mb3JjZQ==",
+      "victim": "asimar.com"
+    },
     {
       "activity": "Energy",
       "attackdate": "2026-07-14T07:20:24.436975+00:00",
@@ -376,23 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/ZGVnZXJlbWNpYS5jb21AZHJhZ29uZm9yY2U=",
       "victim": "degeremcia.com"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-13T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=95e521da-d152-4254-b3a5-d5446ff557c0",
-      "country": "CZ",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-13T21:01:20.241935+00:00",
-      "domain": "www.jakub.cz",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SmFrdWIgQS5TLkBxaWxpbg==",
-      "victim": "Jakub A.S."
     }
   ]
 }
