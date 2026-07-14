@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-14T20:08:25.630078+00:00",
+  "last_success": "2026-07-14T21:54:59.499175+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "published": "Wed, 15 Jul 2026 01:55:47 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
@@ -34,10 +40,16 @@
       "published": "Tue, 14 Jul 2026 18:16:18 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-      "published": "Tue, 14 Jul 2026 17:25:00 +0530"
+      "source": "BleepingComputer",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "published": "Tue, 14 Jul 2026 17:23:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "published": "Tue, 14 Jul 2026 16:23:09 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
       "published": "Tue, 14 Jul 2026 13:41:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "published": "Tue, 14 Jul 2026 12:08:47 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "published": "Tue, 14 Jul 2026 11:31:52 -0400"
     }
   ]
 }

@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T20:08:25.630078+00:00",
+  "last_success": "2026-07-14T21:54:59.499175+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-14T20:22:18.429579+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/l1eZXDggILANKP6kfYVDTjB2UsUTtnju",
+      "country": "US",
+      "data_size": null,
+      "description": "Public Notice: Final Ultimatum to Spectrum Chemical Management\n\nTo the Management of Spectrum Chemical:\n\nWe have provided you with sufficient time to engage in a productive dialogue regarding the security breach of your infrastructure. Your refusal to communicate and your attempt to ignore the sever…",
+      "discovered": "2026-07-14T20:22:34.626266+00:00",
+      "domain": "spectrumchemical.com",
+      "group": "chaos",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {
+          "Azorult": 3,
+          "Generic Stealer": 4,
+          "Lumma": 1,
+          "Raccoon": 1,
+          "RedLine": 12,
+          "Vidar": 1
+        },
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-06-19T00:00:00+00:00",
+        "thirdparties": 0,
+        "update": "2026-07-14T20:57:44.719366",
+        "users": 24,
+        "users_url": 8
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9e3fb123164aad19b762f1ba6d9dda97.png",
+      "url": "https://www.ransomware.live/id/c3BlY3RydW1jaGVtaWNhbC5jb21AY2hhb3M=",
+      "victim": "spectrumchemical.com"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-14T19:31:07.082937+00:00",
@@ -290,6 +324,33 @@
       "victim": "momenta.cn"
     },
     {
+      "activity": "Not Found",
+      "attackdate": "2026-07-14T00:00:00+00:00",
+      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/axiom",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-14T20:53:23.015790+00:00",
+      "domain": "axiomglobal.com",
+      "group": "coinbasecartel",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 22,
+        "update": "2026-07-14T20:57:24.130111",
+        "users": 3,
+        "users_url": 2
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/791fbac0efd4ff38ebc070700b79a344.png",
+      "url": "https://www.ransomware.live/id/QXhpb20gR2xvYmFsTkVXQGNvaW5iYXNlY2FydGVs",
+      "victim": "Axiom GlobalNEW"
+    },
+    {
       "activity": "Business Services",
       "attackdate": "2026-07-13T21:02:01.949167+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b473596d-9864-4a3e-b518-848362cbcb4f",
@@ -339,40 +400,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2Vtb2lAcWlsaW4=",
       "victim": "Cemoi"
-    },
-    {
-      "activity": "Transportation/Logistics",
-      "attackdate": "2026-07-13T21:00:32.488752+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=739597b2-88ff-44af-aa22-97024c934e43",
-      "country": "CO",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-13T21:00:35.284876+00:00",
-      "domain": "www.busscar.com.co",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QnVzc2NhciBkZSBDb2xvbWJpYUBxaWxpbg==",
-      "victim": "Busscar de Colombia"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-13T20:34:23.199421+00:00",
-      "claim_url": "http://x4bccxlsmjsxlnnf3ocvndlshgfkagzytpqmsjnlfykceumnw6i4hkqd.onion/awaiting/post/dataostrov-s-r-o-ix0hs6pn4s",
-      "country": "CZ",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-07-13T20:34:28.345773+00:00",
-      "domain": "",
-      "group": "titan",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RGF0YU9zdHJvdiBzLnIuby5AdGl0YW4=",
-      "victim": "DataOstrov s.r.o."
     }
   ]
 }
