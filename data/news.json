@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-14T12:09:17.206481+00:00",
+  "last_success": "2026-07-14T14:47:26.235608+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "published": "Tue, 14 Jul 2026 19:18:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "published": "Tue, 14 Jul 2026 18:16:18 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "published": "Tue, 14 Jul 2026 17:25:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "published": "Tue, 14 Jul 2026 16:51:35 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
@@ -10,34 +40,22 @@
       "published": "Tue, 14 Jul 2026 14:32:48 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-      "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-      "published": "Tue, 14 Jul 2026 13:32:33 +0530"
+      "source": "BleepingComputer",
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "published": "Tue, 14 Jul 2026 10:00:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "published": "Tue, 14 Jul 2026 12:38:36 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "published": "Tue, 14 Jul 2026 08:49:56 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "published": "Tue, 14 Jul 2026 11:49:24 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "published": "Mon, 13 Jul 2026 23:06:12 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-      "published": "Mon, 13 Jul 2026 22:47:24 +0530"
+      "source": "BleepingComputer",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "published": "Tue, 14 Jul 2026 08:49:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
       "published": "Tue, 14 Jul 2026 05:40:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "published": "Mon, 13 Jul 2026 16:18:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "published": "Mon, 13 Jul 2026 15:44:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "published": "Mon, 13 Jul 2026 15:04:02 -0400"
     }
   ]
 }
