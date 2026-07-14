@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-14T16:12:15.755337+00:00",
+  "last_success": "2026-07-14T18:00:15.953301+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "published": "Tue, 14 Jul 2026 22:22:37 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
@@ -34,10 +40,10 @@
       "published": "Tue, 14 Jul 2026 16:51:35 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "published": "Tue, 14 Jul 2026 14:32:48 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+      "published": "Tue, 14 Jul 2026 13:41:16 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
       "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
       "published": "Tue, 14 Jul 2026 08:49:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "published": "Tue, 14 Jul 2026 07:42:21 -0400"
     }
   ]
 }
