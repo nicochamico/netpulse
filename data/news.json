@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-15T14:47:41.175956+00:00",
+  "last_success": "2026-07-15T16:19:18.481302+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "published": "Wed, 15 Jul 2026 11:37:27 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
       "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
       "published": "Wed, 15 Jul 2026 10:01:11 -0400"
@@ -68,12 +74,6 @@
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
       "published": "Tue, 14 Jul 2026 17:23:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "published": "Tue, 14 Jul 2026 16:23:09 -0400"
     }
   ]
 }
