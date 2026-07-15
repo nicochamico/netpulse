@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-15T10:47:12.503761+00:00",
+  "last_success": "2026-07-15T12:12:54.973432+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "published": "Wed, 15 Jul 2026 16:25:22 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
@@ -32,12 +38,6 @@
       "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
       "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
       "published": "Tue, 14 Jul 2026 22:57:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "published": "Tue, 14 Jul 2026 22:22:37 +0530"
     },
     {
       "source": "BleepingComputer",
