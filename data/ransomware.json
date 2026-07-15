@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-15T02:10:36.013867+00:00",
+  "last_success": "2026-07-15T05:28:26.573148+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-15T05:01:10.206892+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=21fe1d79-9687-4b3e-8646-659c19380a51",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-15T05:01:35.732686+00:00",
+      "domain": "www.levinfurniture.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/432904371fa974e767658df0e9e77fe6.png",
+      "url": "https://www.ransomware.live/id/TGV2aW4gRnVybml0dXJlQHFpbGlu",
+      "victim": "Levin Furniture"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-15T00:00:51.741795+00:00",
@@ -383,23 +400,6 @@
       "screenshot": "https://images.ransomware.live/victims/791fbac0efd4ff38ebc070700b79a344.png",
       "url": "https://www.ransomware.live/id/QXhpb20gR2xvYmFsTkVXQGNvaW5iYXNlY2FydGVs",
       "victim": "Axiom GlobalNEW"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-13T21:02:01.949167+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b473596d-9864-4a3e-b518-848362cbcb4f",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-13T21:02:04.535972+00:00",
-      "domain": "www.countsanddobyns.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q291bnRzICYgRG9ieW5zQHFpbGlu",
-      "victim": "Counts & Dobyns"
     }
   ]
 }
