@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-15T16:19:18.481302+00:00",
+  "last_success": "2026-07-15T18:04:50.892456+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-15T17:01:24.784876+00:00",
+      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/panaaeroo",
+      "country": "JP",
+      "data_size": null,
+      "description": "[AI generated] Panasonic Avionics Corporation, commonly known as Panasonic Aero, is a US-based subsidiary of Panasonic Corporation specializing in in-flight entertainment and connectivity systems for commercial airlines. The company designs and supplies seatback screens, Wi-Fi connectivity, and cabin management solutions. Headquartered in Lake Forest, California, it serves major global airlines and operates within the aerospace and aviation technology industry.",
+      "discovered": "2026-07-15T17:01:52.643821+00:00",
+      "domain": "panasonic.aero",
+      "group": "coinbasecartel",
+      "infostealer": {
+        "employees": 12,
+        "employees_url": 12,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 20,
+        "update": "2026-07-15T17:03:36.034511",
+        "users": 207,
+        "users_url": 100
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/93bd27d758645b4c4486fd57a3f1ab99.png",
+      "url": "https://www.ransomware.live/id/UGFuYXNvbmljQWVyb0Bjb2luYmFzZWNhcnRlbA==",
+      "victim": "PanasonicAero"
+    },
     {
       "activity": "Business Services",
       "attackdate": "2026-07-15T13:43:28.800670+00:00",
@@ -422,33 +449,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RWRpc29uIEdsb2JhbCBOZXR3b3JrcyBMaW1pdGVkQGRyYWdvbmZvcmNl",
       "victim": "Edison Global Networks Limited"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-14T13:18:31.914292+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=59b86793-648f-4822-8c06-61485a57ac1a",
-      "country": "CN",
-      "data_size": null,
-      "description": "马路科技 specializes in advanced 3D scanning and measurement solutions, offering a range of products including GOM ATOS 3D scanners, industrial CT systems, and 3D printers. They serve various industries such as automotive, aerospace, and medical devices, providing high-precision measurement and reverse engineering services. As the authorized distributor for ZEISS in China, they ensure high-quality products and support for their clients. Their services also include software solutions for quality management and 3D data analysis",
-      "discovered": "2026-07-14T13:23:56.202895+00:00",
-      "domain": "ratc.com.cn",
-      "group": "dragonforce",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-14T13:23:52",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Um9hZCBBaGVhZCBUZWNobm9sb2dpZXMgQ29uc3VsdGFudEBkcmFnb25mb3JjZQ==",
-      "victim": "Road Ahead Technologies Consultant"
     }
   ]
 }

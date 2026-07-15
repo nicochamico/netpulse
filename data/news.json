@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-15T16:19:18.481302+00:00",
+  "last_success": "2026-07-15T18:04:50.892456+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "published": "Wed, 15 Jul 2026 21:00:30 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
@@ -34,14 +40,8 @@
       "published": "Wed, 15 Jul 2026 16:25:22 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "published": "Wed, 15 Jul 2026 14:46:13 +0530"
-    },
-    {
       "source": "BleepingComputer",
-      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400"
     },
