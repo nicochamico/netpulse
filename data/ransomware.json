@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-14T23:52:01.572267+00:00",
+  "last_success": "2026-07-15T02:10:36.013867+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-15T00:00:51.741795+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "You wouldn't want us to describe what was exfiltrated from you publicly. This is a final warning to reach out by 18 July 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 15 July 2026 | Warning: FINAL WARNING PAY OR LEAK",
+      "discovered": "2026-07-15T00:00:53.184855+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWJib3R0IG93bmVkIEV4YWN0IFNjaWVuY2VzIENvcnBvcmF0aW9uQHNoaW55aHVudGVycw==",
+      "victim": "Abbott owned Exact Sciences Corporation"
+    },
+    {
+      "activity": "Energy",
+      "attackdate": "2026-07-15T00:00:00+00:00",
+      "claim_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "Status: AWAITING\nSize: 4329 GB",
+      "discovered": "2026-07-15T02:00:46.571034+00:00",
+      "domain": "www.prodirectional.com",
+      "group": "securotrop",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "url": "https://www.ransomware.live/id/UHJvRGlyZWN0aW9uYWwgRHJpbGxpbmdAc2VjdXJvdHJvcA==",
+      "victim": "ProDirectional Drilling"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-07-14T20:22:18.429579+00:00",
@@ -366,40 +400,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q291bnRzICYgRG9ieW5zQHFpbGlu",
       "victim": "Counts & Dobyns"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-07-13T21:01:39.830133+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=0ed24c43-1ad9-440f-acb4-4e2703aa4523",
-      "country": "PT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-13T21:01:42.433753+00:00",
-      "domain": "www.cccm.gov.pt",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2VudHJvIENpZW50w61maWNvIGUgQ3VsdHVyYWwgZGUgTWFjYXVAcWlsaW4=",
-      "victim": "Centro Científico e Cultural de Macau"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-07-13T21:00:56.440813+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e8b95ada-bcb2-4c2b-b537-2f74f12972bd",
-      "country": "FR",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-13T21:00:59.306998+00:00",
-      "domain": "www.cemoi.fr",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2Vtb2lAcWlsaW4=",
-      "victim": "Cemoi"
     }
   ]
 }
