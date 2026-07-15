@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-15T18:04:50.892456+00:00",
+  "last_success": "2026-07-15T20:06:28.717133+00:00",
   "count": 100,
   "items": [
     {
@@ -298,6 +298,23 @@
       "victim": "Abbott owned Exact Sciences Corporation"
     },
     {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-07-15T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2a85afa5-7c66-4fe2-a552-df3f6954cb9c",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-15T19:52:20.310973+00:00",
+      "domain": "intdelights.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/af4cba0918d5d609162951d6079fe55d.png",
+      "url": "https://www.ransomware.live/id/SW50ZXJuYXRpb25hbCBEZWxpZ2h0c0BxaWxpbg==",
+      "victim": "International Delights"
+    },
+    {
       "activity": "Construction",
       "attackdate": "2026-07-15T00:00:00+00:00",
       "claim_url": "",
@@ -432,23 +449,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/U0lUQVYgU3BBQGRyYWdvbmZvcmNl",
       "victim": "SITAV SpA"
-    },
-    {
-      "activity": "Telecommunication",
-      "attackdate": "2026-07-14T13:28:12.195220+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=dc4e608f-e9fc-48c8-93f9-d4fd52dadbec",
-      "country": "GB",
-      "data_size": null,
-      "description": "Edison Global Networks Limited is a Hong Kong-based IT system integrator and managed service provider with regional offices in Shenzhen, Shanghai, and Beijing. They specialize in cloud solutions, network infrastructure, disaster recovery, global data center services, and communication systems.",
-      "discovered": "2026-07-14T13:54:57.999712+00:00",
-      "domain": "www.edisongn.com",
-      "group": "dragonforce",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RWRpc29uIEdsb2JhbCBOZXR3b3JrcyBMaW1pdGVkQGRyYWdvbmZvcmNl",
-      "victim": "Edison Global Networks Limited"
     }
   ]
 }

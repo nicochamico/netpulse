@@ -1,9 +1,45 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-15T18:04:50.892456+00:00",
-  "count": 1642,
+  "last_success": "2026-07-15T20:06:28.717133+00:00",
+  "count": 1644,
   "items": [
+    {
+      "cveID": "CVE-2026-46817",
+      "vendorProject": "Oracle",
+      "product": "E-Business Suite",
+      "vulnerabilityName": "Oracle E-Business Suite Improper Privilege Management Vulnerability",
+      "dateAdded": "2026-07-15",
+      "shortDescription": "Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-18",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://www.oracle.com/security-alerts/cspumay2026.html ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-46817",
+      "cwes": [
+        "CWE-269",
+        "CWE-287",
+        "CWE-306"
+      ],
+      "epss": 0.00677,
+      "epss_percentile": 0.48111
+    },
+    {
+      "cveID": "CVE-2023-4346",
+      "vendorProject": "KNX Association",
+      "product": "KNX Protocol Connection Authorization Option 1",
+      "vulnerabilityName": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
+      "dateAdded": "2026-07-15",
+      "shortDescription": "KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. ",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-29",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-236-01 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2023-4346",
+      "cwes": [
+        "CWE-645"
+      ],
+      "epss": 0.00483,
+      "epss_percentile": 0.38438
+    },
     {
       "cveID": "CVE-2026-56155",
       "vendorProject": "Microsoft",
@@ -139,40 +175,6 @@
       ],
       "epss": 0.01569,
       "epss_percentile": 0.72547
-    },
-    {
-      "cveID": "CVE-2026-55255",
-      "vendorProject": "Langflow",
-      "product": "Langflow",
-      "vulnerabilityName": "Langflow Authorization Bypass Through User-Controlled Key Vulnerability",
-      "dateAdded": "2026-07-07",
-      "shortDescription": "Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-10",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://github.com/langflow-ai/langflow/security/advisories/GHSA-qrpv-q767-xqq2 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-55255",
-      "cwes": [
-        "CWE-639"
-      ],
-      "epss": 0.0056,
-      "epss_percentile": 0.42783
-    },
-    {
-      "cveID": "CVE-2026-56290",
-      "vendorProject": "Joomlack",
-      "product": "Page Builder",
-      "vulnerabilityName": "Joomlack Page Builder Improper Access Control Vulnerability",
-      "dateAdded": "2026-07-07",
-      "shortDescription": "Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-10",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.joomlack.fr/en/joomla-extensions/page-builder-ck ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-56290",
-      "cwes": [
-        "CWE-284"
-      ],
-      "epss": 0.02912,
-      "epss_percentile": 0.85426
     }
   ]
 }
