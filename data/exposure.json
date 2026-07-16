@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:10:01.941789+00:00",
+  "generated_at": "2026-07-16T14:23:10.461108+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,9 +21,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "msw.uwbookstore.com",
         "one.one.one.one",
-        "barracuda.commercemtg.com",
-        "anchor1.caremark.com"
+        "yycall.bs2.yy.com"
       ]
     },
     {
