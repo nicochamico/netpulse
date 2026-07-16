@@ -1,9 +1,60 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-16T18:04:28.050964+00:00",
-  "count": 1644,
+  "last_success": "2026-07-16T20:01:12.271522+00:00",
+  "count": 1647,
   "items": [
+    {
+      "cveID": "CVE-2026-58644",
+      "vendorProject": "Microsoft",
+      "product": "SharePoint",
+      "vulnerabilityName": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-07-16",
+      "shortDescription": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-19",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58644 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-58644",
+      "cwes": [
+        "CWE-502"
+      ],
+      "epss": 0.01296,
+      "epss_percentile": 0.67106
+    },
+    {
+      "cveID": "CVE-2026-25089",
+      "vendorProject": "Fortinet",
+      "product": "FortiSandbox",
+      "vulnerabilityName": "Fortinet FortiSandbox OS Command Injection Vulnerability",
+      "dateAdded": "2026-07-16",
+      "shortDescription": "Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-19",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://fortiguard.fortinet.com/psirt/FG-IR-26-141 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-25089",
+      "cwes": [
+        "CWE-78"
+      ],
+      "epss": 0.23393,
+      "epss_percentile": 0.97528
+    },
+    {
+      "cveID": "CVE-2026-39808",
+      "vendorProject": "Fortinet",
+      "product": "FortiSandbox",
+      "vulnerabilityName": "Fortinet FortiSandbox OS Command Injection Vulnerability",
+      "dateAdded": "2026-07-16",
+      "shortDescription": "Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-19",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://fortiguard.fortinet.com/psirt/FG-IR-26-100 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-39808",
+      "cwes": [
+        "CWE-78"
+      ],
+      "epss": 0.48668,
+      "epss_percentile": 0.9874
+    },
     {
       "cveID": "CVE-2026-46817",
       "vendorProject": "Oracle",
@@ -124,57 +175,6 @@
       ],
       "epss": 0.23857,
       "epss_percentile": 0.97573
-    },
-    {
-      "cveID": "CVE-2026-56291",
-      "vendorProject": "Balbooa",
-      "product": "Forms",
-      "vulnerabilityName": "Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "dateAdded": "2026-07-10",
-      "shortDescription": "Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-13",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.balbooa.com/joomla-forms ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-56291",
-      "cwes": [
-        "CWE-434"
-      ],
-      "epss": 0.00836,
-      "epss_percentile": 0.53629
-    },
-    {
-      "cveID": "CVE-2026-48939",
-      "vendorProject": "iCagenda",
-      "product": "iCagenda",
-      "vulnerabilityName": "iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "dateAdded": "2026-07-10",
-      "shortDescription": "iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-13",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.icagenda.com/#download ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-48939",
-      "cwes": [
-        "CWE-434"
-      ],
-      "epss": 0.01505,
-      "epss_percentile": 0.71471
-    },
-    {
-      "cveID": "CVE-2026-48908",
-      "vendorProject": "JoomShaper",
-      "product": "SP Page Builder",
-      "vulnerabilityName": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "dateAdded": "2026-07-07",
-      "shortDescription": "JoomShaper SP Page Builder contains an unrestricted upload of file with dangerous type vulnerability that allows unauthenticated users to upload arbitrary files, ultimately resulting in the upload and execution of PHP code.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-10",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://extensions.joomla.org/extension/sp-page-builder/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-48908",
-      "cwes": [
-        "CWE-434"
-      ],
-      "epss": 0.01569,
-      "epss_percentile": 0.72567
     }
   ]
 }
