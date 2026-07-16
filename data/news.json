@@ -1,43 +1,61 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-16T12:21:25.041356+00:00",
+  "last_success": "2026-07-16T14:59:03.323279+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "published": "Thu, 16 Jul 2026 15:40:00 +0530"
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "published": "Thu, 16 Jul 2026 19:03:25 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 14:53:19 +0530"
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "published": "Thu, 16 Jul 2026 18:20:13 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "published": "Thu, 16 Jul 2026 14:12:31 +0530"
+      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+      "published": "Thu, 16 Jul 2026 18:03:42 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "published": "Thu, 16 Jul 2026 12:52:44 +0530"
+      "title": "20+ Hijacked Government Websites Became an Attack Channel",
+      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+      "published": "Thu, 16 Jul 2026 17:28:00 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "published": "Thu, 16 Jul 2026 00:13:08 +0530"
+      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+      "published": "Thu, 16 Jul 2026 17:02:28 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "published": "Wed, 15 Jul 2026 21:00:30 +0530"
+      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+      "published": "Thu, 16 Jul 2026 16:47:23 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "published": "Thu, 16 Jul 2026 10:00:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "published": "Thu, 16 Jul 2026 09:47:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Scattered Spider members behind TfL hack get five years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+      "published": "Thu, 16 Jul 2026 08:31:29 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
       "published": "Thu, 16 Jul 2026 06:19:34 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "published": "Thu, 16 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch police bust investment fraud ring stealing over €100 million",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "published": "Wed, 15 Jul 2026 17:55:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "published": "Wed, 15 Jul 2026 16:16:02 -0400"
     }
   ]
 }
