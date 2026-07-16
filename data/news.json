@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-16T10:57:02.496785+00:00",
+  "last_success": "2026-07-16T12:21:25.041356+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+      "published": "Thu, 16 Jul 2026 07:59:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
       "published": "Thu, 16 Jul 2026 06:56:03 -0400"
@@ -68,12 +74,6 @@
       "title": "Zoom warns of critical account takeover vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
       "published": "Wed, 15 Jul 2026 16:16:02 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "published": "Wed, 15 Jul 2026 14:33:48 -0400"
     }
   ]
 }
