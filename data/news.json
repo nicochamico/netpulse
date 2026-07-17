@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-17T22:46:50.335152+00:00",
+  "last_success": "2026-07-17T23:50:14.724001+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,7 +41,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "published": "Fri, 17 Jul 2026 16:45:52 -0400"
     },
