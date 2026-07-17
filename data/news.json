@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-17T10:44:55.586741+00:00",
+  "last_success": "2026-07-17T12:07:20.205060+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "published": "Fri, 17 Jul 2026 17:14:41 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "published": "Fri, 17 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "published": "Fri, 17 Jul 2026 16:23:31 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
@@ -22,22 +40,10 @@
       "published": "Fri, 17 Jul 2026 12:12:23 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "published": "Thu, 16 Jul 2026 22:39:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "published": "Thu, 16 Jul 2026 21:11:15 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "published": "Thu, 16 Jul 2026 19:03:25 +0530"
+      "source": "BleepingComputer",
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "published": "Fri, 17 Jul 2026 07:05:30 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
       "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
       "published": "Thu, 16 Jul 2026 17:09:41 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "published": "Thu, 16 Jul 2026 15:26:07 -0400"
     }
   ]
 }
