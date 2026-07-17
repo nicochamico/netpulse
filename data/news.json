@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-17T18:03:38.458385+00:00",
+  "last_success": "2026-07-17T20:03:59.607314+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "published": "Sat, 18 Jul 2026 00:24:51 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
@@ -32,12 +38,6 @@
       "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
       "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
       "published": "Fri, 17 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "published": "Fri, 17 Jul 2026 16:23:31 +0530"
     },
     {
       "source": "BleepingComputer",
