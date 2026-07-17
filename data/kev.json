@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-17T12:07:20.205060+00:00",
+  "last_success": "2026-07-17T14:41:40.142343+00:00",
   "count": 1647,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-502"
       ],
-      "epss": 0.01296,
-      "epss_percentile": 0.67106
+      "epss": 0.01465,
+      "epss_percentile": 0.70721
     },
     {
       "cveID": "CVE-2026-25089",
@@ -35,8 +35,8 @@
       "cwes": [
         "CWE-78"
       ],
-      "epss": 0.23393,
-      "epss_percentile": 0.97528
+      "epss": 0.36135,
+      "epss_percentile": 0.98302
     },
     {
       "cveID": "CVE-2026-39808",
@@ -52,8 +52,8 @@
       "cwes": [
         "CWE-78"
       ],
-      "epss": 0.48668,
-      "epss_percentile": 0.9874
+      "epss": 0.84158,
+      "epss_percentile": 0.99666
     },
     {
       "cveID": "CVE-2026-46817",
@@ -72,7 +72,7 @@
         "CWE-306"
       ],
       "epss": 0.01045,
-      "epss_percentile": 0.60266
+      "epss_percentile": 0.60283
     },
     {
       "cveID": "CVE-2023-4346",
@@ -89,7 +89,7 @@
         "CWE-645"
       ],
       "epss": 0.00855,
-      "epss_percentile": 0.54241
+      "epss_percentile": 0.54259
     },
     {
       "cveID": "CVE-2026-56155",
@@ -106,7 +106,7 @@
         "CWE-1220"
       ],
       "epss": 0.00379,
-      "epss_percentile": 0.30157
+      "epss_percentile": 0.30187
     },
     {
       "cveID": "CVE-2026-56164",
@@ -123,7 +123,7 @@
         "CWE-306"
       ],
       "epss": 0.05601,
-      "epss_percentile": 0.92028
+      "epss_percentile": 0.92033
     },
     {
       "cveID": "CVE-2026-15409",
@@ -140,7 +140,7 @@
         "CWE-918"
       ],
       "epss": 0.01266,
-      "epss_percentile": 0.66447
+      "epss_percentile": 0.66462
     },
     {
       "cveID": "CVE-2026-15410",
@@ -157,7 +157,7 @@
         "CWE-94"
       ],
       "epss": 0.01486,
-      "epss_percentile": 0.71117
+      "epss_percentile": 0.7113
     },
     {
       "cveID": "CVE-2008-4128",
@@ -174,7 +174,7 @@
         "CWE-352"
       ],
       "epss": 0.23857,
-      "epss_percentile": 0.97573
+      "epss_percentile": 0.97574
     }
   ]
 }
