@@ -1,14 +1,49 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-17T14:41:40.142343+00:00",
+  "last_success": "2026-07-17T16:13:11.363527+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Feed temporarily unavailable",
-      "link": "#",
-      "published": "",
-      "error": "unclosed token: line 98, column 520"
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "published": "Fri, 17 Jul 2026 19:18:56 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "published": "Fri, 17 Jul 2026 17:14:41 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "published": "Fri, 17 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "published": "Fri, 17 Jul 2026 16:23:31 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "published": "Fri, 17 Jul 2026 14:26:39 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "published": "Fri, 17 Jul 2026 14:16:45 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "published": "Fri, 17 Jul 2026 10:55:28 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -39,42 +74,6 @@
       "title": "CISA urges immediate action on actively exploited Fortinet flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
       "published": "Fri, 17 Jul 2026 03:03:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "published": "Thu, 16 Jul 2026 17:52:54 -0400"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "published": "Thu, 02 Jul 2026 19:27:33 +0000"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000"
     }
   ]
 }
