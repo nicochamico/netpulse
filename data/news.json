@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-17T05:40:32.051329+00:00",
+  "last_success": "2026-07-17T08:05:54.160431+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "published": "Fri, 17 Jul 2026 12:12:23 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
@@ -34,10 +40,10 @@
       "published": "Thu, 16 Jul 2026 18:03:42 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "published": "Thu, 16 Jul 2026 17:28:00 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "published": "Fri, 17 Jul 2026 03:03:33 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
       "published": "Thu, 16 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "published": "Thu, 16 Jul 2026 09:47:23 -0400"
     }
   ]
 }
