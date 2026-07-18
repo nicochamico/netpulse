@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:16:44.278465+00:00",
+  "generated_at": "2026-07-18T14:34:27.541464+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,9 +21,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "msw.uwbookstore.com",
-        "one.one.one.one",
-        "yycall.bs2.yy.com"
+        "guestredirect.discovery.com",
+        "whiteford-nusd-ca.schoolloop.com",
+        "one.one.one.one"
       ]
     },
     {
