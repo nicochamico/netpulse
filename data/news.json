@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-18T18:59:58.437092+00:00",
+  "last_success": "2026-07-18T20:06:59.112251+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "published": "Sat, 18 Jul 2026 15:32:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
       "published": "Sat, 18 Jul 2026 13:22:47 -0400"
@@ -68,12 +74,6 @@
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
       "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "published": "Fri, 17 Jul 2026 10:55:28 -0400"
     }
   ]
 }
