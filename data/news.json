@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-18T13:08:35.347327+00:00",
+  "last_success": "2026-07-18T14:49:22.719160+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "published": "Sat, 18 Jul 2026 10:17:19 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "published": "Sat, 18 Jul 2026 09:15:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "published": "Fri, 17 Jul 2026 16:45:52 -0400"
@@ -62,18 +74,6 @@
       "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
       "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
       "published": "Fri, 17 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "published": "Fri, 17 Jul 2026 07:05:30 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "published": "Fri, 17 Jul 2026 05:10:15 -0400"
     }
   ]
 }
