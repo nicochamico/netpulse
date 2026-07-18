@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-17T23:50:14.724001+00:00",
+  "last_success": "2026-07-18T02:11:09.661655+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-18T00:06:29.273769+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7e150d05-bd34-404d-8824-a10358840d67",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-18T00:06:49.572334+00:00",
+      "domain": "www.powderriverheating.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f957f7968dbb1e2cc9e3ce53f31e0e00.png",
+      "url": "https://www.ransomware.live/id/UG93ZGVyIFJpdmVyIEhlYXRpbmcgJiBBaXIgQ29uZGl0aW9uaW5nQHFpbGlu",
+      "victim": "Powder River Heating & Air Conditioning"
+    },
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-18T00:05:36.177807+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cddad5ee-72f3-48fd-9310-4858484d5f59",
+      "country": "AR",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-18T00:06:10.077194+00:00",
+      "domain": "www.martorani.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/13e55352eeba342a3463d5115c7f31c7.png",
+      "url": "https://www.ransomware.live/id/RHJvZ3VlcsOtYSBNYXJ0b3JhbmlAcWlsaW4=",
+      "victim": "Droguería Martorani"
+    },
     {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-07-17T16:57:24.749658+00:00",
@@ -459,40 +493,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RGlzc2luZ2VyIGFuZCBEaXNzaW5nZXIgTGF3IEZpcm1AZ3VucmE=",
       "victim": "Dissinger and Dissinger Law Firm"
-    },
-    {
-      "activity": "Telecommunication",
-      "attackdate": "2026-07-16T18:31:39.185030+00:00",
-      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=I7dU5mZkuYuiVP",
-      "country": "US",
-      "data_size": null,
-      "description": "United States",
-      "discovered": "2026-07-16T18:31:55.215439+00:00",
-      "domain": "www.betcorp.com",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/bb0193d32bc60fc53e26ca10754810c2.png",
-      "url": "https://www.ransomware.live/id/Qm9zdG9uIEVsZWN0cmljIGFuZCBUZWxlcGhvbmVAcGxheQ==",
-      "victim": "Boston Electric and Telephone"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-16T18:31:02.812179+00:00",
-      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=os42vGw6zDhCvA",
-      "country": "GB",
-      "data_size": null,
-      "description": "United Kingdom",
-      "discovered": "2026-07-16T18:31:19.327045+00:00",
-      "domain": "www.wringgroup.co.uk",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c3fa1bcaa51f2efb713536081e3a4741.png",
-      "url": "https://www.ransomware.live/id/V3JpbmcgR3JvdXBAcGxheQ==",
-      "victim": "Wring Group"
     }
   ]
 }
