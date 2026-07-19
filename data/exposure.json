@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T12:29:36.557974+00:00",
+  "generated_at": "2026-07-19T14:06:18.821322+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "guestredirect.discovery.com",
-        "whiteford-nusd-ca.schoolloop.com",
+        "grav-ca.schoolloop.com",
+        "wlancontroller.tu-dortmund.de",
         "one.one.one.one"
       ]
     },
