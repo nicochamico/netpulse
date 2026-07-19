@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-19T19:11:03.933150+00:00",
+  "last_success": "2026-07-19T20:42:45.853146+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-19T20:11:28.741143+00:00",
+      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a5d25c28b37a93648b56e2a?page=1",
+      "country": "BR",
+      "data_size": null,
+      "description": "Revenue: 41 million",
+      "discovered": "2026-07-19T20:12:31.579889+00:00",
+      "domain": "CCR Solutions",
+      "group": "unsafe",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Q0NSIFNvbHV0aW9uc0B1bnNhZmU=",
+      "victim": "CCR Solutions"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-19T18:10:23.305425+00:00",
@@ -404,23 +421,6 @@
       "screenshot": "https://images.ransomware.live/victims/eec0018591f83a2e4f367c765e3cb9ec.png",
       "url": "https://www.ransomware.live/id/U3QgTWFydGhhIENhdGhvbGljIENodXJjaEBxaWxpbg==",
       "victim": "St Martha Catholic Church"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-07-18T13:33:39.303761+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f5d63ec4-a191-4de4-a6d1-f0fa52fba59e",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-18T13:34:28.127090+00:00",
-      "domain": "www.nuevaschool.org",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0e80fd29b75738928ef19b57063b3d27.png",
-      "url": "https://www.ransomware.live/id/VGhlIE51ZXZhIFNjaG9vbEBxaWxpbg==",
-      "victim": "The Nueva School"
     }
   ]
 }
