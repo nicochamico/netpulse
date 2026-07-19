@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-19T20:42:45.853146+00:00",
+  "last_success": "2026-07-19T21:50:09.737771+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "published": "Mon, 20 Jul 2026 02:12:49 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
@@ -32,12 +38,6 @@
       "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
       "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
       "published": "Sat, 18 Jul 2026 00:24:51 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "published": "Fri, 17 Jul 2026 22:42:23 +0530"
     },
     {
       "source": "BleepingComputer",
