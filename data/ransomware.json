@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-20T15:09:49.568085+00:00",
+  "last_success": "2026-07-20T17:59:31.637910+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-20T15:23:46.344253+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/frchTfEBkQQaPnMhpaeopD6ze2gTL23iASpFXPwiqGB9VGJYvyeQCb07vA4hqojkjXEg8x8ZXaMjX5cCWGZm2Z6UHV6SGxF",
+      "country": "US",
+      "data_size": null,
+      "description": "Employee data breach at a major manufacturing company.",
+      "discovered": "2026-07-20T15:24:41.643582+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e7d26cbf02f17080328e6b03ba9eaca0.png",
+      "url": "https://www.ransomware.live/id/QmF0aCBGaXR0ZXJAYW51Ymlz",
+      "victim": "Bath Fitter"
+    },
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-07-20T15:23:03.764597+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/K4UCkEEitvD6UBuozkXtkvSG5WEhfS1vbUZ380n3s+txX0QKee4Pj69QFJf0brH94S49UGTyLiSVM+tpeeEswXE5NTFVc1cy",
+      "country": "US",
+      "data_size": null,
+      "description": "www.fairlife.com",
+      "discovered": "2026-07-20T15:23:28.142202+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4373d96a80fb983c5e78096cdfbb3f55.png",
+      "url": "https://www.ransomware.live/id/RmFpcmxpZmUgLyBDb2NhLUNvbGFAYW51Ymlz",
+      "victim": "Fairlife / Coca-Cola"
+    },
     {
       "activity": "Transportation/Logistics",
       "attackdate": "2026-07-20T15:04:23.707545+00:00",
@@ -377,60 +411,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QXNzb2NpYXRlZCBUaGVhdHJpY2FsIENvbnRyYWN0b3JzQHFpbGlu",
       "victim": "Associated Theatrical Contractors"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-19T16:02:48.482191+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/84a0da40-f25b-407c-b1a5-4484bebe48e3",
-      "country": "ZA",
-      "data_size": null,
-      "description": "CKR Consulting Engineers is a prominent South African engineering consultancy firm headquartered in Johannesburg, established under its current name in 2001. The company provides comprehensive multi-disciplinary services, specializing in electrical, electronic, mechanical, renewable energy, and civil engineering.",
-      "discovered": "2026-07-19T16:03:30.340170+00:00",
-      "domain": "ckr.co.za",
-      "group": "payload",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-20T06:21:14.497382",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/df52c3c1e55ed724ab077f0968d307db.png",
-      "url": "https://www.ransomware.live/id/Q0tSIENvbnN1bHRpbmcgRW5naW5lZXJzQHBheWxvYWQ=",
-      "victim": "CKR Consulting Engineers"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-19T12:22:24.584929+00:00",
-      "claim_url": "http://black3gnkizshuynieigw6ejgpblb53mpasftzd6pydqpmq2vn2xf6yd.onion/post/214ce441-99b8-4a8c-a869-8bd335b5a19a/",
-      "country": "JP",
-      "data_size": null,
-      "description": "Yano Electronics Ltd. is a company in the field of microelectronics, we p...",
-      "discovered": "2026-07-19T12:22:39.950334+00:00",
-      "domain": "yano.tokyo",
-      "group": "blackout",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-19T12:22:24",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a674b353bce04570a1f625d6a77699db.png",
-      "url": "https://www.ransomware.live/id/eWFuby50b2t5b0BibGFja291dA==",
-      "victim": "yano.tokyo"
     }
   ]
 }
