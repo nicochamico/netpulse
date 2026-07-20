@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-20T09:58:09.751355+00:00",
+  "last_success": "2026-07-20T12:20:31.614121+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "published": "Mon, 20 Jul 2026 14:40:56 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "published": "Mon, 20 Jul 2026 14:37:11 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
@@ -28,16 +40,22 @@
       "published": "Sun, 19 Jul 2026 19:00:55 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "published": "Sun, 19 Jul 2026 18:48:56 +0530"
+      "source": "BleepingComputer",
+      "title": "Hugging Face discloses breach linked to autonomous AI agent",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "published": "Mon, 20 Jul 2026 07:56:28 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "published": "Sat, 18 Jul 2026 02:50:10 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "published": "Mon, 20 Jul 2026 06:47:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "published": "Mon, 20 Jul 2026 06:06:17 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
       "published": "Sat, 18 Jul 2026 15:32:02 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "published": "Sat, 18 Jul 2026 13:22:47 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "published": "Sat, 18 Jul 2026 10:17:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-      "published": "Sat, 18 Jul 2026 09:15:24 -0400"
     }
   ]
 }
