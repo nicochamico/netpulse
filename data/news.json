@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-20T19:52:29.419924+00:00",
+  "last_success": "2026-07-20T21:09:51.646009+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "published": "Mon, 20 Jul 2026 17:08:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
       "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
       "published": "Mon, 20 Jul 2026 13:43:01 -0400"
@@ -68,12 +74,6 @@
       "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
       "published": "Mon, 20 Jul 2026 06:06:17 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "published": "Mon, 20 Jul 2026 05:29:20 -0400"
     }
   ]
 }
