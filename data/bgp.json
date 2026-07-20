@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:06:42.559275+00:00",
+  "generated_at": "2026-07-20T20:40:43.504961+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
   "anomalies": 0,
@@ -14,18 +14,18 @@
         13335
       ],
       "name": "Cloudflare",
-      "holder": "AS13335",
+      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 863,
-        "withdrawals": 6
+        "announcements": 878,
+        "withdrawals": 5
       },
-      "updates_per_peer": 2.37,
+      "updates_per_peer": 2.41,
       "peers_visible": 366,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-07-20T19:06:42.559221+00:00"
+      "ts": "2026-07-20T20:40:43.504912+00:00"
     },
     {
       "event": "OK",
@@ -39,14 +39,14 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 65,
-        "withdrawals": 21
+        "announcements": 44,
+        "withdrawals": 4
       },
-      "updates_per_peer": 0.23,
+      "updates_per_peer": 0.13,
       "peers_visible": 368,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-07-20T19:06:36.526427+00:00"
+      "ts": "2026-07-20T20:40:38.229440+00:00"
     }
   ]
 }
