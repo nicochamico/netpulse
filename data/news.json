@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-20T02:43:45.397081+00:00",
+  "last_success": "2026-07-20T06:15:46.465378+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+      "published": "Mon, 20 Jul 2026 10:57:26 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+      "published": "Mon, 20 Jul 2026 10:45:39 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
@@ -26,18 +38,6 @@
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
       "published": "Sat, 18 Jul 2026 02:50:10 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-      "published": "Sat, 18 Jul 2026 01:50:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "published": "Sat, 18 Jul 2026 00:24:51 +0530"
     },
     {
       "source": "BleepingComputer",
