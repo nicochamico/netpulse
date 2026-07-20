@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-20T12:20:31.614121+00:00",
+  "last_success": "2026-07-20T15:09:49.568085+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "published": "Mon, 20 Jul 2026 20:03:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "published": "Mon, 20 Jul 2026 19:02:26 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "published": "Mon, 20 Jul 2026 17:43:39 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "published": "Mon, 20 Jul 2026 17:00:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
@@ -16,32 +40,14 @@
       "published": "Mon, 20 Jul 2026 14:37:11 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "published": "Mon, 20 Jul 2026 10:57:26 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "published": "Mon, 20 Jul 2026 10:45:39 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "published": "Mon, 20 Jul 2026 02:12:49 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "published": "Sun, 19 Jul 2026 19:00:55 +0530"
+      "source": "BleepingComputer",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "published": "Mon, 20 Jul 2026 10:01:11 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hugging Face discloses breach linked to autonomous AI agent",
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
       "published": "Mon, 20 Jul 2026 07:56:28 -0400"
     },
@@ -68,12 +74,6 @@
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
       "published": "Sun, 19 Jul 2026 10:23:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "published": "Sat, 18 Jul 2026 15:32:02 -0400"
     }
   ]
 }
