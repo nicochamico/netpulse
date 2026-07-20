@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:18:27.166547+00:00",
+  "generated_at": "2026-07-20T15:28:39.855086+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "grav-ca.schoolloop.com",
-        "wlancontroller.tu-dortmund.de",
+        "wlanwebauth.hondaresearch.com",
+        "wifi.lakecountypress.com",
         "one.one.one.one"
       ]
     },
