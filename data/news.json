@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-20T21:09:51.646009+00:00",
+  "last_success": "2026-07-20T22:58:12.101261+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+      "published": "Mon, 20 Jul 2026 18:39:30 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+      "published": "Mon, 20 Jul 2026 18:23:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+      "published": "Mon, 20 Jul 2026 18:22:56 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "published": "Mon, 20 Jul 2026 17:14:42 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "JadePuffer agentic attacks now target AI model data with ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
       "published": "Mon, 20 Jul 2026 17:08:02 -0400"
@@ -50,30 +74,6 @@
       "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
       "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
       "published": "Mon, 20 Jul 2026 13:43:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "published": "Mon, 20 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "published": "Mon, 20 Jul 2026 07:56:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "published": "Mon, 20 Jul 2026 06:47:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "published": "Mon, 20 Jul 2026 06:06:17 -0400"
     }
   ]
 }
