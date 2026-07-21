@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-21T19:17:32.295778+00:00",
+  "last_success": "2026-07-21T21:06:06.228817+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "published": "Wed, 22 Jul 2026 00:16:32 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
@@ -34,10 +40,10 @@
       "published": "Tue, 21 Jul 2026 18:48:31 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "published": "Tue, 21 Jul 2026 17:28:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "published": "Tue, 21 Jul 2026 16:06:55 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
       "published": "Tue, 21 Jul 2026 06:12:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "published": "Tue, 21 Jul 2026 05:05:50 -0400"
     }
   ]
 }
