@@ -1,9 +1,77 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-21T15:02:01.964663+00:00",
-  "count": 1647,
+  "last_success": "2026-07-21T17:15:23.593878+00:00",
+  "count": 1651,
   "items": [
+    {
+      "cveID": "CVE-2026-60137",
+      "vendorProject": "WordPress",
+      "product": "Core",
+      "vulnerabilityName": "WordPress Core SQL Injection Vulnerability",
+      "dateAdded": "2026-07-21",
+      "shortDescription": "WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-04",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-60137",
+      "cwes": [
+        "CWE-89"
+      ],
+      "epss": 0.04026,
+      "epss_percentile": 0.89474
+    },
+    {
+      "cveID": "CVE-2026-63030",
+      "vendorProject": "WordPress",
+      "product": "Core",
+      "vulnerabilityName": "WordPress Core Interpretation Conflict Vulnerability",
+      "dateAdded": "2026-07-21",
+      "shortDescription": "WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-24",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-63030",
+      "cwes": [
+        "CWE-436"
+      ],
+      "epss": 0.08946,
+      "epss_percentile": 0.94679
+    },
+    {
+      "cveID": "CVE-2026-0770",
+      "vendorProject": "Langflow",
+      "product": "Langflow",
+      "vulnerabilityName": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
+      "dateAdded": "2026-07-21",
+      "shortDescription": "Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations. ",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-24",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://github.com/langflow-ai/langflow/releases/tag/v1.9.0 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-0770 ",
+      "cwes": [
+        "CWE-829"
+      ],
+      "epss": 0.10371,
+      "epss_percentile": 0.95225
+    },
+    {
+      "cveID": "CVE-2021-27137",
+      "vendorProject": "DD-WRT",
+      "product": "DD-WRT",
+      "vulnerabilityName": "DD-WRT Stack-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-07-21",
+      "shortDescription": "DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-24",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "This vulnerability affects a common open-source component, third-party library, proprietary implementation, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https://svn.dd-wrt.com/changeset/45724 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2021-27137",
+      "cwes": [
+        "CWE-121"
+      ],
+      "epss": 0.05447,
+      "epss_percentile": 0.91861
+    },
     {
       "cveID": "CVE-2026-58644",
       "vendorProject": "Microsoft",
@@ -107,74 +175,6 @@
       ],
       "epss": 0.00379,
       "epss_percentile": 0.30287
-    },
-    {
-      "cveID": "CVE-2026-56164",
-      "vendorProject": "Microsoft",
-      "product": "SharePoint Server",
-      "vulnerabilityName": "Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
-      "dateAdded": "2026-07-14",
-      "shortDescription": "Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-17",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-56164 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-56164",
-      "cwes": [
-        "CWE-306"
-      ],
-      "epss": 0.05601,
-      "epss_percentile": 0.92056
-    },
-    {
-      "cveID": "CVE-2026-15409",
-      "vendorProject": "SonicWall",
-      "product": "SMA1000 Appliances",
-      "vulnerabilityName": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
-      "dateAdded": "2026-07-14",
-      "shortDescription": "SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-17",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0008 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-15409",
-      "cwes": [
-        "CWE-918"
-      ],
-      "epss": 0.01266,
-      "epss_percentile": 0.66544
-    },
-    {
-      "cveID": "CVE-2026-15410",
-      "vendorProject": "SonicWall",
-      "product": "SMA1000 Appliances",
-      "vulnerabilityName": "SonicWall SMA1000 Appliances Code Injection Vulnerability",
-      "dateAdded": "2026-07-14",
-      "shortDescription": "SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-17",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0008 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-15410",
-      "cwes": [
-        "CWE-94"
-      ],
-      "epss": 0.01486,
-      "epss_percentile": 0.71201
-    },
-    {
-      "cveID": "CVE-2008-4128",
-      "vendorProject": "Cisco",
-      "product": "IOS",
-      "vulnerabilityName": "Cisco IOS Cross-Site Request Forgery Vulnerability",
-      "dateAdded": "2026-07-13",
-      "shortDescription": "Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain \"show privilege\" command to the /level/15/exec/- URI, and (2) a certain \"alias exec\" command to the /level/15/exec/-/configure/http URI.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-16",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.cisco.com/c/en/us/obsolete/ios-nx-os-software/cisco-ios-software-releases-12-4-mainline.html ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2008-4128",
-      "cwes": [
-        "CWE-352"
-      ],
-      "epss": 0.23857,
-      "epss_percentile": 0.97582
     }
   ]
 }

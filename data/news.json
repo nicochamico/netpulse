@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-21T15:02:01.964663+00:00",
+  "last_success": "2026-07-21T17:15:23.593878+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "published": "Tue, 21 Jul 2026 21:36:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "published": "Tue, 21 Jul 2026 20:39:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "published": "Tue, 21 Jul 2026 20:27:51 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
@@ -22,22 +40,10 @@
       "published": "Tue, 21 Jul 2026 17:28:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "published": "Tue, 21 Jul 2026 17:12:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "published": "Tue, 21 Jul 2026 16:54:50 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "published": "Tue, 21 Jul 2026 14:29:30 +0530"
+      "source": "BleepingComputer",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "published": "Tue, 21 Jul 2026 12:41:50 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
       "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
       "published": "Tue, 21 Jul 2026 04:06:26 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "published": "Mon, 20 Jul 2026 18:39:30 -0400"
     }
   ]
 }
