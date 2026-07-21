@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-21T10:23:01.272602+00:00",
+  "last_success": "2026-07-21T12:22:28.014474+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-21T11:01:05.197000+00:00",
+      "claim_url": "",
+      "country": "SG",
+      "data_size": null,
+      "description": "**Website**: kyowasingapore.com\n\n**Revenue**: $15 Million\n\nFounded in 1979 and headquartered at Benoi Road, Singapore, they primarily supply global consumer electronics, grooming, and automotive indus",
+      "discovered": "2026-07-21T11:29:27.001229+00:00",
+      "domain": "kyowasingapore.com",
+      "group": "morpheus",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-21T11:52:39.195589",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/S3lvd2EgU2luZ2Fwb3JlIFB0ZSBMdGRAbW9ycGhldXM=",
+      "victim": "Kyowa Singapore Pte Ltd"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-21T10:09:36.272816+00:00",
@@ -12,9 +39,19 @@
       "data_size": null,
       "description": "[AI generated] N/A",
       "discovered": "2026-07-21T10:09:59.513102+00:00",
-      "domain": "",
+      "domain": "pertinenthbs.com",
       "group": "titan",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-21T11:52:25.598466",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/478e036c0ced26e5eb224ef59d05f8ef.png",
@@ -162,6 +199,23 @@
       "screenshot": "https://images.ransomware.live/victims/eda9c315ec8598963fd353e7b2664975.png",
       "url": "https://www.ransomware.live/id/UG9zdHJlcyBSZWluYUBxaWxpbg==",
       "victim": "Postres Reina"
+    },
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-21T00:00:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Finer & Finer CPA is a leading accounting firm based in Randolph, MA, offering a wide range of \nservices including tax preparation, personal financial planning, and business accounting. They \ncater to business owners, executives, and independent professionals, providing personalized and\nprofessional attention to each client.\n\nWe will upload 50gb corporate data soon. Employee information (personal docs and health informa\ntion, tests and so on), contracts, client information and other internal information.\n",
+      "discovered": "2026-07-21T11:53:10.812705+00:00",
+      "domain": "",
+      "group": "akira",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RmluZXIgJiBGaW5lckBha2lyYQ==",
+      "victim": "Finer & Finer"
     },
     {
       "activity": "Not Found",
@@ -461,50 +515,6 @@
       "screenshot": "https://images.ransomware.live/victims/8a929e775ab20e2647dca1d1931cdd97.png",
       "url": "https://www.ransomware.live/id/SnJkIGxvZ2lzdGljc0Bub3Zh",
       "victim": "Jrd logistics"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-20T15:03:05.883998+00:00",
-      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/rumah-sakit-universitas-indonesia-rsui",
-      "country": "ID",
-      "data_size": null,
-      "description": "Rumah Sakit Universitas Indonesia (RSUI) is the teaching hospital of the University of Indonesia, providing advanced medical care, education, and clinical research in Indonesia - medical data from drive at risk, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-      "discovered": "2026-07-20T15:04:05.336989+00:00",
-      "domain": "rs.ui.ac.id",
-      "group": "nova",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/366dda44b94915483657d541b06fdabe.png",
-      "url": "https://www.ransomware.live/id/UnVtYWggU2FraXQgVW5pdmVyc2l0YXMgSW5kb25lc2lhIChSU1VJKUBub3Zh",
-      "victim": "Rumah Sakit Universitas Indonesia (RSUI)"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-07-20T15:01:52.511192+00:00",
-      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/universidad-nacional-de-mar-del-plata",
-      "country": "AR",
-      "data_size": null,
-      "description": "The Universidad Nacional de Mar del Plata offers a wide range of academic programs, including undergraduate and postgraduate degrees, vocational training, and distance education. It serves students, faculty, and the broader community by promoting research, innovation, and cultural activities. The university is committed to sustainability and social responsibility, providing various scholarships and support for international mobility. Additionally, it engages in partnerships and projects that enhance academic and technological transfer, contributing to local and global knowledge - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-      "discovered": "2026-07-20T15:02:47.582233+00:00",
-      "domain": "mdp.edu.ar",
-      "group": "nova",
-      "infostealer": {
-        "employees": 146,
-        "employees_url": 30,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 122,
-        "update": "2026-07-21T07:10:22.330740",
-        "users": 5085,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b30f248d6e78ab3a430c0ddf82f99a03.png",
-      "url": "https://www.ransomware.live/id/VW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWFyIGRlbCBQbGF0YUBub3Zh",
-      "victim": "Universidad Nacional de Mar del Plata"
     }
   ]
 }
