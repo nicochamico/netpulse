@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-21T22:53:51.995321+00:00",
+  "last_success": "2026-07-21T23:54:42.197577+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Police dismantle Kratos phishing platform, arrest developer",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "published": "Tue, 21 Jul 2026 19:07:33 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
       "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
       "published": "Tue, 21 Jul 2026 18:34:17 -0400"
@@ -68,12 +74,6 @@
       "title": "Closing the Identity Gaps in Critical Infrastructure Security",
       "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
       "published": "Tue, 21 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-      "published": "Tue, 21 Jul 2026 07:07:07 -0400"
     }
   ]
 }
