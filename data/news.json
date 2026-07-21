@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-21T07:30:46.841830+00:00",
+  "last_success": "2026-07-21T10:23:01.272602+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "published": "Tue, 21 Jul 2026 14:29:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "published": "Tue, 21 Jul 2026 13:04:32 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "published": "Tue, 21 Jul 2026 11:59:26 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -22,22 +40,22 @@
       "published": "Mon, 20 Jul 2026 20:03:43 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "published": "Mon, 20 Jul 2026 19:02:26 +0530"
+      "source": "BleepingComputer",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "published": "Tue, 21 Jul 2026 06:12:24 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "published": "Mon, 20 Jul 2026 17:43:39 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "published": "Tue, 21 Jul 2026 05:05:50 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "published": "Mon, 20 Jul 2026 17:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "published": "Tue, 21 Jul 2026 04:06:26 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
       "published": "Mon, 20 Jul 2026 18:22:56 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "published": "Mon, 20 Jul 2026 17:14:42 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "published": "Mon, 20 Jul 2026 17:08:02 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "published": "Mon, 20 Jul 2026 13:43:01 -0400"
     }
   ]
 }
