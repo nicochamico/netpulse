@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-21T12:22:28.014474+00:00",
+  "last_success": "2026-07-21T15:02:01.964663+00:00",
   "count": 100,
   "items": [
     {
@@ -199,6 +199,23 @@
       "screenshot": "https://images.ransomware.live/victims/eda9c315ec8598963fd353e7b2664975.png",
       "url": "https://www.ransomware.live/id/UG9zdHJlcyBSZWluYUBxaWxpbg==",
       "victim": "Postres Reina"
+    },
+    {
+      "activity": "Consumer Services",
+      "attackdate": "2026-07-21T00:00:00+00:00",
+      "claim_url": "",
+      "country": "CZ",
+      "data_size": null,
+      "description": "Novasport spol. s r.o. We are a global manufacturer of LEKI brand ski, hiking, and Nordic walki\nng poles. Novasport was founded in 1992 by Klaus Lenhart, the owner of the LEKI brand. LEKI has\na long history of collaborating with the world’s top athletes.\n\nWe will upload 17gb corporate data soon. Detailed employee information (passports and other inf\normation), projects, contracts, financials, clients information and so on.\n",
+      "discovered": "2026-07-21T12:53:20.295415+00:00",
+      "domain": "",
+      "group": "akira",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Tm92YXNwb3J0IHMuci5vLkBha2lyYQ==",
+      "victim": "Novasport s.r.o."
     },
     {
       "activity": "Consumer Services",
@@ -488,33 +505,6 @@
       "screenshot": "https://images.ransomware.live/victims/99eee0cc0d0ef171f5612446d6e4c2e2.png",
       "url": "https://www.ransomware.live/id/Q2F0ZXJwaWxsYXJAY29pbmJhc2VjYXJ0ZWw=",
       "victim": "Caterpillar"
-    },
-    {
-      "activity": "Transportation/Logistics",
-      "attackdate": "2026-07-20T15:04:23.707545+00:00",
-      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/jrd-logistics",
-      "country": "US",
-      "data_size": null,
-      "description": "Jrd logistics LTD is an India-based freight forwarding and supply chain company headquartered in Kolkata that provides international logistics, customs clearance, warehousing, and multimodal transport services - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-      "discovered": "2026-07-20T15:05:13.912406+00:00",
-      "domain": "jrd-logistics.com",
-      "group": "nova",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-21T07:11:04.135054",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8a929e775ab20e2647dca1d1931cdd97.png",
-      "url": "https://www.ransomware.live/id/SnJkIGxvZ2lzdGljc0Bub3Zh",
-      "victim": "Jrd logistics"
     }
   ]
 }
