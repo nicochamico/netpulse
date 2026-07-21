@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-21T17:15:23.593878+00:00",
+  "last_success": "2026-07-21T19:17:32.295778+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "published": "Tue, 21 Jul 2026 14:50:54 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical wp2shell WordPress flaws exploited to install webshells",
       "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
       "published": "Tue, 21 Jul 2026 12:41:50 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
       "published": "Tue, 21 Jul 2026 05:05:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "published": "Tue, 21 Jul 2026 04:06:26 -0400"
     }
   ]
 }
