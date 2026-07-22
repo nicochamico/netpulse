@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-22T17:15:20.644831+00:00",
+  "last_success": "2026-07-22T19:12:54.043257+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Construction",
+      "attackdate": "2026-07-22T18:03:05.166718+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e3c69462-969a-4bfd-8992-06497d92921c",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-22T18:03:51.681617+00:00",
+      "domain": "www.paconst.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5c497612bb19369376d98d16095ad670.png",
+      "url": "https://www.ransomware.live/id/UCAmIEEgQ29uc3RydWN0aW9uQHFpbGlu",
+      "victim": "P & A Construction"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-22T17:20:21.860757+00:00",
+      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/windiam",
+      "country": "",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-07-22T17:20:37.495782+00:00",
+      "domain": "windiam.com",
+      "group": "BrainCipher",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-22T17:20:21",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/864cef7c640ad374dc21dc6e5ec40328.png",
+      "url": "https://www.ransomware.live/id/d2luZGlhbS5jb21AQnJhaW5DaXBoZXI=",
+      "victim": "windiam.com"
+    },
     {
       "activity": "Transportation/Logistics",
       "attackdate": "2026-07-22T16:59:15.992707+00:00",
@@ -359,40 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/ba62611a117738e2bc5e9610fb0cafe5.png",
       "url": "https://www.ransomware.live/id/RXZlcmdyZWVuIFRpdGxlQHFpbGlu",
       "victim": "Evergreen Title"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-21T18:09:49.176665+00:00",
-      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=fI5OO3BdC6MQzC",
-      "country": "US",
-      "data_size": null,
-      "description": "United States",
-      "discovered": "2026-07-21T18:10:23.025221+00:00",
-      "domain": "www.kreysler.com",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/S3JleXNsZXIgJiBBc3NvY2lhdGVzQHBsYXk=",
-      "victim": "Kreysler & Associates"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-07-21T18:07:53.434034+00:00",
-      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/la-financiere-d-orion-finorion",
-      "country": "FR",
-      "data_size": null,
-      "description": "Since 2009, we have been helping to create a privileged relationship between wealth professionals and their clients. The wealth of our experience allows us to deploy innovative, coherent financial engineering levers that are perfectly tailored to your aspirations and objectives - Nova have 20GB of clients documents data and company finance informations, for example convestion ERES.pdf, secrets is here, Contact us for more details, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
-      "discovered": "2026-07-21T18:09:05.710193+00:00",
-      "domain": "",
-      "group": "nova",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4a481c8c912e6bd3a9f14f16381835ec.png",
-      "url": "https://www.ransomware.live/id/TGEgRmluYW5jacOocmUgZCdPcmlvbiAoZmlub3Jpb24pQG5vdmE=",
-      "victim": "La Financière d'Orion (finorion)"
     }
   ]
 }
