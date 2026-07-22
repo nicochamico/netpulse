@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-22T11:07:09.926572+00:00",
+  "last_success": "2026-07-22T13:46:19.535594+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-22T12:05:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Architecture and Planning Stolen data: 45 GB.",
+      "discovered": "2026-07-22T13:20:46.765074+00:00",
+      "domain": "www.pcparch.com",
+      "group": "Booba Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UGVsbGkgQ2xhcmtlIFBlbGxpIEFyY2hpdGVjdHNAQm9vYmEgUHJvamVjdA==",
+      "victim": "Pelli Clarke Pelli Architects"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-22T08:57:45.730967+00:00",
@@ -426,23 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/e6f2933991f77a3da9be12ef0082adb6.png",
       "url": "https://www.ransomware.live/id/UGlublBBQ0tAd29ybGRsZWFrcw==",
       "victim": "PinnPACK"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-07-21T07:04:01.634362+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=48655caf-4585-42fd-9ab0-386475bc0c00",
-      "country": "ES",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-21T07:04:30.473467+00:00",
-      "domain": "www.postresreina.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/eda9c315ec8598963fd353e7b2664975.png",
-      "url": "https://www.ransomware.live/id/UG9zdHJlcyBSZWluYUBxaWxpbg==",
-      "victim": "Postres Reina"
     }
   ]
 }
