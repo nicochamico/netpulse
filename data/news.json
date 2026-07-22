@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-22T21:03:33.110109+00:00",
+  "last_success": "2026-07-22T22:59:56.533944+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "published": "Wed, 22 Jul 2026 17:43:39 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "South Korea discloses data breach impacting diplomats worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
       "published": "Wed, 22 Jul 2026 16:06:54 -0400"
@@ -68,12 +74,6 @@
       "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
       "published": "Wed, 22 Jul 2026 09:22:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "published": "Wed, 22 Jul 2026 07:43:28 -0400"
     }
   ]
 }

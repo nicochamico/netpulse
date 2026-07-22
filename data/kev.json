@@ -1,9 +1,43 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-07-22T21:03:33.110109+00:00",
-  "count": 1651,
+  "last_success": "2026-07-22T22:59:56.533944+00:00",
+  "count": 1653,
   "items": [
+    {
+      "cveID": "CVE-2026-16232",
+      "vendorProject": "Check Point",
+      "product": "SmartConsole",
+      "vulnerabilityName": "Check Point SmartConsole Improper Authentication Vulnerability",
+      "dateAdded": "2026-07-22",
+      "shortDescription": "Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-25",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://support.checkpoint.com/results/sk/sk185169/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-16232",
+      "cwes": [
+        "CWE-287"
+      ],
+      "epss": null,
+      "epss_percentile": null
+    },
+    {
+      "cveID": "CVE-2026-50522",
+      "vendorProject": "Microsoft",
+      "product": "SharePoint",
+      "vulnerabilityName": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
+      "dateAdded": "2026-07-22",
+      "shortDescription": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-07-25",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50522 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-50522",
+      "cwes": [
+        "CWE-502"
+      ],
+      "epss": 0.20346,
+      "epss_percentile": 0.97214
+    },
     {
       "cveID": "CVE-2026-60137",
       "vendorProject": "WordPress",
@@ -141,40 +175,6 @@
       ],
       "epss": 0.01045,
       "epss_percentile": 0.6053
-    },
-    {
-      "cveID": "CVE-2023-4346",
-      "vendorProject": "KNX Association",
-      "product": "KNX Protocol Connection Authorization Option 1",
-      "vulnerabilityName": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
-      "dateAdded": "2026-07-15",
-      "shortDescription": "KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. ",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-29",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-236-01 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2023-4346",
-      "cwes": [
-        "CWE-645"
-      ],
-      "epss": 0.00855,
-      "epss_percentile": 0.54544
-    },
-    {
-      "cveID": "CVE-2026-56155",
-      "vendorProject": "Microsoft",
-      "product": "Active Directory Federation Services",
-      "vulnerabilityName": "Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
-      "dateAdded": "2026-07-14",
-      "shortDescription": "Microsoft Active Directory Federation Services contains an insufficient granularity of access control vulnerability that allows an authorized attacker to elevate privileges locally.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-28",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-56155 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-56155; https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/decommission/adfs-decommission-guide",
-      "cwes": [
-        "CWE-1220"
-      ],
-      "epss": 0.00379,
-      "epss_percentile": 0.30451
     }
   ]
 }
