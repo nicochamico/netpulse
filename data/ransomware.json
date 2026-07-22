@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-21T23:54:42.197577+00:00",
+  "last_success": "2026-07-22T02:26:06.687048+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-22T00:14:55.500215+00:00",
+      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/marpatech",
+      "country": "",
+      "data_size": null,
+      "description": "Marpatech specializes in providing instrumentation and control solutions across Latin America, with a focus on the mining and industrial sectors. The company offers a range of products from various manufacturers, including AMETEK, SOR, and JUMO, catering to clients in Peru, Argentina, and Colombia. With offices in major cities, Marpatech is committed to delivering technical and commercial support to its clients. The company actively participates in industry events to showcase its expertise and innovations - Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+      "discovered": "2026-07-22T00:15:57.994425+00:00",
+      "domain": "",
+      "group": "nova",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TWFycGF0ZWNoQG5vdmE=",
+      "victim": "Marpatech"
+    },
+    {
+      "activity": "Telecommunication",
+      "attackdate": "2026-07-22T00:13:23.197716+00:00",
+      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/canal-9-litoral",
+      "country": "AR",
+      "data_size": null,
+      "description": "AHORA Entre Ríos is a news platform that provides the latest updates and urgent news from Entre Ríos, Santa Fe, and the Litoral region. The service covers a wide range of topics including society, politics, sports, economy, and health. It aims to keep its audience informed with minute-by-minute news coverage. The intended clients are residents and individuals interested in current events in the specified regions - MXF secret files at risk, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
+      "discovered": "2026-07-22T00:14:37.054785+00:00",
+      "domain": "",
+      "group": "nova",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/abb5e296fcf57a497529932b70395abf.png",
+      "url": "https://www.ransomware.live/id/Q2FuYWwgOSBMaXRvcmFsQG5vdmE=",
+      "victim": "Canal 9 Litoral"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-07-21T20:15:53.531655+00:00",
@@ -20,23 +54,6 @@
       "screenshot": "https://images.ransomware.live/victims/ba62611a117738e2bc5e9610fb0cafe5.png",
       "url": "https://www.ransomware.live/id/RXZlcmdyZWVuIFRpdGxlQHFpbGlu",
       "victim": "Evergreen Title"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-21T20:15:15.570230+00:00",
-      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=7cM13edLLDTIB5",
-      "country": "MT",
-      "data_size": null,
-      "description": "United States",
-      "discovered": "2026-07-21T20:15:33.855019+00:00",
-      "domain": "www.tax-mt.com",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3bc28730535185e82dec20bef1baebc0.png",
-      "url": "https://www.ransomware.live/id/VGF4IE1UQHBsYXk=",
-      "victim": "Tax MT"
     },
     {
       "activity": "Business Services",
@@ -406,33 +423,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RmluZXIgJiBGaW5lckBha2lyYQ==",
       "victim": "Finer & Finer"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-20T19:06:49.526256+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/wdkde/",
-      "country": "DE",
-      "data_size": null,
-      "description": "Founded in 1950 and headquartered in Frankfurt am Main, the organization serves as the central voice of German manufacturers of …",
-      "discovered": "2026-07-20T19:07:03.744422+00:00",
-      "domain": "wdk.de",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-20T19:30:38",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f61be1e47637ed3cff723c921455b5c0.png",
-      "url": "https://www.ransomware.live/id/d2RrLmRlQHNhZmVwYXk=",
-      "victim": "wdk.de"
     }
   ]
 }
