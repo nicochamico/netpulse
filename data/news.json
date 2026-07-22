@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-22T19:12:54.043257+00:00",
+  "last_success": "2026-07-22T21:03:33.110109+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "published": "Thu, 23 Jul 2026 00:07:42 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -34,10 +40,10 @@
       "published": "Wed, 22 Jul 2026 17:00:02 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "published": "Wed, 22 Jul 2026 16:55:35 +0530"
+      "source": "BleepingComputer",
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "published": "Wed, 22 Jul 2026 16:06:54 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
       "published": "Wed, 22 Jul 2026 07:43:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "published": "Wed, 22 Jul 2026 07:09:16 -0400"
     }
   ]
 }
