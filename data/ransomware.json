@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-22T08:24:21.029103+00:00",
+  "last_success": "2026-07-22T11:07:09.926572+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-22T08:57:45.730967+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/K7Q4Xwr5J40rpV4U3bKWQKH2422gyEVQ",
+      "country": "SG",
+      "data_size": null,
+      "description": "issvc.com\n\nOfficial Notice to Management and Stakeholders\n\nThe time window has expired. Exactly 24 hours remain until the final deadline. If an agreement is not reached by the end of this period, the complete confidential dataset totaling 262 GB will be published into the public domain.\n\nCompromised…",
+      "discovered": "2026-07-22T08:58:05.736397+00:00",
+      "domain": "issvc.com",
+      "group": "chaos",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-22T08:57:45",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ce35ed709b5abc3ae857b94bca5d0a8c.png",
+      "url": "https://www.ransomware.live/id/aXNzdmMuY29tQGNoYW9z",
+      "victim": "issvc.com"
+    },
+    {
+      "activity": "Business Services",
+      "attackdate": "2026-07-22T08:32:05.248915+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=877bb86e-24f9-4685-bbe4-6589ae2725b6",
+      "country": "US",
+      "data_size": null,
+      "description": "Koshkaryan Law Group is a legal firm specializing in personal injury and criminal defense cases. They prioritize client service and provide personalized attention to ensure favorable outcomes for their clients. The firm offers free initial consultations and is dedicated to keeping clients informed about their legal options. With a strong track record of recovering over $138 million for clients, they aim to advocate vigorously on behalf of those they represent.",
+      "discovered": "2026-07-22T09:01:02.780948+00:00",
+      "domain": "koshlaw.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-22T09:00:22",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9c203912d4958f237d955f8f76142c6e.png",
+      "url": "https://www.ransomware.live/id/S29zaGthcnlhbiBMYXcgR3JvdXBAZHJhZ29uZm9yY2U=",
+      "victim": "Koshkaryan Law Group"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-22T00:14:55.500215+00:00",
@@ -389,40 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/eda9c315ec8598963fd353e7b2664975.png",
       "url": "https://www.ransomware.live/id/UG9zdHJlcyBSZWluYUBxaWxpbg==",
       "victim": "Postres Reina"
-    },
-    {
-      "activity": "Consumer Services",
-      "attackdate": "2026-07-21T00:00:00+00:00",
-      "claim_url": "",
-      "country": "CZ",
-      "data_size": null,
-      "description": "Novasport spol. s r.o. We are a global manufacturer of LEKI brand ski, hiking, and Nordic walki\nng poles. Novasport was founded in 1992 by Klaus Lenhart, the owner of the LEKI brand. LEKI has\na long history of collaborating with the world’s top athletes.\n\nWe will upload 17gb corporate data soon. Detailed employee information (passports and other inf\normation), projects, contracts, financials, clients information and so on.\n",
-      "discovered": "2026-07-21T12:53:20.295415+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Tm92YXNwb3J0IHMuci5vLkBha2lyYQ==",
-      "victim": "Novasport s.r.o."
-    },
-    {
-      "activity": "Consumer Services",
-      "attackdate": "2026-07-21T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Finer & Finer CPA is a leading accounting firm based in Randolph, MA, offering a wide range of \nservices including tax preparation, personal financial planning, and business accounting. They \ncater to business owners, executives, and independent professionals, providing personalized and\nprofessional attention to each client.\n\nWe will upload 50gb corporate data soon. Employee information (personal docs and health informa\ntion, tests and so on), contracts, client information and other internal information.\n",
-      "discovered": "2026-07-21T11:53:10.812705+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RmluZXIgJiBGaW5lckBha2lyYQ==",
-      "victim": "Finer & Finer"
     }
   ]
 }
