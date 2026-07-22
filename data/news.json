@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-22T13:46:19.535594+00:00",
+  "last_success": "2026-07-22T15:38:49.388783+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "published": "Wed, 22 Jul 2026 18:06:36 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "published": "Wed, 22 Jul 2026 17:28:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "published": "Wed, 22 Jul 2026 17:00:02 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Why Modern SOCs Need Multi-Layered Detections",
@@ -22,22 +40,16 @@
       "published": "Wed, 22 Jul 2026 11:30:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "published": "Wed, 22 Jul 2026 10:27:52 +0530"
+      "source": "BleepingComputer",
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "published": "Wed, 22 Jul 2026 11:30:00 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "published": "Wed, 22 Jul 2026 09:48:33 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "published": "Wed, 22 Jul 2026 00:16:32 +0530"
+      "source": "BleepingComputer",
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "published": "Wed, 22 Jul 2026 10:15:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
       "published": "Wed, 22 Jul 2026 06:44:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "published": "Wed, 22 Jul 2026 02:40:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "published": "Wed, 22 Jul 2026 01:19:20 -0400"
     }
   ]
 }
