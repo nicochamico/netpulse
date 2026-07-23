@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-23T04:13:29.007847+00:00",
+  "last_success": "2026-07-23T07:30:57.919030+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Hospitality and Tourism",
+      "attackdate": "2026-07-23T04:28:25.066407+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=29c74989-187f-43cd-a8bf-c3d3adfd8b78",
+      "country": "MY",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-23T04:28:45.174350+00:00",
+      "domain": "www.sunway.com.my",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/bf04b1c1f620a97cc30bbff20bd46100.png",
+      "url": "https://www.ransomware.live/id/U3Vud2F5IEJlcmhhZEBxaWxpbg==",
+      "victim": "Sunway Berhad"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-22T19:30:08.372707+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/abb5e296fcf57a497529932b70395abf.png",
       "url": "https://www.ransomware.live/id/Q2FuYWwgOSBMaXRvcmFsQG5vdmE=",
       "victim": "Canal 9 Litoral"
-    },
-    {
-      "activity": "Business Services",
-      "attackdate": "2026-07-22T00:00:00+00:00",
-      "claim_url": "",
-      "country": "AU",
-      "data_size": null,
-      "description": "LR Reed is a family-owned business with over 30 years of experience, specializing in Owners Corporation management and developer services. They provide a comprehensive range of management services, including asset management, legislative compliance, and financial accounting, ensuring a transparent and hands-on approach. Their client portfolio includes various property types such as residential, retail, industrial, recreational, and commercial, serving notable companies like Mirvac and Walker Corporation. Committed to excellence, LR Reed is the preferred choice for managing strata communities with care and responsibility.",
-      "discovered": "2026-07-22T20:27:32.915323+00:00",
-      "domain": "",
-      "group": "kairos",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TFIgUmVlZEBrYWlyb3M=",
-      "victim": "LR Reed"
     }
   ]
 }
