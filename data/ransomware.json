@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-23T12:22:54.314849+00:00",
+  "last_success": "2026-07-23T15:06:58.461556+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-23T14:26:43.622897+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/03c69f24329af5a2fe834c2f2d9fdc981af148ecae55cd29a50258d451cc0b80/",
+      "country": "LA",
+      "data_size": null,
+      "description": "LAXAI Life Sciences Pvt. Ltd. is an Indian Contract Research, Development, and Manufacturing Organization (CRDMO) founde...",
+      "discovered": "2026-07-23T14:27:01.505429+00:00",
+      "domain": "laxai.com",
+      "group": "krybit",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-23T14:26:43",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/fef4531117e79e8a9db92e22855e242d.png",
+      "url": "https://www.ransomware.live/id/bGF4YWkuY29tQGtyeWJpdA==",
+      "victim": "laxai.com"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-23T14:26:05.447488+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/2479579f8137b048eb873c9b24defdef0ae1e7998cb040c294736c8df6d16d01/",
+      "country": "",
+      "data_size": null,
+      "description": "CH. Karnchang Public Company Limited (บริษัท ช.การช่าง จำกัด (มหาชน)) is...",
+      "discovered": "2026-07-23T14:26:24.640581+00:00",
+      "domain": "chkck.com",
+      "group": "krybit",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-07-23T14:26:05",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6d7750385a4d903cffba66959afbfd57.png",
+      "url": "https://www.ransomware.live/id/Y2hrY2suY29tQGtyeWJpdA==",
+      "victim": "chkck.com"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-23T09:28:03.817144+00:00",
@@ -359,50 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/a261a7879aad49862716b3e8fa1c1621.png",
       "url": "https://www.ransomware.live/id/RUZVIExpZmUgQXNzdXJhbmNlQHFpbGlu",
       "victim": "EFU Life Assurance"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-22T16:04:51.606583+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=ae1065e8-9247-4660-8f32-4e7d25fc4f10",
-      "country": "",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-22T16:05:55.661998+00:00",
-      "domain": "www.infinahealth.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SW5maW5hIEhlYWx0aEBxaWxpbg==",
-      "victim": "Infina Health"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-22T14:57:23.037392+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/e26a25863929498d892fc5fa338f732d064a71fbc45f82e4c50ec65dd52d0911/",
-      "country": "IN",
-      "data_size": null,
-      "description": "Delhi Heart & Lung Institute (DHLI) is a tertiary care 100-bedded super specialty hospital established in 2003 in New De...",
-      "discovered": "2026-07-22T14:57:43.088649+00:00",
-      "domain": "dhli.in",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-22T14:57:23",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7f20309df012adfdd38ec54bea78660d.png",
-      "url": "https://www.ransomware.live/id/ZGhsaS5pbkBrcnliaXQ=",
-      "victim": "dhli.in"
     }
   ]
 }

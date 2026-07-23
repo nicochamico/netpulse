@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-23T12:22:54.314849+00:00",
+  "last_success": "2026-07-23T15:06:58.461556+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "published": "Thu, 23 Jul 2026 18:57:59 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "published": "Thu, 23 Jul 2026 18:41:09 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "published": "Thu, 23 Jul 2026 17:50:23 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -22,22 +40,16 @@
       "published": "Thu, 23 Jul 2026 15:30:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "published": "Thu, 23 Jul 2026 13:34:35 +0530"
+      "source": "BleepingComputer",
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "published": "Thu, 23 Jul 2026 10:00:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "published": "Thu, 23 Jul 2026 12:04:36 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "published": "Thu, 23 Jul 2026 00:07:42 +0530"
+      "source": "BleepingComputer",
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "published": "Thu, 23 Jul 2026 08:33:19 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
       "published": "Thu, 23 Jul 2026 04:13:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "published": "Wed, 22 Jul 2026 17:43:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "published": "Wed, 22 Jul 2026 16:06:54 -0400"
     }
   ]
 }
