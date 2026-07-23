@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-23T19:12:21.459734+00:00",
+  "last_success": "2026-07-23T21:01:12.418729+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "published": "Thu, 23 Jul 2026 16:14:35 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "published": "Thu, 23 Jul 2026 15:48:30 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
       "published": "Thu, 23 Jul 2026 12:49:27 -0400"
@@ -62,18 +74,6 @@
       "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
       "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
       "published": "Thu, 23 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EU fines Google $1 billion for search, app store antitrust violations",
-      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-      "published": "Thu, 23 Jul 2026 08:33:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "published": "Thu, 23 Jul 2026 07:40:16 -0400"
     }
   ]
 }
