@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-23T17:19:14.498545+00:00",
+  "last_success": "2026-07-23T19:12:21.459734+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "published": "Fri, 24 Jul 2026 00:06:08 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
@@ -32,12 +38,6 @@
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
       "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
       "published": "Thu, 23 Jul 2026 17:15:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-      "published": "Thu, 23 Jul 2026 16:58:54 +0530"
     },
     {
       "source": "BleepingComputer",
