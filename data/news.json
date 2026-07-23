@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-23T15:06:58.461556+00:00",
+  "last_success": "2026-07-23T17:19:14.498545+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "published": "Thu, 23 Jul 2026 20:32:07 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
@@ -34,10 +40,22 @@
       "published": "Thu, 23 Jul 2026 16:58:54 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-      "published": "Thu, 23 Jul 2026 15:30:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "published": "Thu, 23 Jul 2026 12:49:27 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "published": "Thu, 23 Jul 2026 12:32:35 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "published": "Thu, 23 Jul 2026 11:34:43 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
       "published": "Thu, 23 Jul 2026 07:40:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "published": "Thu, 23 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-      "published": "Thu, 23 Jul 2026 05:20:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "published": "Thu, 23 Jul 2026 04:13:07 -0400"
     }
   ]
 }
