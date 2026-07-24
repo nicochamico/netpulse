@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:07:38.378071+00:00",
+  "generated_at": "2026-07-24T15:06:52.883036+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,7 +12,6 @@
         80,
         443,
         2082,
-        2083,
         2087,
         8443,
         8880
@@ -21,9 +20,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dollahan-rialto-ca.schoolloop.com",
         "one.one.one.one",
-        "eg.areeba.com"
+        "acbtest.vn",
+        "bld08.conrep.com"
       ]
     },
     {
