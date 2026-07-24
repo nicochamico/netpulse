@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-24T19:21:05.471370+00:00",
+  "last_success": "2026-07-24T20:59:55.554912+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "published": "Fri, 24 Jul 2026 15:55:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "published": "Fri, 24 Jul 2026 15:09:09 -0400"
@@ -68,12 +74,6 @@
       "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
       "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
       "published": "Fri, 24 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "published": "Fri, 24 Jul 2026 08:56:53 -0400"
     }
   ]
 }

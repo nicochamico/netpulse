@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-24T19:21:05.471370+00:00",
+  "last_success": "2026-07-24T20:59:55.554912+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-07-24T19:28:16.093284+00:00",
+      "claim_url": "http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#ausproof.com.au",
+      "country": "AU",
+      "data_size": null,
+      "description": "+61 749784000 , AusProof is a leader in the design and manufacture of low and high voltage electrical cable couplers specifically for the mining and tunneling industries. Established in 1974, the company is committed to innovation and quality in its product offerings. AusProof serves clients globally, providing reliable solutions for electrical connectivity in challenging environments. Their extensive experience and dedication to research and development ensure that they meet the evolving needs of their customers. Stolen: 460 GB 373,495 Files",
+      "discovered": "2026-07-24T19:28:48.567761+00:00",
+      "domain": "ausproof.com.au",
+      "group": "m3rx",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-24T19:28:16",
+        "users": 1,
+        "users_url": 2
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7aa287b8742574fbe202edf4a744b9cf.png",
+      "url": "https://www.ransomware.live/id/YXVzcHJvb2YuY29tLmF1QG0zcng=",
+      "victim": "ausproof.com.au"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-07-24T10:36:31.234382+00:00",
@@ -436,33 +463,6 @@
       "screenshot": "https://images.ransomware.live/victims/fef4531117e79e8a9db92e22855e242d.png",
       "url": "https://www.ransomware.live/id/bGF4YWkuY29tQGtyeWJpdA==",
       "victim": "laxai.com"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-23T14:26:05.447488+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/2479579f8137b048eb873c9b24defdef0ae1e7998cb040c294736c8df6d16d01/",
-      "country": "",
-      "data_size": null,
-      "description": "CH. Karnchang Public Company Limited (บริษัท ช.การช่าง จำกัด (มหาชน)) is...",
-      "discovered": "2026-07-23T14:26:24.640581+00:00",
-      "domain": "chkck.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 3,
-        "update": "2026-07-23T14:26:05",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6d7750385a4d903cffba66959afbfd57.png",
-      "url": "https://www.ransomware.live/id/Y2hrY2suY29tQGtyeWJpdA==",
-      "victim": "chkck.com"
     }
   ]
 }
