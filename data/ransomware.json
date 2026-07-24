@@ -1,26 +1,9 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-24T15:23:34.825802+00:00",
+  "last_success": "2026-07-24T17:27:43.084624+00:00",
   "count": 100,
   "items": [
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-24T12:36:00+00:00",
-      "claim_url": "",
-      "country": "CH",
-      "data_size": null,
-      "description": "IT Services and IT Consulting Stolen data: 1.4 GB",
-      "discovered": "2026-07-24T13:20:16.944159+00:00",
-      "domain": "www.zynex.ch",
-      "group": "Booba Project",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/WnluZXhAQm9vYmEgUHJvamVjdA==",
-      "victim": "Zynex"
-    },
     {
       "activity": "Education",
       "attackdate": "2026-07-24T10:36:31.234382+00:00",
@@ -165,6 +148,23 @@
       "screenshot": "https://images.ransomware.live/victims/7d5f1bd9abfe9e04fbc12f1ac8fe4a81.png",
       "url": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
       "victim": "autismuslink.ch"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-24T00:00:00+00:00",
+      "claim_url": "http://d77tnb4bkmj3e366msrzllnwsi2t5e54e4yqh7zm7y5hlfwugnwzswad.onion/zynex.com/",
+      "country": "CH",
+      "data_size": null,
+      "description": "IT Services and IT Consulting Stolen data: 1.4 GB",
+      "discovered": "2026-07-24T13:20:16.944159+00:00",
+      "domain": "www.zynex.ch",
+      "group": "Booba Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/faf55bb37f0a612cba56b90e46e3b5f8.png",
+      "url": "https://www.ransomware.live/id/WnluZXhAQm9vYmEgUHJvamVjdA==",
+      "victim": "Zynex"
     },
     {
       "activity": "Technology",

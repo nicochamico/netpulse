@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-24T15:23:34.825802+00:00",
+  "last_success": "2026-07-24T17:27:43.084624+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "published": "Fri, 24 Jul 2026 20:42:35 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
@@ -34,10 +40,10 @@
       "published": "Fri, 24 Jul 2026 15:45:29 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-      "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-      "published": "Fri, 24 Jul 2026 15:39:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "published": "Fri, 24 Jul 2026 11:41:44 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "published": "Fri, 24 Jul 2026 03:36:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Dolphin X malware uses AI to rank high-value targets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "published": "Thu, 23 Jul 2026 17:20:34 -0400"
     }
   ]
 }
