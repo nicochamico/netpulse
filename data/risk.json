@@ -1,14 +1,14 @@
 {
   "source": "NetPulse calculated risk score",
   "status": "live",
-  "last_success": "2026-07-24T09:55:39.564561+00:00",
-  "score": 12,
+  "last_success": "2026-07-24T11:39:47.268106+00:00",
+  "score": 14,
   "label": "LOW RISK",
-  "trend": "-3",
+  "trend": "+2",
   "components": {
     "kev_score": 0,
     "epss_score": 26.92,
-    "ransomware_score": 35,
+    "ransomware_score": 45,
     "bgp_score": 0,
     "noise_score": 5,
     "exposure_score": 0
@@ -23,6 +23,6 @@
   },
   "window": {
     "kev_new_items_48h": 0,
-    "ransomware_new_victims_24h": 14
+    "ransomware_new_victims_24h": 18
   }
 }

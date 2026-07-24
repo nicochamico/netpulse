@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-24T09:19:21.537466+00:00",
+  "last_success": "2026-07-24T11:39:44.773218+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "published": "Fri, 24 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "published": "Fri, 24 Jul 2026 15:45:29 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "published": "Fri, 24 Jul 2026 15:39:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
@@ -22,22 +40,10 @@
       "published": "Fri, 24 Jul 2026 12:20:57 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "published": "Fri, 24 Jul 2026 00:06:08 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "published": "Thu, 23 Jul 2026 20:32:07 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "published": "Thu, 23 Jul 2026 18:57:59 +0530"
+      "source": "BleepingComputer",
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "published": "Fri, 24 Jul 2026 07:17:19 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
       "published": "Thu, 23 Jul 2026 12:49:27 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "published": "Thu, 23 Jul 2026 12:32:35 -0400"
     }
   ]
 }
