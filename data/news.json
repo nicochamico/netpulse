@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-24T11:39:44.773218+00:00",
+  "last_success": "2026-07-24T13:38:44.019624+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+      "published": "Fri, 24 Jul 2026 17:23:55 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+      "published": "Fri, 24 Jul 2026 17:15:17 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
@@ -28,16 +40,10 @@
       "published": "Fri, 24 Jul 2026 13:11:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "published": "Fri, 24 Jul 2026 12:28:27 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "published": "Fri, 24 Jul 2026 12:20:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
+      "published": "Fri, 24 Jul 2026 08:56:53 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
       "published": "Thu, 23 Jul 2026 15:48:30 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "published": "Thu, 23 Jul 2026 12:49:27 -0400"
     }
   ]
 }

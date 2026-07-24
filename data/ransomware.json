@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-24T11:39:44.773218+00:00",
+  "last_success": "2026-07-24T13:38:44.019624+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-24T12:36:00+00:00",
+      "claim_url": "",
+      "country": "CH",
+      "data_size": null,
+      "description": "IT Services and IT Consulting Stolen data: 1.4 GB",
+      "discovered": "2026-07-24T13:20:16.944159+00:00",
+      "domain": "www.zynex.ch",
+      "group": "Booba Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/WnluZXhAQm9vYmEgUHJvamVjdA==",
+      "victim": "Zynex"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-07-24T10:36:31.234382+00:00",
@@ -135,6 +152,23 @@
       "screenshot": "https://images.ransomware.live/victims/7d5f1bd9abfe9e04fbc12f1ac8fe4a81.png",
       "url": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
       "victim": "autismuslink.ch"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-24T00:00:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Emerge2 Digital specializes in providing digital marketing solutions tailored for dealer groups\n, retailers, distributors, and manufacturers. Since 1980, the company has been dedicated to hel\nping clients enhance their digital presence and connect with more customers through turnkey sol\nutions and managed services.\n\nWe will upload 30gb of corporate data soon. Employee information (passports and other docs), de\ntailed client information, financials, contracts and agreements and so on.\n",
+      "discovered": "2026-07-24T11:50:58.057162+00:00",
+      "domain": "",
+      "group": "akira",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RW1lcmdlMiBEaWdpdGFsQGFraXJh",
+      "victim": "Emerge2 Digital"
     },
     {
       "activity": "Government & Defense",
@@ -406,60 +440,6 @@
       "screenshot": "https://images.ransomware.live/victims/6d7750385a4d903cffba66959afbfd57.png",
       "url": "https://www.ransomware.live/id/Y2hrY2suY29tQGtyeWJpdA==",
       "victim": "chkck.com"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-23T10:26:25+00:00",
-      "claim_url": "",
-      "country": "AT",
-      "data_size": null,
-      "description": "***.at zoominfo.com/c/wunschkind-klinik-dr-brunbauer/1320140781 We have hundreds of gigabytes of your files, including database projects, client contracts, \npersonal data and documents, medical data, medical histories, treatment records, medical reports, and more—all of which constitute critically important information. \nIf you do not want to face the consequences of a data breach, please contact us; otherwise, everything will be published. fertility clinic in Vienna, Austria, led by Dr. Brunbauer. Located in the city center, the clinic specializes in fertility treatments including IVF, insemination, diagnostics, hormone therapy, egg donation, and cryopreservation. It is a recognized partner clinic of Austria's IVF-Fonds program.",
-      "discovered": "2026-07-23T15:05:14.411469+00:00",
-      "domain": "wunschkind.at",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-23T15:05:10",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V3Vuc2Noa2luZCBLbGluaWsgRHIgQnJ1bmJhdWVyQHRoZWdlbnRsZW1lbg==",
-      "victim": "Wunschkind Klinik Dr Brunbauer"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-23T09:32:23+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "***.com zoominfo.com/c/conecsus-llc/358895914 Conecsus LLC is a global \"green\" metals recycler and refiner founded in 1980 and headquartered in Terrell, Texas. The company specializes in processing complex industrial residues and electronic wastes, particularly those containing tin, lead, silver, gold, and copper, such as SMT solder and solder paste wastes. Recognized as the largest secondary tin-lead recycler in the Western Hemisphere, Conecsus converts these materials into reusable metal products using state-of-the-art technology.",
-      "discovered": "2026-07-23T15:05:35.060342+00:00",
-      "domain": "conecsusllc.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-23T15:05:33",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q29uZWNzdXNAdGhlZ2VudGxlbWVu",
-      "victim": "Conecsus"
     }
   ]
 }
