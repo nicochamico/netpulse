@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-24T20:59:55.554912+00:00",
+  "last_success": "2026-07-24T22:13:11.117735+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Education",
+      "attackdate": "2026-07-24T21:59:32.608577+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/uplandk12caus/",
+      "country": "US",
+      "data_size": null,
+      "description": "The district provides comprehensive education from kindergarten through twelfth grade and operates 14 schools, including elementary, junior high, and high …",
+      "discovered": "2026-07-24T21:59:45.844758+00:00",
+      "domain": "upland.k12.ca.us",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 2,
+        "employees_url": 2,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 90,
+        "update": "2026-07-24T21:59:32",
+        "users": 13,
+        "users_url": 6
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a05b0b2823ba9d1ffc4256c90f05ffdf.png",
+      "url": "https://www.ransomware.live/id/dXBsYW5kLmsxMi5jYS51c0BzYWZlcGF5",
+      "victim": "upland.k12.ca.us"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-24T21:58:57.270005+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/gvsurgicalartscom/",
+      "country": "US",
+      "data_size": null,
+      "description": "Founded in 2004 by Dr. Brian R. Chisdak, the practice has grown into one of Montana's leading surgical centers and …",
+      "discovered": "2026-07-24T21:59:13.423298+00:00",
+      "domain": "gvsurgicalarts.com",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-24T21:58:57",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/907ab2a93779aad38f54485bab7e8737.png",
+      "url": "https://www.ransomware.live/id/Z3ZzdXJnaWNhbGFydHMuY29tQHNhZmVwYXk=",
+      "victim": "gvsurgicalarts.com"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-07-24T19:28:16.093284+00:00",
@@ -409,60 +463,6 @@
       "screenshot": "https://images.ransomware.live/victims/980d9396953879fb58faa304603e05cf.png",
       "url": "https://www.ransomware.live/id/QUJNIEVudmlyb0BxaWxpbg==",
       "victim": "ABM Enviro"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-07-23T15:26:50.116757+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/4023769a291fcd5f8df62b554766b76c0ee230fa38add89b95869d776bb96581/",
-      "country": "EG",
-      "data_size": null,
-      "description": "Nile Petroleum Corporation (NILEPET) is the state-owned national oil and gas company of the Republic of South Sudan, est...",
-      "discovered": "2026-07-23T15:27:15.434440+00:00",
-      "domain": "nilepet.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 6,
-        "employees_url": 2,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-23T15:26:50",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/bc2b599b0d74825820e4318d26fa88c6.png",
-      "url": "https://www.ransomware.live/id/bmlsZXBldC5jb21Aa3J5Yml0",
-      "victim": "nilepet.com"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-23T14:26:43.622897+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/03c69f24329af5a2fe834c2f2d9fdc981af148ecae55cd29a50258d451cc0b80/",
-      "country": "LA",
-      "data_size": null,
-      "description": "LAXAI Life Sciences Pvt. Ltd. is an Indian Contract Research, Development, and Manufacturing Organization (CRDMO) founde...",
-      "discovered": "2026-07-23T14:27:01.505429+00:00",
-      "domain": "laxai.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-07-23T14:26:43",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/fef4531117e79e8a9db92e22855e242d.png",
-      "url": "https://www.ransomware.live/id/bGF4YWkuY29tQGtyeWJpdA==",
-      "victim": "laxai.com"
     }
   ]
 }
