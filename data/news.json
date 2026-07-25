@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-25T19:07:49.939117+00:00",
+  "last_success": "2026-07-25T20:48:45.213009+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "published": "Sun, 26 Jul 2026 00:18:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
@@ -32,12 +38,6 @@
       "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
       "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
       "published": "Sat, 25 Jul 2026 15:23:41 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "published": "Fri, 24 Jul 2026 20:42:35 +0530"
     },
     {
       "source": "BleepingComputer",
