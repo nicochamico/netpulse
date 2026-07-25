@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:28:09.859824+00:00",
+  "generated_at": "2026-07-25T14:48:01.946332+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "acbtest.vn",
-        "bld08.conrep.com"
+        "njes-njesd-ca.schoolloop.com",
+        "mhs-mps-nm.schoolloop.com"
       ]
     },
     {
