@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-25T07:13:11.104817+00:00",
+  "last_success": "2026-07-25T09:43:47.002363+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-25T09:26:25.279079+00:00",
+      "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/sistnet",
+      "country": "IT",
+      "data_size": null,
+      "description": "Sistnet, a division of Sistemi Tre s.r.l., offers comprehensive solutions in Information and Communication Technology, focusing on transforming products into services. Their offerings include advanced security solutions like EDR-X antivirus, networking, unified communication, and internet services such as cloud backup and email. They aim to protect small and medium-sized enterprises from cyber threats, emphasizing the importance of cybersecurity. With a commitment to high-quality service and innovative partnerships, Sistnet provides tailored support and monitoring for their clients - Nova Provide tree and samples from stolen data and decrypt sample to the company when its get in touch with support department.",
+      "discovered": "2026-07-25T09:27:23.806996+00:00",
+      "domain": "sistnet.it",
+      "group": "nova",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 3,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-25T09:35:20.365632",
+        "users": 3,
+        "users_url": 12
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f4647a30526b0661349e9da628ed185d.png",
+      "url": "https://www.ransomware.live/id/U2lzdE5ldEBub3Zh",
+      "victim": "SistNet"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-07-25T00:00:00+00:00",
@@ -42,13 +69,23 @@
       "activity": "Financial Services",
       "attackdate": "2026-07-24T22:56:57.864195+00:00",
       "claim_url": "http://pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion/center-of-information-technologies-in-finance-public-institution",
-      "country": "",
+      "country": "MD",
       "data_size": null,
       "description": "Centrul de Tehnologii Informaționale în Finanțe (CTIF) offers a wide range of services and products aimed at legal entities such as public authorities, budget institutions, and economic agents, as well as individuals interested in financial information technology. Their services primarily focus on the management, development, and operation of automated information systems in public finance, accounting, taxation, customs, and public procurement. CTIF also provides training courses for professionals in the field of public procurement. The center is committed to transparency and communication with its clients - Data officially taken from Minister Private Information Cloud, Nova Provide tree and samples from stolen data to the company when its get in touch with support department.",
       "discovered": "2026-07-24T22:57:47.407993+00:00",
-      "domain": "",
+      "domain": "ctif.gov.md",
       "group": "nova",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 11,
+        "update": "2026-07-25T09:37:33.952941",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/d81c2fd2d7dafd52ee36a2bd3dbf2da9.png",
@@ -350,7 +387,7 @@
       "data_size": null,
       "description": "N/A",
       "discovered": "2026-07-24T10:37:25.468186+00:00",
-      "domain": "www.argentina.gob.ar/defensa/ejercito",
+      "domain": "",
       "group": "qilin",
       "infostealer": "",
       "press": null,
@@ -409,33 +446,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VCBTaW1vbiBKZXdlbGVyc0BjbWRvcmdhbml6YXRpb24=",
       "victim": "T Simon Jewelers"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-07-23T16:27:14.063413+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Price ??? Disclosures 0/1",
-      "discovered": "2026-07-23T16:27:14.909041+00:00",
-      "domain": "cashcowboy.net",
-      "group": "killsec",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-23T16:27:14",
-        "users": 40,
-        "users_url": 6
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Y2FzaGNvd2JveUBraWxsc2Vj",
-      "victim": "cashcowboy"
     }
   ]
 }
