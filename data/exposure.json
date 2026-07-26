@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:38:04.607681+00:00",
+  "generated_at": "2026-07-26T14:15:59.454427+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,8 +21,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "njes-njesd-ca.schoolloop.com",
-        "mhs-mps-nm.schoolloop.com"
+        "starrking-lbusd-ca.schoolloop.com",
+        "s6.schoolloop.com"
       ]
     },
     {
