@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-25T23:58:19.996318+00:00",
+  "last_success": "2026-07-26T03:35:02.089989+00:00",
   "count": 100,
   "items": [
     {
@@ -199,6 +199,33 @@
     },
     {
       "activity": "Professional Services",
+      "attackdate": "2026-07-25T00:01:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a655dd45ae71db30cdbf8e4",
+      "country": "US",
+      "data_size": null,
+      "description": "Health Law Advocates (HLA), an American non-profit, public interest law firm based in Boston, Massachusetts. Founded in 1996, HLA provides free (pro bono) legal representation to low-income residents and vulnerable populations who face barriers to accessing or paying for healthcare.",
+      "discovered": "2026-07-26T01:56:45.280835+00:00",
+      "domain": "healthlawadvocates.org",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-26T01:55:45",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/22eaf5b86ec459303dfbd9a7b7714329.png",
+      "url": "https://www.ransomware.live/id/aGVhbHRobGF3YWR2b2NhdGVzLm9yZ0BpbmNyYW5zb20=",
+      "victim": "healthlawadvocates.org"
+    },
+    {
+      "activity": "Professional Services",
       "attackdate": "2026-07-25T00:00:00+00:00",
       "claim_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion/s3.php?d=d2FzYWJpOmRhdGEtc2JtcC5jaHxldS1jZW50cmFsLTF8MVRLRlpTNzE0V01PQzRXM0dVQUd8TFRlb1doTGV6aEVjRzZqZU0zRklidXZTa0VDS0FYV0lJTXVKaERnMQ%3D%3D",
       "country": "CH",
@@ -223,23 +250,6 @@
       "screenshot": "https://images.ransomware.live/victims/38a0b327be010912df1057cf9d131c88.png",
       "url": "https://www.ransomware.live/id/U2NoYWFkLCBCYWxhc3MsIE1lbnpsIGFuZCBQYXJ0bmVyIEFHQERlYWRsb2Nr",
       "victim": "Schaad, Balass, Menzl and Partner AG"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-25T00:00:00+00:00",
-      "claim_url": "http://deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion/s3.php?d=d2FzYWJpOmRhdGEtaGlkcm9tZWsuY29tLnRyfGV1LWNlbnRyYWwtMXw5VEJFNVcyWEZUNDlJUENLR1c1RXxOYUpkS0hRQ3U1SXdCT2FFcFRNc0QxRlJodGpST0hCNVhVdFdQd01s",
-      "country": "TR",
-      "data_size": null,
-      "description": "HİDROMEK is a leading Turkish manufacturer of heavy construction machinery recognized globally for its high-performance award-winning heavy equipment. Founded in Ankara in 1978 by mechanical engineer Hasan Basri Bozkurt the company operates six state-of-the-art production facilities across Turkey and Thailand. Its heavy machinery operates in more than 130 countries spanning six continents. Over 880 gigabytes of sensitive internal data were stolen from this company",
-      "discovered": "2026-07-25T17:56:19.682846+00:00",
-      "domain": "www.hidromek.com",
-      "group": "Deadlock",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/95e4f322c63ebfc346448171e0a0309a.png",
-      "url": "https://www.ransomware.live/id/SMSwRFJPTUVLQERlYWRsb2Nr",
-      "victim": "HİDROMEK"
     },
     {
       "activity": "Manufacturing",
