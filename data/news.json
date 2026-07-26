@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-26T13:15:32.352115+00:00",
+  "last_success": "2026-07-26T15:02:50.568802+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "published": "Sun, 26 Jul 2026 10:13:39 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
       "published": "Sat, 25 Jul 2026 18:37:47 -0400"
@@ -68,12 +74,6 @@
       "title": "OnTrac notifies customers of data breach after network hack",
       "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
       "published": "Fri, 24 Jul 2026 15:55:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "published": "Fri, 24 Jul 2026 15:09:09 -0400"
     }
   ]
 }
