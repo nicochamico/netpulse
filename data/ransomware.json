@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-27T22:04:15.745351+00:00",
+  "last_success": "2026-07-28T00:00:12.191657+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-27T23:08:32.926000+00:00",
+      "claim_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/6a67df16fbf635b18142d544",
+      "country": "CN",
+      "data_size": null,
+      "description": "JD Young helps financial institutions simplify workflow processes, automate the flow of information, adhere to compliance and determine suitable document hardware for multiple locations. The company&#x27;s document solutions include electronic document management, lock box, hardware fleet management, SaaS (software as a service), multi-function hardware, printing services and more.\n",
+      "discovered": "2026-07-27T23:21:14.136943+00:00",
+      "domain": "www.jdyoung.com",
+      "group": "termite",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/97eebc5670fd7b5919245caeeb19616a.png",
+      "url": "https://www.ransomware.live/id/SkQgWW91bmdAdGVybWl0ZQ==",
+      "victim": "JD Young"
+    },
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-07-27T21:51:44.396745+00:00",
+      "claim_url": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/x7DNhT0kG8Z2ElnASoBnUa6rQFDRfZY+9fQnDAj5hl81pP0y31BKlZ59ZhogDQmjybVZnkYgmubSZs2FNfuTd6TTVRZmtB",
+      "country": "US",
+      "data_size": null,
+      "description": "Major data breach at company owned by Coca Cola.",
+      "discovered": "2026-07-27T21:52:45.296706+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5035b3acefe709d3daa744f5199726c1.png",
+      "url": "https://www.ransomware.live/id/Q29jYS1Db2xhIC8gRmFpcmxpZmVAYW51Ymlz",
+      "victim": "Coca-Cola / Fairlife"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-27T19:03:23.310854+00:00",
@@ -505,60 +539,6 @@
       "screenshot": "https://images.ransomware.live/victims/4379f32633683fe5baeb504963256190.png",
       "url": "https://www.ransomware.live/id/ZUNhcmUgUGxhdGZvcm1AQ1JQeE8=",
       "victim": "eCare Platform"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-27T04:54:23.003793+00:00",
-      "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=dignity-phoenix",
-      "country": "US",
-      "data_size": "5.4 GB",
-      "description": "Sector: Non-Profit / Social Services | Data leaked: 5.4 GB",
-      "discovered": "2026-07-27T04:54:42.961577+00:00",
-      "domain": "dignityphoenix.org",
-      "group": "CRPxO",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-27T05:04:20.905725",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9b018c8f37dc3749106f895794eed12f.png",
-      "url": "https://www.ransomware.live/id/RGlnbml0eSBQaG9lbml4QENSUHhP",
-      "victim": "Dignity Phoenix"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-07-27T04:53:44.965477+00:00",
-      "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=schorr-law",
-      "country": "US",
-      "data_size": "27.6 GB",
-      "description": "Sector: Legal / Real Estate | Data leaked: 27.6 GB",
-      "discovered": "2026-07-27T04:54:04.939955+00:00",
-      "domain": "schorr-law.com",
-      "group": "CRPxO",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-27T05:04:36.608317",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4c9ceb7b6768c420467b1f63ca949aae.png",
-      "url": "https://www.ransomware.live/id/U2Nob3JyIExhd0BDUlB4Tw==",
-      "victim": "Schorr Law"
     }
   ]
 }

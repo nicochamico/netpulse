@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-27T22:04:15.745351+00:00",
+  "last_success": "2026-07-28T00:00:12.191657+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "published": "Mon, 27 Jul 2026 19:49:44 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "published": "Mon, 27 Jul 2026 18:49:44 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
       "published": "Mon, 27 Jul 2026 17:08:15 -0400"
@@ -62,18 +74,6 @@
       "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
       "published": "Mon, 27 Jul 2026 11:39:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "published": "Mon, 27 Jul 2026 11:12:27 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "published": "Mon, 27 Jul 2026 10:01:11 -0400"
     }
   ]
 }
