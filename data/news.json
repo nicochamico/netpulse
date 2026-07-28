@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-28T03:26:31.819777+00:00",
+  "last_success": "2026-07-28T06:24:18.117325+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "published": "Tue, 28 Jul 2026 10:13:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -32,12 +38,6 @@
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
       "published": "Mon, 27 Jul 2026 18:35:15 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "published": "Mon, 27 Jul 2026 18:07:49 +0530"
     },
     {
       "source": "BleepingComputer",
