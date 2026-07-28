@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-28T09:35:06.535925+00:00",
+  "last_success": "2026-07-28T11:56:01.960995+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-07-28T10:01:23.219279+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a830d214-9f13-4708-8f06-bf1c3021c973",
+      "country": "AR",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-07-28T10:01:53.210835+00:00",
+      "domain": "www.granvallenegocios.com.ar",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3c27ea5a30120477abf37ea990327817.png",
+      "url": "https://www.ransomware.live/id/R3JhbiB2YWxsZSBuZWdvY2lvc0BxaWxpbg==",
+      "victim": "Gran valle negocios"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-07-28T01:19:13.617000+00:00",
@@ -66,9 +83,19 @@
       "data_size": null,
       "description": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.",
       "discovered": "2026-07-28T01:58:50.547575+00:00",
-      "domain": "",
+      "domain": "ducon.com.co",
       "group": "incransom",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 4,
+        "update": "2026-07-28T11:19:30.096280",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/ab95eea8fe5dfd329793d4afb9ce994c.png",
@@ -83,9 +110,19 @@
       "data_size": null,
       "description": "Client data breach at a major mortgage brokerage franchise.",
       "discovered": "2026-07-28T00:57:09.468182+00:00",
-      "domain": "",
+      "domain": "prelys-courtage.com",
       "group": "anubis",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-28T11:24:30.629964",
+        "users": 8,
+        "users_url": 3
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/839e09e7f6a5ba6e9ce710cab89f6488.png",
@@ -485,33 +522,6 @@
       "screenshot": "https://images.ransomware.live/victims/bff21c7d5a56e5aba89ae55a983b031d.png",
       "url": "https://www.ransomware.live/id/SVBUViBQbGF0Zm9ybUBDUlB4Tw==",
       "victim": "IPTV Platform"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-27T04:56:55.947105+00:00",
-      "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=marketech",
-      "country": "US",
-      "data_size": "6.7 GB",
-      "description": "Sector: Marketing / SEO | Data leaked: 6.7 GB",
-      "discovered": "2026-07-27T04:57:14.381582+00:00",
-      "domain": "marketech.com",
-      "group": "CRPxO",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-27T05:03:01.909869",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/81319f03549e18b997b9ac8ac198f970.png",
-      "url": "https://www.ransomware.live/id/TWFya2V0ZWNoQENSUHhP",
-      "victim": "Marketech"
     }
   ]
 }
