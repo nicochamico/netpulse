@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-28T20:14:33.334096+00:00",
+  "last_success": "2026-07-28T22:02:29.996358+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "published": "Tue, 28 Jul 2026 17:17:39 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "published": "Tue, 28 Jul 2026 16:37:06 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
       "published": "Tue, 28 Jul 2026 14:41:04 -0400"
@@ -62,18 +74,6 @@
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "published": "Tue, 28 Jul 2026 08:10:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "published": "Tue, 28 Jul 2026 05:10:03 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "published": "Mon, 27 Jul 2026 19:49:44 -0400"
     }
   ]
 }
