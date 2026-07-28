@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-28T18:12:24.486850+00:00",
+  "last_success": "2026-07-28T20:14:33.334096+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "published": "Wed, 29 Jul 2026 00:29:07 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -34,10 +40,10 @@
       "published": "Tue, 28 Jul 2026 17:25:20 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "published": "Tue, 28 Jul 2026 13:41:22 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "published": "Tue, 28 Jul 2026 14:41:04 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "published": "Mon, 27 Jul 2026 19:49:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "published": "Mon, 27 Jul 2026 18:49:44 -0400"
     }
   ]
 }

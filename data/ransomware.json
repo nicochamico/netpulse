@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-28T18:12:24.486850+00:00",
+  "last_success": "2026-07-28T20:14:33.334096+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-28T19:52:39.387699+00:00",
+      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/accesso",
+      "country": "GB",
+      "data_size": null,
+      "description": "[AI generated] Accesso is a UK-based technology company specializing in ticketing, queuing, and guest experience solutions for the leisure, entertainment, and attractions industry. It provides software platforms that help theme parks, ski resorts, cultural venues, and live events manage ticket sales, virtual queuing, and visitor engagement. The company operates globally, serving clients across North America, Europe, and beyond.",
+      "discovered": "2026-07-28T19:53:03.597379+00:00",
+      "domain": "",
+      "group": "coinbasecartel",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8f5f28aefc291554f8dcea96ea9a5f78.png",
+      "url": "https://www.ransomware.live/id/QWNjZXNzb0Bjb2luYmFzZWNhcnRlbA==",
+      "victim": "Accesso"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-28T16:52:44.674490+00:00",
@@ -436,33 +453,6 @@
       "screenshot": "https://images.ransomware.live/victims/dabc5fae8a50eb5c4b927942a59b43ef.png",
       "url": "https://www.ransomware.live/id/bW9lYmVsbWF5ZXIuZGVAc2FmZXBheQ==",
       "victim": "moebelmayer.de"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-07-27T19:02:15.059126+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/paritaet-nrworg/",
-      "country": "DE",
-      "data_size": null,
-      "description": "Headquartered in Wuppertal, the organization represents approximately 3,100 legally independent member organizations operating more than 7,000 social institutions and services …",
-      "discovered": "2026-07-27T19:02:30.124252+00:00",
-      "domain": "paritaet-nrw.org",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 2,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-07-27T19:02:15",
-        "users": 4,
-        "users_url": 10
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/85233b2bb3a7a01aac269f4afa3c314e.png",
-      "url": "https://www.ransomware.live/id/cGFyaXRhZXQtbnJ3Lm9yZ0BzYWZlcGF5",
-      "victim": "paritaet-nrw.org"
     }
   ]
 }
