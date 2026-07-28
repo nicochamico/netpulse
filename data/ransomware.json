@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-28T06:24:18.117325+00:00",
+  "last_success": "2026-07-28T09:35:06.535925+00:00",
   "count": 100,
   "items": [
     {
@@ -470,50 +470,6 @@
       "victim": "RingCentral, Inc."
     },
     {
-      "activity": "Professional Services",
-      "attackdate": "2026-07-27T11:10:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Yes it was us. Now come talk to us. We have been trying to reach you. If you do not come talk to us within the given deadline, we fully and completely intend to release all the data and files. This is a final warning to reach out by 31 July 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 27 July 2026 | Warning: FINAL WARNING PAY OR LEAK",
-      "discovered": "2026-07-27T12:58:56.004876+00:00",
-      "domain": "ey.com",
-      "group": "shinyhunters",
-      "infostealer": {
-        "employees": 838,
-        "employees_url": 47,
-        "infostealer_stats": {
-          "Acreed": 63,
-          "Atomic": 14,
-          "Aura Stealer": 1,
-          "Azorult": 53,
-          "CRYPTBOT": 10,
-          "Generic Stealer": 819,
-          "KPOT": 2,
-          "Lumma": 581,
-          "Mystic": 2,
-          "Predator": 1,
-          "Raccoon": 244,
-          "RedLine": 632,
-          "StealC": 131,
-          "Taurus": 1,
-          "UNKNOWN": 31,
-          "Vidar": 121
-        },
-        "last_employee_compromised": "2026-07-25T18:53:10.975000+00:00",
-        "last_user_compromised": "2026-07-25T00:00:00+00:00",
-        "thirdparties": 1017,
-        "update": "2026-07-27T13:00:15.032060",
-        "users": 2053,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RXJuc3QgJiBZb3VuZ0BzaGlueWh1bnRlcnM=",
-      "victim": "Ernst & Young"
-    },
-    {
       "activity": "Technology",
       "attackdate": "2026-07-27T04:57:32.519957+00:00",
       "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=iptv-platform",
@@ -529,6 +485,33 @@
       "screenshot": "https://images.ransomware.live/victims/bff21c7d5a56e5aba89ae55a983b031d.png",
       "url": "https://www.ransomware.live/id/SVBUViBQbGF0Zm9ybUBDUlB4Tw==",
       "victim": "IPTV Platform"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-27T04:56:55.947105+00:00",
+      "claim_url": "http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/victim.php?slug=marketech",
+      "country": "US",
+      "data_size": "6.7 GB",
+      "description": "Sector: Marketing / SEO | Data leaked: 6.7 GB",
+      "discovered": "2026-07-27T04:57:14.381582+00:00",
+      "domain": "marketech.com",
+      "group": "CRPxO",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-27T05:03:01.909869",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/81319f03549e18b997b9ac8ac198f970.png",
+      "url": "https://www.ransomware.live/id/TWFya2V0ZWNoQENSUHhP",
+      "victim": "Marketech"
     }
   ]
 }
