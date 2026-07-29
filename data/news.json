@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-29T20:10:47.277366+00:00",
+  "last_success": "2026-07-29T21:58:37.381701+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "published": "Wed, 29 Jul 2026 17:39:29 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "published": "Wed, 29 Jul 2026 17:35:40 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
       "published": "Wed, 29 Jul 2026 13:54:05 -0400"
@@ -62,18 +74,6 @@
       "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
       "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
       "published": "Wed, 29 Jul 2026 10:02:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "published": "Wed, 29 Jul 2026 09:56:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "published": "Wed, 29 Jul 2026 07:12:19 -0400"
     }
   ]
 }
