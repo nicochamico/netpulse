@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-29T08:35:56.119545+00:00",
+  "last_success": "2026-07-29T11:23:59.871572+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-29T11:03:03.994681+00:00",
+      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/64/stellarrad-systems",
+      "country": "US",
+      "data_size": null,
+      "description": "Since 1981, StellarRAD Systems exists to solve the critical issues facing our clients, both large and small. We provide a broad range of services and solutions to help telecommunications providers around the world facilitate change and achieve their vision while optimizing performance and productivity. Our unique, customer focused approach ensures a level of service that you will quickly come to appreciate.Our family of GIS products and conversion services provides an industry leading toolset for engineers managing fiber and copper networks, including the ability to import GPS data, manipulate coordinate systems, identify network components with physical and logical connectivity and much more. Do you need all of this information plus the associated subscriber data available to every employee in your organization via desktop, notebook, tablet and smartphone? Done.  -SQL Data-DWG plan-Personal information of employees and clients-Financial documents-APP files https://www.stellarrad.com/",
+      "discovered": "2026-07-29T11:03:26.457397+00:00",
+      "domain": "www.stellarrad.com",
+      "group": "spacebears",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/15506d32528666df836ef9b53662a6ec.png",
+      "url": "https://www.ransomware.live/id/U3RlbGxhclJBRCBTeXN0ZW1zQHNwYWNlYmVhcnM=",
+      "victim": "StellarRAD Systems"
+    },
     {
       "activity": "Hospitality",
       "attackdate": "2026-07-29T04:24:35.957169+00:00",
@@ -435,23 +452,6 @@
       "screenshot": "https://images.ransomware.live/victims/0a9118abade2302addef05067378d43c.png",
       "url": "https://www.ransomware.live/id/Zm91bmRhdGlvbnN0b2ZyZWVkb20ub3JnQGluY3JhbnNvbQ==",
       "victim": "foundationstofreedom.org"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-07-28T00:00:00+00:00",
-      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/accesso",
-      "country": "GB",
-      "data_size": null,
-      "description": "[AI generated] Accesso is a UK-based technology company specializing in ticketing, queuing, and guest experience solutions for the leisure, entertainment, and attractions industry. It provides software platforms that help theme parks, ski resorts, cultural venues, and live events manage ticket sales, virtual queuing, and visitor engagement. The company operates globally, serving clients across North America, Europe, and beyond.",
-      "discovered": "2026-07-28T19:53:03.597379+00:00",
-      "domain": "Accesso.Com",
-      "group": "coinbasecartel",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8f5f28aefc291554f8dcea96ea9a5f78.png",
-      "url": "https://www.ransomware.live/id/QWNjZXNzb0Bjb2luYmFzZWNhcnRlbA==",
-      "victim": "Accesso"
     }
   ]
 }
