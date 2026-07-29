@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-29T11:23:59.871572+00:00",
+  "last_success": "2026-07-29T14:04:19.330354+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+      "published": "Wed, 29 Jul 2026 17:45:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+      "published": "Wed, 29 Jul 2026 17:27:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+      "published": "Wed, 29 Jul 2026 16:43:10 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
@@ -22,22 +40,10 @@
       "published": "Wed, 29 Jul 2026 13:21:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "published": "Wed, 29 Jul 2026 13:17:19 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "published": "Wed, 29 Jul 2026 12:37:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "published": "Wed, 29 Jul 2026 09:50:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "published": "Wed, 29 Jul 2026 09:56:22 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "published": "Tue, 28 Jul 2026 14:08:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "published": "Tue, 28 Jul 2026 10:00:10 -0400"
     }
   ]
 }
