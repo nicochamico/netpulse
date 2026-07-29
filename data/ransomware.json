@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-29T02:40:20.165289+00:00",
+  "last_success": "2026-07-29T05:49:41.088586+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-07-29T04:24:35.957169+00:00",
+      "claim_url": "",
+      "country": "MY",
+      "data_size": null,
+      "description": "Sector: Hotel | Revenue: US$ 5,000,000",
+      "discovered": "2026-07-29T04:24:37.577820+00:00",
+      "domain": "weilhotel.com",
+      "group": "gunra",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-29T04:24:35",
+        "users": 0,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/V2VpbGhvdGVsQGd1bnJh",
+      "victim": "Weilhotel"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-07-28T23:50:20.215480+00:00",
@@ -425,33 +452,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RnJhbnogS3JhdXNlIGFydHdvcmtzZ3JvdXBAYWtpcmE=",
       "victim": "Franz Krause artworksgroup"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-28T00:00:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6719765ae71db30c0bbb19",
-      "country": "US",
-      "data_size": null,
-      "description": "A family-run health and residential care organization in Minnesota. They provide adapted housing, professional in-home support, and daily living solutions for adults with physical disabilities and limited mobility",
-      "discovered": "2026-07-28T13:26:53.449274+00:00",
-      "domain": "eclmn.com",
-      "group": "incransom",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-28T14:16:48.628993",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/aHR0cHM6Ly9lY2xtbi5jb20vQGluY3JhbnNvbQ==",
-      "victim": "https://eclmn.com/"
     }
   ]
 }
