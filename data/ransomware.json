@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-28T23:56:18.088488+00:00",
+  "last_success": "2026-07-29T02:40:20.165289+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-07-28T23:50:20.215480+00:00",
+      "claim_url": "",
+      "country": "TR",
+      "data_size": null,
+      "description": "Ahenk Laboratuvarı is an ISO 15189-accredited medical laboratory in Turkey, founded in 1998 and located in Istanbul-Şişli. The company offers services in clinical biochemistry, microbiology, pathology, and genetics, and collaborates with Limbach Laboratories in Germany.",
+      "discovered": "2026-07-28T23:50:22.347267+00:00",
+      "domain": "www.ahenklab.com.tr",
+      "group": "Deadlock",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QUhFTksgbGFiQERlYWRsb2Nr",
+      "victim": "AHENK lab"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-28T21:58:22.142559+00:00",
@@ -435,33 +452,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/aHR0cHM6Ly9lY2xtbi5jb20vQGluY3JhbnNvbQ==",
       "victim": "https://eclmn.com/"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-07-28T00:00:00+00:00",
-      "claim_url": "",
-      "country": "IT",
-      "data_size": null,
-      "description": "Takis Biotech is an Italian biotechnology company founded in 2009 and headquartered in Rome. The company specializes in contract research (R&D services), preclinical immunology, and the development of genetic vaccines and therapeutic antibodies.",
-      "discovered": "2026-07-28T12:51:41.870161+00:00",
-      "domain": "takisbiotech.com",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-28T14:18:11.104841",
-        "users": 1,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VGFraXMgc3JsQERlYWRsb2Nr",
-      "victim": "Takis srl"
     }
   ]
 }
