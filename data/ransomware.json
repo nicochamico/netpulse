@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-29T16:19:35.987041+00:00",
+  "last_success": "2026-07-29T18:04:36.029464+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "https://images.ransomware.live/victims/15506d32528666df836ef9b53662a6ec.png",
       "url": "https://www.ransomware.live/id/U3RlbGxhclJBRCBTeXN0ZW1zQHNwYWNlYmVhcnM=",
       "victim": "StellarRAD Systems"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-29T09:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6a24085ae71db30c60bd45",
+      "country": "AE",
+      "data_size": null,
+      "description": "Harwal.net\r \r Harwal Group is the largest plastics recycler in the Middle East, founded in 1938, with an annual processing capacity of over 200,000 tons of plastics and metals.\r Manufacturing includes construction materials, pre-engineered building systems, industrial packaging, consumer goods, and refrigeration equipment, including commercial chillers and freezers under the Celsius brand.\r Companies within the group: four main divisions — TSSC, Interplast, Cosmoplast, and Intermetal — unite 28 business units operating in 65 countries worldwide.\r DATA- 12tb",
+      "discovered": "2026-07-29T16:26:22.220887+00:00",
+      "domain": "harwal.net",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-29T16:26:06",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f5838a33afed5e18b1b72dbf7edbdec2.png",
+      "url": "https://www.ransomware.live/id/aGFyd2FsLm5ldEBpbmNyYW5zb20=",
+      "victim": "harwal.net"
     },
     {
       "activity": "Hospitality",
@@ -405,33 +432,6 @@
       "screenshot": "https://images.ransomware.live/victims/2678e82dec1d07a0797e05bcada10bf4.png",
       "url": "https://www.ransomware.live/id/bWluaWdyaXAuY29tLm14QGluY3JhbnNvbQ==",
       "victim": "minigrip.com.mx"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-28T01:00:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6321575ae71db30c9bd08e",
-      "country": "CO",
-      "data_size": null,
-      "description": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.",
-      "discovered": "2026-07-28T01:58:50.547575+00:00",
-      "domain": "ducon.com.co",
-      "group": "incransom",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 4,
-        "update": "2026-07-28T11:19:30.096280",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ab95eea8fe5dfd329793d4afb9ce994c.png",
-      "url": "https://www.ransomware.live/id/RFVDT05AaW5jcmFuc29t",
-      "victim": "DUCON"
     }
   ]
 }
