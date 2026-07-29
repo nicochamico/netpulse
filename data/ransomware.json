@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-29T05:49:41.088586+00:00",
+  "last_success": "2026-07-29T08:35:56.119545+00:00",
   "count": 100,
   "items": [
     {
@@ -30,6 +30,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/V2VpbGhvdGVsQGd1bnJh",
       "victim": "Weilhotel"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-29T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/bretford-manufacturing-b4537780",
+      "country": "US",
+      "data_size": null,
+      "description": "Bretford Manufacturing, Inc. is a privately held manufacturer of charging solutions for mobile devices, founded in 1948 and headquartered in Franklin Park, Illinois. With ~60 employees and ~$10M annual revenue, it serves education, healthcare, retail, and government sectors.\n\nThe exposed material includes:\n\nSocial Security Numbers for the entire workforce (current + 200–400 historical employees + dependents) via ACA Census files, 1099 forms, and payroll records spanning 2010–2026.\nCorporate and vendor bank accounts — Bretford's own checking account (routing + account number) plus 26+ vendor bank accounts from NACHA ACH batch files.\nComplete network architecture — VPN gateway IP, internal topology diagram, IP allocation tables, infrastructure inventory, disaster recovery plan, and Active Directory domain name.\n20 years of HR records including medical leave, disability accommodations, drug tests, garnishments, pension, 401(k), insurance enrollment, and termination records.\nComplete product engineering library — SolidWorks CAD files for all products, CNC/laser programs, and manufacturing process documentation.",
+      "discovered": "2026-07-29T06:51:40.642786+00:00",
+      "domain": "Bretford Manufacturing",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/24e7454d3e12c72ecb9b74aa1da3a797.png",
+      "url": "https://www.ransomware.live/id/QnJldGZvcmQgTWFudWZhY3R1cmluZ0BhdXJvcmE=",
+      "victim": "Bretford Manufacturing"
     },
     {
       "activity": "Technology",
@@ -435,23 +452,6 @@
       "screenshot": "https://images.ransomware.live/victims/8f5f28aefc291554f8dcea96ea9a5f78.png",
       "url": "https://www.ransomware.live/id/QWNjZXNzb0Bjb2luYmFzZWNhcnRlbA==",
       "victim": "Accesso"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-07-28T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Franz Krause artworksgroup is a streamlined agency that leverages extensive experience in media\nand event management to deliver high-quality services while maintaining budget efficiency. The\ncompany emphasizes strong relationships and a commitment to client satisfaction. \n\nWe will upload 81gb of corporate data soon. Employee information, detailed client information, \nfinancials, contracts and agreements, NDAs, confidential files, etc.\n",
-      "discovered": "2026-07-28T14:22:36.972063+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RnJhbnogS3JhdXNlIGFydHdvcmtzZ3JvdXBAYWtpcmE=",
-      "victim": "Franz Krause artworksgroup"
     }
   ]
 }

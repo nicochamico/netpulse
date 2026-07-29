@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-29T05:49:41.088586+00:00",
+  "last_success": "2026-07-29T08:35:56.119545+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "published": "Wed, 29 Jul 2026 12:37:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "published": "Wed, 29 Jul 2026 12:15:02 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
@@ -26,18 +38,6 @@
       "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
       "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
       "published": "Tue, 28 Jul 2026 20:11:36 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "published": "Tue, 28 Jul 2026 19:03:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "published": "Tue, 28 Jul 2026 18:26:14 +0530"
     },
     {
       "source": "BleepingComputer",
