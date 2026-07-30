@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-30T21:06:04.713962+00:00",
+  "last_success": "2026-07-30T23:03:44.966098+00:00",
   "count": 100,
   "items": [
     {
@@ -324,6 +324,60 @@
       "victim": "PARTNERED HEALTH GROUP"
     },
     {
+      "activity": "Technology",
+      "attackdate": "2026-07-30T00:00:00+00:00",
+      "claim_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/79f095d5b182ce93bae4/",
+      "country": "DK",
+      "data_size": null,
+      "description": "A provider of IT services",
+      "discovered": "2026-07-30T21:26:26.885557+00:00",
+      "domain": "boyum-it.com",
+      "group": "genesis",
+      "infostealer": {
+        "employees": 2,
+        "employees_url": 2,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-07-30T21:26:05",
+        "users": 26,
+        "users_url": 10
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/363034cc78ac20e7ccdebcf496c2d7f0.png",
+      "url": "https://www.ransomware.live/id/Qm95dW0gSVQgU29sdXRpb25zIChIT1QhKUBnZW5lc2lz",
+      "victim": "Boyum IT Solutions (HOT!)"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-07-30T00:00:00+00:00",
+      "claim_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/55f3f0d90d424055e955/",
+      "country": "US",
+      "data_size": null,
+      "description": "A construction management company",
+      "discovered": "2026-07-30T21:25:51.301616+00:00",
+      "domain": "cawalkerconstruction.com",
+      "group": "genesis",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-30T21:25:31",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c8348341a85b116eba0cc5f39bee9448.png",
+      "url": "https://www.ransomware.live/id/Qy5BLiBXYWxrZXIgQ29uc3RydWN0aW9uQGdlbmVzaXM=",
+      "victim": "C.A. Walker Construction"
+    },
+    {
       "activity": "Manufacturing",
       "attackdate": "2026-07-30T00:00:00+00:00",
       "claim_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
@@ -339,50 +393,6 @@
       "screenshot": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
       "url": "https://www.ransomware.live/id/TUFHIFVTQSBJbmNAc2VjdXJvdHJvcA==",
       "victim": "MAG USA Inc"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-07-30T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=208dc842-462f-4698-8012-4c775d4230af",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-30T10:59:55.758950+00:00",
-      "domain": "www.tensparrows.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/38201399b0b387854d4e8fe5456a2d2e.png",
-      "url": "https://www.ransomware.live/id/VGVuU3BhcnJvd3NAcWlsaW4=",
-      "victim": "TenSparrows"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-30T00:00:00+00:00",
-      "claim_url": "",
-      "country": "NZ",
-      "data_size": null,
-      "description": "As one of the world’s leading textile and soft furnishing wholesalers, Warwick is a family-owned company that has been committed to providing quality materials to New Zealanders since 1985. \n\nWarwick are driven to continuously meet the evolving needs of today’s global textile markets by constantly creating and updating collections with the latest trends and classic designs, pushing boundaries, and creating quality products that inspire creativity in the interior design world. We are passionate on being innovative and are committed to our promise of exceptional quality and service, now and into the future.",
-      "discovered": "2026-07-30T08:56:34.963601+00:00",
-      "domain": "warwick.com.nz",
-      "group": "kairos",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-30T09:06:05.656991",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V2Fyd2ljayBGYWJyaWNzQGthaXJvcw==",
-      "victim": "Warwick Fabrics"
     }
   ]
 }
