@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-29T23:03:29.382668+00:00",
+  "last_success": "2026-07-30T02:07:02.304889+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "published": "Wed, 29 Jul 2026 19:44:07 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Anthropic confirms Claude is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
       "published": "Wed, 29 Jul 2026 17:39:29 -0400"
@@ -68,12 +74,6 @@
       "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "published": "Wed, 29 Jul 2026 10:55:57 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "published": "Wed, 29 Jul 2026 10:02:12 -0400"
     }
   ]
 }
