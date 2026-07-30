@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-30T11:05:31.669536+00:00",
+  "last_success": "2026-07-30T13:53:04.064143+00:00",
   "count": 100,
   "items": [
     {
@@ -230,6 +230,33 @@
     },
     {
       "activity": "Not Found",
+      "attackdate": "2026-07-30T05:28:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6b426a5ae71db30c84c336",
+      "country": "US",
+      "data_size": null,
+      "description": "Samuels & Thornton is a law firm based in New Orleans, specializing in medical malpractice and personal injury cases. They provide personalized legal guidance to individuals, families, and businesses facing legal challenges, ensuring that each client receives dedicated attention from experienced attorneys. Their practice areas include medical malpractice, product liability, auto accident litigation, and more. The firm is committed to delivering proven results and effective representation throughout Louisiana.",
+      "discovered": "2026-07-30T12:57:51.104865+00:00",
+      "domain": "sslf.local",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-30T12:57:28",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/77d874e5d47fc070321e669f3aa5c7c7.png",
+      "url": "https://www.ransomware.live/id/c3NsZi5sb2NhbEBpbmNyYW5zb20=",
+      "victim": "sslf.local"
+    },
+    {
+      "activity": "Not Found",
       "attackdate": "2026-07-30T00:00:00+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=208dc842-462f-4698-8012-4c775d4230af",
       "country": "US",
@@ -366,33 +393,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VGhlIEdhcmZpZWxkIENvdW50eSBTaGVyaWZmIE9mZmljZUB0aGVnZW50bGVtZW4=",
       "victim": "The Garfield County Sheriff Office"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-07-29T19:40:32+00:00",
-      "claim_url": "",
-      "country": "GB",
-      "data_size": null,
-      "description": "angelpershore.co.uk zoominfo.com/c/angel-hotel/1153643926 The Angel, Pershore is a historic Tudor-origin hotel and restaurant located in the heart of the market town of Pershore, Worcestershire, near the River Avon. It serves as a premier venue offering farm-to-table dining with locally sourced produce, comfortable accommodation, and a charming atmosphere. Beyond hospitality, the establishment is a vibrant community hub, regularly hosting live music, festivals, and popular annual events like Bonfire Night fireworks.",
-      "discovered": "2026-07-30T06:48:13.090816+00:00",
-      "domain": "angelpershore.co.uk",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-30T06:48:10",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QW5nZWwgSG90ZWxAdGhlZ2VudGxlbWVu",
-      "victim": "Angel Hotel"
     }
   ]
 }
