@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-30T05:37:50.819473+00:00",
+  "last_success": "2026-07-30T08:21:31.237998+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "published": "Thu, 30 Jul 2026 13:10:48 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "published": "Thu, 30 Jul 2026 12:58:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "published": "Thu, 30 Jul 2026 11:35:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "published": "Thu, 30 Jul 2026 10:38:39 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -14,30 +38,6 @@
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
       "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
       "published": "Wed, 29 Jul 2026 21:09:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "published": "Wed, 29 Jul 2026 21:01:15 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "published": "Wed, 29 Jul 2026 19:18:36 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "published": "Wed, 29 Jul 2026 19:12:57 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "published": "Wed, 29 Jul 2026 17:45:00 +0530"
     },
     {
       "source": "BleepingComputer",
