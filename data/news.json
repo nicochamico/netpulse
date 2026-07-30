@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-30T17:23:40.889991+00:00",
+  "last_success": "2026-07-30T19:21:20.551290+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "published": "Thu, 30 Jul 2026 23:48:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
@@ -34,10 +40,16 @@
       "published": "Thu, 30 Jul 2026 16:03:15 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-      "published": "Thu, 30 Jul 2026 16:02:59 +0530"
+      "source": "BleepingComputer",
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "published": "Thu, 30 Jul 2026 14:13:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "published": "Thu, 30 Jul 2026 14:00:51 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Analog Devices discloses data breach, says operations unaffected",
       "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
       "published": "Thu, 30 Jul 2026 11:12:25 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "published": "Thu, 30 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "published": "Wed, 29 Jul 2026 19:44:07 -0400"
     }
   ]
 }
