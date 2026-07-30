@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-30T08:21:31.237998+00:00",
+  "last_success": "2026-07-30T11:05:31.669536+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "published": "Thu, 30 Jul 2026 16:03:15 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "published": "Thu, 30 Jul 2026 16:02:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
@@ -26,18 +38,6 @@
       "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
       "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
       "published": "Thu, 30 Jul 2026 10:38:39 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "published": "Wed, 29 Jul 2026 23:40:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "published": "Wed, 29 Jul 2026 21:09:30 +0530"
     },
     {
       "source": "BleepingComputer",
