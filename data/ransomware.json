@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-30T15:50:31.872186+00:00",
+  "last_success": "2026-07-30T17:23:40.889991+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-30T16:50:34.745094+00:00",
+      "claim_url": "http://v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion/post/170f41edbfce501b",
+      "country": "",
+      "data_size": null,
+      "description": "SECTION9",
+      "discovered": "2026-07-30T16:50:49.534959+00:00",
+      "domain": "",
+      "group": "Section9",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4e9a5d8a0808406b088812df1caf65bb.png",
+      "url": "https://www.ransomware.live/id/QW5kIHdoZXJlIGRvZXMgdGhlIG5ld2Jvcm4gZ28gZnJvbSBoZXJlPyBUaGUgbmV0IGlzIHZhc3QgYW5kIGluZmluaXRlLkBTZWN0aW9uOQ==",
+      "victim": "And where does the newborn go from here? The net is vast and infinite."
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-07-30T14:20:16.545269+00:00",
@@ -273,6 +290,23 @@
       "victim": "sslf.local"
     },
     {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-30T01:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6b75a95ae71db30c8b0b19",
+      "country": "AU",
+      "data_size": null,
+      "description": "PARTNERED HEALTH GROUP — Australia\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r Industry:       Healthcare — Primary Care, Occupational Health, \r                 Psychology, Telehealth\r Headquarters:   Australia (NSW, QLD, VIC, WA, ACT)\r Owner:          Quadrant Private Equity\r Clinics:        60+ nationwide\r Brands:         Partnered Health Medical Centres, Jobfit, \r                 Baseline Onsite, New View Psychology, NewPsych, \r                 Australian EAP, Fuel Your Life, Northcare Physio, \r                 TeleWell\r Website:        partneredhealth.com.au\r \r PENDING ACQUISITION: Bupa — ~$450,000,000 AUD\r Announced July 2, 2026 (Australian Financial Review)\r ACCC and FIRB regulatory approval pending.\r \r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r BREACH SUMMARY\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r Date of access:       23 June 2026\r Data exfiltrated:     3.2 TB\r Total files:          2,298,203\r Servers accessed:     21 (9 AD Controllers + 11 Best Practice \r                       Medical Servers + 1 Central SQL Server)\r SQL Databases:        ZedMed.mdf, Payroll.mdf, DocPays.mdf, \r                       VectraplexECG.mdf, BPM.mdf + 1,104 SQL backups\r Clinics compromised:  21 locations across 5 states/territories\r Patient records:      17,727+ named patient files identified\r Staff HR files:       Full employee records including passports, \r                       AHPRA registrations, tax declarations\r Period of data:       1999 — 2026 (27 years)\r \r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r WHAT WE HAVE\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r ▪ Complete patient medical records from 21 GP clinics — \r   consultation notes, referral letters, pathology results, \r   diagnostic imaging reports, prescriptions\r \r ▪ Full SQL database dumps — ZedMed (patient management), \r   Payroll (all staff salaries), DocPays (doctor payments), \r   VectraplexECG (cardiac/ECG monitoring data)\r \r ▪ 11 complete Best Practice patient database backups — \r   one per clinic — including BPSPatients, BPSDocuments \r   (up to 48 document partitions per clinic)\r \r ▪ Staff HR files — employment contracts, passport scans, \r   AHPRA medical registrations, tax file declarations, \r   superannuation details, performance reviews\r \r ▪ Bupa corporate data — direct billing agreements, \r   fund tables for all Australian states, patient invoices, \r   corporate program documents (Bronze/Silver/Gold), \r   and active Bupa web portal session cookies\r \r ▪ Financial records — QuickBooks databases (2004-2026), \r   Medicare billing, DVA remittances, private health fund claims\r \r ▪ Clinical governance — full RACGP accreditation files, \r   patient consent templates, internal clinical audit data\r \r ▪ 27 years of accumulated medical data (1999-2026) across \r  \r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r TO PARTNERED HEALTH / QUADRANT PRIVATE EQUITY\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r Partnered Health was given the opportunity to resolve this \r matter privately and protect patient data. Instead of acting \r in the interest of their patients, they spent 22 days in \r silence, hired lawyers, and obtained a court injunction that \r has no practical effect outside Australian jurisdiction.\r \r Their public statement of July 15 describes the breach as \r affecting \"some\" data from \"some\" clinics. This is misleading.\r \r The reality: 3.2 terabytes. 2.3 million files. 21 servers. \r 27 years of patient medical history. Every clinic server \r in their network was accessed. Complete SQL database dumps \r were taken including the central patient management system \r and payroll for every employee.\r \r And critically — the data includes Bupa's own corporate \r information: billing agreements, fund pricing tables for \r every Australian state, named patient invoices, and active \r browser session cookies from Bupa's login, corporate, \r and web portals.\r \r We understand this acquisition matters. $450 million is \r a significant transaction. A full data publication would \r create material regulatory complications with the ACCC \r and FIRB review process. We trust the board and advisors \r at Quadrant understand what that means.\r \r This is not a threat. This is a deadline.\r \r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r DEADLINE: [DATE + 10 DAYS]\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r Partnered Health has 10 days to resume negotiations \r and reach a settlement.\r \r If no agreement is reached:\r \r   Stage 1 — Complete file tree listing (2.3M files) \r             + all HR/staff records published\r \r   Stage 2 — SQL databases (ZedMed, Payroll, ECG) \r             released for download\r \r   Stage 3 — Bupa corporate data, fund tables, \r             billing agreements, session data published. \r             ACCC, FIRB, and Bupa executive leadership \r             notified directly.\r \r   Stage 4 — Full 3.2 TB data dump made available \r             for public download.",
+      "discovered": "2026-07-30T16:30:13.670561+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UEFSVE5FUkVEIEhFQUxUSCBHUk9VUEBpbmNyYW5zb20=",
+      "victim": "PARTNERED HEALTH GROUP"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-07-30T00:00:00+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=208dc842-462f-4698-8012-4c775d4230af",
@@ -349,40 +383,6 @@
       "screenshot": "https://images.ransomware.live/victims/43b1bad02ec9e26b99d9c5953976363f.png",
       "url": "https://www.ransomware.live/id/VmFuIEVpamNrIEludGVybmF0aW9uYWwgQ2FyIFJlc2N1ZUBhdXJvcmE=",
       "victim": "Van Eijck International Car Rescue"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-30T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/evosys-laser-gmbh-4511a1ae",
-      "country": "DE",
-      "data_size": null,
-      "description": "[manufacturer] Evosys Laser GmbH — an Erlangen-based industrial laser welding systems manufacturer with ~130 employees, subsidiaries in the US, China, and a string of Tier 1 automotive customers.\n\nThe dataset is the complete corporate repository, spanning every business function:\n\n130 employees' complete HR files — employment contracts, salary histories, bank IBANs, tax IDs, social insurance numbers, pension records, medical examinations, disciplinary warnings, and two confirmed minors' health records.\n<censored>\n<censored>\nComplete server infrastructure map via mRemoteNG XML — 7 servers named, domain admin credentials, internal IPs. The Citrix admin password is Password1.\n326 GB of customer project data — laser welding process parameters, CAD files, robot control software, and the award-winning AQW process know-how.\nComplete financial history — Jahresabschlüsse (2015–2025), P&L forecasts through 2028, cash positions, investor documents, executive compensation.\nAttorney-client privileged communications (230 MB) and whistleblower reports under HinSchG.\nIndustrial control data — robot SRS source code, PLC programs, nginx private keys for laser system web interfaces, VPN configurations for customer site remote access.",
-      "discovered": "2026-07-30T07:23:03.854269+00:00",
-      "domain": "Evosys Laser GmbH",
-      "group": "aurora",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a2e2a286f917fe09bfc235ac0af3f29d.png",
-      "url": "https://www.ransomware.live/id/RXZvc3lzIExhc2VyIEdtYkhAYXVyb3Jh",
-      "victim": "Evosys Laser GmbH"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-07-30T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/pyramid-analytics-bv-5bc96ed0",
-      "country": "NL",
-      "data_size": null,
-      "description": "[analytics] Pyramid Analytics B.V. — a decision-intelligence platform company headquartered in Amsterdam, acquired by ServiceNow (NYSE: NOW) for hundreds of millions of dollars just four months earlier.\n\nWe obtained the complete source code of the Pyramid Decision Intelligence Platform along with:\n\n10+ copies of the platform source code with full Git history, revealing every feature, algorithm, security module, and AI integration ever built.\n<censored>\n<censored>\n22 GB of SQL Server production database backups likely containing user accounts, credentials, and business data.\nCustomer data from publicly traded companies — Shufersal (TASE: SAE) retail sales data and ABB (NYSE: ABB) OLAP cube backups.\n<censored>\n<censored>",
-      "discovered": "2026-07-30T07:22:25.881643+00:00",
-      "domain": "Pyramid Analytics B.V.",
-      "group": "aurora",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d937a4551428b0c483f7fec9ca21d0a2.png",
-      "url": "https://www.ransomware.live/id/UHlyYW1pZCBBbmFseXRpY3MgQi5WLkBhdXJvcmE=",
-      "victim": "Pyramid Analytics B.V."
     }
   ]
 }
