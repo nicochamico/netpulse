@@ -1,25 +1,42 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-30T19:21:20.551290+00:00",
+  "last_success": "2026-07-30T21:06:04.713962+00:00",
   "count": 100,
   "items": [
     {
-      "activity": "Not Found",
-      "attackdate": "2026-07-30T16:50:34.745094+00:00",
-      "claim_url": "http://v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion/post/170f41edbfce501b",
-      "country": "",
+      "activity": "Technology",
+      "attackdate": "2026-07-30T20:29:01.467875+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f37de6ed-24ab-4da1-b31f-9d1ea5fd2727",
+      "country": "US",
       "data_size": null,
-      "description": "SECTION9",
-      "discovered": "2026-07-30T16:50:49.534959+00:00",
-      "domain": "",
-      "group": "Section9",
+      "description": "N/A",
+      "discovered": "2026-07-30T20:29:19.558231+00:00",
+      "domain": "www.ap.com",
+      "group": "qilin",
       "infostealer": "",
       "press": null,
       "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4e9a5d8a0808406b088812df1caf65bb.png",
-      "url": "https://www.ransomware.live/id/QW5kIHdoZXJlIGRvZXMgdGhlIG5ld2Jvcm4gZ28gZnJvbSBoZXJlPyBUaGUgbmV0IGlzIHZhc3QgYW5kIGluZmluaXRlLkBTZWN0aW9uOQ==",
-      "victim": "And where does the newborn go from here? The net is vast and infinite."
+      "screenshot": "https://images.ransomware.live/victims/cfaf17697857c1f03be5f0523dccd22a.png",
+      "url": "https://www.ransomware.live/id/QXVkaW8gUHJlY2lzaW9uLCBJbmNAcWlsaW4=",
+      "victim": "Audio Precision, Inc"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-07-30T14:28:59+00:00",
+      "claim_url": "http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion/post/B48A6eknv0j8w2yJQLVCr3C4GH8DJF6x",
+      "country": "CO",
+      "data_size": null,
+      "description": "AguAseo is a Panamanian organization dedicated to maintaining cleanliness in the province of Colón. It provides solid waste collection and cleaning of...",
+      "discovered": "2026-07-30T20:10:17.968658+00:00",
+      "domain": "www.aguaseo.com",
+      "group": "Gammax",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/26032e5e8aa91a9fc61e38d75fd3c2b0.png",
+      "url": "https://www.ransomware.live/id/QWd1QXNlb0BHYW1tYXg=",
+      "victim": "AguAseo"
     },
     {
       "activity": "Professional Services",
@@ -366,23 +383,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/V2Fyd2ljayBGYWJyaWNzQGthaXJvcw==",
       "victim": "Warwick Fabrics"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-07-30T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=bae9234e-d528-484c-b3f9-7aa6966ef175",
-      "country": "BE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-30T07:59:41.084146+00:00",
-      "domain": "www.adpo.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/172f75f2828dbbf14c60afb75b0f52f9.png",
-      "url": "https://www.ransomware.live/id/QWRwb0BxaWxpbg==",
-      "victim": "Adpo"
     }
   ]
 }
