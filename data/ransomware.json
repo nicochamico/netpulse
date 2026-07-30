@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-30T13:53:04.064143+00:00",
+  "last_success": "2026-07-30T15:50:31.872186+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-07-30T14:20:16.545269+00:00",
+      "claim_url": "",
+      "country": "AU",
+      "data_size": null,
+      "description": "Contact Group is a proudly Tasmanian company specializing in building services and multi-technology solutions. They offer award-winning services across various divisions, including electrical and communications, HVAC-R, infrastructure, fire, technology, security, plumbing, and facilities maintenance, ensuring a high-quality customer experience. Their intended clients span multiple sectors such as commercial, government, healthcare, education, and more. With over 35 years of experience, Contact Group is committed to excellence and sustainability in their operations.",
+      "discovered": "2026-07-30T14:20:18.565100+00:00",
+      "domain": "www.contactgroup.com.au",
+      "group": "cmdorganization",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Q29udGFjdCBHcm91cEBjbWRvcmdhbml6YXRpb24=",
+      "victim": "Contact Group"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-07-30T10:20:16.953383+00:00",
@@ -366,33 +383,6 @@
       "screenshot": "https://images.ransomware.live/victims/d937a4551428b0c483f7fec9ca21d0a2.png",
       "url": "https://www.ransomware.live/id/UHlyYW1pZCBBbmFseXRpY3MgQi5WLkBhdXJvcmE=",
       "victim": "Pyramid Analytics B.V."
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-07-29T19:42:38+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "garcosheriff.com The Garfield County Sheriff's Office is the primary law enforcement agency serving Garfield County, Colorado. Its mission is to deliver exceptional service and problem-solving solutions to the community through professional, ethical, and compassionate conduct. The office provides comprehensive public safety services, including patrol, detentions, criminal investigations, and community outreach programs like \"Shop with a Cop\" and emergency mass notifications",
-      "discovered": "2026-07-30T06:47:51.689799+00:00",
-      "domain": "garcosheriff.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-07-30T06:47:49",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VGhlIEdhcmZpZWxkIENvdW50eSBTaGVyaWZmIE9mZmljZUB0aGVnZW50bGVtZW4=",
-      "victim": "The Garfield County Sheriff Office"
     }
   ]
 }

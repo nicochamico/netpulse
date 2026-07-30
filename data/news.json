@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-30T13:53:04.064143+00:00",
+  "last_success": "2026-07-30T15:50:31.872186+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "published": "Thu, 30 Jul 2026 19:04:09 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
@@ -34,10 +40,16 @@
       "published": "Thu, 30 Jul 2026 13:10:48 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "published": "Thu, 30 Jul 2026 12:58:43 +0530"
+      "source": "BleepingComputer",
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "published": "Thu, 30 Jul 2026 11:12:25 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "published": "Thu, 30 Jul 2026 10:01:11 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
       "published": "Wed, 29 Jul 2026 13:54:05 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "published": "Wed, 29 Jul 2026 12:04:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "published": "Wed, 29 Jul 2026 10:55:57 -0400"
     }
   ]
 }
