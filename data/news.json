@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-07-31T14:14:34.173203+00:00",
+  "last_success": "2026-07-31T16:43:10.262359+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "published": "Fri, 31 Jul 2026 20:15:01 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "published": "Fri, 31 Jul 2026 18:21:52 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "published": "Fri, 31 Jul 2026 17:25:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
@@ -22,22 +40,10 @@
       "published": "Fri, 31 Jul 2026 12:11:44 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "published": "Thu, 30 Jul 2026 23:48:24 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "published": "Thu, 30 Jul 2026 20:55:57 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "published": "Thu, 30 Jul 2026 19:04:09 +0530"
+      "source": "BleepingComputer",
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "published": "Fri, 31 Jul 2026 10:01:11 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
       "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
       "published": "Thu, 30 Jul 2026 14:00:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "published": "Thu, 30 Jul 2026 13:00:00 -0400"
     }
   ]
 }

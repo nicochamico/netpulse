@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-07-31T14:14:34.173203+00:00",
+  "last_success": "2026-07-31T16:43:10.262359+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-07-31T15:36:13.171267+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=b6be8d66-388e-4cc3-8e6d-f18008ed955a",
+      "country": "GB",
+      "data_size": null,
+      "description": "Lamont Pridmore is a leading independent chartered accountancy practice based in Carlisle, Cumbria, and Lancashire, offering a comprehensive range of accountancy, tax, and business advisory services. Their expertise spans various sectors including agriculture, tourism, and family businesses, catering to both individuals and organizations throughout the North of England and Southern Scotland. The firm specializes in services such as asset and wealth management, corporate finance, and tax planning, aiming to support clients in improving their financial performance. The release consists of a single archive that expands to 250 GB of data once unpacked. This includes both internal company documentation and client data containing confidential financial information.",
+      "discovered": "2026-07-31T15:54:04.124458+00:00",
+      "domain": "lamontpridmore.co.uk",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-31T15:53:23",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2b9db666af03095080f8d536629529f2.png",
+      "url": "https://www.ransomware.live/id/TGFtb250IFByaWRtb3JlQGRyYWdvbmZvcmNl",
+      "victim": "Lamont Pridmore"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-07-31T14:55:45.005441+00:00",
+      "claim_url": "http://5igtvs225ikh2svqvf7zkanyica5jz5p5db44fg2rwj7ifyjipvyimid.onion/index.php?p=",
+      "country": "US",
+      "data_size": null,
+      "description": "Gardiner Family Chiropractic has been providing medical services to residents of Gardiner and the surrounding area since 1989. However, it is not responsible for its patients and makes no attempt to ensure the security of its stored information. Therefore, patient data, client records, medical histories, and internal company financial information have been compromised and are being made available to you.",
+      "discovered": "2026-07-31T14:56:09.554461+00:00",
+      "domain": "gardinerfamilychiropractic.com",
+      "group": "interlock",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-07-31T14:55:44",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6108bf7a35391aea3ce468d427a28c58.png",
+      "url": "https://www.ransomware.live/id/R2FyZGluZXIgRmFtaWx5IENoaXJvcHJhY3RpY0BpbnRlcmxvY2s=",
+      "victim": "Gardiner Family Chiropractic"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-07-31T12:59:49.227747+00:00",
@@ -329,40 +383,6 @@
       "screenshot": "https://images.ransomware.live/victims/3715d844c53dd171d800e87e5682b8a2.png",
       "url": "https://www.ransomware.live/id/c2Vydml0ZWxjb0BxaWxpbg==",
       "victim": "servitelco"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-07-30T07:58:11.169560+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7447e2a7-f4db-466f-9f95-5b57cd5ae6d0",
-      "country": "BE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-30T07:58:28.793582+00:00",
-      "domain": "www.orimar.be",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0f916e8329770b9486784e3dd0469c9e.png",
-      "url": "https://www.ransomware.live/id/T3JpbWFyQHFpbGlu",
-      "victim": "Orimar"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-07-30T07:57:34.094733+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=1c576d86-ae95-48bb-8449-5bb196395dfd",
-      "country": "EC",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-07-30T07:57:52.197057+00:00",
-      "domain": "www.inmot.com.ec",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f79a34468c30c4f8b71397527e490705.png",
-      "url": "https://www.ransomware.live/id/SW5kaWFuIE1vdG9zIElubW90QHFpbGlu",
-      "victim": "Indian Motos Inmot"
     }
   ]
 }
