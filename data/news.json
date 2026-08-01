@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-01T09:03:58.360101+00:00",
+  "last_success": "2026-08-01T11:14:35.504861+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "published": "Sat, 01 Aug 2026 14:33:07 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
@@ -32,12 +38,6 @@
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
       "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
       "published": "Fri, 31 Jul 2026 20:15:01 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-      "published": "Fri, 31 Jul 2026 18:21:52 +0530"
     },
     {
       "source": "BleepingComputer",
