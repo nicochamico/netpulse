@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-01T16:04:15.532211+00:00",
+  "last_success": "2026-08-01T17:57:56.579112+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "published": "Sat, 01 Aug 2026 22:47:22 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
@@ -32,12 +38,6 @@
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "published": "Fri, 31 Jul 2026 22:09:31 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "published": "Fri, 31 Jul 2026 20:15:01 +0530"
     },
     {
       "source": "BleepingComputer",
