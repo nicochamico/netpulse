@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-01T11:14:35.504861+00:00",
+  "last_success": "2026-08-01T13:14:01.920917+00:00",
   "count": 100,
   "items": [
     {
@@ -29,9 +29,19 @@
       "data_size": null,
       "description": "[AI generated] MIM Fertility is a US-based fertility clinic network specializing in reproductive medicine and assisted reproductive technologies. The company provides services such as in vitro fertilization, egg freezing, preimplantation genetic testing, and fertility preservation. Operating within the healthcare and reproductive medicine industry, MIM Fertility focuses on personalized patient care and works with fertility specialists to help individuals and couples achieve pregnancy.",
       "discovered": "2026-08-01T05:29:48.812671+00:00",
-      "domain": "",
+      "domain": "mimfertility.ai",
       "group": "coinbasecartel",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-01T12:35:36.674009",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/e48a6e2c612d5678e5f2e853b864c085.png",
