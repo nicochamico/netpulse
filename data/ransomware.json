@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-02T19:22:16.744750+00:00",
+  "last_success": "2026-08-02T20:52:21.904455+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-02T20:25:59.410259+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8c1cae19-8a40-4d7b-a6d2-20f5561aa01e",
+      "country": "AU",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-02T20:26:32.094987+00:00",
+      "domain": "www.assetflooring.com.au",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QXNzZXQgRmxvb3JpbmcgR3JvdXAgQXVzdHJhbGlhQHFpbGlu",
+      "victim": "Asset Flooring Group Australia"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-02T14:24:46.312294+00:00",
@@ -169,6 +186,23 @@
       "screenshot": "https://images.ransomware.live/victims/4c994907cbc30e508e33addbbe1611ae.png",
       "url": "https://www.ransomware.live/id/RW5jb3JlIEVudGVycHJpc2VzLCBJbmMuQENSUHhP",
       "victim": "Encore Enterprises, Inc."
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-02T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=31b88c51-13ba-4d53-b946-49f02daaeb5a",
+      "country": "AU",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-02T20:27:11.858120+00:00",
+      "domain": "www.seedoutsourcing.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9f929412fc53f1eba1e0c1432aa04492.png",
+      "url": "https://www.ransomware.live/id/SU5URVJUUlVTVCBBVVNUUkFMSUEgUFRZIExUREBxaWxpbg==",
+      "victim": "INTERTRUST AUSTRALIA PTY LTD"
     },
     {
       "activity": "Retail & E-Commerce",
@@ -359,59 +393,6 @@
       "screenshot": "https://images.ransomware.live/victims/b49def0aeb8bd72eaee5dd9b37a74554.png",
       "url": "https://www.ransomware.live/id/UG9pbnRlIFByb3BlcnR5IEdyb3VwQHFpbGlu",
       "victim": "Pointe Property Group"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-01T13:09:53+00:00",
-      "claim_url": "",
-      "country": "PH",
-      "data_size": null,
-      "description": "psbank.com.ph zoominfo.com/c/philippine-savings-bank/83461899 SBank is widely recognized across the Philippines for its highly accessible Auto and Home Loan programs that make vehicle and property ownership easier for everyday consumers.\nOne of its most unique financial products is the Flexi Personal Loan, a revolving credit line that allows clients to withdraw, repay, and reuse funds flexibly",
-      "discovered": "2026-08-01T21:31:52.458978+00:00",
-      "domain": "psbank.com.ph",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 7,
-        "employees_url": 3,
-        "infostealer_stats": {
-          "Azorult": 3,
-          "Ficker": 1,
-          "Generic Stealer": 29,
-          "Lumma": 29,
-          "Raccoon": 38,
-          "RedLine": 73,
-          "StealC": 9,
-          "Vidar": 6
-        },
-        "last_employee_compromised": "2024-01-03T11:15:12+00:00",
-        "last_user_compromised": "2026-06-30T00:00:00+00:00",
-        "thirdparties": 15,
-        "update": "2026-07-26T10:32:30",
-        "users": 212,
-        "users_url": 22
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UGhpbGlwcGluZSBTYXZpbmdzIEJhbmtAdGhlZ2VudGxlbWVu",
-      "victim": "Philippine Savings Bank"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-01T05:30:06.912961+00:00",
-      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/cen",
-      "country": "BE",
-      "data_size": null,
-      "description": "[AI generated] CEN (European Committee for Standardization) and CENELEC (European Committee for Electrotechnical Standardization) are European standardization organizations headquartered in Brussels, Belgium. They develop and publish voluntary technical standards across industries including engineering, manufacturing, energy, and electrotechnical sectors. Their standards facilitate trade, safety, and interoperability across European Union and European Economic Area member states.",
-      "discovered": "2026-08-01T05:30:30.270804+00:00",
-      "domain": "",
-      "group": "coinbasecartel",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d74912d9eb0e5508845fbee8638b816b.png",
-      "url": "https://www.ransomware.live/id/Q0VOIGFuZCBDZW5lbGVjQGNvaW5iYXNlY2FydGVs",
-      "victim": "CEN and Cenelec"
     }
   ]
 }
