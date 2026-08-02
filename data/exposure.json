@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:08:11.801003+00:00",
+  "generated_at": "2026-08-02T15:20:01.960269+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -11,6 +11,7 @@
         53,
         80,
         443,
+        2052,
         2082,
         2087,
         8443,
@@ -20,9 +21,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "wlcvip.kau.se",
-        "scrop-capousd-ca.schoolloop.com",
-        "one.one.one.one"
+        "insurance-capousd-ca.schoolloop.com",
+        "one.one.one.one",
+        "ps02-pps-nj.schoolloop.com"
       ]
     },
     {
