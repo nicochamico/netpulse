@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-02T20:52:21.904455+00:00",
+  "last_success": "2026-08-02T21:52:56.754325+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "published": "Sun, 02 Aug 2026 17:14:29 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400"
@@ -68,12 +74,6 @@
       "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
       "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
       "published": "Fri, 31 Jul 2026 17:09:25 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "published": "Fri, 31 Jul 2026 14:52:44 -0400"
     }
   ]
 }

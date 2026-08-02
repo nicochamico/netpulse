@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-02T20:52:21.904455+00:00",
+  "last_success": "2026-08-02T21:52:56.754325+00:00",
   "count": 100,
   "items": [
     {
@@ -186,6 +186,33 @@
       "screenshot": "https://images.ransomware.live/victims/4c994907cbc30e508e33addbbe1611ae.png",
       "url": "https://www.ransomware.live/id/RW5jb3JlIEVudGVycHJpc2VzLCBJbmMuQENSUHhP",
       "victim": "Encore Enterprises, Inc."
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-02T00:01:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6faf9c9cd108bf26e11d36",
+      "country": "US",
+      "data_size": null,
+      "description": "The Evangelical Council for Financial Accountability (ECFA) is an American accreditation agency founded in 1979 that certifies Christian churches and nonprofits based on financial integrity, board governance, and transparent fundraising. It represents over 2,700 member organizations with billions in collective revenue.",
+      "discovered": "2026-08-02T21:28:50.213688+00:00",
+      "domain": "ecfa.org",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-02T21:28:28",
+        "users": 49,
+        "users_url": 10
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2c8a4c74ab2d7800ad90e0d805dc77af.png",
+      "url": "https://www.ransomware.live/id/ZWNmYS5vcmdAaW5jcmFuc29t",
+      "victim": "ecfa.org"
     },
     {
       "activity": "Professional Services",
@@ -376,23 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/843dac653f2fa385f42258408a558bef.png",
       "url": "https://www.ransomware.live/id/Q2VyYWdyZXNAcWlsaW4=",
       "victim": "Ceragres"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-01T13:50:26.300826+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=24a692b3-a6f9-4abe-9e03-c357aabb3bfe",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-01T13:50:47.985405+00:00",
-      "domain": "www.pointecre.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b49def0aeb8bd72eaee5dd9b37a74554.png",
-      "url": "https://www.ransomware.live/id/UG9pbnRlIFByb3BlcnR5IEdyb3VwQHFpbGlu",
-      "victim": "Pointe Property Group"
     }
   ]
 }
