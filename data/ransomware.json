@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-02T21:52:56.754325+00:00",
+  "last_success": "2026-08-02T22:53:25.319128+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-02T21:58:56.524335+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/b26f712ae9a60d8aee7b5ca340e91954282701f31c9a817d379b67204c1d0700/",
+      "country": "SG",
+      "data_size": null,
+      "description": "ProHealth Medical Group Pte Ltd is a Singaporean private primary healthcare group founded in the 1990s, headquartered at...",
+      "discovered": "2026-08-02T21:59:14.801003+00:00",
+      "domain": "www.prohealth.sg",
+      "group": "krybit",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7819209a023dd4eca259dfc589e8bc67.png",
+      "url": "https://www.ransomware.live/id/d3d3LnByb2hlYWx0aC5zZ0BrcnliaXQ=",
+      "victim": "www.prohealth.sg"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-02T20:25:59.410259+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/211729fc9551931a420e027a3fbb94b0.png",
       "url": "https://www.ransomware.live/id/RGllbnN0IFBhY2sgU3lzdGVtc0BxaWxpbg==",
       "victim": "Dienst Pack Systems"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-01T13:51:07.061395+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c9850007-22b0-48d2-8a78-21b36119ee59",
-      "country": "CA",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-01T13:51:29.785100+00:00",
-      "domain": "www.ceragres.ca",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/843dac653f2fa385f42258408a558bef.png",
-      "url": "https://www.ransomware.live/id/Q2VyYWdyZXNAcWlsaW4=",
-      "victim": "Ceragres"
     }
   ]
 }
