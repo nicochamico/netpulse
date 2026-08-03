@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-03T16:21:59.995183+00:00",
+  "last_success": "2026-08-03T18:49:06.140284+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "published": "Mon, 03 Aug 2026 21:54:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "published": "Mon, 03 Aug 2026 21:45:13 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
@@ -28,16 +40,10 @@
       "published": "Mon, 03 Aug 2026 14:43:56 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "published": "Mon, 03 Aug 2026 13:35:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "published": "Mon, 03 Aug 2026 12:11:46 +0530"
+      "source": "BleepingComputer",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "published": "Mon, 03 Aug 2026 13:00:56 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "published": "Sun, 02 Aug 2026 10:17:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "published": "Sat, 01 Aug 2026 10:20:30 -0400"
     }
   ]
 }
