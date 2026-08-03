@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-03T06:20:05.058258+00:00",
+  "last_success": "2026-08-03T10:40:26.247124+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "published": "Mon, 03 Aug 2026 13:35:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "published": "Mon, 03 Aug 2026 12:11:46 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "published": "Mon, 03 Aug 2026 12:10:31 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -20,24 +38,6 @@
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "published": "Sat, 01 Aug 2026 12:42:42 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "published": "Sat, 01 Aug 2026 11:59:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "published": "Sat, 01 Aug 2026 00:22:04 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "published": "Fri, 31 Jul 2026 22:09:31 +0530"
     },
     {
       "source": "BleepingComputer",

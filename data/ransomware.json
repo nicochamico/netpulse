@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-03T06:20:05.058258+00:00",
+  "last_success": "2026-08-03T10:40:26.247124+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-08-03T06:45:27.037448+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=eac9b985-c649-480d-815d-805c0c980241",
+      "country": "CN",
+      "data_size": null,
+      "description": "An affiliate of TUI Group, the world's number one leisure tourism business, TUI China was established in late 2003 as the first joint venture with foreign majority share in the Chinese tourism industry.\nPassports, visas, internal documentation, legal and financial documents, etc.",
+      "discovered": "2026-08-03T06:52:53.230294+00:00",
+      "domain": "tui.cn",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-03T07:30:37",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/770bc1946e55cdc974d0cb9ed9e0db33.png",
+      "url": "https://www.ransomware.live/id/VFVJIENoaW5hQGRyYWdvbmZvcmNl",
+      "victim": "TUI China"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-03T04:54:18.615437+00:00",
@@ -386,23 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/a1f6fb860c2218978f2053e65718c807.png",
       "url": "https://www.ransomware.live/id/VmVybm9uICYgV2FsZHJlcEBHbG9iYWwgU2VjcmV0IEdyb3Vw",
       "victim": "Vernon & Waldrep"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-01T13:53:42.307316+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=23bddd4e-4fd9-41f4-8326-e9feb3b80bc5",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-01T13:54:45.323165+00:00",
-      "domain": "www.saturdayeveningpost.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VGhlIFNhdHVyZGF5IEV2ZW5pbmcgUG9zdEBxaWxpbg==",
-      "victim": "The Saturday Evening Post"
     }
   ]
 }
