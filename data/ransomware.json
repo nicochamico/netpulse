@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-03T02:51:10.946603+00:00",
+  "last_success": "2026-08-03T06:20:05.058258+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-03T04:54:18.615437+00:00",
+      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/ba238823-d8b5-4d91-bd34-c03591a95a1c",
+      "country": "DE",
+      "data_size": null,
+      "description": "Hans & Jos. Kronenberg GmbH is a German company founded in 1932 and based in Bergisch Gladbach. It specializes in the development and manufacturing of high-quality components for the elevator industry and mechanical engineering, including door locks, switches, control panels, and LED lighting.",
+      "discovered": "2026-08-03T04:54:58.103753+00:00",
+      "domain": "",
+      "group": "payload",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1daa6a0a0cc6bec8736390d5957fdf43.png",
+      "url": "https://www.ransomware.live/id/SGFucyAmIEpvcy4gS3JvbmVuYmVyZyBHbWJIQHBheWxvYWQ=",
+      "victim": "Hans & Jos. Kronenberg GmbH"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-08-03T03:56:07.321136+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=1715db25-1d32-4f22-913e-fbe4456fd271",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-03T03:56:32.895408+00:00",
+      "domain": "www.freedomclaimsinc.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6069cc2b634432d256f5f9926d6079ab.png",
+      "url": "https://www.ransomware.live/id/RnJlZWRvbSBDbGFpbXMgTWFuYWdlbWVudEBxaWxpbg==",
+      "victim": "Freedom Claims Management"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-02T21:58:56.524335+00:00",
@@ -369,40 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VGhlIFNhdHVyZGF5IEV2ZW5pbmcgUG9zdEBxaWxpbg==",
       "victim": "The Saturday Evening Post"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-01T13:52:31.199624+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b5dfe996-d5bf-462e-933e-ed2a10d33da9",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-01T13:53:23.068066+00:00",
-      "domain": "www.cfioffice.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d50fd62aca660d053ec6f2e1f9b8373a.png",
-      "url": "https://www.ransomware.live/id/Q29tbWVyY2lhbCBGdXJuaXR1cmUgSW50ZXJpb3JzQHFpbGlu",
-      "victim": "Commercial Furniture Interiors"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-01T13:51:48.791535+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9d3a16a9-ade9-48b6-a574-a211eb8cb600",
-      "country": "DE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-01T13:52:12.208209+00:00",
-      "domain": "www.dienst-packsystems.de",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/211729fc9551931a420e027a3fbb94b0.png",
-      "url": "https://www.ransomware.live/id/RGllbnN0IFBhY2sgU3lzdGVtc0BxaWxpbg==",
-      "victim": "Dienst Pack Systems"
     }
   ]
 }
