@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-03T18:49:06.140284+00:00",
+  "last_success": "2026-08-03T20:25:08.513755+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "published": "Tue, 04 Aug 2026 00:13:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
@@ -34,10 +40,16 @@
       "published": "Mon, 03 Aug 2026 16:19:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "published": "Mon, 03 Aug 2026 14:43:56 +0530"
+      "source": "BleepingComputer",
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "published": "Mon, 03 Aug 2026 16:01:22 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "published": "Mon, 03 Aug 2026 15:25:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "published": "Sun, 02 Aug 2026 18:31:41 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "published": "Sun, 02 Aug 2026 17:14:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "published": "Sun, 02 Aug 2026 10:17:16 -0400"
     }
   ]
 }
