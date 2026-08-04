@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-04T04:10:58.940121+00:00",
+  "last_success": "2026-08-04T07:36:26.834700+00:00",
   "count": 100,
   "items": [
     {
@@ -82,6 +82,40 @@
       "screenshot": "https://images.ransomware.live/victims/2fada108640fb55c7e724f3c5cf05cc9.png",
       "url": "https://www.ransomware.live/id/cHVzaGlkcm9zYWwuaWRAaW5jcmFuc29t",
       "victim": "pushidrosal.id"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-04T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/gilde-handwerk-macrander-gmbh-co-kg-bc41d805",
+      "country": "DE",
+      "data_size": null,
+      "description": "[wholesale] GILDE Handwerk Macrander GmbH & Co. KG is a family-owned German Mittelstand group headquartered in Bocholt, Nordrhein-Westfalen. The GILDE Gruppe operates across wholesale trade in gifts, home accessories, and furniture through brands including GILDE Handwerk, Fink Living, and HAKU Möbel, with 50+ legal entities spanning Germany, Austria, the Netherlands, France, the UK, and Hong Kong.\n\nThe exposed material includes:\n\n<censored>\n148+ personal ID document scans — Personalausweise (national ID cards), Reispässe (passports), Führerscheine (driver's licences), and Heiratsurkunden (marriage certificates) for employees, directors, and family members. Names range from warehouse staff to the CEO.\nELSTER tax certificates for 50+ entities — the digital keys for filing tax returns with the German Finanzamt, plus personal certificates for directors and family members. Enables fraudulent VAT returns and income tax filings.\n<censored>\nFull employee payroll records (2006–2025) — tax IDs (Steuer-IDs), social security numbers, bank accounts, salary details, sick notes (Krankmeldungen), and disciplinary records for an estimated 200–400 current and 200–500 former employees across all entities.\n20 years of consolidated financial records — balance sheets, P&L statements, bank reconciliations, loan documentation, shareholder agreements, and capital contribution records for the entire group from 2004 to 2025.\n1,800+ Access databases — inventory valuations, customer lists, supplier terms, product pricing, and order history spanning the entire commercial operation.",
+      "discovered": "2026-08-04T06:21:33.166294+00:00",
+      "domain": "GILDE Handwerk Macrander GmbH & Co. KG",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cc5ffe58b0536e25a95b5c52faf18f01.png",
+      "url": "https://www.ransomware.live/id/R0lMREUgSGFuZHdlcmsgTWFjcmFuZGVyIEdtYkggJiBDby4gS0dAYXVyb3Jh",
+      "victim": "GILDE Handwerk Macrander GmbH & Co. KG"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-04T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/us-installation-group-inc-c666ddd2",
+      "country": "US",
+      "data_size": null,
+      "description": "Founded by Bruce DeLuca in Boca Raton, Florida, USIG operates through 15+ legal entities under MRS Holdings, performing over 100,000 installations annually across 33 markets in 14 states.",
+      "discovered": "2026-08-04T05:51:32.732260+00:00",
+      "domain": "US Installation Group, Inc.",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/76e8d5f1b3802cc623f37ba283b5f602.png",
+      "url": "https://www.ransomware.live/id/VVMgSW5zdGFsbGF0aW9uIEdyb3VwLCBJbmMuQGF1cm9yYQ==",
+      "victim": "US Installation Group, Inc."
     },
     {
       "activity": "Energy & Utilities",
@@ -467,56 +501,6 @@
       "screenshot": "https://images.ransomware.live/victims/1daa6a0a0cc6bec8736390d5957fdf43.png",
       "url": "https://www.ransomware.live/id/SGFucyAmIEpvcy4gS3JvbmVuYmVyZyBHbWJIQHBheWxvYWQ=",
       "victim": "Hans & Jos. Kronenberg GmbH"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-03T03:56:07.321136+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=1715db25-1d32-4f22-913e-fbe4456fd271",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-03T03:56:32.895408+00:00",
-      "domain": "www.freedomclaimsinc.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6069cc2b634432d256f5f9926d6079ab.png",
-      "url": "https://www.ransomware.live/id/RnJlZWRvbSBDbGFpbXMgTWFuYWdlbWVudEBxaWxpbg==",
-      "victim": "Freedom Claims Management"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-03T00:01:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a713ccd9cd108bf261acf63",
-      "country": "US",
-      "data_size": null,
-      "description": "This Clinton foundation sponsors the sterilization of women in Africa and South America.\r With the help of this foundation, organs harvested criminally by transplant surgeons from people in Third World countries are legalized to improve the quality of life of the rich in capitalist countries, including the United States.\r We have irrefutable evidence of their secret accounts, including transactions in cryptocurrency, from which transplanted organs were purchased to replace Bill Clinton's wife, Hillary Clinton.",
-      "discovered": "2026-08-04T02:24:44.578709+00:00",
-      "domain": "clintonhealthaccess.org",
-      "group": "incransom",
-      "infostealer": {
-        "employees": 14,
-        "employees_url": 4,
-        "infostealer_stats": {
-          "Generic Stealer": 3,
-          "Lumma": 2,
-          "Raccoon": 9,
-          "RedLine": 8,
-          "StealC": 1
-        },
-        "last_employee_compromised": "2024-09-15T00:00:00+00:00",
-        "last_user_compromised": "2026-04-20T14:21:40+00:00",
-        "thirdparties": 48,
-        "update": "2026-08-04T02:24:05",
-        "users": 10,
-        "users_url": 8
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f1d625e42cd311b6283f9f83f53a04a9.png",
-      "url": "https://www.ransomware.live/id/Y2xpbnRvbmhlYWx0aGFjY2Vzcy5vcmdAaW5jcmFuc29t",
-      "victim": "clintonhealthaccess.org"
     }
   ]
 }
