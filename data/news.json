@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-04T07:36:26.834700+00:00",
+  "last_success": "2026-08-04T10:35:27.047705+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "published": "Tue, 04 Aug 2026 14:33:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "published": "Tue, 04 Aug 2026 12:30:13 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
@@ -26,18 +38,6 @@
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "published": "Mon, 03 Aug 2026 19:33:11 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "published": "Mon, 03 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "published": "Mon, 03 Aug 2026 16:19:06 +0530"
     },
     {
       "source": "BleepingComputer",
