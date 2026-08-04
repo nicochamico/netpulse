@@ -1,7 +1,7 @@
 {
   "source": "NetPulse calculated risk score",
   "status": "live",
-  "last_success": "2026-08-04T20:42:55.927604+00:00",
+  "last_success": "2026-08-04T21:09:24.572651+00:00",
   "score": 29,
   "label": "LOW RISK",
   "trend": "+0",
