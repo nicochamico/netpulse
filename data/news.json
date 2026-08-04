@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-04T13:00:01.969588+00:00",
+  "last_success": "2026-08-04T15:30:46.240982+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "published": "Tue, 04 Aug 2026 19:00:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "published": "Tue, 04 Aug 2026 18:41:22 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
@@ -28,16 +40,16 @@
       "published": "Tue, 04 Aug 2026 14:33:23 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "published": "Tue, 04 Aug 2026 12:30:13 +0530"
+      "source": "BleepingComputer",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "published": "Tue, 04 Aug 2026 11:24:35 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "published": "Tue, 04 Aug 2026 00:13:53 +0530"
+      "source": "BleepingComputer",
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "published": "Tue, 04 Aug 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
       "published": "Mon, 03 Aug 2026 15:25:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "published": "Mon, 03 Aug 2026 13:00:56 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "published": "Mon, 03 Aug 2026 11:04:39 -0400"
     }
   ]
 }
