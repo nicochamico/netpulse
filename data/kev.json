@@ -1,9 +1,60 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-04T17:45:49.286123+00:00",
-  "count": 1657,
+  "last_success": "2026-08-04T19:27:46.669589+00:00",
+  "count": 1660,
   "items": [
+    {
+      "cveID": "CVE-2026-18556",
+      "vendorProject": "N-able",
+      "product": "N-central",
+      "vulnerabilityName": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-08-04",
+      "shortDescription": "N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-07",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://uptime.n-able.com/ ; https://status.n-able.com/2026/08/02/n-central-2026-3-hotfix-1-mitigation-for-cve-2026-18577/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-18556",
+      "cwes": [
+        "CWE-288"
+      ],
+      "epss": 0.0027,
+      "epss_percentile": 0.19053
+    },
+    {
+      "cveID": "CVE-2026-34486",
+      "vendorProject": "Apache",
+      "product": "Tomcat",
+      "vulnerabilityName": "Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
+      "dateAdded": "2026-08-04",
+      "shortDescription": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-07",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://lists.apache.org/thread/9510k5p5zdvt9pkkgtyp85mvwxo2qrly ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-34486",
+      "cwes": [
+        "CWE-311"
+      ],
+      "epss": 0.42627,
+      "epss_percentile": 0.9858
+    },
+    {
+      "cveID": "CVE-2026-9198",
+      "vendorProject": "IBM",
+      "product": "Langflow",
+      "vulnerabilityName": "IBM Langflow Code Injection Vulnerability",
+      "dateAdded": "2026-08-04",
+      "shortDescription": "Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-07",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://www.ibm.com/support/pages/node/7278927 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-9198",
+      "cwes": [
+        "CWE-94"
+      ],
+      "epss": 0.01886,
+      "epss_percentile": 0.77474
+    },
     {
       "cveID": "CVE-2026-18577",
       "vendorProject": "N-able",
@@ -122,57 +173,6 @@
       ],
       "epss": 0.79029,
       "epss_percentile": 0.99559
-    },
-    {
-      "cveID": "CVE-2026-63030",
-      "vendorProject": "WordPress",
-      "product": "Core",
-      "vulnerabilityName": "WordPress Core Interpretation Conflict Vulnerability",
-      "dateAdded": "2026-07-21",
-      "shortDescription": "WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-24",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-63030",
-      "cwes": [
-        "CWE-436"
-      ],
-      "epss": 0.98417,
-      "epss_percentile": 0.99915
-    },
-    {
-      "cveID": "CVE-2026-0770",
-      "vendorProject": "Langflow",
-      "product": "Langflow",
-      "vulnerabilityName": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
-      "dateAdded": "2026-07-21",
-      "shortDescription": "Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations. ",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-24",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://github.com/langflow-ai/langflow/releases/tag/v1.9.0 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-0770 ",
-      "cwes": [
-        "CWE-829"
-      ],
-      "epss": 0.56267,
-      "epss_percentile": 0.98954
-    },
-    {
-      "cveID": "CVE-2021-27137",
-      "vendorProject": "DD-WRT",
-      "product": "DD-WRT",
-      "vulnerabilityName": "DD-WRT Stack-Based Buffer Overflow Vulnerability",
-      "dateAdded": "2026-07-21",
-      "shortDescription": "DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-07-24",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "This vulnerability affects a common open-source component, third-party library, proprietary implementation, or a protocol used by different products. Please check with specific vendors for information on patching status. For more information, please see: https://svn.dd-wrt.com/changeset/45724 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2021-27137",
-      "cwes": [
-        "CWE-121"
-      ],
-      "epss": 0.16488,
-      "epss_percentile": 0.9667
     }
   ]
 }

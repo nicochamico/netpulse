@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-04T17:45:49.286123+00:00",
+  "last_success": "2026-08-04T19:27:46.669589+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "published": "Tue, 04 Aug 2026 15:03:09 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "published": "Tue, 04 Aug 2026 14:50:55 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "published": "Tue, 04 Aug 2026 11:24:35 -0400"
@@ -62,18 +74,6 @@
       "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
       "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
       "published": "Mon, 03 Aug 2026 19:58:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "published": "Mon, 03 Aug 2026 16:01:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "published": "Mon, 03 Aug 2026 15:25:10 -0400"
     }
   ]
 }
