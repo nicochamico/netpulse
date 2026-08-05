@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-04T23:00:46.860347+00:00",
+  "last_success": "2026-08-05T02:12:49.682834+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-04T23:59:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6fb5629cd108bf26e205ca",
+      "country": "US",
+      "data_size": null,
+      "description": "Lantis Enterprises, Inc. is an American consulting and management organization historically rooted in rural healthcare, skilled nursing, and senior living operations. Headquartered in Spearfish, South Dakota, the firm has expanded its focus to cross-industry advisory services",
+      "discovered": "2026-08-05T00:25:08.442696+00:00",
+      "domain": "lantisnet.com",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-05T00:24:47",
+        "users": 0,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/605dae36a9cdff4afb9092a802ff9e9c.png",
+      "url": "https://www.ransomware.live/id/bGFudGlzbmV0LmNvbUBpbmNyYW5zb20=",
+      "victim": "lantisnet.com"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-08-04T23:11:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a70f8179cd108bf2610d332",
+      "country": "CA",
+      "data_size": null,
+      "description": "The management of this institution was repeatedly warned about the disclosure of hundreds of personal data. Each of you who is faced with the consequences of the leak can be absolutely sure that the management of Loyalist College absolutely does not care about its students, employees and partners.\r -------------------------\r Loyalist is Ontario's Destination College, empowering students, faculty, staff, and partners through experiential, industry cluster-based education, training and applied research programs. The College provides job-ready graduates for, and knowledge transfer to, industry and the community.",
+      "discovered": "2026-08-04T23:54:25.508491+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/41d67b47d4108774e6f610ea5e603863.png",
+      "url": "https://www.ransomware.live/id/TG95YWxpc3QgQ29sbGVnZUBpbmNyYW5zb20=",
+      "victim": "Loyalist College"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-04T18:00:23.686979+00:00",
@@ -427,60 +471,6 @@
       "screenshot": "https://images.ransomware.live/victims/52240b98a7997a967d6126ba8d9fe703.png",
       "url": "https://www.ransomware.live/id/cHJhZG90dXlsYXcuY29tQHNhZmVwYXk=",
       "victim": "pradotuylaw.com"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-03T18:28:39.231640+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/naskdoorinccom/",
-      "country": "US",
-      "data_size": null,
-      "description": "Headquartered in West Chester, Pennsylvania, the company has served customers throughout southeastern Pennsylvania and northern Delaware for several decades. Although …",
-      "discovered": "2026-08-03T18:28:53.442835+00:00",
-      "domain": "naskdoorinc.com",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-03T18:28:39",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/83ce020643befa6009406d3ad47b6822.png",
-      "url": "https://www.ransomware.live/id/bmFza2Rvb3JpbmMuY29tQHNhZmVwYXk=",
-      "victim": "naskdoorinc.com"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-03T18:28:05.394274+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/new-pointit/",
-      "country": "IT",
-      "data_size": null,
-      "description": "Headquartered in Signa, Florence, Italy, the company was founded in 2006 and has grown into one of Italy's established suppliers …",
-      "discovered": "2026-08-03T18:28:20.291074+00:00",
-      "domain": "new-point.it",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-03T18:28:05",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a3d388b2b42d9142ad71dbbd0b259c12.png",
-      "url": "https://www.ransomware.live/id/bmV3LXBvaW50Lml0QHNhZmVwYXk=",
-      "victim": "new-point.it"
     }
   ]
 }

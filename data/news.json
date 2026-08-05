@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-04T23:00:46.860347+00:00",
+  "last_success": "2026-08-05T02:12:49.682834+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "published": "Tue, 04 Aug 2026 19:39:59 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
       "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
       "published": "Tue, 04 Aug 2026 18:18:20 -0400"
@@ -68,12 +74,6 @@
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "published": "Tue, 04 Aug 2026 11:24:35 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "published": "Tue, 04 Aug 2026 10:00:10 -0400"
     }
   ]
 }
