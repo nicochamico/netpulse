@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-05T08:30:57.856750+00:00",
+  "last_success": "2026-08-05T11:18:15.222820+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "published": "Wed, 05 Aug 2026 14:53:03 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "published": "Wed, 05 Aug 2026 13:23:50 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "published": "Wed, 05 Aug 2026 13:10:39 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
@@ -20,24 +38,6 @@
       "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
       "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
       "published": "Tue, 04 Aug 2026 19:00:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-      "published": "Tue, 04 Aug 2026 18:41:22 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-      "published": "Tue, 04 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "published": "Tue, 04 Aug 2026 16:46:23 +0530"
     },
     {
       "source": "BleepingComputer",
