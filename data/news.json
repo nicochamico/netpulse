@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-05T18:19:06.528559+00:00",
+  "last_success": "2026-08-05T20:24:52.724953+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "published": "Thu, 06 Aug 2026 00:14:31 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "published": "Thu, 06 Aug 2026 00:03:47 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
@@ -28,16 +40,10 @@
       "published": "Wed, 05 Aug 2026 19:11:27 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "published": "Wed, 05 Aug 2026 17:13:27 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "published": "Wed, 05 Aug 2026 17:13:19 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "published": "Wed, 05 Aug 2026 15:55:25 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
       "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
       "published": "Tue, 04 Aug 2026 19:39:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "published": "Tue, 04 Aug 2026 18:18:20 -0400"
     }
   ]
 }
