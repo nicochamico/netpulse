@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-05T16:39:32.861839+00:00",
+  "last_success": "2026-08-05T18:19:06.528559+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-05T17:49:13.275174+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=e633d61f-8e85-4f38-884b-56a9fde31cde",
+      "country": "US",
+      "data_size": null,
+      "description": "Mike Graham Heating, Air Conditioning & Plumbing is a trusted HVAC and plumbing service provider based in Wichita Falls, Texas, serving the local community since 1994. The company offers a wide range of services including air conditioning, heating, indoor air quality solutions, and comprehensive plumbing services. Their target clients include homeowners and businesses in Wichita County and surrounding areas, seeking reliable and professional home service assistance. With a commitment to customer satisfaction, they provide upfront estimates, emergency services, and tailored solutions to meet individual needs.",
+      "discovered": "2026-08-05T17:52:39.516268+00:00",
+      "domain": "mgpcomfort.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-05T17:52:06",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/94d5020f37f671258a86227eeaa20d0f.png",
+      "url": "https://www.ransomware.live/id/TWlrZSBHcmFoYW0gSGVhdGluZyBBbmQgQWlyIENvbmRpdGlvbmluZ0BkcmFnb25mb3JjZQ==",
+      "victim": "Mike Graham Heating And Air Conditioning"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-05T17:47:46.182733+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=720bcaea-bde0-4b88-b487-d72bc4d233ce",
+      "country": "US",
+      "data_size": null,
+      "description": "P.A. Inc. is a leading distributor of high nickel alloy and specialty stainless steel piping products, based in Houston, Texas. The company offers a comprehensive inventory of materials including Nickel 200, Alloy 400, Alloy 600, and various titanium grades, catering to industries requiring high-temperature and corrosion-resistant solutions. Their services include custom fabrication and a qualitative specification assurance process to ensure product quality. P.A. Inc. serves clients in sectors such as specialty chemicals, oil and gas, and petrochemicals, providing efficient and effective procurement solutions.",
+      "discovered": "2026-08-05T17:53:32.111690+00:00",
+      "domain": "painc.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 7,
+        "update": "2026-08-05T17:52:58",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0271ec339606ccff85d0686bddb06a16.png",
+      "url": "https://www.ransomware.live/id/UC4gQS4gSW5jLiAoUGVyZm9ybWFuY2UgQWxsb3lzKUBkcmFnb25mb3JjZQ==",
+      "victim": "P. A. Inc. (Performance Alloys)"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-05T16:31:57.200371+00:00",
@@ -433,60 +487,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/d29ybGR0dWJlQGd1bnJh",
       "victim": "worldtube"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-04T13:00:59+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "controlconceptstexas.com zoominfo.com/c/control-concepts--technology/356919279 Control Concepts is a Texas-based industrial automation and electronics repair company established in 1984. They specialize in servicing, repairing, and installing AC/DC motor drives, PLCs, and industrial motor controls. Operating as a certified UL508a Panel Shop, the company also provides 24-hour emergency service, system upgrades, and custom automation solutions",
-      "discovered": "2026-08-04T16:03:31.718685+00:00",
-      "domain": "controlconceptstexas.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-04T16:03:29",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q29udHJvbCBDb25jZXB0cyBUZWNobm9sb2d5QHRoZWdlbnRsZW1lbg==",
-      "victim": "Control Concepts Technology"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-04T12:59:19+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "topmarkfunding.com zoominfo.com/c/topmark-funding-llc/368696312 TopMark Funding is a nationwide commercial financing company specializing in fast funding solutions for semi-trucks, trailers, and heavy construction equipment. Headquartered in California, they help trucking and construction businesses acquire machinery ranging from $25,000 to $500,000. The company is recognized for providing quick approvals, flexible terms, and risk-free quotes without impacting the client's credit score",
-      "discovered": "2026-08-04T16:03:52.367255+00:00",
-      "domain": "topmarkfunding.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-04T16:03:50",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VG9wTWFyayBGdW5kaW5nQHRoZWdlbnRsZW1lbg==",
-      "victim": "TopMark Funding"
     }
   ]
 }
