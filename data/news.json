@@ -1,43 +1,43 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-06T06:27:12.740120+00:00",
+  "last_success": "2026-08-06T09:37:29.709670+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "published": "Thu, 06 Aug 2026 14:49:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "published": "Thu, 06 Aug 2026 14:27:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "published": "Thu, 06 Aug 2026 13:35:22 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "published": "Thu, 06 Aug 2026 12:49:54 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "published": "Thu, 06 Aug 2026 12:21:43 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
       "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
       "published": "Thu, 06 Aug 2026 11:34:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "published": "Thu, 06 Aug 2026 00:14:31 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-      "published": "Thu, 06 Aug 2026 00:03:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-      "published": "Wed, 05 Aug 2026 21:06:03 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "published": "Wed, 05 Aug 2026 20:44:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "published": "Wed, 05 Aug 2026 19:57:30 +0530"
     },
     {
       "source": "BleepingComputer",
