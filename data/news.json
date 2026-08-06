@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-06T03:13:12.634022+00:00",
+  "last_success": "2026-08-06T06:27:12.740120+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "published": "Thu, 06 Aug 2026 11:34:30 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
@@ -32,12 +38,6 @@
       "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
       "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
       "published": "Wed, 05 Aug 2026 19:57:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "published": "Wed, 05 Aug 2026 19:11:27 +0530"
     },
     {
       "source": "BleepingComputer",
