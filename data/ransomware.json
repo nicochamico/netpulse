@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-05T23:58:07.996921+00:00",
+  "last_success": "2026-08-06T03:13:12.634022+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-05T23:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a6fb7ac9cd108bf26e25640",
+      "country": "US",
+      "data_size": null,
+      "description": "The Virginia Peninsula Regional Jail (VPRJ) is a state-authorized, regional correctional facility located in Williamsburg, Virginia, USA. Opened in 1997, VPRJ provides short-to-medium-term detention services, ensuring public safety and order across the Virginia Peninsula region under the governance of a multi-jurisdictional jail board.",
+      "discovered": "2026-08-05T23:53:43.993332+00:00",
+      "domain": "vprj.org",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-05T23:53:14",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5be74d6d8a200bc68a1c7f8000d5e425.png",
+      "url": "https://www.ransomware.live/id/dnByai5vcmdAaW5jcmFuc29t",
+      "victim": "vprj.org"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-05T21:00:39.483379+00:00",
@@ -326,23 +353,6 @@
       "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
       "url": "https://www.ransomware.live/id/aW50KioqKioqKkBjbG9w",
       "victim": "int*******"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-05T20:50:29.637476+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-      "country": "",
-      "data_size": null,
-      "description": "[CVE‑2026‑12569] Data exfiltrated included the following: Database, Project - files",
-      "discovered": "2026-08-05T20:50:45.458566+00:00",
-      "domain": "",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
-      "url": "https://www.ransomware.live/id/aG9uKioqKioqKkBjbG9w",
-      "victim": "hon*******"
     }
   ]
 }
