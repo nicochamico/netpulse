@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-06T15:10:40.418786+00:00",
+  "last_success": "2026-08-06T23:55:39.546404+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "published": "Thu, 06 Aug 2026 23:28:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "published": "Thu, 06 Aug 2026 22:43:15 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "published": "Thu, 06 Aug 2026 21:47:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "published": "Thu, 06 Aug 2026 20:54:31 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
@@ -16,64 +40,40 @@
       "published": "Thu, 06 Aug 2026 17:19:48 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-      "published": "Thu, 06 Aug 2026 17:03:08 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-      "published": "Thu, 06 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "published": "Thu, 06 Aug 2026 14:49:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "published": "Thu, 06 Aug 2026 14:27:30 +0530"
+      "source": "BleepingComputer",
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "published": "Thu, 06 Aug 2026 18:48:22 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "published": "Thu, 06 Aug 2026 10:02:12 -0400"
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "published": "Thu, 06 Aug 2026 18:37:17 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "published": "Wed, 05 Aug 2026 19:00:50 -0400"
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "published": "Thu, 06 Aug 2026 16:07:24 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "published": "Wed, 05 Aug 2026 17:53:26 -0400"
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "published": "Thu, 06 Aug 2026 14:14:19 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "published": "Wed, 05 Aug 2026 15:55:25 -0400"
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "published": "Thu, 06 Aug 2026 14:03:45 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "published": "Wed, 05 Aug 2026 13:49:41 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "published": "Wed, 05 Aug 2026 11:51:33 -0400"
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "published": "Thu, 06 Aug 2026 12:11:39 -0400"
     }
   ]
 }
