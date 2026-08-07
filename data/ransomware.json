@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-07T08:11:01.768308+00:00",
+  "last_success": "2026-08-07T09:58:33.599494+00:00",
   "count": 100,
   "items": [
     {
@@ -299,7 +299,7 @@
       "activity": "Manufacturing",
       "attackdate": "2026-08-06T19:55:24.729498+00:00",
       "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=J7ZK0cLljprQOb",
-      "country": "SG",
+      "country": "US",
       "data_size": null,
       "description": "United States",
       "discovered": "2026-08-06T19:55:43.174560+00:00",
@@ -384,7 +384,7 @@
       "activity": "Professional Services",
       "attackdate": "2026-08-06T16:35:27+00:00",
       "claim_url": "",
-      "country": "GB",
+      "country": "US",
       "data_size": null,
       "description": "hwmlawfirm.com zoominfo.com/c/halliday--watkins--mann-pc/42929145 Halliday, Watkins & Mann, P.C. (HWM) is a Salt Lake City-based law firm founded in 1935, now operating as a fourth-generation family practice. The firm exclusively serves the mortgage banking industry, specializing in creditor remedies such as foreclosures, bankruptcies, replevins, evictions, and REO closings. With a team of 51–200 employees, HWM provides full-service legal support and title curative work to financial institutions across multiple states",
       "discovered": "2026-08-07T08:02:13.423766+00:00",

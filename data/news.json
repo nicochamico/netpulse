@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-07T08:11:01.768308+00:00",
+  "last_success": "2026-08-07T09:58:33.599494+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "published": "Fri, 07 Aug 2026 15:02:57 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "published": "Fri, 07 Aug 2026 14:22:11 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "published": "Fri, 07 Aug 2026 13:48:35 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
@@ -20,24 +38,6 @@
       "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "published": "Thu, 06 Aug 2026 22:43:15 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "published": "Thu, 06 Aug 2026 21:47:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "published": "Thu, 06 Aug 2026 20:54:31 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-      "published": "Thu, 06 Aug 2026 17:46:58 +0530"
     },
     {
       "source": "BleepingComputer",
