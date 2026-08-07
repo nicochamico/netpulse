@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-07T12:56:44.115182+00:00",
+  "last_success": "2026-08-07T14:13:16.670535+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "published": "Fri, 07 Aug 2026 18:26:23 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Growing Up The Hard Way",
@@ -34,10 +40,16 @@
       "published": "Fri, 07 Aug 2026 15:39:54 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "published": "Fri, 07 Aug 2026 14:22:11 +0530"
+      "source": "BleepingComputer",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "published": "Fri, 07 Aug 2026 10:00:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "published": "Fri, 07 Aug 2026 09:34:40 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Swiss government SharePoint breach compromised 200 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
       "published": "Thu, 06 Aug 2026 14:14:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "published": "Thu, 06 Aug 2026 14:03:45 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "published": "Thu, 06 Aug 2026 12:11:39 -0400"
     }
   ]
 }
