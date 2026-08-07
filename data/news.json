@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-07T06:07:29.317083+00:00",
+  "last_success": "2026-08-07T08:11:01.768308+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "published": "Fri, 07 Aug 2026 12:20:05 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
@@ -11,7 +17,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "published": "Thu, 06 Aug 2026 22:43:15 +0530"
     },
@@ -32,12 +38,6 @@
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
       "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
       "published": "Thu, 06 Aug 2026 17:46:58 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "published": "Thu, 06 Aug 2026 17:19:48 +0530"
     },
     {
       "source": "BleepingComputer",
