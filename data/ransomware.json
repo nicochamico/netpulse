@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-07T11:50:23.022276+00:00",
+  "last_success": "2026-08-07T12:56:44.115182+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-08-07T12:03:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a705e329cd108bf26faa3a1",
+      "country": "IN",
+      "data_size": null,
+      "description": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.",
+      "discovered": "2026-08-07T12:27:11.963336+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/45b875d1cb239f29f6e8289a094199b3.png",
+      "url": "https://www.ransomware.live/id/QVRNU0BpbmNyYW5zb20=",
+      "victim": "ATMS"
+    },
     {
       "activity": "Transportation",
       "attackdate": "2026-08-07T07:21:40.126286+00:00",
@@ -379,33 +396,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/WVkgQnVzaW5lc3MgU29sdXRpb25zQHRoZWdlbnRsZW1lbg==",
       "victim": "YY Business Solutions"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-06T16:35:27+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "hwmlawfirm.com zoominfo.com/c/halliday--watkins--mann-pc/42929145 Halliday, Watkins & Mann, P.C. (HWM) is a Salt Lake City-based law firm founded in 1935, now operating as a fourth-generation family practice. The firm exclusively serves the mortgage banking industry, specializing in creditor remedies such as foreclosures, bankruptcies, replevins, evictions, and REO closings. With a team of 51–200 employees, HWM provides full-service legal support and title curative work to financial institutions across multiple states",
-      "discovered": "2026-08-07T08:02:13.423766+00:00",
-      "domain": "hwmlawfirm.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-07T08:02:11",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SGFsbGlkYXkgV2F0a2lucyBNYW5uQHRoZWdlbnRsZW1lbg==",
-      "victim": "Halliday Watkins Mann"
     }
   ]
 }
