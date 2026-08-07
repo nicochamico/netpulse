@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:39:31.156455+00:00",
+  "generated_at": "2026-08-07T14:40:26.174850+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -22,8 +22,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "translator.spantran.com",
-        "wlc.unmc.edu"
+        "guest.aeweurope.com",
+        "nusd-ca.schoolloop.com"
       ]
     },
     {
