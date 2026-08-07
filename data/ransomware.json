@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-07T22:31:34.464094+00:00",
+  "last_success": "2026-08-07T23:30:51.253827+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-07T22:51:56.533813+00:00",
+      "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/7c38473b-91cb-4ca1-a5a2-6f3b6d9b750b",
+      "country": "FR",
+      "data_size": null,
+      "description": "European manufacturer of packaging for beauty and food. Expertise in plastic injection molding and drawn glass production.",
+      "discovered": "2026-08-07T22:52:10.874538+00:00",
+      "domain": "groupemedicos.com",
+      "group": "bravox",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-07T22:51:56",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f7865c30a42db029950a02114525dff2.png",
+      "url": "https://www.ransomware.live/id/TUVESUNPU0BicmF2b3g=",
+      "victim": "MEDICOS"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-07T16:30:16.815383+00:00",
@@ -394,23 +421,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
       "victim": "Mayer Brown"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-07T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=974b106a-a203-4569-b4e4-a567d7e21946",
-      "country": "AT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-07T13:31:22.281311+00:00",
-      "domain": "www.zteisner.at",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d843f9236d9dbfc2ad33298b367b02d0.png",
-      "url": "https://www.ransomware.live/id/RUlTTkVSIFpUIEdNQkhAcWlsaW4=",
-      "victim": "EISNER ZT GMBH"
     }
   ]
 }
