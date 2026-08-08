@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T08:36:51.663527+00:00",
+  "last_success": "2026-08-08T09:34:39.119138+00:00",
   "count": 100,
   "items": [
     {
@@ -30,6 +30,23 @@
       "screenshot": "https://images.ransomware.live/victims/f7865c30a42db029950a02114525dff2.png",
       "url": "https://www.ransomware.live/id/TUVESUNPU0BicmF2b3g=",
       "victim": "MEDICOS"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-08-07T20:32:19+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a7640d37a5bd158e10b4e4f",
+      "country": "US",
+      "data_size": null,
+      "description": "Sawyer Savings Bank is a community-focused financial institution with over 150 years of experience, offering a range of personal and business banking services. Their products include personal checking, savings accounts, business loans, and digital banking solutions designed to enhance customer convenience and security. The bank is dedicated to supporting local communities through various initiatives, including scholarships and volunteerism. Their target clients include individuals seeking personal banking solutions and businesses looking for comprehensive banking support. \nThe company headquarters is located in 87 Market Street, Saugerties, NY 12477, United States.11-50 Employees",
+      "discovered": "2026-08-08T09:20:49.934425+00:00",
+      "domain": "",
+      "group": "Storm",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/abf67865b4a7ad513a47eb3d69533384.png",
+      "url": "https://www.ransomware.live/id/U2F3eWVyIFNhdmluZ3MgQmFua0BTdG9ybQ==",
+      "victim": "Sawyer Savings Bank"
     },
     {
       "activity": "Technology",
@@ -404,23 +421,6 @@
       "screenshot": "https://images.ransomware.live/victims/acc93ff067740c7bc43a89f2c1fa54ba.png",
       "url": "https://www.ransomware.live/id/d3d3Lmh5bWlhc2EuY29tQGtyeWJpdA==",
       "victim": "www.hymiasa.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-07T00:20:53.716069+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Mayer Brown is a distinctively global law firm, uniquely positioned to advise the world's leading comp…",
-      "discovered": "2026-08-07T00:20:55.266849+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
-      "victim": "Mayer Brown"
     }
   ]
 }
