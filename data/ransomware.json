@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T14:29:12.787054+00:00",
+  "last_success": "2026-08-08T15:26:26.097473+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-08T13:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a623df35ae71db30c7eabbf",
+      "country": "US",
+      "data_size": null,
+      "description": "The Louisville Bar Association (LBA) provides a range of services including membership benefits, legal job placement, continuing legal education (CLE), and public service initiatives. It aims to support legal professionals at all stages of their careers while promoting diversity and community engagement within the legal field. The LBA also offers resources for individuals seeking legal representation and hosts various events and awards to recognize outstanding contributions in the legal community. Their intended clients include legal professionals, law firms, and individuals in need of legal assistance in the Louisville area.",
+      "discovered": "2026-08-08T14:25:56.891591+00:00",
+      "domain": "loubar.org",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-08T14:33:48.087440",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7b177fef51c9f2056da083439204572e.png",
+      "url": "https://www.ransomware.live/id/TG91aXN2aWxsZSBCYXIgQXNzb2NpYXRpb25AaW5jcmFuc29t",
+      "victim": "Louisville Bar Association"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-08T12:29:26.591613+00:00",
@@ -424,23 +451,6 @@
       "screenshot": "https://images.ransomware.live/victims/a8e44b622388e297fcd6383928efe1b6.png",
       "url": "https://www.ransomware.live/id/cmVmbGV0MjAwMC5mckBrcnliaXQ=",
       "victim": "reflet2000.fr"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-07T02:26:08.466537+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/8a0bdf901623710a4eef9699878ae33d2fc778edb5e3b5f6302f955744120676/",
-      "country": "FR",
-      "data_size": null,
-      "description": "Actini Group (ACTINI SAS) is a French industrial machinery manufacturing company with over 70 years of experience, found...",
-      "discovered": "2026-08-07T02:26:26.648559+00:00",
-      "domain": "www.actini.com",
-      "group": "krybit",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/1dafe29c646ce7a98c9f150be7c2b905.png",
-      "url": "https://www.ransomware.live/id/d3d3LmFjdGluaS5jb21Aa3J5Yml0",
-      "victim": "www.actini.com"
     }
   ]
 }
