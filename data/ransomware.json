@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T09:34:39.119138+00:00",
+  "last_success": "2026-08-08T10:29:12.838585+00:00",
   "count": 100,
   "items": [
     {
@@ -32,6 +32,33 @@
       "victim": "MEDICOS"
     },
     {
+      "activity": "Other",
+      "attackdate": "2026-08-07T20:36:41+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a7641d97a5bd158e10b4e50",
+      "country": "US",
+      "data_size": null,
+      "description": "Since 1972, The United Group of Companies, Inc. has specialized in all phases of real estate: development, financing, construction, and management. Their specialties include independent senior living, student apartment communities, multi-family (including affordable) housing, commercial properties, and mixed-use neighborhoods. The United Group of Companies is headquartered out of Troy, New York. \nThe company headquarters is located in 300 Jordan Road, Troy, NY 12180, United States. 201-500 Employees",
+      "discovered": "2026-08-08T09:21:21.811786+00:00",
+      "domain": "ugoc.com",
+      "group": "Storm",
+      "infostealer": {
+        "employees": 3,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-08T09:34:54.513028",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a83592ba3aa411c0b631be116739cb11.png",
+      "url": "https://www.ransomware.live/id/VW5pdGVkIEdyb3VwIG9mIENvbXBhbmllc0BTdG9ybQ==",
+      "victim": "United Group of Companies"
+    },
+    {
       "activity": "Financial Services",
       "attackdate": "2026-08-07T20:32:19+00:00",
       "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a7640d37a5bd158e10b4e4f",
@@ -39,9 +66,19 @@
       "data_size": null,
       "description": "Sawyer Savings Bank is a community-focused financial institution with over 150 years of experience, offering a range of personal and business banking services. Their products include personal checking, savings accounts, business loans, and digital banking solutions designed to enhance customer convenience and security. The bank is dedicated to supporting local communities through various initiatives, including scholarships and volunteerism. Their target clients include individuals seeking personal banking solutions and businesses looking for comprehensive banking support. \nThe company headquarters is located in 87 Market Street, Saugerties, NY 12477, United States.11-50 Employees",
       "discovered": "2026-08-08T09:20:49.934425+00:00",
-      "domain": "",
+      "domain": "sawyersavings.bank",
       "group": "Storm",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-08T09:35:08.497022",
+        "users": 3,
+        "users_url": 2
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/abf67865b4a7ad513a47eb3d69533384.png",
@@ -404,23 +441,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/d3d3LnNlcmVuZ2V0aWVzdGF0ZXMuY28uemFAa3J5Yml0",
       "victim": "www.serengetiestates.co.za"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-07T02:24:28.670615+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/1ab5f193436e8e5bac8c4accc7a225451aa0ed1ca4e6d65d8a1491dc289a84f0/",
-      "country": "PE",
-      "data_size": null,
-      "description": "HYMIASA (Hules y Mangueras Industriales y Automotrices, S.A. de C.V.) is a Mexican leading company specialized in fluid ...",
-      "discovered": "2026-08-07T02:24:46.603215+00:00",
-      "domain": "www.hymiasa.com",
-      "group": "krybit",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/acc93ff067740c7bc43a89f2c1fa54ba.png",
-      "url": "https://www.ransomware.live/id/d3d3Lmh5bWlhc2EuY29tQGtyeWJpdA==",
-      "victim": "www.hymiasa.com"
     }
   ]
 }
