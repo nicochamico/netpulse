@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T11:25:09.241844+00:00",
+  "last_success": "2026-08-08T12:41:03.749066+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-08T12:29:26.591613+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=6a51158d-1290-4eb0-884a-597a8ffd28a0",
+      "country": "DE",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-08T12:30:30.169180+00:00",
+      "domain": "www.clausing-tiefbau.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Q2xhdXNpbmdAcWlsaW4=",
+      "victim": "Clausing"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-08T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=519326ff-4372-4dd4-82d5-a11cc4270a2f",
+      "country": "SG",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-08T12:29:06.719361+00:00",
+      "domain": "CLLS.com.sg",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2330fd98c47c23ce47db149f0b28b130.png",
+      "url": "https://www.ransomware.live/id/Q0xMUyBDbyBMdGRAcWlsaW4=",
+      "victim": "CLLS Co Ltd"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-07T22:51:56.533813+00:00",
@@ -407,40 +441,6 @@
       "screenshot": "https://images.ransomware.live/victims/1dafe29c646ce7a98c9f150be7c2b905.png",
       "url": "https://www.ransomware.live/id/d3d3LmFjdGluaS5jb21Aa3J5Yml0",
       "victim": "www.actini.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-07T02:25:27.521191+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/80cae2a90e73a84acb9e51e10c40dd58a836d3f650b8f27c39558c72443c56f2/",
-      "country": "FR",
-      "data_size": null,
-      "description": "ERNAT (Etudes Réalisations Négoce Assistance Technique) SARL SCOP is a French worker cooperative (SCOP — Société C...",
-      "discovered": "2026-08-07T02:25:49.603659+00:00",
-      "domain": "www.ernat-bureau-etudes.fr",
-      "group": "krybit",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/738d08ce3f1d3781d8d84055f00f9e93.png",
-      "url": "https://www.ransomware.live/id/d3d3LmVybmF0LWJ1cmVhdS1ldHVkZXMuZnJAa3J5Yml0",
-      "victim": "www.ernat-bureau-etudes.fr"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-07T02:25:05.896059+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/7e121542cd77343c3ec610ab2858bc58699b2db394b17158f892e8aecab5efa5/",
-      "country": "ZA",
-      "data_size": null,
-      "description": "Serengeti Estates (Serengeti Golf and Wildlife Estate) is a premier South African luxury residential golf and wildlife e...",
-      "discovered": "2026-08-07T02:25:08.642512+00:00",
-      "domain": "www.serengetiestates.co.za",
-      "group": "krybit",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/d3d3LnNlcmVuZ2V0aWVzdGF0ZXMuY28uemFAa3J5Yml0",
-      "victim": "www.serengetiestates.co.za"
     }
   ]
 }
