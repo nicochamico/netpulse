@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T19:26:59.573127+00:00",
+  "last_success": "2026-08-08T20:25:44.687023+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-08T19:04:15+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/daily-trust",
+      "country": "NG",
+      "data_size": null,
+      "description": "Daily Trust is a Nigerian news organization that provides breaking news, investigative stories, and various features across multiple sectors including business, politics, sports, and entertainment. The company offers content through print, online platforms, and media outlets like Trust TV and Trust Radio. Its services cater primarily to the Nigerian public, with a focus on providing comprehensive coverage of local and international news. Daily Trust aims to inform and engage its audience through a diverse range of storytelling and analysis.",
+      "discovered": "2026-08-08T19:21:01.537371+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/621aacd18dc9fc22832041481d05f1b3.png",
+      "url": "https://www.ransomware.live/id/RGFpbHkgVHJ1c3RAUGFuemVy",
+      "victim": "Daily Trust"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-08T13:00:00+00:00",
@@ -414,33 +431,6 @@
       "screenshot": "https://images.ransomware.live/victims/a21ce6b755ff9b1a0c109e168c6248bf.png",
       "url": "https://www.ransomware.live/id/TW9yZ3VhcmRASGVsaXg=",
       "victim": "Morguard"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-07T07:19:12.039559+00:00",
-      "claim_url": "http://helix2kvkqjzrkh3ospyukij7uemxwvbdmqberjmrudjmqy4hspwzzqd.onion/p/380506d310d5417b836512938f95a302a7fb021fbe54b9f392da079aaf9ade1e",
-      "country": "CA",
-      "data_size": null,
-      "description": "Westland reached out, got the full demand, then stalled with no serious number.\n\nContacting us and dragging process is not negotiation.",
-      "discovered": "2026-08-07T07:19:28.426371+00:00",
-      "domain": "westlandinsurance.ca",
-      "group": "Helix",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 3,
-        "update": "2026-08-07T07:21:03.295977",
-        "users": 25,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/41ba37adc59e7ad73f65f68e555778ce.png",
-      "url": "https://www.ransomware.live/id/V2VzdGxhbmQgSW5zdXJhbmNlQEhlbGl4",
-      "victim": "Westland Insurance"
     }
   ]
 }
