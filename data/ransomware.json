@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-08T16:29:37.170476+00:00",
+  "last_success": "2026-08-08T17:26:54.499725+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-08T16:27:19.655406+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=beeeda5d-f120-4c05-8e03-78c2d8785c59",
+      "country": "HT",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-08T16:28:01.710957+00:00",
+      "domain": "www.impactcentrechretien.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/809080baafc0198ddf10a1f297f9b3ca.png",
+      "url": "https://www.ransomware.live/id/SW1wYWN0IENlbnRyZSBDaHLDqXRpZW5AcWlsaW4=",
+      "victim": "Impact Centre Chrétien"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-08T13:00:00+00:00",
@@ -424,33 +441,6 @@
       "screenshot": "https://images.ransomware.live/victims/41ba37adc59e7ad73f65f68e555778ce.png",
       "url": "https://www.ransomware.live/id/V2VzdGxhbmQgSW5zdXJhbmNlQEhlbGl4",
       "victim": "Westland Insurance"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-07T02:26:45.545586+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/6a016f41ca1953ff139063dbb3c3871fbf732c574f69562ccc6db847eb3f24e2/",
-      "country": "FR",
-      "data_size": null,
-      "description": "REFLET 2000 is a French company founded in 1984, specializing in general building cleaning services (Nettoyage courant d...",
-      "discovered": "2026-08-07T02:27:04.827075+00:00",
-      "domain": "reflet2000.fr",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-07T02:26:45",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a8e44b622388e297fcd6383928efe1b6.png",
-      "url": "https://www.ransomware.live/id/cmVmbGV0MjAwMC5mckBrcnliaXQ=",
-      "victim": "reflet2000.fr"
     }
   ]
 }
