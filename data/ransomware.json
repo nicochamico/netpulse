@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T14:31:14.849843+00:00",
+  "last_success": "2026-08-09T15:27:54.005283+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-09T14:41:00.607485+00:00",
+      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a788dc78b907544821fb857?page=1",
+      "country": "US",
+      "data_size": null,
+      "description": "Revenue: $138.1M",
+      "discovered": "2026-08-09T14:41:20.660513+00:00",
+      "domain": "Constellation HomeBuilder Systems",
+      "group": "unsafe",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e728842c7bed4df409301cc2d81e7e9e.png",
+      "url": "https://www.ransomware.live/id/Q29uc3RlbGxhdGlvbiBIb21lQnVpbGRlciBTeXN0ZW1zQHVuc2FmZQ==",
+      "victim": "Constellation HomeBuilder Systems"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-09T13:31:15.441038+00:00",
@@ -159,6 +176,50 @@
       "screenshot": "https://images.ransomware.live/victims/2d0a20a94d90ce0a2a01fe7d9cd6f5ff.png",
       "url": "https://www.ransomware.live/id/U2lhbSBPaWwgUHJvZHVjdEBQYW56ZXI=",
       "victim": "Siam Oil Product"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-09T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=bc867830-0246-450d-bbae-f93b24ef345d",
+      "country": "DE",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T14:57:55.232579+00:00",
+      "domain": "pm-energy.de",
+      "group": "qilin",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-09T14:57:35",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/757557c870639e42993f1f341481aec2.png",
+      "url": "https://www.ransomware.live/id/cG0tZW5lcmd5IERpZSBTb2xhcmV4cGVydGVuQHFpbGlu",
+      "victim": "pm-energy Die Solarexperten"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-09T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9b358bc3-8762-4521-8745-6f84463cf078",
+      "country": "RO",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T14:32:05.337617+00:00",
+      "domain": "www.HARPLAST.ro",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c7fe9814032f03c8838075854ef3ac33.png",
+      "url": "https://www.ransomware.live/id/SGFycGxhc3QgU1JMQHFpbGlu",
+      "victim": "Harplast SRL"
     },
     {
       "activity": "Other",
@@ -337,33 +398,6 @@
       "victim": "United Group of Companies"
     },
     {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-07T20:32:19+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a7640d37a5bd158e10b4e4f",
-      "country": "US",
-      "data_size": null,
-      "description": "Sawyer Savings Bank is a community-focused financial institution with over 150 years of experience, offering a range of personal and business banking services. Their products include personal checking, savings accounts, business loans, and digital banking solutions designed to enhance customer convenience and security. The bank is dedicated to supporting local communities through various initiatives, including scholarships and volunteerism. Their target clients include individuals seeking personal banking solutions and businesses looking for comprehensive banking support. \nThe company headquarters is located in 87 Market Street, Saugerties, NY 12477, United States.11-50 Employees",
-      "discovered": "2026-08-08T09:20:49.934425+00:00",
-      "domain": "sawyersavings.bank",
-      "group": "Storm",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-08T09:35:08.497022",
-        "users": 3,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/abf67865b4a7ad513a47eb3d69533384.png",
-      "url": "https://www.ransomware.live/id/U2F3eWVyIFNhdmluZ3MgQmFua0BTdG9ybQ==",
-      "victim": "Sawyer Savings Bank"
-    },
-    {
       "activity": "Technology",
       "attackdate": "2026-08-07T16:30:16.815383+00:00",
       "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/66/hitech-distribuzione-informatica-srl-htdi",
@@ -379,40 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/57e2907bea6640e3a736a9f5087c7e9a.png",
       "url": "https://www.ransomware.live/id/SGl0ZWNoIERpc3RyaWJ1emlvbmUgSW5mb3JtYXRpY2EgUy5yLmwuIChIVERJKUBzcGFjZWJlYXJz",
       "victim": "Hitech Distribuzione Informatica S.r.l. (HTDI)"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-07T13:32:22.527507+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4906fb28-6622-49df-9338-73f4b4e91a86",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-07T13:32:41.706397+00:00",
-      "domain": "www.astroelectroplating.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/db1acdb3192114dc0fcb64c179ccb1fb.png",
-      "url": "https://www.ransomware.live/id/QXN0cm8gRWxlY3Ryb3BsYXRpbmdAcWlsaW4=",
-      "victim": "Astro Electroplating"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-07T13:31:41.633542+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c75881ec-b0e7-4099-aee0-caef7b261b65",
-      "country": "GB",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-07T13:32:01.593698+00:00",
-      "domain": "www.filtronic.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c772926a61588d05357d4391a9130f34.png",
-      "url": "https://www.ransomware.live/id/RmlsdHJvbmljQHFpbGlu",
-      "victim": "Filtronic"
     }
   ]
 }
