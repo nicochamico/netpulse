@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T07:51:54.598041+00:00",
+  "last_success": "2026-08-09T08:38:43.395144+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-09T08:28:03.476060+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7c0be3ef-a162-4795-8fb1-9d4375a743bd",
+      "country": "CA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T08:28:24.677986+00:00",
+      "domain": "www.usinage9002.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8afbf352de92503e8628e2d45734fb0b.png",
+      "url": "https://www.ransomware.live/id/U2VydmljZSBkJ3VzaW5hZ2UgOTAwMkBxaWxpbg==",
+      "victim": "Service d'usinage 9002"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-09T02:25:55.107385+00:00",
@@ -391,33 +408,6 @@
       "screenshot": "https://images.ransomware.live/victims/cdba654f3b4b584642cd524063bc2b38.png",
       "url": "https://www.ransomware.live/id/VmVudHVyZSBMb2dpc3RpY3NASGVsaXg=",
       "victim": "Venture Logistics"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-07T07:20:58.230690+00:00",
-      "claim_url": "http://helix2kvkqjzrkh3ospyukij7uemxwvbdmqberjmrudjmqy4hspwzzqd.onion/p/98709deba70bbdf82c24ed60e779c06c8cf8fec574c10403a9c0caff8e5b84df",
-      "country": "US",
-      "data_size": null,
-      "description": "SharePoint libraries staged T1 (least) → T4 (most). Release countdown live on Helix. Tiers unlock by stage when each set timer reaches 0.",
-      "discovered": "2026-08-07T07:21:22.132341+00:00",
-      "domain": "uberfreight.com",
-      "group": "Helix",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 13,
-        "update": "2026-08-07T07:23:11.913070",
-        "users": 3,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9e9fe5f729ec6d1221e38d63a935981b.png",
-      "url": "https://www.ransomware.live/id/VWJlckBIZWxpeA==",
-      "victim": "Uber"
     }
   ]
 }
