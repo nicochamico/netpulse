@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T08:38:43.395144+00:00",
+  "last_success": "2026-08-09T09:36:15.209111+00:00",
   "count": 100,
   "items": [
     {
@@ -56,9 +56,19 @@
       "data_size": null,
       "description": "Siam Oil Product Co., Ltd. is a Thailand-based petroleum and industrial-products distributor, operating for 20+ years with registered capital of THB 200 million and 700+ employees; it supplies fuel oil, diesel, asphalt, base oils, automotive/industrial lubricants, petrochemicals such as HDPE/LDPE/LLDPE, plastic additives, and industrial products, and also operates a coffee-shop franchise business. Its headquarters is at RS Tower, Ratchadaphisek Road, Din Daeng, Bangkok, Thailand.",
       "discovered": "2026-08-09T00:52:46.569177+00:00",
-      "domain": "",
+      "domain": "siamoil.co.th",
       "group": "Panzer",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 2,
+        "update": "2026-08-09T09:22:24.187617",
+        "users": 12,
+        "users_url": 7
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/2d0a20a94d90ce0a2a01fe7d9cd6f5ff.png",
@@ -73,9 +83,19 @@
       "data_size": null,
       "description": "Daily Trust is a Nigerian news organization that provides breaking news, investigative stories, and various features across multiple sectors including business, politics, sports, and entertainment. The company offers content through print, online platforms, and media outlets like Trust TV and Trust Radio. Its services cater primarily to the Nigerian public, with a focus on providing comprehensive coverage of local and international news. Daily Trust aims to inform and engage its audience through a diverse range of storytelling and analysis.",
       "discovered": "2026-08-08T19:21:01.537371+00:00",
-      "domain": "",
+      "domain": "dailytrust.com",
       "group": "Panzer",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 3,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 11,
+        "update": "2026-08-09T09:22:39.325028",
+        "users": 81,
+        "users_url": 16
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/621aacd18dc9fc22832041481d05f1b3.png",
@@ -125,6 +145,23 @@
       "screenshot": "https://images.ransomware.live/victims/6eafd0e330c4ae341f0b44ac689bdbe5.png",
       "url": "https://www.ransomware.live/id/Q2xhdXNpbmdAcWlsaW4=",
       "victim": "Clausing"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-08T00:00:00+00:00",
+      "claim_url": "https://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion/#AlienTechnology",
+      "country": "",
+      "data_size": null,
+      "description": "August 7, 2026 3:00 PM ET: Over 11.5 million records across Salesforce, ServiceNow, and Entra containing some PII of customers and employees and 3.1TB+ of internal corporate data was compromised. This is a final warning to reach out by 10 August 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 08 August 2026 | Warning: FINAL WARNING PAY OR LEAK",
+      "discovered": "2026-08-09T09:29:48.912411+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/03edf28779c077b4c2dc98d045613332.png",
+      "url": "https://www.ransomware.live/id/QWxpKiogKioqKioqKioqKkBzaGlueWh1bnRlcnM=",
+      "victim": "Ali** **********"
     },
     {
       "activity": "Other",
@@ -391,23 +428,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SGFydGZpZWwgQXV0b21hdGlvbkB0aGVnZW50bGVtZW4=",
       "victim": "Hartfiel Automation"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-07T07:21:40.126286+00:00",
-      "claim_url": "http://helix2kvkqjzrkh3ospyukij7uemxwvbdmqberjmrudjmqy4hspwzzqd.onion/p/f2cb1153792fbedb831aa6280d414b35473e8e3a297904b810003b04d8eca445",
-      "country": "",
-      "data_size": null,
-      "description": "SharePoint libraries staged T1 (least) → T4 (most). Release countdown live on Helix. Tiers unlock by stage when each set timer reaches 0.",
-      "discovered": "2026-08-07T07:21:59.621550+00:00",
-      "domain": "",
-      "group": "Helix",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cdba654f3b4b584642cd524063bc2b38.png",
-      "url": "https://www.ransomware.live/id/VmVudHVyZSBMb2dpc3RpY3NASGVsaXg=",
-      "victim": "Venture Logistics"
     }
   ]
 }
