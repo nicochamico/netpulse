@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T12:42:57.211264+00:00",
+  "last_success": "2026-08-09T13:46:43.532209+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-09T13:31:15.441038+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=7628b972-0301-4538-b81f-b05da191a574",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T13:31:33.331482+00:00",
+      "domain": "www.priceshoes.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0b71cc4b9eb4d5c8b073a11047730232.png",
+      "url": "https://www.ransomware.live/id/UHJpY2UgU2hvZXNAcWlsaW4=",
+      "victim": "Price Shoes"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-08-09T13:30:31.446553+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=ab374723-8098-489f-b410-22f166d857f1",
+      "country": "FI",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T13:31:01.511636+00:00",
+      "domain": "www.nit.fi",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/36d7fbd7f57a9a5085ea4b7f70a000ed.png",
+      "url": "https://www.ransomware.live/id/TmF2YWwgSW50ZXJpb3IgVGVhbUBxaWxpbg==",
+      "victim": "Naval Interior Team"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-09T11:00:06.201696+00:00",
@@ -379,40 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/c772926a61588d05357d4391a9130f34.png",
       "url": "https://www.ransomware.live/id/RmlsdHJvbmljQHFpbGlu",
       "victim": "Filtronic"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-07T13:30:20.751217+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2eec9b51-1ccb-4bf6-a228-7d751fe967f1",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-07T13:30:42.414688+00:00",
-      "domain": "www.johncsaunderscpa.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b7dcac89351a464d098de593310a5ef3.png",
-      "url": "https://www.ransomware.live/id/Sm9obiBDIFNhdW5kZXJzLCBDUEFAcWlsaW4=",
-      "victim": "John C Saunders, CPA"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-07T12:51:04.934373+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/continental-aero",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-08-07T12:51:21.404041+00:00",
-      "domain": "CONTINENTAL.AERO",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/dfc1903ece4ec971ed25292004c14d3d.png",
-      "url": "https://www.ransomware.live/id/Q09OVElORU5UQUwuQUVST0BjbG9w",
-      "victim": "CONTINENTAL.AERO"
     }
   ]
 }
