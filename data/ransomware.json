@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T17:28:22.699412+00:00",
+  "last_success": "2026-08-09T18:36:07.147636+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-09T18:32:13.921490+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b55a52c0-4816-4ca7-a89c-024e46c24a16",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-09T18:32:35.790215+00:00",
+      "domain": "www.sinyc.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1047816777a7e48a2c84b100600674f3.png",
+      "url": "https://www.ransomware.live/id/U3luZXJneSBJbnRlcmFjdGl2ZUBxaWxpbg==",
+      "victim": "Synergy Interactive"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-08-09T17:02:15.187863+00:00",
@@ -392,23 +409,6 @@
       "screenshot": "https://images.ransomware.live/victims/03edf28779c077b4c2dc98d045613332.png",
       "url": "https://www.ransomware.live/id/QWxpKiogKioqKioqKioqKkBzaGlueWh1bnRlcnM=",
       "victim": "Ali** **********"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-08T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=beeeda5d-f120-4c05-8e03-78c2d8785c59",
-      "country": "FR",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-08T16:28:01.710957+00:00",
-      "domain": "www.impactcentrechretien.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/809080baafc0198ddf10a1f297f9b3ca.png",
-      "url": "https://www.ransomware.live/id/SW1wYWN0IENlbnRyZSBDaHLDqXRpZW5AcWlsaW4=",
-      "victim": "Impact Centre Chrétien"
     }
   ]
 }
