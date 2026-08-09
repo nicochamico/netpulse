@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:50:21.776425+00:00",
+  "generated_at": "2026-08-09T14:35:02.724326+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -22,8 +22,8 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "www.rubybridges.alamedausd.ca.schoolloop.com",
-        "rmms-csd-ca.schoolloop.com"
+        "guest.aeweurope.com",
+        "nusd-ca.schoolloop.com"
       ]
     },
     {
