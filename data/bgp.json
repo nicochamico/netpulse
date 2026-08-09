@@ -1,52 +1,48 @@
 {
-  "generated_at": "2026-08-09T16:35:46.014145+00:00",
+  "generated_at": "2026-08-09T17:16:13.266616+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 0,
+  "anomalies": 2,
   "churn_events": 0,
-  "signal": 0,
+  "signal": 50,
   "events": [
     {
-      "event": "OK",
+      "event": "WITHDRAWN",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
-      "origins_seen": [
-        13335
-      ],
+      "origins_seen": [],
       "name": "Cloudflare",
-      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
-      "status": "OK",
-      "rpki": "valid",
+      "holder": "AS13335",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
       "updates_24h": {
-        "announcements": 280,
+        "announcements": 272,
         "withdrawals": 8
       },
-      "updates_per_peer": 0.77,
-      "peers_visible": 372,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-08-09T16:35:46.014100+00:00"
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-08-09T17:16:13.266551+00:00"
     },
     {
-      "event": "OK",
+      "event": "WITHDRAWN",
       "prefix": "8.8.8.0/24",
       "origin_asn": 15169,
-      "origins_seen": [
-        15169
-      ],
+      "origins_seen": [],
       "name": "Google DNS",
-      "holder": "GOOGLE - Google LLC",
-      "status": "OK",
-      "rpki": "valid",
+      "holder": "AS15169",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
       "updates_24h": {
-        "announcements": 75,
-        "withdrawals": 6
+        "announcements": 0,
+        "withdrawals": 0
       },
-      "updates_per_peer": 0.22,
-      "peers_visible": 375,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-08-09T16:35:41.516185+00:00"
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-08-09T17:15:35.080844+00:00"
     }
   ]
 }
