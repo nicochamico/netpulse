@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-09T18:36:07.147636+00:00",
+  "last_success": "2026-08-09T19:30:43.233999+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-09T18:56:09.509699+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=HwXk2QZx36SxC",
+      "country": "IT",
+      "data_size": null,
+      "description": "Italy",
+      "discovered": "2026-08-09T18:56:25.904793+00:00",
+      "domain": "www.marconi-spa.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/132e70fc35bda5bccc51d23ed09467c4.png",
+      "url": "https://www.ransomware.live/id/TWFyY29uaSBJbmR1c3RyaWFsIFNlcnZpY2VzQHBsYXk=",
+      "victim": "Marconi Industrial Services"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-09T18:32:13.921490+00:00",
@@ -392,23 +409,6 @@
       "screenshot": "https://images.ransomware.live/victims/6eafd0e330c4ae341f0b44ac689bdbe5.png",
       "url": "https://www.ransomware.live/id/Q2xhdXNpbmdAcWlsaW4=",
       "victim": "Clausing"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-08T00:00:00+00:00",
-      "claim_url": "https://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion/#AlienTechnology",
-      "country": "",
-      "data_size": null,
-      "description": "August 7, 2026 3:00 PM ET: Over 11.5 million records across Salesforce, ServiceNow, and Entra containing some PII of customers and employees and 3.1TB+ of internal corporate data was compromised. This is a final warning to reach out by 10 August 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 08 August 2026 | Warning: FINAL WARNING PAY OR LEAK",
-      "discovered": "2026-08-09T09:29:48.912411+00:00",
-      "domain": "",
-      "group": "shinyhunters",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/03edf28779c077b4c2dc98d045613332.png",
-      "url": "https://www.ransomware.live/id/QWxpKiogKioqKioqKioqKkBzaGlueWh1bnRlcnM=",
-      "victim": "Ali** **********"
     }
   ]
 }
