@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-10T09:16:44.738940+00:00",
+  "last_success": "2026-08-10T11:05:15.658887+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "published": "Mon, 10 Aug 2026 05:49:37 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
       "published": "Sat, 08 Aug 2026 10:16:23 -0400"
@@ -68,12 +74,6 @@
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
       "published": "Fri, 07 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "published": "Fri, 07 Aug 2026 09:34:40 -0400"
     }
   ]
 }
