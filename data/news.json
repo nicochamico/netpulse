@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-10T15:57:33.091774+00:00",
+  "last_success": "2026-08-10T16:56:50.148013+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+      "published": "Mon, 10 Aug 2026 20:30:29 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
@@ -32,12 +38,6 @@
       "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
       "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
       "published": "Mon, 10 Aug 2026 13:08:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "published": "Mon, 10 Aug 2026 11:20:03 +0530"
     },
     {
       "source": "BleepingComputer",
