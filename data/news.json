@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-10T05:23:34.718832+00:00",
+  "last_success": "2026-08-10T07:26:52.190851+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "published": "Mon, 10 Aug 2026 11:20:03 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
@@ -32,12 +38,6 @@
       "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
       "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
       "published": "Sat, 08 Aug 2026 12:22:16 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-      "published": "Sat, 08 Aug 2026 00:18:17 +0530"
     },
     {
       "source": "BleepingComputer",
