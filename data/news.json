@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-10T18:53:20.964123+00:00",
+  "last_success": "2026-08-10T19:53:33.441266+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "published": "Mon, 10 Aug 2026 15:24:40 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "published": "Mon, 10 Aug 2026 13:42:00 -0400"
@@ -68,12 +74,6 @@
       "title": "LexisNexis shuts down services after suspicious activity on servers",
       "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
       "published": "Mon, 10 Aug 2026 08:11:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Valve notifies Steam hardware customers of a data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "published": "Mon, 10 Aug 2026 07:47:55 -0400"
     }
   ]
 }
