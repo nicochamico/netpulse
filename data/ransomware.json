@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-10T16:56:50.148013+00:00",
+  "last_success": "2026-08-10T17:52:29.403529+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-08-10T17:21:07.233615+00:00",
+      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/18/",
+      "country": "US",
+      "data_size": null,
+      "description": "Country: Florida, United States |\nWebsite: cogginsinsurance.com |\nRevenue: $5 Million |\nIndustry: Insurance |\nEmployees: 1-10 |\nProperties: 85.9 GB (245,768 Files, 26,563 Folders)",
+      "discovered": "2026-08-10T17:21:51.623578+00:00",
+      "domain": "cogginsinsurance.com",
+      "group": "Global Secret Group",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-10T17:21:07",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/973387d0dd3232baa2058b5f42afeaf9.png",
+      "url": "https://www.ransomware.live/id/Q29nZ2lucyBJbnN1cmFuY2UgQWdlbmN5QEdsb2JhbCBTZWNyZXQgR3JvdXA=",
+      "victim": "Coggins Insurance Agency"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-10T16:54:49.782569+00:00",
+      "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/90f902f2-8f2a-4812-a692-e5d7c9ff2204",
+      "country": "IT",
+      "data_size": null,
+      "description": "Integrated services, logistics and event management.",
+      "discovered": "2026-08-10T16:55:03.859658+00:00",
+      "domain": "www.verona83.it",
+      "group": "bravox",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d702541187198cf35751ced44d0eecfe.png",
+      "url": "https://www.ransomware.live/id/VmVyb25hIDgzQGJyYXZveA==",
+      "victim": "Verona 83"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-10T14:34:10.812207+00:00",
@@ -409,60 +453,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UHJlbWllciBQaWdzQHRoZWdlbnRsZW1lbg==",
       "victim": "Premier Pigs"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-09T21:47:10+00:00",
-      "claim_url": "",
-      "country": "GB",
-      "data_size": null,
-      "description": "evacare.com rocketreach.co/eva-care-profile_b7a227f8c53b4785 Eva Care Group is a healthcare provider specializing in the post-acute care industry, headquartered in Los Angeles, California.\nWith over 50 years of combined experience, the company operates and manages a network of nursing homes and rehabilitation facilities.\nThey deliver comprehensive solutions encompassing clinical, financial, operational, and environmental management to ensure high-quality patient care.",
-      "discovered": "2026-08-10T08:09:03.700522+00:00",
-      "domain": "evacare.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-10T08:09:02",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RXZhIENhcmVAdGhlZ2VudGxlbWVu",
-      "victim": "Eva Care"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-08-09T21:44:27+00:00",
-      "claim_url": "",
-      "country": "HK",
-      "data_size": null,
-      "description": "hkbu.edu.hk zoominfo.com/c/hong-kong-baptist-university/429650952 Hong Kong Baptist University (HKBU) is a leading public research university established in 1956 in Hong Kong.\nIt is highly regarded for its academic excellence, particularly in liberal arts, business, communication, and traditional Chinese medicine.\nAs one of the region's eight statutory publicly funded universities, it is dedicated to fostering global citizenship and innovative research.",
-      "discovered": "2026-08-10T08:09:24.145261+00:00",
-      "domain": "hkbu.edu.hk",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 130,
-        "employees_url": 19,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 260,
-        "update": "2026-08-10T08:09:22",
-        "users": 1778,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SG9uZyBLb25nIEJhcHRpc3QgVW5pdmVyc2l0eUB0aGVnZW50bGVtZW4=",
-      "victim": "Hong Kong Baptist University"
     }
   ]
 }
