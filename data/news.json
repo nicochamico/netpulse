@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-10T20:38:42.786954+00:00",
+  "last_success": "2026-08-10T21:38:10.346635+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "published": "Mon, 10 Aug 2026 17:12:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
       "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
       "published": "Mon, 10 Aug 2026 15:24:40 -0400"
@@ -68,12 +74,6 @@
       "title": "Member of The Com sent to prison for blackmail, sextortion",
       "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
       "published": "Mon, 10 Aug 2026 08:56:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "published": "Mon, 10 Aug 2026 08:11:52 -0400"
     }
   ]
 }
