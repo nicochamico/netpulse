@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T21:42:28.745211+00:00",
+  "last_success": "2026-08-11T22:37:52.825354+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "published": "Tue, 11 Aug 2026 18:15:22 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
       "published": "Tue, 11 Aug 2026 17:07:24 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "published": "Tue, 11 Aug 2026 14:08:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "published": "Tue, 11 Aug 2026 13:38:42 -0400"
     }
   ]
 }
