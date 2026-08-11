@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T15:58:25.353376+00:00",
+  "last_success": "2026-08-11T17:03:20.399886+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+      "published": "Tue, 11 Aug 2026 11:59:35 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
       "published": "Tue, 11 Aug 2026 09:20:28 -0400"
@@ -68,12 +74,6 @@
       "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
       "published": "Tue, 11 Aug 2026 07:03:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "published": "Tue, 11 Aug 2026 05:47:06 -0400"
     }
   ]
 }
