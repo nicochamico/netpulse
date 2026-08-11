@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T05:05:03.592076+00:00",
+  "last_success": "2026-08-11T07:02:05.891643+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "published": "Tue, 11 Aug 2026 11:18:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
@@ -32,12 +38,6 @@
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
       "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "published": "Mon, 10 Aug 2026 17:55:04 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "published": "Mon, 10 Aug 2026 17:03:41 +0530"
     },
     {
       "source": "BleepingComputer",
