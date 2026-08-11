@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T11:41:22.463257+00:00",
+  "last_success": "2026-08-11T12:57:20.202921+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+      "published": "Tue, 11 Aug 2026 17:35:03 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+      "published": "Tue, 11 Aug 2026 17:34:51 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+      "published": "Tue, 11 Aug 2026 17:05:03 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
@@ -22,22 +40,10 @@
       "published": "Tue, 11 Aug 2026 14:46:24 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "published": "Tue, 11 Aug 2026 12:25:45 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "published": "Tue, 11 Aug 2026 11:18:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "published": "Mon, 10 Aug 2026 22:59:17 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Tue, 11 Aug 2026 08:12:16 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
       "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
       "published": "Mon, 10 Aug 2026 15:24:40 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "published": "Mon, 10 Aug 2026 13:42:00 -0400"
     }
   ]
 }

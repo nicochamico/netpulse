@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-11T11:41:22.463257+00:00",
+  "last_success": "2026-08-11T12:57:20.202921+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-11T12:31:15.503770+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9e4c0161-1011-4c9a-88f7-412512a69477",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-11T12:31:35.594686+00:00",
+      "domain": "www.tommerconstruction.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c8c012394ae6ab9f6c3fddee4c636246.png",
+      "url": "https://www.ransomware.live/id/dG9tbWVyIGNvbnN0cnVjdGlvbkBxaWxpbg==",
+      "victim": "tommer construction"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-11T02:12:41.201967+00:00",
@@ -484,33 +501,6 @@
       "screenshot": "https://images.ransomware.live/victims/9108876ddf31b9cbd53d3bd250d1616b.png",
       "url": "https://www.ransomware.live/id/UHJlc2VudGF0aW9ucy5BSUB1bnNhZmU=",
       "victim": "Presentations.AI"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-10T12:20:43.079690+00:00",
-      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/38/",
-      "country": "GR",
-      "data_size": null,
-      "description": "Country: Greece |\nWebsite: maco-fin.com |\nRevenue: $10 Million |\nIndustry: Real Estate / Asset Management / Investment Services |\nEmployees: 11–50 Employees |\nProperties: 55.3 GB (48,089 Files, 7,491 Folders)",
-      "discovered": "2026-08-10T12:21:15.097136+00:00",
-      "domain": "maco-fin.com",
-      "group": "Global Secret Group",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-10T12:20:43",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TUFDT0ZJTiBIRUxMQVMgUy5BLkBHbG9iYWwgU2VjcmV0IEdyb3Vw",
-      "victim": "MACOFIN HELLAS S.A."
     }
   ]
 }
