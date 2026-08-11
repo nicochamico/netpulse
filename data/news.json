@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T10:52:15.811500+00:00",
+  "last_success": "2026-08-11T11:41:22.463257+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "published": "Tue, 11 Aug 2026 16:18:26 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "published": "Tue, 11 Aug 2026 15:54:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "published": "Tue, 11 Aug 2026 14:46:24 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
@@ -22,22 +40,10 @@
       "published": "Mon, 10 Aug 2026 22:59:17 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "published": "Mon, 10 Aug 2026 22:08:37 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "published": "Mon, 10 Aug 2026 20:30:29 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "published": "Mon, 10 Aug 2026 18:49:58 +0530"
+      "source": "BleepingComputer",
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "published": "Tue, 11 Aug 2026 07:03:01 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "published": "Mon, 10 Aug 2026 13:42:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-      "published": "Mon, 10 Aug 2026 10:34:32 -0400"
     }
   ]
 }
