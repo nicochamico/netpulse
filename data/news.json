@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T17:03:20.399886+00:00",
+  "last_success": "2026-08-11T18:57:56.586029+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "published": "Wed, 12 Aug 2026 00:06:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "published": "Tue, 11 Aug 2026 22:17:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "published": "Tue, 11 Aug 2026 22:05:27 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
@@ -22,22 +40,28 @@
       "published": "Tue, 11 Aug 2026 17:34:51 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "published": "Tue, 11 Aug 2026 17:05:03 +0530"
+      "source": "BleepingComputer",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "published": "Tue, 11 Aug 2026 14:34:23 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "published": "Tue, 11 Aug 2026 16:18:26 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "published": "Tue, 11 Aug 2026 14:26:03 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "published": "Tue, 11 Aug 2026 15:54:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "published": "Tue, 11 Aug 2026 14:08:50 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "published": "Tue, 11 Aug 2026 13:38:42 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
       "published": "Tue, 11 Aug 2026 09:20:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "published": "Tue, 11 Aug 2026 09:15:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "published": "Tue, 11 Aug 2026 09:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Tue, 11 Aug 2026 08:12:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "published": "Tue, 11 Aug 2026 07:03:01 -0400"
     }
   ]
 }
