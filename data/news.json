@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T12:57:20.202921+00:00",
+  "last_success": "2026-08-11T14:20:26.499108+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "published": "Tue, 11 Aug 2026 18:41:23 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
@@ -34,10 +40,22 @@
       "published": "Tue, 11 Aug 2026 15:54:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "published": "Tue, 11 Aug 2026 14:46:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+      "published": "Tue, 11 Aug 2026 09:20:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+      "published": "Tue, 11 Aug 2026 09:15:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "published": "Tue, 11 Aug 2026 09:00:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
       "published": "Tue, 11 Aug 2026 05:47:06 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "published": "Mon, 10 Aug 2026 19:07:21 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "published": "Mon, 10 Aug 2026 17:12:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "published": "Mon, 10 Aug 2026 15:24:40 -0400"
     }
   ]
 }

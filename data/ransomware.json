@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-11T12:57:20.202921+00:00",
+  "last_success": "2026-08-11T14:20:26.499108+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-11T13:27:40.175953+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=801161a8-5902-4a46-bebb-0162cc2d2990",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-11T13:28:05.098896+00:00",
+      "domain": "www.serviceevaluation.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/390dd5f4395d70c95934e1fb9243c71e.png",
+      "url": "https://www.ransomware.live/id/U2VydmljZSBFdmFsdWF0aW9uIENvbmNlcHRzQHFpbGlu",
+      "victim": "Service Evaluation Concepts"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-11T12:31:15.503770+00:00",
@@ -484,23 +501,6 @@
       "screenshot": "https://images.ransomware.live/victims/d702541187198cf35751ced44d0eecfe.png",
       "url": "https://www.ransomware.live/id/VmVyb25hIDgzQGJyYXZveA==",
       "victim": "Verona 83"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-10T14:34:10.812207+00:00",
-      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6a79814c8b907544821fbbb6?page=1",
-      "country": "US",
-      "data_size": null,
-      "description": "Revenue: $5 million",
-      "discovered": "2026-08-10T14:34:47.857209+00:00",
-      "domain": "Presentations.AI",
-      "group": "unsafe",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9108876ddf31b9cbd53d3bd250d1616b.png",
-      "url": "https://www.ransomware.live/id/UHJlc2VudGF0aW9ucy5BSUB1bnNhZmU=",
-      "victim": "Presentations.AI"
     }
   ]
 }
