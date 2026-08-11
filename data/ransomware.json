@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-11T08:51:34.813535+00:00",
+  "last_success": "2026-08-11T09:57:27.120821+00:00",
   "count": 100,
   "items": [
     {
@@ -56,9 +56,19 @@
       "data_size": null,
       "description": "Major data breach at a leading industrial manufacturer.",
       "discovered": "2026-08-10T22:22:32.736105+00:00",
-      "domain": "",
+      "domain": "cleaverbrooks.com",
       "group": "anubis",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 2,
+        "update": "2026-08-11T09:07:02.741958",
+        "users": 32,
+        "users_url": 2
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
@@ -73,9 +83,19 @@
       "data_size": null,
       "description": "Amount: 27 GB | Files: 14,836 They ignored our messages for 72 hours.. Now we publish the details of the breach. Data leaked: 107 Passports (MRZ) 1,712 Bank Statements (PNB + Holco USD accounts) 212 Promissory Notes (Eton Properties, PHP 2.53B debt) 231 BIR/eFPS credentials Samples: Passport_Johnny_Tan.pdf Holco_USD_Statement.pdf Eton_Debt_212.pdf Full leak: August 18. Contact: Session ID provided in emails. Pay for the data or pay for its permanent deletion. Otherwise, the full dump will be public.",
       "discovered": "2026-08-10T22:20:24.761886+00:00",
-      "domain": "",
+      "domain": "ltg.com.ph",
       "group": "Deadlock",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-11T09:06:33.391857",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
