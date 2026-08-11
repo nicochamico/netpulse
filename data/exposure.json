@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:15:47.935105+00:00",
+  "generated_at": "2026-08-11T14:35:26.163923+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,9 +21,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "apkontroler.cm.umk.pl",
         "one.one.one.one",
-        "wireless.dexterschools.org"
+        "ebms-toolsapp.dhs.tn.gov",
+        "grpc-traffic-eng-shared-cname-only-v3.staging.deliveryhero.com"
       ]
     },
     {
