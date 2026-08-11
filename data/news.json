@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-11T18:57:56.586029+00:00",
+  "last_success": "2026-08-11T20:01:07.156133+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,13 +41,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "published": "Tue, 11 Aug 2026 15:45:31 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
       "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
       "published": "Tue, 11 Aug 2026 14:34:23 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
       "published": "Tue, 11 Aug 2026 14:26:03 -0400"
     },
@@ -68,12 +74,6 @@
       "title": "Wesco confirms security incident after ExfilSquad claims data theft",
       "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
       "published": "Tue, 11 Aug 2026 11:59:35 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "published": "Tue, 11 Aug 2026 09:20:28 -0400"
     }
   ]
 }
