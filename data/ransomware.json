@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-12T01:43:12.040283+00:00",
+  "last_success": "2026-08-12T04:04:39.956901+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-08-12T02:36:07.607087+00:00",
+      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/68/basso-fedele-figli-srl-olio-basso-villa-raiano",
+      "country": "IT",
+      "data_size": null,
+      "description": "Basso Fedele & Figli S.r.l. is a historic Italian family company founded in 1904 in San Michele di Serino, in the Irpinia region of Campania. For over a century, the Basso family has been dedicated to the production and bottling of high-quality olive oil. Today, the company is a leading name in the Italian olive oil sector, exporting its products under the Basso® brand to more than 90 countries worldwide. Combining tradition with modern technology, Basso offers a wide range of oils, including extra virgin olive oil, seed oils, and specialty blends. The company also produces private-label oils for major retail chains, maintaining a strong commitment to quality, traceability, and authenticity.https://www.villaraiano.com/Villa Raiano is the wine estate of the Basso family, established in 1996 as a natural extension of their agricultural heritage in Irpinia, Campania. The winery focuses on producing premium organic wines from indigenous grape varieties, particularly Fiano di Avellino, Greco di Tufo, and Aglianico. With approximately 27 hectares of certified organic vineyards, Villa Raiano combines traditional winemaking with modern techniques, including gravity-flow processing and minimal batonnage to preserve freshness and minerality. In 2018, the new generation of the Basso family took over management, and in 2024, a state-of-the-art underground cellar was opened for aging. Villa Raiano is now recognized as one of the most dynamic and respected wineries in southern Italy.-Personal information of employees and clients -Financial documents -Other files https://oliobasso.com/",
+      "discovered": "2026-08-12T02:36:31.317051+00:00",
+      "domain": "oliobasso.com",
+      "group": "spacebears",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-12T02:36:07",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8790f4c83ef6d0d2c5b0c33a7d1a1f44.png",
+      "url": "https://www.ransomware.live/id/QmFzc28gRmVkZWxlICYgRmlnbGkgUy5yLmwuIChPbGlvIEJhc3NvKSAvIFZpbGxhIFJhaWFub0BzcGFjZWJlYXJz",
+      "victim": "Basso Fedele & Figli S.r.l. (Olio Basso) / Villa Raiano"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-08-11T17:28:13.161051+00:00",
@@ -415,33 +442,6 @@
       "screenshot": "https://images.ransomware.live/victims/a0f45d13331442356556667f14ec77ad.png",
       "url": "https://www.ransomware.live/id/TWVyZ2VAZGlyZXdvbGY=",
       "victim": "Merge"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-10T21:39:54.600635+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/78",
-      "country": "BR",
-      "data_size": null,
-      "description": "Law Firms &amp; Legal Services",
-      "discovered": "2026-08-10T21:56:37.691604+00:00",
-      "domain": "chatjuridico.com.br",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-10T21:56:24",
-        "users": 11,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4c798f75ebc6c4b265245cd67186c456.png",
-      "url": "https://www.ransomware.live/id/Q2hhdCBKdXLDrWRpY29AZGlyZXdvbGY=",
-      "victim": "Chat Jurídico"
     }
   ]
 }
