@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-12T21:41:21.784414+00:00",
+  "last_success": "2026-08-12T22:36:55.713734+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-12T22:22:15.776603+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Founded in 1882, Riker Danzig Scherer Hyland & Perretti is a law firm with practice areas such as Alte…",
+      "discovered": "2026-08-12T22:22:17.039230+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIFNjaGVyZXIgSHlsYW5kICYgUGVycmV0dGlAU2lsZW50UmFuc29tR3JvdXA=",
+      "victim": "Riker Danzig Scherer Hyland & Perretti"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-12T19:51:18.130309+00:00",
@@ -336,23 +353,6 @@
       "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
       "url": "https://www.ransomware.live/id/T01OSVRBTktFUi5DT01AY2xvcA==",
       "victim": "OMNITANKER.COM"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-12T15:43:23.143971+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] LifeStraw is an American consumer goods company specializing in portable water filtration and purification products. Founded in Switzerland and now headquartered in the United States, it produces filters, straws, bottles, and pitchers designed to remove bacteria, parasites, and microplastics from water. The company serves outdoor enthusiasts, travelers, and humanitarian relief efforts globally, making safe drinking water accessible in both recreational and emergency contexts.",
-      "discovered": "2026-08-12T15:43:39.265972+00:00",
-      "domain": "LIFESTRAW.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
-      "url": "https://www.ransomware.live/id/TElGRVNUUkFXLkNPTUBjbG9w",
-      "victim": "LIFESTRAW.COM"
     }
   ]
 }

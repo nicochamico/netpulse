@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T21:41:21.784414+00:00",
+  "last_success": "2026-08-12T22:36:55.713734+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "published": "Wed, 12 Aug 2026 18:22:57 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
       "published": "Wed, 12 Aug 2026 16:54:59 -0400"
@@ -68,12 +74,6 @@
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
       "published": "Wed, 12 Aug 2026 10:15:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "published": "Wed, 12 Aug 2026 10:01:11 -0400"
     }
   ]
 }
