@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-12T19:09:07.921636+00:00",
+  "last_success": "2026-08-12T20:39:58.142301+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-12T19:51:18.130309+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] Riker Danzig LLP is a prominent full-service law firm based in the United States, primarily operating in New Jersey. Founded in 1882, the firm provides legal services across a wide range of practice areas including litigation, corporate law, real estate, environmental law, and insurance. It serves clients spanning industries such as finance, healthcare, and manufacturing, and is recognized as one of New Jersey's leading law firms.",
+      "discovered": "2026-08-12T19:51:27.372830+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIExMUEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "victim": "Riker Danzig LLP"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-12T18:58:47.256000+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7cc2679cd108bf266aea60",
+      "country": "US",
+      "data_size": null,
+      "description": "https://www.zoominfo.com/c/greater-austin-merchants-cooperative-association/98978085\r greater-austin-merchants-cooperative-association\r 400gb",
+      "discovered": "2026-08-12T19:25:55.197575+00:00",
+      "domain": "gamaus.com",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-12T19:25:26",
+        "users": 13,
+        "users_url": 4
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b7b0b3afdcdddf02bd20f2be96bae70d.png",
+      "url": "https://www.ransomware.live/id/Z2FtYXVzLmNvbUBpbmNyYW5zb20=",
+      "victim": "gamaus.com"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-12T15:58:10+00:00",
@@ -309,40 +353,6 @@
       "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
       "url": "https://www.ransomware.live/id/TElGRVNUUkFXLkNPTUBjbG9w",
       "victim": "LIFESTRAW.COM"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-12T15:42:48.679676+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-      "country": "KZ",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-08-12T15:43:02.405958+00:00",
-      "domain": "SPKAA.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
-      "url": "https://www.ransomware.live/id/U1BLQUEuQ09NQGNsb3A=",
-      "victim": "SPKAA.COM"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-12T15:42:15.795778+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-08-12T15:42:29.821078+00:00",
-      "domain": "IVALUESYS.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
-      "url": "https://www.ransomware.live/id/SVZBTFVFU1lTLkNPTUBjbG9w",
-      "victim": "IVALUESYS.COM"
     }
   ]
 }
