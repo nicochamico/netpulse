@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T17:58:26.050171+00:00",
+  "last_success": "2026-08-12T19:09:07.921636+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "published": "Wed, 12 Aug 2026 23:09:27 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
@@ -34,10 +40,10 @@
       "published": "Wed, 12 Aug 2026 14:31:54 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "published": "Wed, 12 Aug 2026 13:34:52 +0530"
+      "source": "BleepingComputer",
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "published": "Wed, 12 Aug 2026 14:54:57 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "published": "Wed, 12 Aug 2026 08:25:37 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "published": "Wed, 12 Aug 2026 07:21:42 -0400"
     }
   ]
 }
