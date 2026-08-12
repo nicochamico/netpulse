@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-12T08:14:40.787033+00:00",
+  "last_success": "2026-08-12T09:59:57.776461+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-12T08:29:37.354193+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=fb9a3982-5863-4b3f-8621-5ffe07df3847",
+      "country": "NL",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-12T08:30:01.802474+00:00",
+      "domain": "www.teamwanted.nl",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a0e6ba1f7caa9712d0bea0411d58e68a.png",
+      "url": "https://www.ransomware.live/id/V2FudGVkQHFpbGlu",
+      "victim": "Wanted"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-12T07:20:46.479059+00:00",
@@ -395,33 +412,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2xlYXZlci1Ccm9va3NAYW51Ymlz",
       "victim": "Cleaver-Brooks"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-10T22:20:22.550424+00:00",
-      "claim_url": "",
-      "country": "PH",
-      "data_size": null,
-      "description": "Amount: 27 GB | Files: 14,836 They ignored our messages for 72 hours.. Now we publish the details of the breach. Data leaked: 107 Passports (MRZ) 1,712 Bank Statements (PNB + Holco USD accounts) 212 Promissory Notes (Eton Properties, PHP 2.53B debt) 231 BIR/eFPS credentials Samples: Passport_Johnny_Tan.pdf Holco_USD_Statement.pdf Eton_Debt_212.pdf Full leak: August 18. Contact: Session ID provided in emails. Pay for the data or pay for its permanent deletion. Otherwise, the full dump will be public.",
-      "discovered": "2026-08-10T22:20:24.761886+00:00",
-      "domain": "ltg.com.ph",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-11T09:06:33.391857",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TFQgR3JvdXAgLyBGb3J0dW5lIFRvYmFjY28gQ29ycEBEZWFkbG9jaw==",
-      "victim": "LT Group / Fortune Tobacco Corp"
     }
   ]
 }
