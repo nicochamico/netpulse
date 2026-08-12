@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T09:59:57.776461+00:00",
+  "last_success": "2026-08-12T11:05:59.851931+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "published": "Wed, 12 Aug 2026 06:15:22 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
       "published": "Tue, 11 Aug 2026 21:15:55 -0400"
@@ -68,12 +74,6 @@
       "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
       "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
       "published": "Tue, 11 Aug 2026 14:34:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "published": "Tue, 11 Aug 2026 14:26:03 -0400"
     }
   ]
 }
