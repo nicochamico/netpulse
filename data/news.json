@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T14:54:01.037819+00:00",
+  "last_success": "2026-08-12T15:56:28.496475+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "published": "Wed, 12 Aug 2026 11:38:08 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
       "published": "Wed, 12 Aug 2026 10:15:09 -0400"
@@ -68,12 +74,6 @@
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "published": "Wed, 12 Aug 2026 06:15:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-      "published": "Tue, 11 Aug 2026 21:15:55 -0400"
     }
   ]
 }
