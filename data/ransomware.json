@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-12T06:11:24.967379+00:00",
+  "last_success": "2026-08-12T08:14:40.787033+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-12T07:20:46.479059+00:00",
+      "claim_url": "https://business-data-leaks.com/about#eac8494dbf48d8d6a0c1edb1f",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-08-12T07:21:31.441227+00:00",
+      "domain": "R...er",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3858963252d68f197d6f2be22c3b0091.png",
+      "url": "https://www.ransomware.live/id/Ui4uLmVyQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "R...er"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-12T07:19:42.417933+00:00",
+      "claim_url": "https://business-data-leaks.com/about#66235b940dde0d7390718de91",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-08-12T07:20:28.267672+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/eecf6c1bddb88f6806d44fde216f5dd1.png",
+      "url": "https://www.ransomware.live/id/Ui4uLiBELi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "R... D..."
+    },
     {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-08-12T02:36:07.607087+00:00",
@@ -388,60 +422,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TFQgR3JvdXAgLyBGb3J0dW5lIFRvYmFjY28gQ29ycEBEZWFkbG9jaw==",
       "victim": "LT Group / Fortune Tobacco Corp"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-10T22:14:06.049907+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/80",
-      "country": "AI",
-      "data_size": null,
-      "description": "Business Services",
-      "discovered": "2026-08-10T22:27:36.372305+00:00",
-      "domain": "bigspark.ai",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-10T22:27:23",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ba96e594f23ba7e65ac001f7bc3a487d.png",
-      "url": "https://www.ransomware.live/id/QmlnU3BhcmtAZGlyZXdvbGY=",
-      "victim": "BigSpark"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-10T21:50:38.080583+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/79",
-      "country": "US",
-      "data_size": null,
-      "description": "Financial",
-      "discovered": "2026-08-10T21:56:02.121125+00:00",
-      "domain": "merge.money",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-10T21:55:45",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a0f45d13331442356556667f14ec77ad.png",
-      "url": "https://www.ransomware.live/id/TWVyZ2VAZGlyZXdvbGY=",
-      "victim": "Merge"
     }
   ]
 }

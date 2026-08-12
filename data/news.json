@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T06:11:24.967379+00:00",
+  "last_success": "2026-08-12T08:14:40.787033+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "published": "Wed, 12 Aug 2026 13:01:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "published": "Wed, 12 Aug 2026 12:11:38 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "published": "Wed, 12 Aug 2026 11:45:58 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
@@ -20,24 +38,6 @@
       "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
       "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
       "published": "Wed, 12 Aug 2026 00:38:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "published": "Wed, 12 Aug 2026 00:06:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "published": "Tue, 11 Aug 2026 22:17:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "published": "Tue, 11 Aug 2026 22:05:27 +0530"
     },
     {
       "source": "BleepingComputer",
