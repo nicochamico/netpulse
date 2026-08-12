@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:52:23.393943+00:00",
+  "generated_at": "2026-08-12T09:11:44.343578+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
   "anomalies": 0,
@@ -18,14 +18,35 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 335,
+        "announcements": 318,
         "withdrawals": 7
       },
-      "updates_per_peer": 0.92,
+      "updates_per_peer": 0.88,
       "peers_visible": 371,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-08-12T07:52:23.393891+00:00"
+      "ts": "2026-08-12T09:11:44.343523+00:00"
+    },
+    {
+      "event": "OK",
+      "prefix": "8.8.8.0/24",
+      "origin_asn": 15169,
+      "origins_seen": [
+        15169
+      ],
+      "name": "Google DNS",
+      "holder": "GOOGLE - Google LLC",
+      "status": "OK",
+      "rpki": "valid",
+      "updates_24h": {
+        "announcements": 74,
+        "withdrawals": 10
+      },
+      "updates_per_peer": 0.22,
+      "peers_visible": 375,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-08-12T09:11:39.647980+00:00"
     }
   ]
 }
