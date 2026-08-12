@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-12T22:36:55.713734+00:00",
+  "last_success": "2026-08-12T23:37:33.446495+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "published": "Wed, 12 Aug 2026 19:07:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
       "published": "Wed, 12 Aug 2026 18:22:57 -0400"
@@ -68,12 +74,6 @@
       "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
       "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
       "published": "Wed, 12 Aug 2026 11:38:08 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "published": "Wed, 12 Aug 2026 10:15:09 -0400"
     }
   ]
 }
