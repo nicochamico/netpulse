@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-12T13:02:04.193830+00:00",
+  "last_success": "2026-08-12T14:54:01.037819+00:00",
   "count": 1665,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-244"
       ],
-      "epss": null,
-      "epss_percentile": null
+      "epss": 0.00969,
+      "epss_percentile": 0.58726
     },
     {
       "cveID": "CVE-2026-68820",
@@ -35,8 +35,8 @@
       "cwes": [
         "CWE-416"
       ],
-      "epss": null,
-      "epss_percentile": null
+      "epss": 0.00356,
+      "epss_percentile": 0.28498
     },
     {
       "cveID": "CVE-2026-72898",
@@ -52,8 +52,8 @@
       "cwes": [
         "CWE-89"
       ],
-      "epss": 0.0069,
-      "epss_percentile": 0.4946
+      "epss": 0.01074,
+      "epss_percentile": 0.61925
     },
     {
       "cveID": "CVE-2026-8037",
@@ -70,7 +70,7 @@
         "CWE-77"
       ],
       "epss": 0.99311,
-      "epss_percentile": 0.99935
+      "epss_percentile": 0.99936
     },
     {
       "cveID": "CVE-2026-63077",
@@ -87,7 +87,7 @@
         "CWE-502"
       ],
       "epss": 0.10722,
-      "epss_percentile": 0.95396
+      "epss_percentile": 0.95408
     },
     {
       "cveID": "CVE-2026-18556",
@@ -104,7 +104,7 @@
         "CWE-288"
       ],
       "epss": 0.00492,
-      "epss_percentile": 0.39771
+      "epss_percentile": 0.39866
     },
     {
       "cveID": "CVE-2026-34486",
@@ -121,7 +121,7 @@
         "CWE-311"
       ],
       "epss": 0.82933,
-      "epss_percentile": 0.99643
+      "epss_percentile": 0.99644
     },
     {
       "cveID": "CVE-2026-9198",
@@ -138,7 +138,7 @@
         "CWE-94"
       ],
       "epss": 0.17352,
-      "epss_percentile": 0.96825
+      "epss_percentile": 0.96832
     },
     {
       "cveID": "CVE-2026-18577",
@@ -155,7 +155,7 @@
         "CWE-288"
       ],
       "epss": 0.04103,
-      "epss_percentile": 0.89806
+      "epss_percentile": 0.89832
     },
     {
       "cveID": "CVE-2026-20316",
@@ -172,7 +172,7 @@
         "CWE-259"
       ],
       "epss": 0.00788,
-      "epss_percentile": 0.52864
+      "epss_percentile": 0.52953
     }
   ]
 }
