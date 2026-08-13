@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-13T16:57:01.939336+00:00",
+  "last_success": "2026-08-13T17:58:16.175278+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+      "published": "Thu, 13 Aug 2026 13:46:20 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
+      "published": "Thu, 13 Aug 2026 13:33:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
       "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
       "published": "Thu, 13 Aug 2026 12:40:23 -0400"
@@ -62,18 +74,6 @@
       "title": "White House taps security firms for offensive hack-back operations",
       "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
       "published": "Thu, 13 Aug 2026 09:30:53 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp rolls out new feature that flags potential scam messages",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-      "published": "Thu, 13 Aug 2026 07:50:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
-      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
-      "published": "Wed, 12 Aug 2026 19:07:23 -0400"
     }
   ]
 }
