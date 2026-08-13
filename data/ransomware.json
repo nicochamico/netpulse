@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T17:58:16.175278+00:00",
+  "last_success": "2026-08-13T19:09:44.784075+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-13T17:56:55.126638+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=258",
+      "country": "LV",
+      "data_size": null,
+      "description": "SIA Medical Centre SIA Medical was established in 1993 and was founded by Dr Martin Sia in Melbourne's northwest. 9 clinics - Box Hill, Burwood, Croydon, Essendon, Footscray, Moonee Ponds, Montrose, Mulgrave and Berwick.We are pleased to present:~20,000 patient medical records - names, dates of birth, Medicare numbers, clinical notes, insurance and work-cover files, full patient dossiersStaff identity documents - passports, driver's licenses, police checks, tax file declarations of doctors and employeesPlaintext credentials - logins and passwords for clinical systems (Synapse imaging, PRODA, terminal server, doctor accounts)HR records - signed employment contracts, staff incident reports, immunisation registersLegal & financial - subpoenas, complaints, Bupa contracts, bank details (BSB/ABN), provider payment forms    More",
+      "discovered": "2026-08-13T17:57:28.008533+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U0lBIE1lZGljYWwgQ2VudHJlQHJoeXNpZGE=",
+      "victim": "SIA Medical Centre"
+    },
     {
       "activity": "Hospitality",
       "attackdate": "2026-08-13T13:29:20.207070+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RkxVSURMT0dJQy5DT01AY2xvcA==",
       "victim": "FLUIDLOGIC.COM"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-12T15:46:08.775037+00:00",
-      "claim_url": "",
-      "country": "AU",
-      "data_size": null,
-      "description": "Data exfiltrated included the following: Database, Project Total size: 0.5Gb Revenue: $5,000,000",
-      "discovered": "2026-08-12T15:46:22.667628+00:00",
-      "domain": "MIDLANDIND.COM.AU",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TUlETEFORElORC5DT00uQVVAY2xvcA==",
-      "victim": "MIDLANDIND.COM.AU"
     }
   ]
 }
