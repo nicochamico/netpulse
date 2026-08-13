@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T22:38:01.121647+00:00",
+  "last_success": "2026-08-13T23:37:40.570507+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-13T23:09:24.024000+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7e4ea49cd108bf269e158e",
+      "country": "GB",
+      "data_size": null,
+      "description": "project data client data contract",
+      "discovered": "2026-08-13T23:27:04.890268+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f544aa005dcb842ed6d9f90a57e26f86.png",
+      "url": "https://www.ransomware.live/id/aHR0cHM6Ly9wYWNpZmljLWNvbnN0cnVjdGlvbi5jb20vQGluY3JhbnNvbQ==",
+      "victim": "https://pacific-construction.com/"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-13T22:48:58.212000+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7e49da9cd108bf269d76d0",
+      "country": "CA",
+      "data_size": null,
+      "description": "personal and medical cards of all clients.",
+      "discovered": "2026-08-13T23:26:32.196914+00:00",
+      "domain": "cambrialawfirm.com",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-08-13T23:25:52",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a14437ad351fd77ba734f0fc91ec5c44.png",
+      "url": "https://www.ransomware.live/id/Y2FtYnJpYWxhd2Zpcm0uY29tQGluY3JhbnNvbQ==",
+      "victim": "cambrialawfirm.com"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-13T20:52:39.411250+00:00",
@@ -369,40 +413,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RUNDRUxMRU5ULkNPTUBjbG9w",
       "victim": "ECCELLENT.COM"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-12T15:47:50.176126+00:00",
-      "claim_url": "",
-      "country": "IT",
-      "data_size": null,
-      "description": "Data exfiltrated included the following: Database, Project Total size: 13.2Gb Revenue: $5,000,000",
-      "discovered": "2026-08-12T15:48:04.530850+00:00",
-      "domain": "STNET.IT",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U1RORVQuSVRAY2xvcA==",
-      "victim": "STNET.IT"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-12T15:47:15.901633+00:00",
-      "claim_url": "",
-      "country": "IN",
-      "data_size": null,
-      "description": "Data exfiltrated included the following: Database, Project Total size: 501Gb Revenue: $5,000,000",
-      "discovered": "2026-08-12T15:47:31.046408+00:00",
-      "domain": "QCPL.IN",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UUNQTC5JTkBjbG9w",
-      "victim": "QCPL.IN"
     }
   ]
 }
