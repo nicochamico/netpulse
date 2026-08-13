@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-13T15:56:47.129896+00:00",
+  "last_success": "2026-08-13T16:57:01.939336+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "published": "Thu, 13 Aug 2026 12:40:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
       "published": "Thu, 13 Aug 2026 11:13:19 -0400"
@@ -68,12 +74,6 @@
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
       "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
       "published": "Wed, 12 Aug 2026 19:07:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Android malware combo takes out loans and relays victims' credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-      "published": "Wed, 12 Aug 2026 18:22:57 -0400"
     }
   ]
 }
