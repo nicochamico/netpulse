@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T04:09:14.473920+00:00",
+  "last_success": "2026-08-13T06:14:21.586617+00:00",
   "count": 100,
   "items": [
     {
@@ -81,6 +81,23 @@
       "screenshot": "https://images.ransomware.live/victims/b7b0b3afdcdddf02bd20f2be96bae70d.png",
       "url": "https://www.ransomware.live/id/Z2FtYXVzLmNvbUBpbmNyYW5zb20=",
       "victim": "gamaus.com"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-12T18:54:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a7d23ea9cd108bf2677be7a",
+      "country": "US",
+      "data_size": null,
+      "description": "Compunnel, founded in 1994 and headquartered in Plainsboro, New Jersey, provides information technology consulting and staffing, custom business application development, and eLearning services",
+      "discovered": "2026-08-13T05:25:37.187376+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/47d4815b224d7abd909ba29d4f4d00fd.png",
+      "url": "https://www.ransomware.live/id/Y2xncm91cEBpbmNyYW5zb20=",
+      "victim": "clgroup"
     },
     {
       "activity": "Professional Services",
@@ -336,23 +353,6 @@
       "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
       "url": "https://www.ransomware.live/id/QVJDSEVSR1JFWS5DT01AY2xvcA==",
       "victim": "ARCHERGREY.COM"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-12T15:44:16+00:00",
-      "claim_url": "http://ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid.onion/e5ed8156-9986-4589-abe1-1a42c865f891",
-      "country": "US",
-      "data_size": null,
-      "description": "There is very little public information available about this company. Judging by its name, it is a small supplier or manufacturer of ophthalmology products (equipment, consumables, or instruments for eye care). There is virtually no detailed data regarding its operations, location, or history in open sources.",
-      "discovered": "2026-08-12T16:22:38.585289+00:00",
-      "domain": "www.enteroptyx.com",
-      "group": "blacknevas",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/dd1ab5d06be78db1030cf548ab952b02.png",
-      "url": "https://www.ransomware.live/id/RW50ZXJvcHR5eCBPcGh0aGFsbW9sb2d5IFByb2R1Y3RzIHd3dy5lbnRlcm9wdHl4LmNvbSBzZXJ2aWNlZCBieSBhbiBJVCBjb21wYW55IENvbXB1dGVyIENvLi4uQGJsYWNrbmV2YXM=",
-      "victim": "Enteroptyx Ophthalmology Products www.enteroptyx.com serviced by an IT company Computer Co..."
     }
   ]
 }
