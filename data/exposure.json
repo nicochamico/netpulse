@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:35:31.707877+00:00",
+  "generated_at": "2026-08-13T04:29:55.956924+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,7 +21,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "agcoguest.agcocorp.com",
+        "securelogin.chevron.com",
+        "www.utahes-lausd-ca.schoolloop.com",
         "one.one.one.one"
       ]
     },
