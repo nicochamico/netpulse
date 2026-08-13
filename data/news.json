@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-13T06:14:21.586617+00:00",
+  "last_success": "2026-08-13T08:18:05.833396+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "published": "Thu, 13 Aug 2026 11:39:48 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
@@ -32,12 +38,6 @@
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
       "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
       "published": "Wed, 12 Aug 2026 16:43:03 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "published": "Wed, 12 Aug 2026 14:31:54 +0530"
     },
     {
       "source": "BleepingComputer",

@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T06:14:21.586617+00:00",
+  "last_success": "2026-08-13T08:18:05.833396+00:00",
   "count": 100,
   "items": [
     {
@@ -46,9 +46,19 @@
       "data_size": null,
       "description": "[AI generated] Riker Danzig LLP is a prominent full-service law firm based in the United States, primarily operating in New Jersey. Founded in 1882, the firm provides legal services across a wide range of practice areas including litigation, corporate law, real estate, environmental law, and insurance. It serves clients spanning industries such as finance, healthcare, and manufacturing, and is recognized as one of New Jersey's leading law firms.",
       "discovered": "2026-08-12T19:51:27.372830+00:00",
-      "domain": "",
+      "domain": "riker.com",
       "group": "SilentRansomGroup",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-13T07:27:44.270290",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
@@ -98,6 +108,33 @@
       "screenshot": "https://images.ransomware.live/victims/47d4815b224d7abd909ba29d4f4d00fd.png",
       "url": "https://www.ransomware.live/id/Y2xncm91cEBpbmNyYW5zb20=",
       "victim": "clgroup"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-12T18:11:16+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "safewareinc.com Safeware Inc. is a national leader providing safety and security solutions for first responders, schools, and government agencies.\nFor over 40 years, they have supplied advanced protective equipment and public preparedness training across the United States.\nThe company simplifies government purchasing by offering specialized gear through competitive cooperative contract pricing.",
+      "discovered": "2026-08-13T07:29:47.995902+00:00",
+      "domain": "safewareinc.com",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-08-13T07:29:46",
+        "users": 9,
+        "users_url": 4
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U2FmZXdhcmVAdGhlZ2VudGxlbWVu",
+      "victim": "Safeware"
     },
     {
       "activity": "Professional Services",
@@ -336,23 +373,6 @@
       "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
       "url": "https://www.ransomware.live/id/RzNBRVJPU1BBQ0UuQ09NQGNsb3A=",
       "victim": "G3AEROSPACE.COM"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-12T15:44:31.000983+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-08-12T15:44:44.817204+00:00",
-      "domain": "ARCHERGREY.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6102061631e2489ca2c213c1c254aba3.png",
-      "url": "https://www.ransomware.live/id/QVJDSEVSR1JFWS5DT01AY2xvcA==",
-      "victim": "ARCHERGREY.COM"
     }
   ]
 }
