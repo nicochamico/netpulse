@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T20:38:41.782810+00:00",
+  "last_success": "2026-08-13T21:41:28.391090+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-13T20:52:39.411250+00:00",
+      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/hitachi",
+      "country": "JP",
+      "data_size": null,
+      "description": "[AI generated] Hitachi High-Tech is a Japanese technology company headquartered in Tokyo, Japan, and a subsidiary of Hitachi Ltd. It operates in the high-technology and precision equipment industry, specializing in semiconductor manufacturing equipment, analytical and medical instruments, and industrial systems. The company serves sectors including healthcare, electronics, and scientific research, supplying solutions globally across manufacturing and laboratory environments.",
+      "discovered": "2026-08-13T20:53:02.908968+00:00",
+      "domain": "",
+      "group": "coinbasecartel",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/41e957bcbd127c37dd6f9603bd0dcbab.png",
+      "url": "https://www.ransomware.live/id/SGl0YWNoaSBIaWdoLVRlY2hAY29pbmJhc2VjYXJ0ZWw=",
+      "victim": "Hitachi High-Tech"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-13T17:56:55.126638+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UUNQTC5JTkBjbG9w",
       "victim": "QCPL.IN"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-12T15:46:41.492857+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Data exfiltrated included the following: Database, Project,Cad-files Total size: 26.4Gb Revenue: $5,000,000",
-      "discovered": "2026-08-12T15:46:56.947871+00:00",
-      "domain": "FLUIDLOGIC.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RkxVSURMT0dJQy5DT01AY2xvcA==",
-      "victim": "FLUIDLOGIC.COM"
     }
   ]
 }

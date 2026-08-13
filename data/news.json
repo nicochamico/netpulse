@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-13T20:38:41.782810+00:00",
+  "last_success": "2026-08-13T21:41:28.391090+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+      "published": "Thu, 13 Aug 2026 17:12:47 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "published": "Thu, 13 Aug 2026 16:47:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers breach govt webmail while running parallel crypto fraud",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
       "published": "Thu, 13 Aug 2026 14:15:19 -0400"
@@ -62,18 +74,6 @@
       "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
       "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
       "published": "Thu, 13 Aug 2026 12:40:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "published": "Thu, 13 Aug 2026 11:13:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-      "published": "Thu, 13 Aug 2026 10:00:10 -0400"
     }
   ]
 }
