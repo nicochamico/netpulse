@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-13T23:37:40.570507+00:00",
+  "last_success": "2026-08-14T01:43:44.694649+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-13T23:52:12.012841+00:00",
+      "claim_url": "",
+      "country": "DE",
+      "data_size": null,
+      "description": "Reminger Attorneys at Law is a law firm with a strong presence in Ohio, Kentucky, and Indiana, operati…",
+      "discovered": "2026-08-13T23:52:14.083934+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UmVtaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
+      "victim": "Reminger"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-13T23:09:24.024000+00:00",
@@ -396,23 +413,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SVBNU09MVVRJT05TLlNLQGNsb3A=",
       "victim": "IPMSOLUTIONS.SK"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-12T15:48:23.395257+00:00",
-      "claim_url": "",
-      "country": "IT",
-      "data_size": null,
-      "description": "Data exfiltrated included the following: DBF files, Cad-files, Project, Soft, Backups Total size: 241Gb Revenue: $5,000,000",
-      "discovered": "2026-08-12T15:48:38.535233+00:00",
-      "domain": "ECCELLENT.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RUNDRUxMRU5ULkNPTUBjbG9w",
-      "victim": "ECCELLENT.COM"
     }
   ]
 }
