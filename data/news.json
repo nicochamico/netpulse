@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-14T08:13:12.767076+00:00",
+  "last_success": "2026-08-14T09:57:17.562424+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Data analyst sent to prison for stealing data, extorting employer",
+      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+      "published": "Fri, 14 Aug 2026 04:27:18 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
       "published": "Thu, 13 Aug 2026 21:19:12 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
       "published": "Thu, 13 Aug 2026 13:46:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
-      "published": "Thu, 13 Aug 2026 13:33:28 -0400"
     }
   ]
 }
