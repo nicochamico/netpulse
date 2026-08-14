@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:08:25.884268+00:00",
+  "generated_at": "2026-08-14T13:42:52.116948+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -21,7 +21,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "agcoguest.agcocorp.com",
+        "api.rosenfeldpodiatry.com",
+        "www.lbavalon.schoolloop.com",
         "one.one.one.one"
       ]
     },
