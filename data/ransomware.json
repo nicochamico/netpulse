@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-15T19:19:20.908299+00:00",
+  "last_success": "2026-08-15T20:18:22.441773+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-15T15:30:03.885579+00:00",
+      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/70/sears-grupo-sanborns",
+      "country": "MX",
+      "data_size": null,
+      "description": "SEARS (Grupo Sanborns, S.A. de C.V.) is a leading Mexican retail company and a key subsidiary of Grupo Carso, owned by the Slim family.Founded in 1903 by the Sanborn brothers, the company has grown into one of the country’s most iconic and successful retail groups.It owns and operates two of Mexico’s most famous brands: Sears (mid-range department stores) and Sanborns (the signature “store + restaurant/cafe” format).Today, Grupo Sanborns manages more than 41,000 employees and hundreds of stores nationwide, with a strong focus on e-commerce and digital transformation.Website: www.sears.com.mx and www.sanborns.com.mx.AttentionDemo files will appear here in the coming days, ahead of the full-scale release. https://www.sears.com.mx/",
+      "discovered": "2026-08-15T15:30:23.599393+00:00",
+      "domain": "www.sears.com.mx",
+      "group": "spacebears",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/be530d4bfa0ed7103e08b3c0aab50a6a.png",
+      "url": "https://www.ransomware.live/id/U0VBUlMgKEdydXBvIFNhbmJvcm5zKUBzcGFjZWJlYXJz",
+      "victim": "SEARS (Grupo Sanborns)"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-15T12:50:11.612873+00:00",
@@ -432,45 +449,6 @@
       "screenshot": "https://images.ransomware.live/victims/aab7404f0b67719b4808d901ba64a450.png",
       "url": "https://www.ransomware.live/id/dGVjbm9hYmkuY29tQG0zcng=",
       "victim": "tecnoabi.com"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-14T05:59:10.309266+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Over 7.1M Salesforce records containing some PII was compromised. This is a final warning to reach out by 17 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 14 Aug 2026 | Warning: FINAL WARNING PAY OR LEAK",
-      "discovered": "2026-08-14T05:59:11.749415+00:00",
-      "domain": "baxter.com",
-      "group": "shinyhunters",
-      "infostealer": {
-        "employees": 141,
-        "employees_url": 45,
-        "infostealer_stats": {
-          "Acreed": 14,
-          "Azorult": 4,
-          "CRYPTBOT": 1,
-          "Generic Stealer": 76,
-          "Lumma": 53,
-          "Predator": 1,
-          "Raccoon": 16,
-          "RedLine": 80,
-          "StealC": 13,
-          "UNKNOWN": 5,
-          "Vidar": 15
-        },
-        "last_employee_compromised": "2026-08-06T13:46:38.875000+00:00",
-        "last_user_compromised": "2026-05-30T17:45:24+00:00",
-        "thirdparties": 123,
-        "update": "2026-08-14T06:00:57.967299",
-        "users": 139,
-        "users_url": 65
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QmF4dGVyIEludGVybmF0aW9uYWwsIEluYy5Ac2hpbnlodW50ZXJz",
-      "victim": "Baxter International, Inc."
     }
   ]
 }
