@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-15T12:31:40.073529+00:00",
+  "last_success": "2026-08-15T13:26:56.649685+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-15T08:42:26+00:00",
+      "claim_url": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion/blog?uuid=67ef1aa3-bfe3-35fa-8712-c3b6977bc7be",
+      "country": "IN",
+      "data_size": null,
+      "description": "system breach, data blocking",
+      "discovered": "2026-08-15T09:23:19.928820+00:00",
+      "domain": "www.shalina.com",
+      "group": "blackwater",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e0e227ff507591f8d614ec9e439cd28d.png",
+      "url": "https://www.ransomware.live/id/d3d3LnNoYWxpbmEuY29tQGJsYWNrd2F0ZXI=",
+      "victim": "www.shalina.com"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-15T08:38:01+00:00",
+      "claim_url": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion/blog?uuid=b4bdc6d3-3c1e-349b-821f-543ab3a4c7fa",
+      "country": "AR",
+      "data_size": null,
+      "description": "system breach, data blocking",
+      "discovered": "2026-08-15T09:23:53.349188+00:00",
+      "domain": "www.amca.org.ar",
+      "group": "blackwater",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/96eb000a84aae57f921655abf7cf0678.png",
+      "url": "https://www.ransomware.live/id/d3d3LmFtY2Eub3JnLmFyQGJsYWNrd2F0ZXI=",
+      "victim": "www.amca.org.ar"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-15T04:21:55.237363+00:00",
@@ -422,60 +456,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QWNsaUB0aGVnZW50bGVtZW4=",
       "victim": "Acli"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-14T05:22:03+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "comconnections.org zoominfo.com/c/community-connections-inc/350834294 Community Connections is a non-profit organization based in Ketchikan, Alaska, dedicated to providing individualized support for children, seniors, and individuals with disabilities. Founded over 40 years ago, their core mission focuses on encouraging independence, community belonging, and improving the overall quality of life for those they serve. The organization offers a wide range of specialized programs, including early childhood learning, mental health support, and comprehensive disability services.",
-      "discovered": "2026-08-14T05:54:46.421198+00:00",
-      "domain": "comconnections.org",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-14T05:54:44",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q29tbXVuaXR5IENvbm5lY3Rpb25zQHRoZWdlbnRsZW1lbg==",
-      "victim": "Community Connections"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-14T05:19:11+00:00",
-      "claim_url": "",
-      "country": "BR",
-      "data_size": null,
-      "description": "megalaser.com.br zoominfo.com/c/megalaser-industria-metalúrgica-ltda/1315472404 \nMegalaser is a Brazilian metallurgical company based in São Paulo, specializing in advanced metalworking services like laser cutting, CNC bending, and robotic welding. Founded in 2006, the manufacturer provides high-quality machined components and assemblies for diverse industries, including renewable energy, mining, automotive, and oil and gas. Their platform highlights a strong commitment to precision engineering, integrated manufacturing solutions, and sustainable industrial practices.",
-      "discovered": "2026-08-14T05:55:07.339234+00:00",
-      "domain": "megalaser.com.br",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-14T05:55:05",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWVnYWxhc2VyIEluZHVzdHJpYSBNZXRhbHVyZ2ljYSBMVERBQHRoZWdlbnRsZW1lbg==",
-      "victim": "Megalaser Industria Metalurgica LTDA"
     }
   ]
 }
