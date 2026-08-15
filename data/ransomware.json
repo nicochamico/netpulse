@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-15T08:23:50.813944+00:00",
+  "last_success": "2026-08-15T09:22:35.196148+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-15T04:21:55.237363+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/xjzBCfUkCOzKIJhTh9nwY7NPbaLxJGgene7s3HohBcLhET3VwjRQ5Za64O19nnRB2nOWIYc0F5Y5ccdhMpg7XJLRVdOcTdh",
+      "country": "US",
+      "data_size": null,
+      "description": "Home Healthcare Agency & Medical Staffing.",
+      "discovered": "2026-08-15T04:22:13.780378+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/197e3e775b98ceda840b85d622690a66.png",
+      "url": "https://www.ransomware.live/id/SW50ZXJpbSBIZWFsdGhDYXJlQGFudWJpcw==",
+      "victim": "Interim HealthCare"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-15T00:18:22+00:00",
@@ -459,33 +476,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWVnYWxhc2VyIEluZHVzdHJpYSBNZXRhbHVyZ2ljYSBMVERBQHRoZWdlbnRsZW1lbg==",
       "victim": "Megalaser Industria Metalurgica LTDA"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-14T05:17:23+00:00",
-      "claim_url": "",
-      "country": "GR",
-      "data_size": null,
-      "description": "ekepis.gr rocketreach.co/ekepis-ethniko-kentro-pistopoiisis-domon-profile_b6d46b6ac7408ffe EKEPIS was Greece's National Centre for the Accreditation of Continuing Vocational Training, responsible for certifying adult educators and lifelong learning providers. The organization no longer exists, as its accreditation and certification duties were absorbed by EOPPEP (ΕΟΠΠΕΠ), the National Organisation for the Certification of Qualifications and Vocational Guidance. Today, anyone looking for their services must go through EOPPEP or the official Greek government portal, since the old ekepis.gr domain is no longer an official resource.",
-      "discovered": "2026-08-14T05:55:27.631184+00:00",
-      "domain": "ekepis.gr",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-14T05:55:26",
-        "users": 1,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RUtFUElTQHRoZWdlbnRsZW1lbg==",
-      "victim": "EKEPIS"
     }
   ]
 }
