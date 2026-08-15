@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-15T04:27:02.828354+00:00",
+  "last_success": "2026-08-15T05:21:47.754610+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-15T00:18:22+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/alpine-electronics-europe",
+      "country": "DE",
+      "data_size": null,
+      "description": "Alpine Electronics Europe specializes in the distribution of automotive electronics and audio products. The company offers a range of products and support services tailored for various European markets. Their intended clients include automotive manufacturers and consumers seeking high-quality audio solutions. Alpine is committed to providing innovative technology and exceptional customer service across multiple countries in Europe.",
+      "discovered": "2026-08-15T00:21:25.972931+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/111f31ade4fa6b2cfa6bfbd748a26a24.png",
+      "url": "https://www.ransomware.live/id/QWxwaW5lIEVsZWN0cm9uaWNzIEV1cm9wZUBQYW56ZXI=",
+      "victim": "Alpine Electronics Europe"
+    },
     {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-08-14T17:28:09.657169+00:00",
@@ -469,33 +486,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RUtFUElTQHRoZWdlbnRsZW1lbg==",
       "victim": "EKEPIS"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-14T05:09:05+00:00",
-      "claim_url": "",
-      "country": "MA",
-      "data_size": null,
-      "description": "avanta.ma rocketreach.co/avanta-maroc-ex-adecco-profile_b7352c87c4297b95 \nAvanta Maroc, formerly known as Adecco Maroc, is a prominent human resources and recruitment agency based in Casablanca, Morocco. The company specializes in connecting job seekers with top employers by offering tailored workforce solutions and staffing services. Their platform serves as a vital hub for career opportunities, professional development, and corporate HR management across various industries in the region.",
-      "discovered": "2026-08-14T05:55:47.981198+00:00",
-      "domain": "avanta.ma",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-14T05:55:46",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QXZhbnRhIE1hcm9jIEV4IEFkZWNjb0B0aGVnZW50bGVtZW4=",
-      "victim": "Avanta Maroc Ex Adecco"
     }
   ]
 }
