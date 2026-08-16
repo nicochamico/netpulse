@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-16T21:16:42.129403+00:00",
+  "last_success": "2026-08-16T22:17:28.320529+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-16T16:27:25+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/sagasta-sro",
+      "country": "CZ",
+      "data_size": null,
+      "description": "SAGASTA is a design and engineering company specializing in modern construction, offering comprehensive design, engineering, and consulting services in the fields of railway, road, bridge, and water management construction.",
+      "discovered": "2026-08-16T17:52:24.189617+00:00",
+      "domain": "sagasta.cz",
+      "group": "Panzer",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 1,
+        "update": "2026-08-16T19:37:06.787297",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2aafc4539fca3d4899004dec816f9d5a.png",
+      "url": "https://www.ransomware.live/id/U0FHQVNUQSBzcm9AUGFuemVy",
+      "victim": "SAGASTA sro"
+    },
     {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-08-16T15:58:43.832633+00:00",
@@ -386,33 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/5827f7d7593b5a75da03954ed07533c4.png",
       "url": "https://www.ransomware.live/id/dGVjb3NpbS5jb21AbG9ja2JpdDU=",
       "victim": "tecosim.com"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-08-16T08:41:00+00:00",
-      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/9a49a287d3e0d4a993de4fa5bd968a44",
-      "country": "IT",
-      "data_size": null,
-      "description": "The Galbusera Agricultural Company  Greenhouse-grown leafy vegetables Here, with dedication and p...",
-      "discovered": "2026-08-16T14:52:11.288208+00:00",
-      "domain": "agricolagalbusera.it",
-      "group": "lockbit5",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-16T14:51:58",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/96db0583532c95333064202a21b41d45.png",
-      "url": "https://www.ransomware.live/id/YWdyaWNvbGFnYWxidXNlcmEuaXRAbG9ja2JpdDU=",
-      "victim": "agricolagalbusera.it"
     }
   ]
 }
