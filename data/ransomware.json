@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T01:05:42.940438+00:00",
+  "last_success": "2026-08-17T02:56:49.502570+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Education",
+      "attackdate": "2026-08-16T21:31:00+00:00",
+      "claim_url": "/post/albanias-official-national-teacher-training-portal/",
+      "country": "AL",
+      "data_size": null,
+      "description": "Albania’s official national teacher training portal provides centralized professional development resources and accredited programs for educators nationwide.\n\nThis leak include data such as;\nRoughly ~100k Full national ID numbers, full names and teacher certificates in PDF. [Size: 5.9 GB | Sector: Education, Government]",
+      "discovered": "2026-08-16T21:50:56.932034+00:00",
+      "domain": "",
+      "group": "emperador",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWxiYW5pYSdzIG9mZmljaWFsIG5hdGlvbmFsIHRlYWNoZXIgdHJhaW5pbmcgcG9ydGFsLkBlbXBlcmFkb3I=",
+      "victim": "Albania's official national teacher training portal."
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-16T18:58:22.168433+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/c5edd5ad936fcf4a62776781a7b73fa3.png",
       "url": "https://www.ransomware.live/id/WmFuaWNoZWxsaUBxaWxpbg==",
       "victim": "Zanichelli"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-16T11:08:51+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/infosat",
-      "country": "",
-      "data_size": null,
-      "description": "A company focused on new technologies serving information, communications and security systems.It was created at the dawn of the third millennium, with the primary mission of serving its clients and committing to its partners for overall and sustainable performance.",
-      "discovered": "2026-08-16T11:52:15.756373+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/55dee0d5e597691ea0f98a2afc03a95a.png",
-      "url": "https://www.ransomware.live/id/SW5mb3NhdEBQYW56ZXI=",
-      "victim": "Infosat"
     }
   ]
 }
