@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T20:22:46.191457+00:00",
+  "last_success": "2026-08-17T21:22:47.660164+00:00",
   "count": 100,
   "items": [
     {
@@ -206,6 +206,23 @@
       "screenshot": "https://images.ransomware.live/victims/a1d581e46933e66633a1bb54810dd96e.png",
       "url": "https://www.ransomware.live/id/TW9vcmVzQGJyYXZveA==",
       "victim": "Moores"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-17T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/planungsgruppe-mm-ag-3eb2a03f",
+      "country": "CH",
+      "data_size": null,
+      "description": "Planungsgruppe M+M AG is a German Aktiengesellschaft headquartered in Böblingen, Baden-Württemberg, with approximately 432 employees across 10 offices (Böblingen, Stuttgart, München, Nürnberg, Regensburg, Ingolstadt, Augsburg, Esslingen, Mannheim, Frankfurt). Annual revenue: approximately €52 million. The firm provides architecture, urban planning, structural engineering, building physics, fire protection, BIM, landscape planning, and interior design services. Over 5,200 projects completed across decades of operation.\n\nThe exfiltrated dataset spans two complete file servers (MMBB04, MMBB05), plus the DATEV financial processing archives, SFirm banking software databases, the ELO document management system, Outlook email archives (PSTs), and payroll/HR data — a total of 268 GB across approximately 124,000 files, covering 2006 to 2026.",
+      "discovered": "2026-08-17T16:22:52.792149+00:00",
+      "domain": "Planungsgruppe M+M AG",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4769a9b7ea9ce6b3cc38d06d8cf59cb1.png",
+      "url": "https://www.ransomware.live/id/UGxhbnVuZ3NncnVwcGUgTStNIEFHQGF1cm9yYQ==",
+      "victim": "Planungsgruppe M+M AG"
     },
     {
       "activity": "Retail & E-Commerce",
@@ -413,33 +430,6 @@
       "screenshot": "https://images.ransomware.live/victims/89252003ffd82f7e6fc40df16c920a08.png",
       "url": "https://www.ransomware.live/id/QWxsIFBhcnRzIERyeSBDbGVhbmluZ0BtZWR1c2Fsb2NrZXI=",
       "victim": "All Parts Dry Cleaning"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-16T15:20:41.323917+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bakaqah/",
-      "country": "DE",
-      "data_size": null,
-      "description": "Organization with 30 emails extracted. Domain: idex-group.com",
-      "discovered": "2026-08-16T15:20:54.694488+00:00",
-      "domain": "idex-group.com",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-16T15:20:41",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b8f57f7666f21a63450a489b872621b5.png",
-      "url": "https://www.ransomware.live/id/SWRleCBHcm91cEBtZWR1c2Fsb2NrZXI=",
-      "victim": "Idex Group"
     }
   ]
 }
