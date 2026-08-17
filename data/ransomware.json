@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T22:21:09.972319+00:00",
+  "last_success": "2026-08-17T23:19:56.239440+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-17T18:29:53.179392+00:00",
+      "claim_url": "http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion/company/bmw/",
+      "country": "DE",
+      "data_size": null,
+      "description": "German multinational luxury vehicles",
+      "discovered": "2026-08-17T18:30:10.672092+00:00",
+      "domain": "",
+      "group": "xpl0itrs",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/74b8809f2d29a9552a0aa400587448a9.png",
+      "url": "https://www.ransomware.live/id/Qk1XIEdyb3VwQHhwbDBpdHJz",
+      "victim": "BMW Group"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-17T18:21:18.338027+00:00",
+      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/42/",
+      "country": "US",
+      "data_size": null,
+      "description": "Country: New Hampshire,US |\nWebsite: www.rubber-group.com |\nRevenue: $19.4 Million |\nIndustry: Plastics Manufacturing, Tires & Rubber, Manufacturing |\nEmployees: 50-100 |\nProperties: 162 GB (207,203 Files, 21,624 Folders)",
+      "discovered": "2026-08-17T18:22:02.804731+00:00",
+      "domain": "www.rubber-group.com",
+      "group": "Global Secret Group",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7ad8388a6ec3125a4b5bab0413dda1fe.png",
+      "url": "https://www.ransomware.live/id/VGhlIFJ1YmJlciBHcm91cEBHbG9iYWwgU2VjcmV0IEdyb3Vw",
+      "victim": "The Rubber Group"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-17T17:20:36.699682+00:00",
@@ -386,50 +420,6 @@
       "screenshot": "https://images.ransomware.live/victims/57e700fe520300912be85ab64168c4d1.png",
       "url": "https://www.ransomware.live/id/U3Bvb25mdWwgb2YgQ29tZm9ydEBxaWxpbg==",
       "victim": "Spoonful of Comfort"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-16T16:27:25+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/sagasta-sro",
-      "country": "CZ",
-      "data_size": null,
-      "description": "SAGASTA is a design and engineering company specializing in modern construction, offering comprehensive design, engineering, and consulting services in the fields of railway, road, bridge, and water management construction.",
-      "discovered": "2026-08-16T17:52:24.189617+00:00",
-      "domain": "sagasta.cz",
-      "group": "Panzer",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-16T19:37:06.787297",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/2aafc4539fca3d4899004dec816f9d5a.png",
-      "url": "https://www.ransomware.live/id/U0FHQVNUQSBzcm9AUGFuemVy",
-      "victim": "SAGASTA sro"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-08-16T15:58:43.832633+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2360c1a5-999d-480c-92a7-9867370a8051",
-      "country": "IT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T15:59:09.117550+00:00",
-      "domain": "www.mulinopadano.it",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3ec39a896fd78f296f456a62d35f5274.png",
-      "url": "https://www.ransomware.live/id/TXVsaW5vIFBhZGFub0BxaWxpbg==",
-      "victim": "Mulino Padano"
     }
   ]
 }
