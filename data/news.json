@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-17T19:25:19.593461+00:00",
+  "last_success": "2026-08-17T20:22:46.191457+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "published": "Tue, 18 Aug 2026 00:14:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "published": "Mon, 17 Aug 2026 23:52:09 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "published": "Mon, 17 Aug 2026 23:11:06 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
@@ -22,22 +40,10 @@
       "published": "Mon, 17 Aug 2026 16:22:34 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "published": "Sat, 15 Aug 2026 14:08:46 +0530"
+      "source": "BleepingComputer",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "published": "Mon, 17 Aug 2026 15:35:01 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "published": "Mon, 17 Aug 2026 07:25:02 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "published": "Mon, 17 Aug 2026 06:09:48 -0400"
     }
   ]
 }
