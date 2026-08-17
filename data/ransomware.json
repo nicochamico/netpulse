@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T06:49:03.015116+00:00",
+  "last_success": "2026-08-17T07:50:09.849781+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-17T03:22:08.709299+00:00",
+      "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/c24b4cd2-897f-403d-ade7-57251f96c6d9",
+      "country": "GB",
+      "data_size": null,
+      "description": "Kitchen solutions provider for housing developers.",
+      "discovered": "2026-08-17T03:22:23.204673+00:00",
+      "domain": "www.moores.co.uk",
+      "group": "bravox",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a1d581e46933e66633a1bb54810dd96e.png",
+      "url": "https://www.ransomware.live/id/TW9vcmVzQGJyYXZveA==",
+      "victim": "Moores"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-08-16T21:31:00+00:00",
@@ -386,23 +403,6 @@
       "screenshot": "https://images.ransomware.live/victims/f839def425c075d72c9261a799b940bb.png",
       "url": "https://www.ransomware.live/id/Qm90ZWtAcWlsaW4=",
       "victim": "Botek"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-08-16T11:29:26.533803+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f2695bd2-1efb-4617-a01f-6f50a9e53f34",
-      "country": "IT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T11:29:51.185507+00:00",
-      "domain": "www.zanichelli.it",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c5edd5ad936fcf4a62776781a7b73fa3.png",
-      "url": "https://www.ransomware.live/id/WmFuaWNoZWxsaUBxaWxpbg==",
-      "victim": "Zanichelli"
     }
   ]
 }
