@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T15:21:39.774868+00:00",
+  "last_success": "2026-08-17T16:23:14.016747+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-08-17T11:03:56+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/castilla-la-mancha",
+      "country": "ES",
+      "data_size": null,
+      "description": "The Government of Castilla-La Mancha provides a wide range of services and information related to public administration, economy, education, health, and social services. It aims to support various sectors including agriculture, tourism, and employment, while also addressing issues like sustainability and equality. The intended clients include residents of Castilla-La Mancha, businesses, and individuals seeking assistance in various life situations. The government also promotes transparency and participation through its digital platforms.",
+      "discovered": "2026-08-17T11:52:02.337254+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/fd1dbab85cce54c33f25609c24b97971.png",
+      "url": "https://www.ransomware.live/id/Q2FzdGlsbGEgTGEgTWFuY2hhQFBhbnplcg==",
+      "victim": "Castilla La Mancha"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-17T10:49:28+00:00",
@@ -396,23 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/e150d148388bfcb617bd0f8bd4c7eae0.png",
       "url": "https://www.ransomware.live/id/SU5WRU5TSVRZQHFpbGlu",
       "victim": "INVENSITY"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-16T12:29:34.271959+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=452339ce-71d9-40e3-9af4-95eb820a0be8",
-      "country": "PH",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T12:29:59.570610+00:00",
-      "domain": "www.megawide.com.ph",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7c2131f5fa4fb29a2dce9a746780df2d.png",
-      "url": "https://www.ransomware.live/id/TWVnYXdpZGVAcWlsaW4=",
-      "victim": "Megawide"
     }
   ]
 }
