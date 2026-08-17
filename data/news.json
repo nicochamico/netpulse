@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-17T08:39:06.858385+00:00",
+  "last_success": "2026-08-17T09:37:34.751541+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "published": "Mon, 17 Aug 2026 05:05:33 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
       "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
       "published": "Sun, 16 Aug 2026 19:47:06 -0400"
@@ -68,12 +74,6 @@
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
       "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
       "published": "Sat, 15 Aug 2026 10:14:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "published": "Fri, 14 Aug 2026 19:24:17 -0400"
     }
   ]
 }
