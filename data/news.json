@@ -1,43 +1,43 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-17T10:28:51.054156+00:00",
+  "last_success": "2026-08-17T11:21:42.428765+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "published": "Thu, 13 Aug 2026 11:39:48 +0530"
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "published": "Mon, 17 Aug 2026 14:59:55 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "published": "Wed, 12 Aug 2026 23:09:27 +0530"
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "published": "Mon, 17 Aug 2026 13:06:19 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "published": "Wed, 12 Aug 2026 19:39:50 +0530"
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "published": "Sat, 15 Aug 2026 14:08:46 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "published": "Wed, 12 Aug 2026 17:17:38 +0530"
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "published": "Sat, 15 Aug 2026 12:54:04 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "published": "Wed, 12 Aug 2026 17:11:34 +0530"
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "published": "Sat, 15 Aug 2026 00:18:46 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "published": "Wed, 12 Aug 2026 16:43:03 +0530"
+      "title": "IAM Compliance Requirements and Best Practices",
+      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "published": "Fri, 14 Aug 2026 22:49:49 +0530"
     },
     {
       "source": "BleepingComputer",
