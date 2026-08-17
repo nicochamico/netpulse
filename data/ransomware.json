@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T21:22:47.660164+00:00",
+  "last_success": "2026-08-17T22:21:09.972319+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-17T17:20:36.699682+00:00",
+      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/41/",
+      "country": "US",
+      "data_size": null,
+      "description": "Country: Texas, US |\nWebsite: 4mrealty.com |\nRevenue: $5 Million |\nIndustry: Real Estate Brokerage, Real Estate Sales, Property Sales, Commercial Real Estate |\nEmployees: 20-50 |\nProperties: 237 GB (54,995 Files, 4,600 Folders)",
+      "discovered": "2026-08-17T17:21:21.623009+00:00",
+      "domain": "4mrealty.com",
+      "group": "Global Secret Group",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-17T17:20:36",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/bd56df1491f4a3e8c5cea01dcf591073.png",
+      "url": "https://www.ransomware.live/id/NE0gUkVBTFRZIENPTVBBTllAR2xvYmFsIFNlY3JldCBHcm91cA==",
+      "victim": "4M REALTY COMPANY"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-17T17:03:50+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/dl-e-c",
+      "country": "KR",
+      "data_size": null,
+      "description": "DL E&C Co., Ltd. is a major South Korean construction and engineering company, founded in 1939, specializing in building, infrastructure, housing, and industrial/energy plant projects worldwide.",
+      "discovered": "2026-08-17T17:22:22.707376+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3750029c9a1266bc0af62bb0d7685593.png",
+      "url": "https://www.ransomware.live/id/REwgRSZDQFBhbnplcg==",
+      "victim": "DL E&C"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-17T14:24:32.235000+00:00",
@@ -386,50 +430,6 @@
       "screenshot": "https://images.ransomware.live/victims/3ec39a896fd78f296f456a62d35f5274.png",
       "url": "https://www.ransomware.live/id/TXVsaW5vIFBhZGFub0BxaWxpbg==",
       "victim": "Mulino Padano"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-16T15:21:45.319791+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/banajah-bajapah/",
-      "country": "",
-      "data_size": null,
-      "description": "Personal IT home lab. AD domain: twalfamily.com. VMware vSphere, multiple AD domains. Daniel Al Twal works at Technology North Corp (Edmonton), former DND co-op. No corporate target. Previously misidentified as Forces/forces.gc.ca. | 4172 Wolfe Point Way, Ottawa, ON K1V 1P5, Canada",
-      "discovered": "2026-08-16T15:21:57.640362+00:00",
-      "domain": "",
-      "group": "medusalocker",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d10c49a3d44756526300e733ee330bdf.png",
-      "url": "https://www.ransomware.live/id/VHdhbCBGYW1pbHkgSVQgTGFiQG1lZHVzYWxvY2tlcg==",
-      "victim": "Twal Family IT Lab"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-16T15:21:13.525865+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bamatah/",
-      "country": "GB",
-      "data_size": null,
-      "description": "Dry cleaning & laundry. Domain: allpartsdrycleaning.co.uk. | United Kingdom",
-      "discovered": "2026-08-16T15:21:25.860473+00:00",
-      "domain": "allpartsdrycleaning.co.uk",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 2,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-16T15:21:13",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/89252003ffd82f7e6fc40df16c920a08.png",
-      "url": "https://www.ransomware.live/id/QWxsIFBhcnRzIERyeSBDbGVhbmluZ0BtZWR1c2Fsb2NrZXI=",
-      "victim": "All Parts Dry Cleaning"
     }
   ]
 }
