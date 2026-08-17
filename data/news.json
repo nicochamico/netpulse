@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-17T09:37:34.751541+00:00",
+  "last_success": "2026-08-17T10:28:51.054156+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "published": "Mon, 17 Aug 2026 06:09:48 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
       "published": "Mon, 17 Aug 2026 05:05:33 -0400"
@@ -68,12 +74,6 @@
       "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
       "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
       "published": "Sun, 16 Aug 2026 11:07:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "published": "Sat, 15 Aug 2026 10:14:38 -0400"
     }
   ]
 }
