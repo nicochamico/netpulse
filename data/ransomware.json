@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T12:37:42.769989+00:00",
+  "last_success": "2026-08-17T13:36:45.905913+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-17T09:10:25.143955+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=50670edf-f2a0-45b3-ae78-bfbc7f5e951d",
+      "country": "BR",
+      "data_size": null,
+      "description": "A Vermont coloca seus clientes estrategicamente no Centro das Decisões, pois entende que o cliente deve estar no Centro das Atenções. Com isso estabelecido, a companhia acredita que é mais simples interpretar o mercado a partir dos desejos e perspectivas do mesmo. Vermont XCenter: Centro de interAções modernas que promovem experiências em relacionamento. Soluções de Contact Center que contam com um avanço tecnológico do atendimento e que se adaptam às necessidades de um consumidor cada vez mais exigente e conectado; Soluções de Tecnologia: Pensada por meio de um portfólio que vai desde fábrica de software, mapeamento e modelagem dos processos de negócios (BPM) até Service e Help Desk. Com Skills técnicos e avançadas linguagens de programação.",
+      "discovered": "2026-08-17T09:24:54.771469+00:00",
+      "domain": "vermont.com.br",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 2,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 9,
+        "update": "2026-08-17T09:24:24",
+        "users": 48,
+        "users_url": 17
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ad7f20eba43b2ee45c5cbb9828acc2f1.png",
+      "url": "https://www.ransomware.live/id/VmVybW9udCBYQ2VudGVyQGRyYWdvbmZvcmNl",
+      "victim": "Vermont XCenter"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-17T03:22:08.709299+00:00",
@@ -386,23 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/402a208362c004c567234cf8092aff98.png",
       "url": "https://www.ransomware.live/id/TG9lc2NoZXIgZWRpdG9yZSBUb3Jpbm9AcWlsaW4=",
       "victim": "Loescher editore Torino"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-16T11:30:10.452465+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=85f47a4b-ad97-4d15-b532-96c340b6235c",
-      "country": "DE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T11:30:31.177913+00:00",
-      "domain": "www.botek.de",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f839def425c075d72c9261a799b940bb.png",
-      "url": "https://www.ransomware.live/id/Qm90ZWtAcWlsaW4=",
-      "victim": "Botek"
     }
   ]
 }
