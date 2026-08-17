@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T14:24:22.146563+00:00",
+  "last_success": "2026-08-17T15:21:39.774868+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-17T10:49:28+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/doimo-cucine",
+      "country": "IT",
+      "data_size": null,
+      "description": "Doimo Cucine specializes in modern, customizable designer kitchens that blend beauty and harmony. The company emphasizes a holistic approach to kitchen design, offering a versatile system called All-arounD for creating personalized spaces. With a commitment to quality and innovation, all production is carried out in Italy, ensuring high standards and craftsmanship. Their target clients are those seeking stylish and functional kitchen solutions that nourish the soul.",
+      "discovered": "2026-08-17T10:51:42.365350+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/bffc67374374c4f143ac5aa8efc77d34.png",
+      "url": "https://www.ransomware.live/id/RG9pbW8gQ3VjaW5lQFBhbnplcg==",
+      "victim": "Doimo Cucine"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-17T09:10:25.143955+00:00",
@@ -396,23 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/7c2131f5fa4fb29a2dce9a746780df2d.png",
       "url": "https://www.ransomware.live/id/TWVnYXdpZGVAcWlsaW4=",
       "victim": "Megawide"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-16T11:31:30.866614+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=573d5082-4973-4a85-ba93-a924bcb1f03c",
-      "country": "MY",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T11:31:50.873374+00:00",
-      "domain": "www.desatera.com.my",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/39edd443e3f367c58b4d9d86051ea2ea.png",
-      "url": "https://www.ransomware.live/id/RGVzYXRlcmEgU2RuIEJoZEBxaWxpbg==",
-      "victim": "Desatera Sdn Bhd"
     }
   ]
 }
