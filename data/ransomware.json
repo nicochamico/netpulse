@@ -1,9 +1,60 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T06:37:50.948953+00:00",
+  "last_success": "2026-08-18T07:34:47.637360+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-18T03:21:13.820750+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Dj8yoB2WXxWnsaz7rWtbtYu4vlkCxVt24eIEwa4Rut9nKfSy2ZsAzadrZvrQraO+LEngQYNc7SPDzMAN5mMTlDa1l5QjRT",
+      "country": "DE",
+      "data_size": null,
+      "description": "Data breach at a global leader in packaging manufacturing.",
+      "discovered": "2026-08-18T03:21:51.524145+00:00",
+      "domain": "sig.biz",
+      "group": "anubis",
+      "infostealer": {
+        "employees": 21,
+        "employees_url": 11,
+        "infostealer_stats": {
+          "Generic Stealer": 6,
+          "Lumma": 11,
+          "Raccoon": 3,
+          "RedLine": 8,
+          "StealC": 6,
+          "Vidar": 1
+        },
+        "last_employee_compromised": "2025-12-15T02:55:21+00:00",
+        "last_user_compromised": "2024-04-27T05:55:13+00:00",
+        "thirdparties": 40,
+        "update": "2026-08-18T04:29:52.017375",
+        "users": 14,
+        "users_url": 12
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f4a2e0fb8ad631ca2b979a6b9ac37c70.png",
+      "url": "https://www.ransomware.live/id/U2Nob2xsZSBJUE4gLyBTSUdAYW51Ymlz",
+      "victim": "Scholle IPN / SIG"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-18T00:00:00+00:00",
+      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/C1C23C2621D1D387",
+      "country": "RU",
+      "data_size": null,
+      "description": "",
+      "discovered": "2026-08-18T02:50:19.150146+00:00",
+      "domain": "",
+      "group": "AuditTeam",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8276139c5b96568aec8084f91fb1bc21.png",
+      "url": "https://www.ransomware.live/id/RGUqKip1cEBBdWRpdFRlYW0=",
+      "victim": "De***up"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-18T00:00:00+00:00",
@@ -441,50 +492,6 @@
       "screenshot": "https://images.ransomware.live/victims/ad7f20eba43b2ee45c5cbb9828acc2f1.png",
       "url": "https://www.ransomware.live/id/VmVybW9udCBYQ2VudGVyQGRyYWdvbmZvcmNl",
       "victim": "Vermont XCenter"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-17T03:22:08.709299+00:00",
-      "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/c24b4cd2-897f-403d-ade7-57251f96c6d9",
-      "country": "GB",
-      "data_size": null,
-      "description": "Kitchen solutions provider for housing developers.",
-      "discovered": "2026-08-17T03:22:23.204673+00:00",
-      "domain": "www.moores.co.uk",
-      "group": "bravox",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a1d581e46933e66633a1bb54810dd96e.png",
-      "url": "https://www.ransomware.live/id/TW9vcmVzQGJyYXZveA==",
-      "victim": "Moores"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-17T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/planungsgruppe-mm-ag-3eb2a03f",
-      "country": "DE",
-      "data_size": null,
-      "description": "Planungsgruppe M+M AG is a German Aktiengesellschaft headquartered in Böblingen, Baden-Württemberg, with approximately 432 employees across 10 offices (Böblingen, Stuttgart, München, Nürnberg, Regensburg, Ingolstadt, Augsburg, Esslingen, Mannheim, Frankfurt). Annual revenue: approximately €52 million. The firm provides architecture, urban planning, structural engineering, building physics, fire protection, BIM, landscape planning, and interior design services. Over 5,200 projects completed across decades of operation.\n\nThe exfiltrated dataset spans two complete file servers (MMBB04, MMBB05), plus the DATEV financial processing archives, SFirm banking software databases, the ELO document management system, Outlook email archives (PSTs), and payroll/HR data — a total of 268 GB across approximately 124,000 files, covering 2006 to 2026.",
-      "discovered": "2026-08-17T16:22:52.792149+00:00",
-      "domain": "dieplanungsgruppe.de",
-      "group": "aurora",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-18T04:53:26.252933",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4769a9b7ea9ce6b3cc38d06d8cf59cb1.png",
-      "url": "https://www.ransomware.live/id/UGxhbnVuZ3NncnVwcGUgTStNIEFHQGF1cm9yYQ==",
-      "victim": "Planungsgruppe M+M AG"
     }
   ]
 }
