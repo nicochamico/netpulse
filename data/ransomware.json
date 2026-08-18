@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-17T23:19:56.239440+00:00",
+  "last_success": "2026-08-18T01:03:31.761488+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-08-17T20:27:14.657170+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=1XoenhPNyc7kvl",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-08-17T20:27:30.737981+00:00",
+      "domain": "www.bridgeportcapital.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6fb8f3258ea4cf8e1f281b2a53c5af9f.png",
+      "url": "https://www.ransomware.live/id/QnJpZGdlcG9ydCBDYXBpdGFsIFNlcnZpY2VzQHBsYXk=",
+      "victim": "Bridgeport Capital Services"
+    },
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-17T20:26:40.639155+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=QFRJmq96JT1fJm",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-08-17T20:26:56.479395+00:00",
+      "domain": "www.sampack.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c905b79da57e0c027c69d3a596214daa.png",
+      "url": "https://www.ransomware.live/id/U2FtIFBhY2sgQXV0byBHcm91cEBwbGF5",
+      "victim": "Sam Pack Auto Group"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-17T18:29:53.179392+00:00",
@@ -386,40 +420,6 @@
       "screenshot": "https://images.ransomware.live/victims/0f74c3e7136832bd3a42be3316c77ab0.png",
       "url": "https://www.ransomware.live/id/QUdVTlNBQHFpbGlu",
       "victim": "AGUNSA"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-16T18:57:05.570637+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=6a247e78-b643-4a64-b2fb-c884d66e3249",
-      "country": "IT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T18:57:25.675952+00:00",
-      "domain": "www.coface.it",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/fa1798f56d91ad0c9bdb681a7332db82.png",
-      "url": "https://www.ransomware.live/id/Q29mYWNlQHFpbGlu",
-      "victim": "Coface"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-08-16T18:56:20.892782+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=217d66b0-ffa4-4bf9-b90a-92571dd1ff70",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-16T18:56:41.611114+00:00",
-      "domain": "www.spoonfulofcomfort.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/57e700fe520300912be85ab64168c4d1.png",
-      "url": "https://www.ransomware.live/id/U3Bvb25mdWwgb2YgQ29tZm9ydEBxaWxpbg==",
-      "victim": "Spoonful of Comfort"
     }
   ]
 }
