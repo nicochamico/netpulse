@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-18T08:32:50.738402+00:00",
+  "last_success": "2026-08-18T09:29:32.667583+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "published": "Tue, 18 Aug 2026 14:40:45 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
@@ -34,10 +40,10 @@
       "published": "Mon, 17 Aug 2026 23:11:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "Mon, 17 Aug 2026 18:53:51 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "published": "Tue, 18 Aug 2026 05:24:49 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
       "published": "Mon, 17 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "published": "Mon, 17 Aug 2026 08:33:11 -0400"
     }
   ]
 }
