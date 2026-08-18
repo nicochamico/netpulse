@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-18T13:39:54.464820+00:00",
+  "last_success": "2026-08-18T14:29:59.289816+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "published": "Tue, 18 Aug 2026 10:01:11 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
       "published": "Tue, 18 Aug 2026 07:14:28 -0400"
@@ -68,12 +74,6 @@
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
       "published": "Mon, 17 Aug 2026 15:35:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "published": "Mon, 17 Aug 2026 15:12:39 -0400"
     }
   ]
 }
