@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:54:25.717906+00:00",
+  "generated_at": "2026-08-18T12:46:58.040654+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,6 +12,7 @@
         80,
         443,
         2052,
+        2053,
         2082,
         2087,
         8443,
@@ -21,9 +22,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "barracuda-sr.commercemtg.com",
-        "bunwlc2.cogeco.com",
-        "one.one.one.one"
+        "xwlc-ba.turner.com",
+        "one.one.one.one",
+        "guests.ellosgroup.com"
       ]
     },
     {
