@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T18:33:31.937424+00:00",
+  "last_success": "2026-08-18T19:24:37.219898+00:00",
   "count": 100,
   "items": [
     {
@@ -162,6 +162,23 @@
       "screenshot": "https://images.ransomware.live/victims/5031733d0424de55d5c4e780c49691a5.png",
       "url": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
       "victim": "SpearFin Ltd"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-18T00:00:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Borchert & LaSpina, P.C. is a respected law firm located in Queens, New York, with a team of si\nx experienced attorneys specializing in various areas of law including real estate, mortgage fo\nreclosure, commercial litigation, personal injury, and elder law.\n\nWe will upload corporate data soon. Client personal information (lots of passports, DLs, SSNs a\nnd other information), financials, confidential legal files, contracts and so on.\n",
+      "discovered": "2026-08-18T14:52:33.805183+00:00",
+      "domain": "",
+      "group": "akira",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Qm9yY2hlcnQgJiBMYVNwaW5hQGFraXJh",
+      "victim": "Borchert & LaSpina"
     },
     {
       "activity": "Technology",
@@ -441,33 +458,6 @@
       "screenshot": "https://images.ransomware.live/victims/3750029c9a1266bc0af62bb0d7685593.png",
       "url": "https://www.ransomware.live/id/REwgRSZDQFBhbnplcg==",
       "victim": "DL E&C"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-17T14:24:32.235000+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/90",
-      "country": "SE",
-      "data_size": null,
-      "description": "Games",
-      "discovered": "2026-08-17T14:53:46.035657+00:00",
-      "domain": "wishfully.se",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-17T14:53:32",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/64a01869888f3cd9975df557d7ede96b.png",
-      "url": "https://www.ransomware.live/id/V2lzaGZ1bGx5IFN0dWRpb3NAZGlyZXdvbGY=",
-      "victim": "Wishfully Studios"
     }
   ]
 }
