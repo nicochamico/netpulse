@@ -1,19 +1,31 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-18T12:39:24.121330+00:00",
+  "last_success": "2026-08-18T13:39:54.464820+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "published": "Tue, 18 Aug 2026 17:10:06 +0530"
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "published": "Tue, 18 Aug 2026 18:08:36 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "published": "Tue, 18 Aug 2026 18:08:20 +0530"
     },
     {
       "source": "The Hacker News",
       "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
       "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "published": "Tue, 18 Aug 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "published": "Tue, 18 Aug 2026 16:50:00 +0530"
     },
     {
       "source": "The Hacker News",
@@ -26,18 +38,6 @@
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
       "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
       "published": "Tue, 18 Aug 2026 12:04:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "published": "Tue, 18 Aug 2026 02:33:04 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "published": "Tue, 18 Aug 2026 00:14:17 +0530"
     },
     {
       "source": "BleepingComputer",
