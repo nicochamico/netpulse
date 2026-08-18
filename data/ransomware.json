@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T21:20:28.152557+00:00",
+  "last_success": "2026-08-18T22:19:25.261606+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-18T17:38:29.559308+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=9351fab2-40b4-47c9-bf96-a00af22ab27a",
+      "country": "US",
+      "data_size": null,
+      "description": "&D Machine and Engineering, LLC specializes in CNC machining of precision metal components primarily for the aerospace, defense, and space industries. The company is known for its ability to maintain tight tolerances and produce complex geometries using advanced 5-axis milling and coordinate measuring machines. With a commitment to quality, R&D Machine has built a strong customer base that includes respected blue-chip companies like NASA. Acquired by Compass Precision in 2022, the company continues to focus on manufacturing mission-critical components for demanding applications.",
+      "discovered": "2026-08-18T17:55:14.757531+00:00",
+      "domain": "rdmachine.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-18T17:54:35",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/06ddf819982f8a3e471729279783d4d1.png",
+      "url": "https://www.ransomware.live/id/UiAmIEQgTWFjaGluZSBhbmQgRW5naW5lZXJpbmdAZHJhZ29uZm9yY2U=",
+      "victim": "R & D Machine and Engineering"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-18T17:31:37.655687+00:00",
+      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=8hJaqxt2rAbAA5",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-08-18T17:31:54.387648+00:00",
+      "domain": "www.coltranesystems.com",
+      "group": "play",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f72dd0090886486ec97f8cafeac0ee85.png",
+      "url": "https://www.ransomware.live/id/Q29sdHJhbmUgU3lzdGVtc0BwbGF5",
+      "victim": "Coltrane Systems"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-18T10:55:51.919883+00:00",
@@ -414,50 +458,6 @@
       "screenshot": "https://images.ransomware.live/victims/7ad8388a6ec3125a4b5bab0413dda1fe.png",
       "url": "https://www.ransomware.live/id/VGhlIFJ1YmJlciBHcm91cEBHbG9iYWwgU2VjcmV0IEdyb3Vw",
       "victim": "The Rubber Group"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-17T17:20:36.699682+00:00",
-      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/41/",
-      "country": "US",
-      "data_size": null,
-      "description": "Country: Texas, US |\nWebsite: 4mrealty.com |\nRevenue: $5 Million |\nIndustry: Real Estate Brokerage, Real Estate Sales, Property Sales, Commercial Real Estate |\nEmployees: 20-50 |\nProperties: 237 GB (54,995 Files, 4,600 Folders)",
-      "discovered": "2026-08-17T17:21:21.623009+00:00",
-      "domain": "4mrealty.com",
-      "group": "Global Secret Group",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-17T17:20:36",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/bd56df1491f4a3e8c5cea01dcf591073.png",
-      "url": "https://www.ransomware.live/id/NE0gUkVBTFRZIENPTVBBTllAR2xvYmFsIFNlY3JldCBHcm91cA==",
-      "victim": "4M REALTY COMPANY"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-17T17:03:50+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/dl-e-c",
-      "country": "KR",
-      "data_size": null,
-      "description": "DL E&C Co., Ltd. is a major South Korean construction and engineering company, founded in 1939, specializing in building, infrastructure, housing, and industrial/energy plant projects worldwide.",
-      "discovered": "2026-08-17T17:22:22.707376+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3750029c9a1266bc0af62bb0d7685593.png",
-      "url": "https://www.ransomware.live/id/REwgRSZDQFBhbnplcg==",
-      "victim": "DL E&C"
     }
   ]
 }
