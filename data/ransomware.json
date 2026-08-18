@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T16:27:20.932541+00:00",
+  "last_success": "2026-08-18T17:23:57.928477+00:00",
   "count": 100,
   "items": [
     {
@@ -162,6 +162,51 @@
       "screenshot": "https://images.ransomware.live/victims/5031733d0424de55d5c4e780c49691a5.png",
       "url": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
       "victim": "SpearFin Ltd"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-18T00:00:00+00:00",
+      "claim_url": "https://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion/?c=aGKMa8nKgTJvjjps",
+      "country": "CH",
+      "data_size": null,
+      "description": "This is a final warning to reach out by 21 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 18 Aug 2026 | Warning: FINAL WARNING PAY OR LEAK",
+      "discovered": "2026-08-18T13:19:17.279158+00:00",
+      "domain": "logitech.com",
+      "group": "shinyhunters",
+      "infostealer": {
+        "employees": 19,
+        "employees_url": 23,
+        "infostealer_stats": {
+          "Acreed": 108,
+          "Atomic": 51,
+          "Azorult": 2093,
+          "CRYPTBOT": 133,
+          "DarkCrystal": 57,
+          "Ficker": 31,
+          "Generic Stealer": 7352,
+          "KPOT": 9,
+          "Lumma": 5357,
+          "Mystic": 31,
+          "Predator": 48,
+          "Raccoon": 3565,
+          "RedLine": 11569,
+          "StealC": 1302,
+          "Taurus": 35,
+          "UNKNOWN": 686,
+          "Vidar": 1423
+        },
+        "last_employee_compromised": "2026-03-07T04:31:37+00:00",
+        "last_user_compromised": "2026-08-16T23:40:14.413000+00:00",
+        "thirdparties": 23,
+        "update": "2026-08-18T13:21:43.999625",
+        "users": 37291,
+        "users_url": 100
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a6d3467d37c7652c2fb104d856aa9771.png",
+      "url": "https://www.ransomware.live/id/TG9naXRlY2gvIFN0cmVhbWxhYnNAc2hpbnlodW50ZXJz",
+      "victim": "Logitech/ Streamlabs"
     },
     {
       "activity": "Not Found",
@@ -423,50 +468,6 @@
       "screenshot": "https://images.ransomware.live/victims/64a01869888f3cd9975df557d7ede96b.png",
       "url": "https://www.ransomware.live/id/V2lzaGZ1bGx5IFN0dWRpb3NAZGlyZXdvbGY=",
       "victim": "Wishfully Studios"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-08-17T14:23:48.206000+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/91",
-      "country": "US",
-      "data_size": null,
-      "description": "Colleges,Universities",
-      "discovered": "2026-08-17T14:54:40.031569+00:00",
-      "domain": "asu.edu",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 1477,
-        "employees_url": 100,
-        "infostealer_stats": {
-          "Acreed": 74,
-          "Atomic": 33,
-          "Azorult": 326,
-          "CRYPTBOT": 19,
-          "DarkCrystal": 13,
-          "Ficker": 3,
-          "Generic Stealer": 2589,
-          "Lumma": 3073,
-          "Mystic": 12,
-          "Predator": 4,
-          "Raccoon": 987,
-          "RedLine": 3423,
-          "StealC": 537,
-          "Taurus": 8,
-          "UNKNOWN": 143,
-          "Vidar": 393
-        },
-        "last_employee_compromised": "2026-08-13T16:45:52.865000+00:00",
-        "last_user_compromised": "2026-08-16T23:30:15.426000+00:00",
-        "thirdparties": 2831,
-        "update": "2026-08-17T14:54:23",
-        "users": 13204,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/dd217f8b54153a97915afbde4ad9c0a3.png",
-      "url": "https://www.ransomware.live/id/QXJpem9uYSBTdGF0ZSBVbml2ZXJzaXR5IChBU1UpQGRpcmV3b2xm",
-      "victim": "Arizona State University (ASU)"
     }
   ]
 }
