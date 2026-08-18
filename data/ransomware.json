@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T22:19:25.261606+00:00",
+  "last_success": "2026-08-18T23:18:56.298620+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-18T18:51:41.692311+00:00",
+      "claim_url": "https://business-data-leaks.com/about#c60495e8cb28f363781648534",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-08-18T18:52:28.671905+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b9833e340df8a22070e33ce0426e38c8.png",
+      "url": "https://www.ransomware.live/id/VC4uLiBQLi4uIEwuLi5AU2lsZW50UmFuc29tR3JvdXA=",
+      "victim": "T... P... L..."
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-18T17:38:29.559308+00:00",
@@ -441,23 +458,6 @@
       "screenshot": "https://images.ransomware.live/victims/74b8809f2d29a9552a0aa400587448a9.png",
       "url": "https://www.ransomware.live/id/Qk1XIEdyb3VwQHhwbDBpdHJz",
       "victim": "BMW Group"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-17T18:21:18.338027+00:00",
-      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/42/",
-      "country": "US",
-      "data_size": null,
-      "description": "Country: New Hampshire,US |\nWebsite: www.rubber-group.com |\nRevenue: $19.4 Million |\nIndustry: Plastics Manufacturing, Tires & Rubber, Manufacturing |\nEmployees: 50-100 |\nProperties: 162 GB (207,203 Files, 21,624 Folders)",
-      "discovered": "2026-08-17T18:22:02.804731+00:00",
-      "domain": "www.rubber-group.com",
-      "group": "Global Secret Group",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7ad8388a6ec3125a4b5bab0413dda1fe.png",
-      "url": "https://www.ransomware.live/id/VGhlIFJ1YmJlciBHcm91cEBHbG9iYWwgU2VjcmV0IEdyb3Vw",
-      "victim": "The Rubber Group"
     }
   ]
 }
