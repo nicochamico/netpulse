@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T11:22:13.388355+00:00",
+  "last_success": "2026-08-18T12:39:24.121330+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-08-18T07:24:00+00:00",
+      "claim_url": "/post/prefeitura-municipal-de-arcos/",
+      "country": "BR",
+      "data_size": null,
+      "description": "We hold complete, unrestricted access to your internal infrastructure. All servers, databases, emails, and admin credentials have been exfiltrated. Critical systems have been encrypted.\n\nWe have your data. You do not.\n\nYou have 14 days to respond. No response = data published + permanent loss.\n\nContact us through the provided channel. No third parties. No recovery attempts. [Size: 462.3 MB | Sector: Government]",
+      "discovered": "2026-08-18T07:51:43.694949+00:00",
+      "domain": "arcos.mg.gov.br",
+      "group": "emperador",
+      "infostealer": {
+        "employees": 8,
+        "employees_url": 4,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 8,
+        "update": "2026-08-18T09:08:26.242093",
+        "users": 2,
+        "users_url": 11
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UHJlZmVpdHVyYSBNdW5pY2lwYWwgZGUgQXJjb3NAZW1wZXJhZG9y",
+      "victim": "Prefeitura Municipal de Arcos"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-18T03:21:13.820750+00:00",
@@ -465,23 +492,6 @@
       "screenshot": "https://images.ransomware.live/victims/bffc67374374c4f143ac5aa8efc77d34.png",
       "url": "https://www.ransomware.live/id/RG9pbW8gQ3VjaW5lQFBhbnplcg==",
       "victim": "Doimo Cucine"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-08-17T09:35:06+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a82d5ca0587fc6c38c9e2f2",
-      "country": "US",
-      "data_size": null,
-      "description": "Valor Defense Solutions, Inc. is a woman-owned small business and defense contractor headquartered in Odon, Indiana. Founded in 2018, the company provides customized solutions to government, military, and commercial customers. Its services include logistics, engineering support, electronic module and cable manufacturing, military equipment refurbishment, protective coatings, sandblasting, painting, and powder coating. Valor Defense Solutions supports U.S. Department of Defense projects and has worked with government agencies and defense contractors on equipment manufacturing, maintenance, and sustainment. The company focuses on delivering reliable, high-quality products and technical services that support military operations and the broader public sector. \nThe company headquarters is located in 15484 N 1350 E, Odon, IN 47562, USA. 11-50 Employees",
-      "discovered": "2026-08-18T04:22:24.122242+00:00",
-      "domain": "",
-      "group": "Storm",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9728ed74d608bd577fc3ebf5a517eade.png",
-      "url": "https://www.ransomware.live/id/VmFsb3IgRGVmZW5zZSBTb2x1dGlvbnMsIEluY0BTdG9ybQ==",
-      "victim": "Valor Defense Solutions, Inc"
     }
   ]
 }
