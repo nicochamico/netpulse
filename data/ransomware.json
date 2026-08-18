@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T07:34:47.637360+00:00",
+  "last_success": "2026-08-18T08:32:50.738402+00:00",
   "count": 100,
   "items": [
     {
@@ -467,31 +467,21 @@
       "victim": "Doimo Cucine"
     },
     {
-      "activity": "Not Found",
-      "attackdate": "2026-08-17T09:10:25.143955+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=50670edf-f2a0-45b3-ae78-bfbc7f5e951d",
-      "country": "BR",
+      "activity": "Government & Defense",
+      "attackdate": "2026-08-17T09:35:06+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a82d5ca0587fc6c38c9e2f2",
+      "country": "US",
       "data_size": null,
-      "description": "A Vermont coloca seus clientes estrategicamente no Centro das Decisões, pois entende que o cliente deve estar no Centro das Atenções. Com isso estabelecido, a companhia acredita que é mais simples interpretar o mercado a partir dos desejos e perspectivas do mesmo. Vermont XCenter: Centro de interAções modernas que promovem experiências em relacionamento. Soluções de Contact Center que contam com um avanço tecnológico do atendimento e que se adaptam às necessidades de um consumidor cada vez mais exigente e conectado; Soluções de Tecnologia: Pensada por meio de um portfólio que vai desde fábrica de software, mapeamento e modelagem dos processos de negócios (BPM) até Service e Help Desk. Com Skills técnicos e avançadas linguagens de programação.",
-      "discovered": "2026-08-17T09:24:54.771469+00:00",
-      "domain": "vermont.com.br",
-      "group": "dragonforce",
-      "infostealer": {
-        "employees": 2,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 9,
-        "update": "2026-08-17T09:24:24",
-        "users": 48,
-        "users_url": 17
-      },
+      "description": "Valor Defense Solutions, Inc. is a woman-owned small business and defense contractor headquartered in Odon, Indiana. Founded in 2018, the company provides customized solutions to government, military, and commercial customers. Its services include logistics, engineering support, electronic module and cable manufacturing, military equipment refurbishment, protective coatings, sandblasting, painting, and powder coating. Valor Defense Solutions supports U.S. Department of Defense projects and has worked with government agencies and defense contractors on equipment manufacturing, maintenance, and sustainment. The company focuses on delivering reliable, high-quality products and technical services that support military operations and the broader public sector. \nThe company headquarters is located in 15484 N 1350 E, Odon, IN 47562, USA. 11-50 Employees",
+      "discovered": "2026-08-18T04:22:24.122242+00:00",
+      "domain": "",
+      "group": "Storm",
+      "infostealer": "",
       "press": null,
       "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ad7f20eba43b2ee45c5cbb9828acc2f1.png",
-      "url": "https://www.ransomware.live/id/VmVybW9udCBYQ2VudGVyQGRyYWdvbmZvcmNl",
-      "victim": "Vermont XCenter"
+      "screenshot": "https://images.ransomware.live/victims/9728ed74d608bd577fc3ebf5a517eade.png",
+      "url": "https://www.ransomware.live/id/VmFsb3IgRGVmZW5zZSBTb2x1dGlvbnMsIEluY0BTdG9ybQ==",
+      "victim": "Valor Defense Solutions, Inc"
     }
   ]
 }
