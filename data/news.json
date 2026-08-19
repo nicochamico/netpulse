@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-19T11:21:41.462422+00:00",
+  "last_success": "2026-08-19T12:40:05.222875+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "published": "Wed, 19 Aug 2026 16:55:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "published": "Wed, 19 Aug 2026 16:31:48 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
@@ -28,16 +40,10 @@
       "published": "Tue, 18 Aug 2026 23:14:05 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "published": "Tue, 18 Aug 2026 18:08:36 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "published": "Wed, 19 Aug 2026 07:14:28 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Clop created custom web shell for Windchill data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
       "published": "Tue, 18 Aug 2026 13:29:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "published": "Tue, 18 Aug 2026 10:01:11 -0400"
     }
   ]
 }
