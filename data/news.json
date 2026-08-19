@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-19T12:40:05.222875+00:00",
+  "last_success": "2026-08-19T13:40:52.655905+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "published": "Wed, 19 Aug 2026 18:42:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "published": "Wed, 19 Aug 2026 17:04:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "published": "Wed, 19 Aug 2026 17:00:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
@@ -20,24 +38,6 @@
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
       "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
       "published": "Wed, 19 Aug 2026 11:31:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "published": "Wed, 19 Aug 2026 11:09:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "published": "Tue, 18 Aug 2026 23:17:22 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530"
     },
     {
       "source": "BleepingComputer",

@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-19T12:40:05.222875+00:00",
+  "last_success": "2026-08-19T13:40:52.655905+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-19T09:30:28.479935+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=49409db9-7118-45f9-a6c4-fcc563bd51b7",
+      "country": "UY",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-19T09:31:14.402113+00:00",
+      "domain": "www.integraduanas.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b7f328e42c94d56045cbec6f61bc1df8.png",
+      "url": "https://www.ransomware.live/id/SW50ZWdyYWR1YW5hc0BxaWxpbg==",
+      "victim": "Integraduanas"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-19T08:15:35.441511+00:00",
@@ -483,23 +500,6 @@
       "screenshot": "https://images.ransomware.live/victims/5031733d0424de55d5c4e780c49691a5.png",
       "url": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
       "victim": "SpearFin Ltd"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-18T00:00:00+00:00",
-      "claim_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
-      "country": "US",
-      "data_size": null,
-      "description": "Status: AWAITING\nSize: 925 GB",
-      "discovered": "2026-08-18T20:02:25.447215+00:00",
-      "domain": "",
-      "group": "securotrop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
-      "url": "https://www.ransomware.live/id/QURMIEVtYmVkZGVkIFNvbHV0aW9uc0BzZWN1cm90cm9w",
-      "victim": "ADL Embedded Solutions"
     }
   ]
 }
