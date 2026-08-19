@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-18T23:18:56.298620+00:00",
+  "last_success": "2026-08-19T01:04:17.571293+00:00",
   "count": 100,
   "items": [
     {
@@ -225,6 +225,23 @@
       "victim": "SpearFin Ltd"
     },
     {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-18T00:00:00+00:00",
+      "claim_url": "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "Status: AWAITING\nSize: 925 GB",
+      "discovered": "2026-08-18T20:02:25.447215+00:00",
+      "domain": "",
+      "group": "securotrop",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "url": "https://www.ransomware.live/id/QURMIEVtYmVkZGVkIFNvbHV0aW9uc0BzZWN1cm90cm9w",
+      "victim": "ADL Embedded Solutions"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-08-18T00:00:00+00:00",
       "claim_url": "",
@@ -441,23 +458,6 @@
       "screenshot": "https://images.ransomware.live/victims/c905b79da57e0c027c69d3a596214daa.png",
       "url": "https://www.ransomware.live/id/U2FtIFBhY2sgQXV0byBHcm91cEBwbGF5",
       "victim": "Sam Pack Auto Group"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-17T18:29:53.179392+00:00",
-      "claim_url": "http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion/company/bmw/",
-      "country": "DE",
-      "data_size": null,
-      "description": "German multinational luxury vehicles",
-      "discovered": "2026-08-17T18:30:10.672092+00:00",
-      "domain": "",
-      "group": "xpl0itrs",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/74b8809f2d29a9552a0aa400587448a9.png",
-      "url": "https://www.ransomware.live/id/Qk1XIEdyb3VwQHhwbDBpdHJz",
-      "victim": "BMW Group"
     }
   ]
 }
