@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-19T14:29:54.289349+00:00",
+  "last_success": "2026-08-19T15:28:00.399034+00:00",
   "count": 1670,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-415"
       ],
-      "epss": 0.5585,
-      "epss_percentile": 0.98957
+      "epss": 0.77898,
+      "epss_percentile": 0.99536
     },
     {
       "cveID": "CVE-2026-59310",
@@ -35,8 +35,8 @@
       "cwes": [
         "CWE-22"
       ],
-      "epss": 0.0114,
-      "epss_percentile": 0.63931
+      "epss": 0.02405,
+      "epss_percentile": 0.82739
     },
     {
       "cveID": "CVE-2026-55040",
@@ -52,8 +52,8 @@
       "cwes": [
         "CWE-1390"
       ],
-      "epss": 0.03971,
-      "epss_percentile": 0.89591
+      "epss": 0.05489,
+      "epss_percentile": 0.92135
     },
     {
       "cveID": "CVE-2026-65400",
@@ -69,8 +69,8 @@
       "cwes": [
         "CWE-287"
       ],
-      "epss": 0.00496,
-      "epss_percentile": 0.40366
+      "epss": 0.00751,
+      "epss_percentile": 0.52159
     },
     {
       "cveID": "CVE-2025-62593",
@@ -88,7 +88,7 @@
         "CWE-352"
       ],
       "epss": 0.01015,
-      "epss_percentile": 0.60394
+      "epss_percentile": 0.60546
     },
     {
       "cveID": "CVE-2026-20349",
@@ -105,7 +105,7 @@
         "CWE-244"
       ],
       "epss": 0.00874,
-      "epss_percentile": 0.55963
+      "epss_percentile": 0.5613
     },
     {
       "cveID": "CVE-2026-68820",
@@ -122,7 +122,7 @@
         "CWE-416"
       ],
       "epss": 0.00332,
-      "epss_percentile": 0.26075
+      "epss_percentile": 0.26197
     },
     {
       "cveID": "CVE-2026-72898",
@@ -139,7 +139,7 @@
         "CWE-89"
       ],
       "epss": 0.104,
-      "epss_percentile": 0.95335
+      "epss_percentile": 0.95354
     },
     {
       "cveID": "CVE-2026-8037",
@@ -173,7 +173,7 @@
         "CWE-502"
       ],
       "epss": 0.10722,
-      "epss_percentile": 0.95435
+      "epss_percentile": 0.95454
     }
   ]
 }

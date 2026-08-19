@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-19T14:29:54.289349+00:00",
+  "last_success": "2026-08-19T15:28:00.399034+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-19T11:00:51.366158+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=36ee3678-0869-4855-84d6-6c24da6b0595",
+      "country": "CY",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-19T11:01:27.077374+00:00",
+      "domain": "www.medochemie.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a0b123eeddf1b29108e3275ace00c8d9.png",
+      "url": "https://www.ransomware.live/id/TWVkb2NoZW1pZUBxaWxpbg==",
+      "victim": "Medochemie"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-19T11:00:11.771766+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cf78de2d-e2cc-4ec1-9100-42954ad8060f",
+      "country": "DE",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-19T11:00:32.349655+00:00",
+      "domain": "www.smart-energies.eu",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0142de42319bef76285650343155619a.png",
+      "url": "https://www.ransomware.live/id/U21hcnQgRW5lcmdpZXNAcWlsaW4=",
+      "victim": "Smart Energies"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-19T09:30:28.479935+00:00",
@@ -449,57 +483,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UHJlZmVpdHVyYSBNdW5pY2lwYWwgZGUgQXJjb3NAZW1wZXJhZG9y",
       "victim": "Prefeitura Municipal de Arcos"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-18T03:21:13.820750+00:00",
-      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/Dj8yoB2WXxWnsaz7rWtbtYu4vlkCxVt24eIEwa4Rut9nKfSy2ZsAzadrZvrQraO+LEngQYNc7SPDzMAN5mMTlDa1l5QjRT",
-      "country": "DE",
-      "data_size": null,
-      "description": "Data breach at a global leader in packaging manufacturing.",
-      "discovered": "2026-08-18T03:21:51.524145+00:00",
-      "domain": "sig.biz",
-      "group": "anubis",
-      "infostealer": {
-        "employees": 21,
-        "employees_url": 11,
-        "infostealer_stats": {
-          "Generic Stealer": 6,
-          "Lumma": 11,
-          "Raccoon": 3,
-          "RedLine": 8,
-          "StealC": 6,
-          "Vidar": 1
-        },
-        "last_employee_compromised": "2025-12-15T02:55:21+00:00",
-        "last_user_compromised": "2024-04-27T05:55:13+00:00",
-        "thirdparties": 40,
-        "update": "2026-08-18T04:29:52.017375",
-        "users": 14,
-        "users_url": 12
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f4a2e0fb8ad631ca2b979a6b9ac37c70.png",
-      "url": "https://www.ransomware.live/id/U2Nob2xsZSBJUE4gLyBTSUdAYW51Ymlz",
-      "victim": "Scholle IPN / SIG"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-18T01:00:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a84277a9cd108bf265a45d9",
-      "country": "MU",
-      "data_size": null,
-      "description": "SpearFin Ltd\r https://spearfin.net\r SpearFin offers a wide range of services including fund administration, corporate services, compliance support, and investor relations. \r Assets Under Administration US$10 billion.\r \r The leak occurred on June 26, 2026.\r Total leak: 416 GB \r \r Leak included: NDA, Correspondence Client, KYC - Passports, Certificates, Investing documents, \r Share Registry and Holders, Anti-Money Laundering (AML) audit, Agreements, Application forms, Bank Statements, \r Bank Payrolls, Loans Documents, Certificates of GBC (Global Business Company), Register of Directors and many other financial documents.\r \r Clients: YuMee Seven Six, BAMBOO BAY PRIVATE LIMITED, Asio Global Fund, 3B Capital, Abans Group, Amicorp Capital, Apex Fund Services Ltd, Pangaea Fund Limited, \r AL Farah Overseas Limited, Zinnia Group,  AMG Services Ltd, NEO SEMI SG PTE. LTD, MIC ELECTRONICS LIMITED, Zenbridge Capital Pvt. Ltd., Zinnia Investment Advisers Pvt Ltd, \r Onpoint Ventures Limited,  Wilson Group, Blue River, Capital Advisors Private Limited,  Zenbridge Capital Pvt Ltd,\r Topland Group Holdings, Africa Opportunities Fund, Appollo Fund Limited and many other...\r \r Type of information: Confidential\r \r Full publication coming soon...",
-      "discovered": "2026-08-18T10:27:05.942796+00:00",
-      "domain": "",
-      "group": "incransom",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5031733d0424de55d5c4e780c49691a5.png",
-      "url": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
-      "victim": "SpearFin Ltd"
     }
   ]
 }
