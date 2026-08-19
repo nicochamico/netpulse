@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-19T01:04:17.571293+00:00",
+  "last_success": "2026-08-19T02:54:11.676316+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-18T22:51:55.861670+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "2nd time we attacked them in a year (first time through physical intrusion), will continue our attacks…",
+      "discovered": "2026-08-18T22:51:57.496742+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VHJvdXRtYW4gUGVwcGVyIExvY2tlQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "Troutman Pepper Locke"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-18T18:51:41.692311+00:00",
@@ -441,23 +458,6 @@
       "screenshot": "https://images.ransomware.live/victims/6fb8f3258ea4cf8e1f281b2a53c5af9f.png",
       "url": "https://www.ransomware.live/id/QnJpZGdlcG9ydCBDYXBpdGFsIFNlcnZpY2VzQHBsYXk=",
       "victim": "Bridgeport Capital Services"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-17T20:26:40.639155+00:00",
-      "claim_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=QFRJmq96JT1fJm",
-      "country": "US",
-      "data_size": null,
-      "description": "United States",
-      "discovered": "2026-08-17T20:26:56.479395+00:00",
-      "domain": "www.sampack.com",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c905b79da57e0c027c69d3a596214daa.png",
-      "url": "https://www.ransomware.live/id/U2FtIFBhY2sgQXV0byBHcm91cEBwbGF5",
-      "victim": "Sam Pack Auto Group"
     }
   ]
 }
