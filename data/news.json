@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-19T19:22:20.638543+00:00",
+  "last_success": "2026-08-19T20:23:16.297169+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "published": "Thu, 20 Aug 2026 00:32:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "published": "Wed, 19 Aug 2026 23:36:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -28,16 +40,10 @@
       "published": "Wed, 19 Aug 2026 16:55:28 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "published": "Wed, 19 Aug 2026 16:31:48 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "published": "Wed, 19 Aug 2026 11:31:53 +0530"
+      "source": "BleepingComputer",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "published": "Wed, 19 Aug 2026 16:07:12 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Microsoft fixes known issue causing Windows Defender crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
       "published": "Wed, 19 Aug 2026 07:14:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "published": "Wed, 19 Aug 2026 06:12:24 -0400"
     }
   ]
 }
