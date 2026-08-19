@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-19T17:23:23.671691+00:00",
+  "last_success": "2026-08-19T18:30:38.547822+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+      "published": "Wed, 19 Aug 2026 14:09:13 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "published": "Wed, 19 Aug 2026 13:50:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
       "published": "Wed, 19 Aug 2026 11:56:09 -0400"
@@ -62,18 +74,6 @@
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "published": "Wed, 19 Aug 2026 06:12:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "published": "Wed, 19 Aug 2026 05:10:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "published": "Wed, 19 Aug 2026 04:00:48 -0400"
     }
   ]
 }
