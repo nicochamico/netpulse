@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-19T21:22:00.199697+00:00",
+  "last_success": "2026-08-19T22:21:03.598886+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-19T17:58:31.559425+00:00",
+      "claim_url": "http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion/company/mihuru/",
+      "country": "",
+      "data_size": null,
+      "description": "Consumer travel financing",
+      "discovered": "2026-08-19T17:58:48.125772+00:00",
+      "domain": "",
+      "group": "xpl0itrs",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ca7ce76e6df9e227d16e082f14fe429d.png",
+      "url": "https://www.ransomware.live/id/TWlodXJ1QHhwbDBpdHJz",
+      "victim": "Mihuru"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-08-19T15:57:06.388670+00:00",
@@ -356,23 +373,6 @@
       "screenshot": "https://images.ransomware.live/victims/a0b123eeddf1b29108e3275ace00c8d9.png",
       "url": "https://www.ransomware.live/id/TWVkb2NoZW1pZUBxaWxpbg==",
       "victim": "Medochemie"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-08-19T11:00:11.771766+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cf78de2d-e2cc-4ec1-9100-42954ad8060f",
-      "country": "DE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-19T11:00:32.349655+00:00",
-      "domain": "www.smart-energies.eu",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0142de42319bef76285650343155619a.png",
-      "url": "https://www.ransomware.live/id/U21hcnQgRW5lcmdpZXNAcWlsaW4=",
-      "victim": "Smart Energies"
     }
   ]
 }
