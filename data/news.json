@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-19T20:23:16.297169+00:00",
+  "last_success": "2026-08-19T21:22:00.199697+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rogue ransomware affiliate poses as data recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "published": "Wed, 19 Aug 2026 16:59:58 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "published": "Wed, 19 Aug 2026 16:53:38 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
       "published": "Wed, 19 Aug 2026 16:07:12 -0400"
@@ -62,18 +74,6 @@
       "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
       "published": "Wed, 19 Aug 2026 11:56:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "published": "Wed, 19 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "published": "Wed, 19 Aug 2026 07:14:28 -0400"
     }
   ]
 }
