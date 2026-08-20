@@ -1,9 +1,43 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-20T18:34:28.434910+00:00",
-  "count": 1671,
+  "last_success": "2026-08-20T19:28:02.582362+00:00",
+  "count": 1673,
   "items": [
+    {
+      "cveID": "CVE-2026-72530",
+      "vendorProject": "TrueConf",
+      "product": "Server",
+      "vulnerabilityName": "TrueConf Server Code Injection Vulnerability",
+      "dateAdded": "2026-08-20",
+      "shortDescription": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-09-03",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://trueconf.com/blog/news/security-fixes-updates-and-advisories ; https://ics-cert.kaspersky.com/advisories/2026/08/11/trueconf-server-breakout-from-isolated-environment/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-72530",
+      "cwes": [
+        "CWE-94"
+      ],
+      "epss": 0.0034,
+      "epss_percentile": 0.27168
+    },
+    {
+      "cveID": "CVE-2026-72529",
+      "vendorProject": "TrueConf",
+      "product": "Server",
+      "vulnerabilityName": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-08-20",
+      "shortDescription": "TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-23",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://trueconf.com/blog/news/security-fixes-updates-and-advisories ; https://ics-cert.kaspersky.com/advisories/2026/08/11/trueconf-server-missing-authentication-for-critical-function/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-72529",
+      "cwes": [
+        "CWE-306"
+      ],
+      "epss": 0.00284,
+      "epss_percentile": 0.21051
+    },
     {
       "cveID": "CVE-2026-64849",
       "vendorProject": "MLflow",
@@ -140,40 +174,6 @@
       ],
       "epss": 0.00332,
       "epss_percentile": 0.26245
-    },
-    {
-      "cveID": "CVE-2026-72898",
-      "vendorProject": "Metabase",
-      "product": "Metabase",
-      "vulnerabilityName": "Metabase SQL Injection Vulnerability",
-      "dateAdded": "2026-08-11",
-      "shortDescription": "Metabase contains a SQL Injection vulnerability that allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, which can give them administrator access to the instance. From there, the attacker could change the application configuration, steal stored credentials for the connected databases, read any data accessible through those connections, and export data.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-08-14",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://www.metabase.com/blog/security-update ; https://github.com/metabase/metabase/security/advisories/GHSA-vwf4-m7j8-wcjf ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-72898",
-      "cwes": [
-        "CWE-89"
-      ],
-      "epss": 0.104,
-      "epss_percentile": 0.95364
-    },
-    {
-      "cveID": "CVE-2026-8037",
-      "vendorProject": "Progress",
-      "product": "LoadMaster",
-      "vulnerabilityName": "Progress LoadMaster Command Injection Vulnerability",
-      "dateAdded": "2026-08-07",
-      "shortDescription": "Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-08-10",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://community.progress.com/s/article/LoadMaster-Critical-Security-Bulletin-June-2026-CVE-2026-8037-CVE-2026-33691 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-8037",
-      "cwes": [
-        "CWE-77"
-      ],
-      "epss": 0.99311,
-      "epss_percentile": 0.99937
     }
   ]
 }

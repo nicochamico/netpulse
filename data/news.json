@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T18:34:28.434910+00:00",
+  "last_success": "2026-08-20T19:28:02.582362+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "published": "Thu, 20 Aug 2026 22:53:48 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -32,12 +38,6 @@
       "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
       "published": "Thu, 20 Aug 2026 18:54:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "published": "Thu, 20 Aug 2026 17:31:24 +0530"
     },
     {
       "source": "BleepingComputer",
