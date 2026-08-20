@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T06:40:18.169369+00:00",
+  "last_success": "2026-08-20T07:38:05.360234+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "published": "Thu, 20 Aug 2026 02:51:03 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "published": "Wed, 19 Aug 2026 20:20:55 -0400"
@@ -68,12 +74,6 @@
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "published": "Wed, 19 Aug 2026 14:09:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "published": "Wed, 19 Aug 2026 13:50:01 -0400"
     }
   ]
 }

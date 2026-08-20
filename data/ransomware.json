@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-20T06:40:18.169369+00:00",
+  "last_success": "2026-08-20T07:38:05.360234+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-20T02:53:24.230662+00:00",
+      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/grupo-dt",
+      "country": "MX",
+      "data_size": null,
+      "description": "[AI generated] N/A",
+      "discovered": "2026-08-20T02:53:41.315894+00:00",
+      "domain": "",
+      "group": "everest",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/37d2fb6f1963241c816b3d24f30f4f5e.png",
+      "url": "https://www.ransomware.live/id/R3J1cG8gRFRAZXZlcmVzdA==",
+      "victim": "Grupo DT"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-20T01:52:45.089178+00:00",
+      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/capgemini-engineering",
+      "country": "FR",
+      "data_size": null,
+      "description": "[AI generated] Capgemini Engineering is a global technology and engineering services company headquartered in France. It provides R&D and engineering outsourcing services across industries including aerospace, automotive, telecommunications, energy, and semiconductors. Operating in over 30 countries, it combines software, hardware, and connected systems expertise to help clients design, develop, and deploy innovative products and digital solutions.",
+      "discovered": "2026-08-20T02:53:03.557990+00:00",
+      "domain": "",
+      "group": "everest",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/998877d00f2bce5ce762b4a92effe597.png",
+      "url": "https://www.ransomware.live/id/Q2FwZ2VtaW5pIEVuZ2luZWVyaW5nQGV2ZXJlc3Q=",
+      "victim": "Capgemini Engineering"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-20T00:00:45.349971+00:00",
@@ -349,40 +383,6 @@
       "screenshot": "https://images.ransomware.live/victims/b6c71026f42ec729951ed981d28eb3f8.png",
       "url": "https://www.ransomware.live/id/d3d3LmhzaS5pbmZvQGtyeWJpdA==",
       "victim": "www.hsi.info"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-19T11:31:24.918109+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c5c36680-2816-4e3c-af6d-270e02802938",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-19T11:31:44.409961+00:00",
-      "domain": "www.wislogistics.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5f817008fd355a7962d26d2a174d0866.png",
-      "url": "https://www.ransomware.live/id/V0lTIExPR0lTVElDU0BxaWxpbg==",
-      "victim": "WIS LOGISTICS"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-19T11:30:33.644468+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=ac23046b-ae6c-4f3e-a882-a07d0bf2ae6e",
-      "country": "GB",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-19T11:31:05.969264+00:00",
-      "domain": "www.inventry.co.uk",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SW5WZW50cnlAcWlsaW4=",
-      "victim": "InVentry"
     }
   ]
 }
