@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T11:23:13.675102+00:00",
+  "last_success": "2026-08-20T12:41:46.727227+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "published": "Thu, 20 Aug 2026 08:14:38 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "published": "Thu, 20 Aug 2026 07:06:14 -0400"
@@ -68,12 +74,6 @@
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "published": "Wed, 19 Aug 2026 20:20:55 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "published": "Wed, 19 Aug 2026 16:59:58 -0400"
     }
   ]
 }
