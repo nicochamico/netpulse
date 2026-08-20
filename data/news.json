@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T19:28:02.582362+00:00",
+  "last_success": "2026-08-20T20:24:25.993061+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "published": "Fri, 21 Aug 2026 01:29:19 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
@@ -32,12 +38,6 @@
       "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
       "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
       "published": "Thu, 20 Aug 2026 19:05:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "published": "Thu, 20 Aug 2026 18:54:28 +0530"
     },
     {
       "source": "BleepingComputer",
