@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T10:26:30.788938+00:00",
+  "last_success": "2026-08-20T11:23:13.675102+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+      "published": "Thu, 20 Aug 2026 16:35:11 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "published": "Thu, 20 Aug 2026 16:08:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+      "published": "Thu, 20 Aug 2026 14:12:03 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
@@ -22,22 +40,10 @@
       "published": "Wed, 19 Aug 2026 23:36:44 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "published": "Wed, 19 Aug 2026 18:42:17 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "published": "Wed, 19 Aug 2026 17:04:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "published": "Wed, 19 Aug 2026 17:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "published": "Thu, 20 Aug 2026 07:06:14 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
       "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
       "published": "Wed, 19 Aug 2026 16:59:58 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "published": "Wed, 19 Aug 2026 16:53:38 -0400"
     }
   ]
 }
