@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-20T02:53:47.812892+00:00",
+  "last_success": "2026-08-20T03:43:08.295963+00:00",
   "count": 100,
   "items": [
     {
@@ -337,7 +337,7 @@
       "activity": "Transportation",
       "attackdate": "2026-08-19T11:31:24.918109+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c5c36680-2816-4e3c-af6d-270e02802938",
-      "country": "SG",
+      "country": "US",
       "data_size": null,
       "description": "N/A",
       "discovered": "2026-08-19T11:31:44.409961+00:00",
