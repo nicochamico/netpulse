@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-20T03:43:08.295963+00:00",
+  "last_success": "2026-08-20T04:33:41.019606+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-20T00:00:45.349971+00:00",
+      "claim_url": "http://2kieaq6jnwgrru62wwtxaafg35q6rzweg7y2xjfnbhvq5wd4eojqv6yd.onion/company/target/",
+      "country": "US",
+      "data_size": null,
+      "description": "General merchandise retail",
+      "discovered": "2026-08-20T00:00:59.697641+00:00",
+      "domain": "",
+      "group": "xpl0itrs",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c51886b01d079e72863294beed262913.png",
+      "url": "https://www.ransomware.live/id/VGFyZ2V0QHhwbDBpdHJz",
+      "victim": "Target"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-08-19T21:57:15.205206+00:00",
@@ -366,23 +383,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SW5WZW50cnlAcWlsaW4=",
       "victim": "InVentry"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-19T11:11:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a857ba49cd108bf268592d4",
-      "country": "TH",
-      "data_size": null,
-      "description": "About Bangkok Cable\r Bangkok Cable is Thailand's leading manufacturer of electric wires and cables, boasting over five decades of sustainable growth. The company is committed to connecting people with power and driving economic development through innovative manufacturing technologies. With a production capacity of 30,000 metric tons per year for copper and 15,000 metric tons for aluminum cables, Bangkok Cable adheres to high-quality standards and sustainable practices. Their products serve a wide range of clients, contributing to the country's development and enhancing the quality of life through reliable electrical power.",
-      "discovered": "2026-08-19T13:55:48.483474+00:00",
-      "domain": "",
-      "group": "incransom",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/886325dd134d565f84c1449dccac38e3.png",
-      "url": "https://www.ransomware.live/id/QkFOR0tPS0NBQkxFQGluY3JhbnNvbQ==",
-      "victim": "BANGKOKCABLE"
     }
   ]
 }
