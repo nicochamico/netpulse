@@ -1,10 +1,10 @@
 {
   "source": "NetPulse calculated risk score",
   "status": "live",
-  "last_success": "2026-08-20T01:04:06.341575+00:00",
+  "last_success": "2026-08-20T01:15:37.246100+00:00",
   "score": 16,
   "label": "LOW RISK",
-  "trend": "-15",
+  "trend": "+0",
   "components": {
     "kev_score": 12,
     "epss_score": 19.96,
