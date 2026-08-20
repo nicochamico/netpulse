@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T15:30:12.990740+00:00",
+  "last_success": "2026-08-20T16:31:28.595339+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "published": "Thu, 20 Aug 2026 20:06:27 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
@@ -32,12 +38,6 @@
       "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
       "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
       "published": "Thu, 20 Aug 2026 17:15:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "published": "Thu, 20 Aug 2026 17:09:35 +0530"
     },
     {
       "source": "BleepingComputer",
