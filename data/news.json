@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T14:32:36.781258+00:00",
+  "last_success": "2026-08-20T15:30:12.990740+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "published": "Thu, 20 Aug 2026 10:39:48 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "How MSPs can catch phishing attacks email filters miss",
       "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "published": "Thu, 20 Aug 2026 10:01:11 -0400"
@@ -68,12 +74,6 @@
       "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
       "published": "Thu, 20 Aug 2026 05:46:54 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "published": "Thu, 20 Aug 2026 02:51:03 -0400"
     }
   ]
 }
