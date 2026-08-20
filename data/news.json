@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-20T05:26:53.207745+00:00",
+  "last_success": "2026-08-20T06:40:18.169369+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "published": "Thu, 20 Aug 2026 11:34:34 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
@@ -32,12 +38,6 @@
       "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
       "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
       "published": "Wed, 19 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "published": "Wed, 19 Aug 2026 16:55:28 +0530"
     },
     {
       "source": "BleepingComputer",
