@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-20T22:23:22.845692+00:00",
+  "last_success": "2026-08-20T23:21:57.193717+00:00",
   "count": 100,
   "items": [
     {
@@ -381,6 +381,23 @@
       "victim": "TECNOLOGICA S.r.l."
     },
     {
+      "activity": "Technology",
+      "attackdate": "2026-08-20T11:10:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "This is a final warning to reach out by end of day 24 Aug 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 20 Aug 2026 | Warning: FINAL WARNING PAY OR LEAK",
+      "discovered": "2026-08-20T18:43:17.962996+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Q3lydXMqKioqKipAc2hpbnlodW50ZXJz",
+      "victim": "Cyrus******"
+    },
+    {
       "activity": "Hospitality",
       "attackdate": "2026-08-20T10:33:28.765501+00:00",
       "claim_url": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion",
@@ -396,23 +413,6 @@
       "screenshot": "https://images.ransomware.live/victims/0e5738c903e77e652564711fd74111a4.png",
       "url": "https://www.ransomware.live/id/R3JhbmQgSW9uIERlbGVtZW4gSG90ZWxAbWFqaW5haGFuYXNoaQ==",
       "victim": "Grand Ion Delemen Hotel"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-08-20T10:32:56.195015+00:00",
-      "claim_url": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion",
-      "country": "GB",
-      "data_size": null,
-      "description": "PUBLICATION SCHEDULED. [LEAK / 8080 FILES]",
-      "discovered": "2026-08-20T10:33:10.513742+00:00",
-      "domain": "",
-      "group": "majinahanashi",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0e5738c903e77e652564711fd74111a4.png",
-      "url": "https://www.ransomware.live/id/VGhlIE1hcmdvIEhvdGVsQG1hamluYWhhbmFzaGk=",
-      "victim": "The Margo Hotel"
     }
   ]
 }
