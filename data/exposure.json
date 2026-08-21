@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:23:30.411665+00:00",
+  "generated_at": "2026-08-21T05:04:55.884323+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dhcp.awa.tohoku.ac.jp",
-        "prevailone.risrx.com",
-        "one.one.one.one"
+        "pms-sfusd-ca.schoolloop.com",
+        "one.one.one.one",
+        "wlan.net.umd.edu"
       ]
     },
     {
