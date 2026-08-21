@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:30:59.158766+00:00",
+  "generated_at": "2026-08-21T11:03:23.450623+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
   "anomalies": 0,
@@ -18,14 +18,14 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 621,
+        "announcements": 609,
         "withdrawals": 8
       },
-      "updates_per_peer": 1.7,
-      "peers_visible": 370,
+      "updates_per_peer": 1.66,
+      "peers_visible": 371,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-08-21T10:30:59.158701+00:00"
+      "ts": "2026-08-21T11:03:23.450563+00:00"
     },
     {
       "event": "OK",
@@ -39,14 +39,14 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 210,
-        "withdrawals": 86
+        "announcements": 206,
+        "withdrawals": 84
       },
-      "updates_per_peer": 0.8,
-      "peers_visible": 372,
+      "updates_per_peer": 0.78,
+      "peers_visible": 373,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-08-21T10:30:54.775492+00:00"
+      "ts": "2026-08-21T11:03:19.460050+00:00"
     }
   ]
 }
