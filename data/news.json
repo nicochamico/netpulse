@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-21T14:31:35.642550+00:00",
+  "last_success": "2026-08-21T15:29:33.179907+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "published": "Fri, 21 Aug 2026 10:54:49 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Is Online Privacy Possible? How Digital Identities Can Help",
       "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
       "published": "Fri, 21 Aug 2026 10:00:10 -0400"
@@ -68,12 +74,6 @@
       "title": "Hackers abuse FTP server banners to deliver new Windows malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
       "published": "Fri, 21 Aug 2026 07:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "published": "Fri, 21 Aug 2026 06:10:42 -0400"
     }
   ]
 }
