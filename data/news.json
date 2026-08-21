@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-21T15:29:33.179907+00:00",
+  "last_success": "2026-08-21T16:30:05.271694+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -28,16 +40,10 @@
       "published": "Fri, 21 Aug 2026 11:36:11 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "published": "Fri, 21 Aug 2026 01:52:35 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "published": "Fri, 21 Aug 2026 01:29:19 +0530"
+      "source": "BleepingComputer",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "published": "Fri, 21 Aug 2026 07:04:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "published": "Fri, 21 Aug 2026 07:00:00 -0400"
     }
   ]
 }

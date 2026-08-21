@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-21T15:29:33.179907+00:00",
+  "last_success": "2026-08-21T16:30:05.271694+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-21T11:56:53.567455+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a4a0d54e-27c5-45ec-a3aa-39184e012167",
+      "country": "IN",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-21T11:57:12.828596+00:00",
+      "domain": "www.gindre.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5027b000787f3a73c5977bf6380778e2.png",
+      "url": "https://www.ransomware.live/id/R2luZHJlIEluZGlhQHFpbGlu",
+      "victim": "Gindre India"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-08-21T10:27:30.392150+00:00",
@@ -486,33 +503,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VU9MY29uc3VsdEB0aGVnZW50bGVtZW4=",
       "victim": "UOLconsult"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-21T06:04:52.978569+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=ed288008-26ad-4b2d-babf-32879da1a35d",
-      "country": "US",
-      "data_size": null,
-      "description": "Hogan Omidi, P.C. is a boutique law firm specializing in family law, including divorce, child custody, and property division, with a focus on high-asset cases. The firm is led by experienced attorneys who have authored key reference materials on Colorado family law, providing them with a unique advantage in legal representation. They serve a diverse clientele, including executives, business owners, and professionals, ensuring personalized and strategic legal solutions. With offices in Denver and Aspen, they are dedicated to protecting clients' interests and achieving favorable outcomes in family law matters.",
-      "discovered": "2026-08-21T06:25:00.986120+00:00",
-      "domain": "hoganomidi.com",
-      "group": "dragonforce",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-21T06:24:58",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f0a836e5bc9b523d5bd3f13fb8d0222d.png",
-      "url": "https://www.ransomware.live/id/SG9nYW4gT21pZGkgUC5DLkBkcmFnb25mb3JjZQ==",
-      "victim": "Hogan Omidi P.C."
     }
   ]
 }
