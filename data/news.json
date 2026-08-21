@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-21T10:26:35.082165+00:00",
+  "last_success": "2026-08-21T11:22:29.983073+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "published": "Fri, 21 Aug 2026 15:33:11 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -34,10 +40,16 @@
       "published": "Thu, 20 Aug 2026 22:53:48 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "published": "Thu, 20 Aug 2026 22:29:44 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "published": "Fri, 21 Aug 2026 07:04:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "published": "Fri, 21 Aug 2026 07:00:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "How MSPs can catch phishing attacks email filters miss",
       "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "published": "Thu, 20 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "published": "Thu, 20 Aug 2026 08:14:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "published": "Thu, 20 Aug 2026 07:06:14 -0400"
     }
   ]
 }

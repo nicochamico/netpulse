@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-21T10:26:35.082165+00:00",
+  "last_success": "2026-08-21T11:22:29.983073+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-08-21T06:20:18.444774+00:00",
+      "claim_url": "",
+      "country": "MM",
+      "data_size": null,
+      "description": "Yoma Fleet is a leading vehicle operating lease, rental, and financing company based in Yangon, Myanmar. The platform provides centralized administration and management for vehicle orders, employee financing, repayments, users, and employee records. Admin account access — need to contact on Telegram.",
+      "discovered": "2026-08-21T06:20:20.286423+00:00",
+      "domain": "yomafleet.com",
+      "group": "DYSPHOR1A",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-08-21T06:21:22.882873",
+        "users": 46,
+        "users_url": 14
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/WW9tYSBGbGVldEBEWVNQSE9SMUE=",
+      "victim": "Yoma Fleet"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-21T06:04:52.978569+00:00",
+      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=ed288008-26ad-4b2d-babf-32879da1a35d",
+      "country": "US",
+      "data_size": null,
+      "description": "Hogan Omidi, P.C. is a boutique law firm specializing in family law, including divorce, child custody, and property division, with a focus on high-asset cases. The firm is led by experienced attorneys who have authored key reference materials on Colorado family law, providing them with a unique advantage in legal representation. They serve a diverse clientele, including executives, business owners, and professionals, ensuring personalized and strategic legal solutions. With offices in Denver and Aspen, they are dedicated to protecting clients' interests and achieving favorable outcomes in family law matters.",
+      "discovered": "2026-08-21T06:25:00.986120+00:00",
+      "domain": "hoganomidi.com",
+      "group": "dragonforce",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-21T06:24:58",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f0a836e5bc9b523d5bd3f13fb8d0222d.png",
+      "url": "https://www.ransomware.live/id/SG9nYW4gT21pZGkgUC5DLkBkcmFnb25mb3JjZQ==",
+      "victim": "Hogan Omidi P.C."
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-08-21T02:52:18.456997+00:00",
@@ -519,50 +573,6 @@
       "screenshot": "https://images.ransomware.live/victims/7bc1b0446bf452ebb7612a95ee0d6724.png",
       "url": "https://www.ransomware.live/id/cmVnZW5jeWNlbnRlcnNAaWFoNjQ3Nw==",
       "victim": "regencycenters"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-20T18:29:15.592179+00:00",
-      "claim_url": "http://iah6477wcvisc45wl54u524fbrh4dnmtcctpg2fpe5epf3jbpkiwu4qd.onion/a/acima/",
-      "country": "US",
-      "data_size": null,
-      "description": "Size: 2.1 TiB",
-      "discovered": "2026-08-20T18:29:32.073610+00:00",
-      "domain": "acima.com",
-      "group": "iah6477",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 17,
-        "update": "2026-08-20T18:31:27.160658",
-        "users": 984,
-        "users_url": 22
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b8021e4e071479aa1ff2f21a4781009b.png",
-      "url": "https://www.ransomware.live/id/YWNpbWFAaWFoNjQ3Nw==",
-      "victim": "acima"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-20T18:28:52.888142+00:00",
-      "claim_url": "http://iah6477wcvisc45wl54u524fbrh4dnmtcctpg2fpe5epf3jbpkiwu4qd.onion/a/marvin/",
-      "country": "",
-      "data_size": null,
-      "description": "Size: 2.2 TiB",
-      "discovered": "2026-08-20T18:29:08.217573+00:00",
-      "domain": "",
-      "group": "iah6477",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f2f82659129371fd4abf14161a70bbad.png",
-      "url": "https://www.ransomware.live/id/bWFydmluQGlhaDY0Nzc=",
-      "victim": "marvin"
     }
   ]
 }
