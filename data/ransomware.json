@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-21T18:32:09.948469+00:00",
+  "last_success": "2026-08-21T19:23:25.650899+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-21T14:55:56.695559+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=59a43842-d0d8-41db-ab38-2cd125d91db2",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-21T14:56:15.304066+00:00",
+      "domain": "www.quakerstate.com.mx",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/072038d419f6335db9fb3e595d06e44a.png",
+      "url": "https://www.ransomware.live/id/UXVha2VyIFN0YXRlIE1leGljb0BxaWxpbg==",
+      "victim": "Quaker State Mexico"
+    },
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-08-21T14:55:18.858993+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=769179b7-db54-45e8-b3ba-9d7c94951e5d",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-21T14:55:37.675449+00:00",
+      "domain": "www.ipic.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9aa3939e31cb3cfaffb8079db31c0cc2.png",
+      "url": "https://www.ransomware.live/id/aVBpY0BxaWxpbg==",
+      "victim": "iPic"
+    },
     {
       "activity": "Hospitality",
       "attackdate": "2026-08-21T12:56:35.156385+00:00",
@@ -429,60 +463,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TE9HIFN5c3RlbXNAdGhlZ2VudGxlbWVu",
       "victim": "LOG Systems"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-21T07:47:04+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "lexacaucho.com zoominfo.com/c/lexacaucho--laminados-y-extruidos-de-caucho-sac/457170004  Lexacaucho is a Peruvian manufacturing company based in Lima with over 25 years of experience in the rubber and polymer industry.\nThey specialize in producing molded rubber sheets, profiles, linings, and custom parts using materials like natural rubber, SBR, and EPDM.\nThe company primarily serves the mining, fishing, and general industrial sectors by providing durable elastomer solutions.",
-      "discovered": "2026-08-21T08:29:40.489466+00:00",
-      "domain": "lexacaucho.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 2,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-21T08:29:39",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TGV4YWNhdWNob0B0aGVnZW50bGVtZW4=",
-      "victim": "Lexacaucho"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-21T07:45:17+00:00",
-      "claim_url": "",
-      "country": "AE",
-      "data_size": null,
-      "description": "awjholding.com zoominfo.com/c/awj-holding-co/448239448 AWJ Holding Company is a prominent Saudi-based single-family office and investment firm established in 2016.\nHeadquartered in Riyadh, the company specializes in real estate development, property management, and strategic investment management.\nIt focuses on high-impact developments and operates dynamic subsidiaries across retail, hospitality, and infrastructure sectors.",
-      "discovered": "2026-08-21T08:29:56.576661+00:00",
-      "domain": "awjholding.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 18,
-        "update": "2026-08-21T08:29:55",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QVdKIEhvbGRpbmdAdGhlZ2VudGxlbWVu",
-      "victim": "AWJ Holding"
     }
   ]
 }
