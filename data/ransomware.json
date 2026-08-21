@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-21T16:30:05.271694+00:00",
+  "last_success": "2026-08-21T17:25:23.940936+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-08-21T12:56:35.156385+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=01be5eca-c028-47e8-add2-46a852dccda7",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-21T12:56:53.309028+00:00",
+      "domain": "www.cinepolis.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e693ca6267e36f71d9241983370c1656.png",
+      "url": "https://www.ransomware.live/id/Q2luw6lwb2xpc0BxaWxpbg==",
+      "victim": "Cinépolis"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-21T12:27:46.881499+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=260",
+      "country": "",
+      "data_size": null,
+      "description": "Fairview Dental Group Fairview Dental Group offers a range of dental services including family dentistry, cosmetic treatments, dental implants, and invisible braces.We are pleased to present:Full patient database, patient X-rays, scanned forms/consents/invoices, health records (PHI) of the entire practice, unencrypted.    More",
+      "discovered": "2026-08-21T12:28:19.425238+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RmFpcnZpZXcgRGVudGFsIEdyb3VwQHJoeXNpZGE=",
+      "victim": "Fairview Dental Group"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-21T11:56:53.567455+00:00",
@@ -449,60 +483,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QVdKIEhvbGRpbmdAdGhlZ2VudGxlbWVu",
       "victim": "AWJ Holding"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-21T07:43:44+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "dlp-motive.de dlp motive is a German full-service event technology provider founded in 2007, successfully realizing around 600 projects annually.\nThey offer comprehensive technical solutions including lighting, audio, video, kinetics, and rigging for corporate, e-sports, and public events.\nThe company handles the entire event lifecycle, providing everything from initial concept and design to logistics, on-site production, and equipment rental.",
-      "discovered": "2026-08-21T08:30:00.595422+00:00",
-      "domain": "dlp-motive.de",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-21T08:29:59",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/ZGxwIG1vdGl2ZUB0aGVnZW50bGVtZW4=",
-      "victim": "dlp motive"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-21T07:41:04+00:00",
-      "claim_url": "",
-      "country": "BR",
-      "data_size": null,
-      "description": "uol-consult.com UOLconsult GmbH is a boutique management consulting firm based in Vienna, Austria, founded in 2015.\nThey specialize in strategic management, business development, and investment consulting.",
-      "discovered": "2026-08-21T08:30:17.481144+00:00",
-      "domain": "uol-consult.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-21T08:30:15",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VU9MY29uc3VsdEB0aGVnZW50bGVtZW4=",
-      "victim": "UOLconsult"
     }
   ]
 }
