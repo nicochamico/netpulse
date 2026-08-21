@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-21T20:22:02.443545+00:00",
+  "last_success": "2026-08-21T21:20:40.299140+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-21T15:22:37+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/nteitalia",
+      "country": "",
+      "data_size": null,
+      "description": "NTE Italia, an engineering and telecommunications service provider based in Catanzaro, Italy. Sensitive thousands of documents are compromised.",
+      "discovered": "2026-08-21T16:51:22.138601+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/98a6059b01e7bf737f774d0cd6beec20.png",
+      "url": "https://www.ransomware.live/id/TnRlaXRhbGlhQFBhbnplcg==",
+      "victim": "Nteitalia"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-08-21T14:55:56.695559+00:00",
@@ -436,33 +453,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWFnZGFsZW5hIEdyYW5kIEJlYWNoIEdvbGYgUmVzb3J0QHRoZWdlbnRsZW1lbg==",
       "victim": "Magdalena Grand Beach Golf Resort"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-21T07:48:07+00:00",
-      "claim_url": "",
-      "country": "PL",
-      "data_size": null,
-      "description": "logsystem.pl zoominfo.com/c/log-systems/372786485 LOG Systems is a Polish software company based in Wrocław that develops comprehensive IT management and Helpdesk solutions.\nTheir flagship product, LOG Plus, is an advanced ITSM platform designed to streamline ticketing, incident management, and IT infrastructure monitoring.\nThe software also includes powerful Software Asset Management features to help organizations optimize licensing and ensure data security.",
-      "discovered": "2026-08-21T08:29:20.326445+00:00",
-      "domain": "logsystem.pl",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 14,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-21T08:29:18",
-        "users": 11,
-        "users_url": 34
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TE9HIFN5c3RlbXNAdGhlZ2VudGxlbWVu",
-      "victim": "LOG Systems"
     }
   ]
 }

@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-21T20:22:02.443545+00:00",
+  "last_success": "2026-08-21T21:20:40.299140+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "published": "Sat, 22 Aug 2026 00:23:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -32,12 +38,6 @@
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
       "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
       "published": "Fri, 21 Aug 2026 12:34:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "published": "Fri, 21 Aug 2026 11:36:11 +0530"
     },
     {
       "source": "BleepingComputer",
