@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:32:07.776811+00:00",
+  "generated_at": "2026-08-21T21:00:48.282398+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "pms-sfusd-ca.schoolloop.com",
+        "photo.dbi-nyc.com",
         "one.one.one.one",
-        "wlan.net.umd.edu"
+        "test.naviance.com"
       ]
     },
     {
