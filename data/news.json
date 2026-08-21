@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-21T11:22:29.983073+00:00",
+  "last_success": "2026-08-21T12:40:34.072911+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
@@ -34,10 +40,10 @@
       "published": "Fri, 21 Aug 2026 01:29:19 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "published": "Thu, 20 Aug 2026 22:53:48 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "published": "Fri, 21 Aug 2026 08:25:33 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "published": "Thu, 20 Aug 2026 10:39:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "published": "Thu, 20 Aug 2026 10:01:11 -0400"
     }
   ]
 }
