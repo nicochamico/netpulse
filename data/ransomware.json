@@ -1,9 +1,63 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-22T09:23:17.288253+00:00",
+  "last_success": "2026-08-22T10:19:44.576040+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-22T05:55:56.903592+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=264",
+      "country": "US",
+      "data_size": null,
+      "description": "CRI Electric CRI Electric is a veteran-owned business based in San Antonio, providing professional electrical services since 1998. They cater to both residential and commercial clients, offering services such as emergency electrical repairs, EV charger installations, and home rewiring. We are pleased to present:Employee's federal account artifacts** (`HR-Confidential\\Israel's Forms`): Login.gov personal recovery key (VA identity), TSP (retirement savings), ID.me, DoD DS Logon, PIEE (DoD contract payments)151 vendor W-9 forms** (SSN/EIN), payroll docs, HR-lawyer (privileged) correspondence, OSHA-adjacent injury/incident reports with photos.Public-sector bid pricing** (2025�2026: SAWS HQ EV charging, SAISD, NISD) � bid-competitiveness and Davis-Bacon certified-payroll context.Corporate docs (SDVOSB certification, Articles, bylaws, stock ledgers), QuickBooks financials, a Power of Attorney    More",
+      "discovered": "2026-08-22T05:56:26.446012+00:00",
+      "domain": "crielectric.com",
+      "group": "rhysida",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-22T05:57:39.939581",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f7c0c9ba955aee3907d5bb9d20840e89.png",
+      "url": "https://www.ransomware.live/id/Q1JJIEVsZWN0cmljQHJoeXNpZGE=",
+      "victim": "CRI Electric"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-08-22T00:00:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Full network image staged. ERP exports, dispatch DB and payroll archives recovered. Pending final inventory before publication.",
+      "discovered": "2026-08-22T05:19:52.744287+00:00",
+      "domain": "meridianlogisticgroup.com",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-22T05:38:41.001498",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TWVyaWRpYW4gTG9naXN0aWNzIEdyb3VwQHRoZWdlbnRsZW1lbg==",
+      "victim": "Meridian Logistics Group"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-08-21T14:55:56.695559+00:00",
@@ -409,60 +463,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QWthdGFrZSBFbmdpbmVlcmluZ0B0aGVnZW50bGVtZW4=",
       "victim": "Akatake Engineering"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-08-21T07:50:43+00:00",
-      "claim_url": "",
-      "country": "MX",
-      "data_size": null,
-      "description": "magdalenagrand.com zoominfo.com/c/magdalena-grand-beach--golf-resort/348187300 Magdalena Grand Beach & Golf Resort is a luxury hotel and resort located in Lowlands on the beautiful island of Tobago.\nIt features premium oceanfront accommodations with access to a championship golf course, spa, pools, and tennis courts.\nThe property is also a popular destination for weddings, offering guests a variety of dining options and vibrant nightlife.",
-      "discovered": "2026-08-21T08:28:59.855519+00:00",
-      "domain": "magdalenagrand.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-21T08:28:58",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWFnZGFsZW5hIEdyYW5kIEJlYWNoIEdvbGYgUmVzb3J0QHRoZWdlbnRsZW1lbg==",
-      "victim": "Magdalena Grand Beach Golf Resort"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-21T07:48:07+00:00",
-      "claim_url": "",
-      "country": "PL",
-      "data_size": null,
-      "description": "logsystem.pl zoominfo.com/c/log-systems/372786485 LOG Systems is a Polish software company based in Wrocław that develops comprehensive IT management and Helpdesk solutions.\nTheir flagship product, LOG Plus, is an advanced ITSM platform designed to streamline ticketing, incident management, and IT infrastructure monitoring.\nThe software also includes powerful Software Asset Management features to help organizations optimize licensing and ensure data security.",
-      "discovered": "2026-08-21T08:29:20.326445+00:00",
-      "domain": "logsystem.pl",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 14,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-21T08:29:18",
-        "users": 11,
-        "users_url": 34
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TE9HIFN5c3RlbXNAdGhlZ2VudGxlbWVu",
-      "victim": "LOG Systems"
     }
   ]
 }
