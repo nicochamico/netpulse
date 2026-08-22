@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-22T14:17:57.043632+00:00",
+  "last_success": "2026-08-22T15:17:32.231242+00:00",
   "count": 1674,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-78"
       ],
-      "epss": 0.00539,
-      "epss_percentile": 0.43183
+      "epss": 0.01042,
+      "epss_percentile": 0.61471
     },
     {
       "cveID": "CVE-2026-72530",
@@ -36,7 +36,7 @@
         "CWE-94"
       ],
       "epss": 0.00974,
-      "epss_percentile": 0.59399
+      "epss_percentile": 0.59414
     },
     {
       "cveID": "CVE-2026-72529",
@@ -53,7 +53,7 @@
         "CWE-306"
       ],
       "epss": 0.00785,
-      "epss_percentile": 0.53358
+      "epss_percentile": 0.53373
     },
     {
       "cveID": "CVE-2026-64849",
@@ -70,7 +70,7 @@
         "CWE-918"
       ],
       "epss": 0.08154,
-      "epss_percentile": 0.94405
+      "epss_percentile": 0.94408
     },
     {
       "cveID": "CVE-2026-33824",
@@ -87,7 +87,7 @@
         "CWE-415"
       ],
       "epss": 0.77898,
-      "epss_percentile": 0.99537
+      "epss_percentile": 0.99538
     },
     {
       "cveID": "CVE-2026-59310",
@@ -104,7 +104,7 @@
         "CWE-22"
       ],
       "epss": 0.02405,
-      "epss_percentile": 0.82785
+      "epss_percentile": 0.82795
     },
     {
       "cveID": "CVE-2026-55040",
@@ -121,7 +121,7 @@
         "CWE-1390"
       ],
       "epss": 0.05489,
-      "epss_percentile": 0.92164
+      "epss_percentile": 0.92166
     },
     {
       "cveID": "CVE-2026-65400",
@@ -138,7 +138,7 @@
         "CWE-287"
       ],
       "epss": 0.00751,
-      "epss_percentile": 0.52256
+      "epss_percentile": 0.52272
     },
     {
       "cveID": "CVE-2025-62593",
@@ -155,8 +155,8 @@
         "CWE-94",
         "CWE-352"
       ],
-      "epss": 0.01015,
-      "epss_percentile": 0.60644
+      "epss": 0.01,
+      "epss_percentile": 0.60191
     },
     {
       "cveID": "CVE-2026-20349",
@@ -172,8 +172,8 @@
       "cwes": [
         "CWE-244"
       ],
-      "epss": 0.00874,
-      "epss_percentile": 0.56229
+      "epss": 0.0102,
+      "epss_percentile": 0.60771
     }
   ]
 }
