@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-22T08:25:25.759707+00:00",
+  "last_success": "2026-08-22T09:23:17.288253+00:00",
   "count": 1674,
   "items": [
     {
@@ -120,8 +120,8 @@
       "cwes": [
         "CWE-1390"
       ],
-      "epss": null,
-      "epss_percentile": null
+      "epss": 0.05489,
+      "epss_percentile": 0.92164
     },
     {
       "cveID": "CVE-2026-65400",
