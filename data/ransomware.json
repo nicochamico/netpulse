@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-22T23:17:25.756531+00:00",
+  "last_success": "2026-08-23T01:08:53.132596+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-22T19:21:15.313576+00:00",
+      "claim_url": "http://helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion/p/05d7e14bd3e7d7efce2406aad744dc6daa15edfbca7d38cb8ced622125d3c989",
+      "country": "US",
+      "data_size": null,
+      "description": "AmSpec is live. T1 unlocks on the current 24-hour cadence, then 24 hours per remaining tier.",
+      "discovered": "2026-08-22T19:21:33.550146+00:00",
+      "domain": "",
+      "group": "Helix",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5db9096708326ebbd3d1f0788ad11ab5.png",
+      "url": "https://www.ransomware.live/id/QW1TcGVjQEhlbGl4",
+      "victim": "AmSpec"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-08-22T15:32:00+00:00",
@@ -495,33 +512,6 @@
       "screenshot": "https://images.ransomware.live/victims/ba6d0314b4c0942d89938bd972be7ecd.png",
       "url": "https://www.ransomware.live/id/UlhQRSBHcm91cEBjb2luYmFzZWNhcnRlbA==",
       "victim": "RXPE Group"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-22T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Full network image staged. ERP exports, dispatch DB and payroll archives recovered. Pending final inventory before publication.",
-      "discovered": "2026-08-22T05:19:52.744287+00:00",
-      "domain": "meridianlogisticgroup.com",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-22T05:38:41.001498",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWVyaWRpYW4gTG9naXN0aWNzIEdyb3VwQHRoZWdlbnRsZW1lbg==",
-      "victim": "Meridian Logistics Group"
     }
   ]
 }
