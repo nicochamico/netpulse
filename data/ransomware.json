@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-23T10:20:21.859548+00:00",
+  "last_success": "2026-08-23T11:18:19.469795+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-23T06:49:10.697359+00:00",
+      "claim_url": "http://lthicpjqc7gkn5eq3epxndc2uig3yngvcbdya4u3m3byjod5km4yuwqd.onion",
+      "country": "",
+      "data_size": null,
+      "description": "PUBLICATION SCHEDULED. [LEAK / 1844 FILES]",
+      "discovered": "2026-08-23T06:49:24.898559+00:00",
+      "domain": "",
+      "group": "majinahanashi",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0e5738c903e77e652564711fd74111a4.png",
+      "url": "https://www.ransomware.live/id/UENBICoqKioqQG1hamluYWhhbmFzaGk=",
+      "victim": "PCA *****"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-23T02:27:34.498343+00:00",
@@ -438,6 +455,33 @@
       "victim": "PT. Bank Perekonomian Rakyat Bintan"
     },
     {
+      "activity": "Financial Services",
+      "attackdate": "2026-08-22T12:56:06+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a899c66bcb899d105729a0e",
+      "country": "US",
+      "data_size": null,
+      "description": "The Cecilian Bank is an FDIC-insured financial institution that offers a wide range of personal and business banking services, including checking and savings accounts, loans, and online banking. Their services cater to individuals, small businesses, and large corporations, providing competitive rates and tailored financial solutions. The bank emphasizes convenience with features like online account opening and 24/7 access to banking services. With a commitment to community support, The Cecilian Bank aims to help clients achieve financial independence and business growth. \nThe company headquarters is located in 104 East Main Street, Cecilia, KY 42724, United States.. 201-500 Employees",
+      "discovered": "2026-08-23T06:40:21.560252+00:00",
+      "domain": "thececilianbank.com",
+      "group": "Storm",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-23T06:40:54.527256",
+        "users": 1,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2b08b83d8fb3391dba1ff9a8265f6405.png",
+      "url": "https://www.ransomware.live/id/VGhlIENlY2lsaWFuIEJhbmtAU3Rvcm0=",
+      "victim": "The Cecilian Bank"
+    },
+    {
       "activity": "Healthcare",
       "attackdate": "2026-08-22T11:10:00+00:00",
       "claim_url": "",
@@ -497,60 +541,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Qk9LIEZpbmFuY2lhbEBzaGlueWh1bnRlcnM=",
       "victim": "BOK Financial"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-22T07:59:53.426250+00:00",
-      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/71/holzmarkt-chemnitz",
-      "country": "DE",
-      "data_size": null,
-      "description": "Holzmarkt Chemnitz is a specialized retail store for building materials and wood products, operating two branches in Chemnitz (Fichtestraße and Kalkstraße). They serve as a competent partner for both professional builders and private customers.-Personal information of employees and clients -Financial documents-SQL DB https://holzmarkt-chemnitz.de/",
-      "discovered": "2026-08-22T08:00:14.089124+00:00",
-      "domain": "holzmarkt-chemnitz.de",
-      "group": "spacebears",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-22T07:59:53",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5a4b7854f8a08c7e1479782351b919a8.png",
-      "url": "https://www.ransomware.live/id/aG9sem1hcmt0IGNoZW1uaXR6QHNwYWNlYmVhcnM=",
-      "victim": "holzmarkt chemnitz"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-22T07:59:22.439135+00:00",
-      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/72/freelom",
-      "country": "CZ",
-      "data_size": null,
-      "description": "Freelom.net s.r.o. is a Czech internet service provider and IT company based in Lomnice nad Popelkou, which has been operating since 2009 . The company's primary focus is providing wireless internet access via its own network, with services available 24 hours a day, 7 days a week.The company is led by two managing directors, Jiří Plichta and Petr Malý. A priority for Freelom.net is the speed, reliability, and quality of its services , and it aims to resolve technical issues within a maximum of 24 hours-SQL Data (All client personal data) https://freelom.cz/",
-      "discovered": "2026-08-22T07:59:41.537374+00:00",
-      "domain": "freelom.cz",
-      "group": "spacebears",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-22T07:59:22",
-        "users": 1,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e0ebecf15a9179092fe420658c90ef16.png",
-      "url": "https://www.ransomware.live/id/RnJlZWxvbUBzcGFjZWJlYXJz",
-      "victim": "Freelom"
     }
   ]
 }
