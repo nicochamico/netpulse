@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-23T02:59:15.584202+00:00",
+  "last_success": "2026-08-23T03:55:55.565076+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-22T22:22:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a8979d59cd108bf26069fa7",
+      "country": "CH",
+      "data_size": null,
+      "description": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.",
+      "discovered": "2026-08-22T22:54:30.808147+00:00",
+      "domain": "",
+      "group": "incransom",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3dcaa6cac94750125ca258310b8d6a1f.png",
+      "url": "https://www.ransomware.live/id/ZWwtZ3JvdXBAaW5jcmFuc29t",
+      "victim": "el-group"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-08-22T19:21:15.313576+00:00",
@@ -485,33 +502,6 @@
       "screenshot": "https://images.ransomware.live/victims/f7c0c9ba955aee3907d5bb9d20840e89.png",
       "url": "https://www.ransomware.live/id/Q1JJIEVsZWN0cmljQHJoeXNpZGE=",
       "victim": "CRI Electric"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-22T00:00:00+00:00",
-      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/rxhk",
-      "country": "CN",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-08-22T14:00:44.796415+00:00",
-      "domain": "rxpe.com",
-      "group": "coinbasecartel",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-22T14:03:32.918458",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ba6d0314b4c0942d89938bd972be7ecd.png",
-      "url": "https://www.ransomware.live/id/UlhQRSBHcm91cEBjb2luYmFzZWNhcnRlbA==",
-      "victim": "RXPE Group"
     }
   ]
 }
