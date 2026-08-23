@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-23T14:19:44.520676+00:00",
+  "last_success": "2026-08-23T15:19:08.176186+00:00",
   "count": 1674,
   "items": [
     {
@@ -19,7 +19,7 @@
         "CWE-78"
       ],
       "epss": 0.01042,
-      "epss_percentile": 0.61471
+      "epss_percentile": 0.60971
     },
     {
       "cveID": "CVE-2026-72530",
@@ -36,7 +36,7 @@
         "CWE-94"
       ],
       "epss": 0.00974,
-      "epss_percentile": 0.59414
+      "epss_percentile": 0.58912
     },
     {
       "cveID": "CVE-2026-72529",
@@ -53,7 +53,7 @@
         "CWE-306"
       ],
       "epss": 0.00785,
-      "epss_percentile": 0.53373
+      "epss_percentile": 0.52955
     },
     {
       "cveID": "CVE-2026-64849",
@@ -70,7 +70,7 @@
         "CWE-918"
       ],
       "epss": 0.08154,
-      "epss_percentile": 0.94408
+      "epss_percentile": 0.94501
     },
     {
       "cveID": "CVE-2026-33824",
@@ -87,7 +87,7 @@
         "CWE-415"
       ],
       "epss": 0.77898,
-      "epss_percentile": 0.99538
+      "epss_percentile": 0.99551
     },
     {
       "cveID": "CVE-2026-59310",
@@ -104,7 +104,7 @@
         "CWE-22"
       ],
       "epss": 0.02405,
-      "epss_percentile": 0.82795
+      "epss_percentile": 0.8267
     },
     {
       "cveID": "CVE-2026-55040",
@@ -121,7 +121,7 @@
         "CWE-1390"
       ],
       "epss": 0.05489,
-      "epss_percentile": 0.92166
+      "epss_percentile": 0.9223
     },
     {
       "cveID": "CVE-2026-65400",
@@ -138,7 +138,7 @@
         "CWE-287"
       ],
       "epss": 0.00751,
-      "epss_percentile": 0.52272
+      "epss_percentile": 0.51842
     },
     {
       "cveID": "CVE-2025-62593",
@@ -156,7 +156,7 @@
         "CWE-352"
       ],
       "epss": 0.01,
-      "epss_percentile": 0.60191
+      "epss_percentile": 0.59703
     },
     {
       "cveID": "CVE-2026-20349",
@@ -173,7 +173,7 @@
         "CWE-244"
       ],
       "epss": 0.0102,
-      "epss_percentile": 0.60771
+      "epss_percentile": 0.60287
     }
   ]
 }
