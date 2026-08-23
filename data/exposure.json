@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:23:09.885749+00:00",
+  "generated_at": "2026-08-23T20:49:22.917725+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,10 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "ci.com",
-        "chef.payomatic.com",
+        "photo.dbi-nyc.com",
         "one.one.one.one",
-        "vportal.ci.com"
+        "test.naviance.com"
       ]
     },
     {
