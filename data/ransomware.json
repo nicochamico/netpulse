@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-23T22:18:09.540426+00:00",
+  "last_success": "2026-08-23T23:17:39.514518+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-23T18:58:00.451966+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8324d05a-396f-4f6f-8364-6458f90564f5",
+      "country": "IT",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-23T18:58:22.915335+00:00",
+      "domain": "www.semp.it",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4b3bc478616be86a6a4c5689b7246b19.png",
+      "url": "https://www.ransomware.live/id/Uy5FLk0uUC4gcy5yLmwuQHFpbGlu",
+      "victim": "S.E.M.P. s.r.l."
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-23T12:28:32.491103+00:00",
@@ -426,33 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/fb2a0b26a477d1923c5c8ab39b4558a1.png",
       "url": "https://www.ransomware.live/id/RmFjdG9yeUZpdmVAbWV0YWVuY3J5cHRvcg==",
       "victim": "FactoryFive"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-23T07:07:38.721503+00:00",
-      "claim_url": "http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/Ferrell,Skyline%20Implants",
-      "country": "US",
-      "data_size": null,
-      "description": "Full personal and servers files dumps from Skyline Implants & Periodontics company. The data files contain: medical documents of patients (including MRI scans of various parts of the body — files with the .dcm extension), personal photos, and the personal data of the doctor, Scott Ferguson, as well as documents from the company Skyline Implants & Periodontics — in particular, information on equipment and pharmaceutical procurement and other related materials. | Severity: HIGH | Size: 800 GB | Status: free | FREE",
-      "discovered": "2026-08-23T07:07:51.041875+00:00",
-      "domain": "skylineperio.com",
-      "group": "Barracuda",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-23T07:08:59.599115",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3145250deaab5caa24b625cb6f3d31f8.png",
-      "url": "https://www.ransomware.live/id/U2t5bGluZSBJbXBsYW50cyAmIFBlcmlvZG9udGljc0BCYXJyYWN1ZGE=",
-      "victim": "Skyline Implants & Periodontics"
     }
   ]
 }
