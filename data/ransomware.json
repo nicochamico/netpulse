@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T04:40:49.026354+00:00",
+  "last_success": "2026-08-24T05:35:21.826478+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-24T00:54:16.482468+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/94e954f9fa4095799dede0c689e6d6b51ddddaff16d44b75cf49ba265dc3a79a/",
+      "country": "DE",
+      "data_size": null,
+      "description": "Resi is a UK-based online architectural and home renovation platform founded in 2017 by Alexandra Depledge and Jules Col...",
+      "discovered": "2026-08-24T00:54:35.293077+00:00",
+      "domain": "resi.com",
+      "group": "krybit",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 8,
+        "update": "2026-08-24T00:54:16",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8dc616d0696093619f8339d15d912ac7.png",
+      "url": "https://www.ransomware.live/id/cmVzaS5jb21Aa3J5Yml0",
+      "victim": "resi.com"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-23T21:25:53.204353+00:00",
@@ -416,33 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/685dc44c7555722fa5838a252497ac45.png",
       "url": "https://www.ransomware.live/id/TVBBIFBoYXJtYSBHbWJIQG1ldGFlbmNyeXB0b3I=",
       "victim": "MPA Pharma GmbH"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-08-23T07:35:46.512042+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:c589737b6ac7c97092ef61865d5d322877ed7b9d8092c74585ac90b46ad06a2d/0AFC:b2bb7035af4c4ca15bd96981b733feb0acecc8301a9ae0d39337c91223270f1c",
-      "country": "US",
-      "data_size": null,
-      "description": "Aquamar, Inc. specializes in providing high-quality, wild-caught seafood products that are both delicious and nutritious.\nThe company targets markets in the U.S., Canada, and Latin America, focusing on retail and foodservice sectors.",
-      "discovered": "2026-08-23T07:36:08.896864+00:00",
-      "domain": "aquamarseafood.com",
-      "group": "metaencryptor",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-23T07:35:46",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b1e496cc64277025fc8521a378921b2b.png",
-      "url": "https://www.ransomware.live/id/QXF1YW1hciBJbmNAbWV0YWVuY3J5cHRvcg==",
-      "victim": "Aquamar Inc"
     }
   ]
 }
