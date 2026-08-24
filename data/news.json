@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-24T15:36:11.745976+00:00",
+  "last_success": "2026-08-24T16:33:33.711290+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "published": "Mon, 24 Aug 2026 20:02:10 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
@@ -32,12 +38,6 @@
       "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
       "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
       "published": "Mon, 24 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-      "published": "Mon, 24 Aug 2026 13:38:31 +0530"
     },
     {
       "source": "BleepingComputer",
