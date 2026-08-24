@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-24T19:26:22.736266+00:00",
+  "last_success": "2026-08-24T20:26:37.343666+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "published": "Mon, 24 Aug 2026 15:26:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
       "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
       "published": "Mon, 24 Aug 2026 13:56:24 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "published": "Mon, 24 Aug 2026 08:40:21 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "published": "Mon, 24 Aug 2026 06:45:12 -0400"
     }
   ]
 }
