@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T22:22:29.415620+00:00",
+  "last_success": "2026-08-24T23:19:46.925701+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-24T18:08:26.978238+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=jones-little-co",
+      "country": "US",
+      "data_size": null,
+      "description": "About Jones, Little & Co., CPAs, LLP Jones, Little & Co., CPAs, LLP is a professional accounting firm that offers a wide range of services including business accounting, tax preparation, and IRS problem resolution. They cater to small businesses, non-profit organizations, and specialized industries such as auto dealers and retailers. At least 100 gigabytes of company data—including financial records, internal files, and employee personal information—were stolen in a cyberattack. Hackers encrypted the firm's systems after exfiltrating the documents, leaving operations paralyzed.",
+      "discovered": "2026-08-24T18:20:51.753383+00:00",
+      "domain": "www.jonesandlittle.com",
+      "group": "Dark Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8efb3a8728dd103d53b22a3aaf282d51.png",
+      "url": "https://www.ransomware.live/id/Sm9uZXMsIExpdHRsZSAmIENvLiwgQ1BBcywgTExQQERhcmsgUHJvamVjdA==",
+      "victim": "Jones, Little & Co., CPAs, LLP"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-24T17:59:49.594198+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=the-liberty-group",
+      "country": "US",
+      "data_size": null,
+      "description": "About The Liberty Group Companys offerings include local, long distance, and international moving, lab relocation services, and logistics solutions. They cater to a diverse range of clients, providing professional and comprehensive assistance to both residential and commercial customers. Investigators are working to identify the perpetrators and assess the full scope of the damage. A company has suffered a major cyberattack resulting in the theft of approximately 27,000 internal files. The leaked documents include financial records, internal working materials, and personal data of employees. Attackers encrypted the company's systems following the breach, severely disrupting operations",
+      "discovered": "2026-08-24T18:21:30.380970+00:00",
+      "domain": "libertygrp.com",
+      "group": "Dark Project",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-24T18:21:10",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3b5ecc399b07dbee8aa54a7a30f0d141.png",
+      "url": "https://www.ransomware.live/id/VGhlIExpYmVydHkgR3JvdXBARGFyayBQcm9qZWN0",
+      "victim": "The Liberty Group"
+    },
     {
       "activity": "Hospitality",
       "attackdate": "2026-08-24T17:45:03.118118+00:00",
@@ -349,50 +393,6 @@
       "screenshot": "https://images.ransomware.live/victims/d1d7c59d46d2ce2b31e7e97728030573.png",
       "url": "https://www.ransomware.live/id/U2VudmliZUBQYW56ZXI=",
       "victim": "Senvibe"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-24T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a856aee8-ed3d-46cd-9bb3-4927bb0fc8d2",
-      "country": "AE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-24T11:29:02.292660+00:00",
-      "domain": "www.ae.design",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4a1760ce24e1ba5c8b471c0dd82b114c.png",
-      "url": "https://www.ransomware.live/id/QSZFICsgU01BIERlc2lnbkBxaWxpbg==",
-      "victim": "A&E + SMA Design"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-23T21:25:53.204353+00:00",
-      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/westwing-2",
-      "country": "DE",
-      "data_size": null,
-      "description": "[AI generated] Westwing Group SE is a German e-commerce company specializing in home and living products. Founded in 2011 and headquartered in Munich, Germany, it operates an online platform offering curated furniture, décor, and lifestyle products. The company serves customers across multiple European markets and combines an inspiration-driven shopping experience with a members-only model, targeting design-conscious consumers seeking premium home furnishings.",
-      "discovered": "2026-08-23T21:26:15.633976+00:00",
-      "domain": "westwing.com",
-      "group": "coinbasecartel",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-24T04:34:59.329799",
-        "users": 17,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ab4ed4d978f1b30daa0f2999eca16c52.png",
-      "url": "https://www.ransomware.live/id/V2VzdHdpbmcgR3JvdXAgU0VAY29pbmJhc2VjYXJ0ZWw=",
-      "victim": "Westwing Group SE"
     }
   ]
 }
