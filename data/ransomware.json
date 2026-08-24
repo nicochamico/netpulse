@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T11:24:20.854880+00:00",
+  "last_success": "2026-08-24T12:42:38.865125+00:00",
   "count": 100,
   "items": [
     {
@@ -59,23 +59,6 @@
       "victim": "Westwing Group SE"
     },
     {
-      "activity": "Government & Defense",
-      "attackdate": "2026-08-23T19:58:46+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a8b50f6bcb899d105729a11",
-      "country": "US",
-      "data_size": null,
-      "description": "Mitchell is a city in and the county seat of Davison County, South Dakota, United States. Mitchell is the principal city of the Mitchell Micropolitan Statistical Area, which includes all of Davison and Hanson counties. \nThe company headquarters is located in 612 N Main Street, Mitchell, SD 57301, United States.\n51-200 Employees",
-      "discovered": "2026-08-24T04:51:29.575481+00:00",
-      "domain": "",
-      "group": "Storm",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d650ba1325c7159f0ca4648cc3b83912.png",
-      "url": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ==",
-      "victim": "City of Mitchell"
-    },
-    {
       "activity": "Manufacturing",
       "attackdate": "2026-08-23T18:58:00.451966+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8324d05a-396f-4f6f-8364-6458f90564f5",
@@ -100,9 +83,19 @@
       "data_size": null,
       "description": "Sharp Motor Group is a privately owned automotive dealership group based in Tweed Heads, New South Wales, Australia. The company serves customers across Tweed Heads, the Northern Rivers region, and the Gold Coast. Sharp Motor Group sells new, used, and demonstrator vehicles and provides vehicle servicing, spare parts, finance, insurance, and trade-in services. Its dealership represents major automotive brands, including Kia, Suzuki, Mahindra, Chery, Renault, and GMSV. The company focuses on providing a convenient one-stop automotive service and emphasizes customer service, value, choice, and a positive buying and ownership experience. \nThe company headquarters is located in 153 Wharf Street, Tweed Heads, NSW 2485, Australia. 51-200 Employees",
       "discovered": "2026-08-24T04:51:59.732876+00:00",
-      "domain": "",
+      "domain": "sharpmotorgroup.com.au",
       "group": "Storm",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-24T12:31:14.706916",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/54bea31baeb9c66aa6ce9c089ff6c973.png",
@@ -433,6 +426,23 @@
       "screenshot": "https://images.ransomware.live/victims/676f7251095439b03eedfac8900ff427.png",
       "url": "https://www.ransomware.live/id/V29vZGxvcmUgSW50ZXJuYXRpb25hbCBJbmMuQG1ldGFlbmNyeXB0b3I=",
       "victim": "Woodlore International Inc."
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-08-23T07:37:15.322937+00:00",
+      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:3c23cfc8a16ad3c98f0d14eb26ac68e7075cd4b84f3a87f649e441954b5d7b8b/0AFC:ff69a89f01ca638c160b25a8f27f8c2fd334048e1ac77088f7a63630204fe11becb07b43124d47b5c171440da2b3bc93",
+      "country": "US",
+      "data_size": null,
+      "description": "Founded in 1910, Weber Water Resources has been providing the widest range of water resource solutions at the lowest available risk to clients for over a century.\nThrough our superior problem solving ability, Weber Water Resources partners with public and private clients to achieve the most equitable outcome possible on each project.\nrevenue $25 M",
+      "discovered": "2026-08-23T07:37:38.585666+00:00",
+      "domain": "www.weberwaterresources.com",
+      "group": "metaencryptor",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6237cd2780742fb62651595b1f9b835c.png",
+      "url": "https://www.ransomware.live/id/V2ViZXIgV2F0ZXIgUmVzb3VyY2VzQG1ldGFlbmNyeXB0b3I=",
+      "victim": "Weber Water Resources"
     }
   ]
 }
