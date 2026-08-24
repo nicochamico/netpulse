@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T21:25:23.375740+00:00",
+  "last_success": "2026-08-24T22:22:29.415620+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-08-24T17:45:03.118118+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=furnished-quarters",
+      "country": "US",
+      "data_size": null,
+      "description": "About Furnished Quarters Headquartered in New York City, New York, Furnished Quarters, is to deliver exceptional residential experiences with passion, reliability and integrity always innovating and putting people first. They consider this in everything they do and every guest and client experience they deliver. The company \"Furnished Quarters\" was the victim of a successful cyberattack, as a result of which the company’s confidential data was stolen. The volume of data stolen amounts to 155 GB. The data stolen included the company’s customer details, as well as documents containing banking and financial information. Currently, around 198,000 files are no longer under the control of \"Furnished Quarters\".",
+      "discovered": "2026-08-24T17:51:12.055126+00:00",
+      "domain": "www.furnishedquarters.com",
+      "group": "Dark Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/459047d11c559c840197a1fa57307f72.png",
+      "url": "https://www.ransomware.live/id/RnVybmlzaGVkIFF1YXJ0ZXJzQERhcmsgUHJvamVjdA==",
+      "victim": "Furnished Quarters"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-24T17:36:27.417228+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=design-aire-engineering-inc",
+      "country": "US",
+      "data_size": null,
+      "description": "About Design-Aire Engineering, INC Design-Aire Engineering specializes in mechanical, electrical, plumbing, and energy engineering services. They focus on providing innovative and sustainable solutions for their clients. The company serves a diverse range of clients, including those in the public and private sectors. With a commitment to green engineering practices, they aim to enhance energy efficiency and environmental sustainability. Design-Aire Engineering, INC has suffered a cyberattack on its service systems, resulting in the theft of approximately 377GB of sensitive data. The breached information includes employees' personal data and detailed architectural plans of clients' buildings.",
+      "discovered": "2026-08-24T17:51:49.727401+00:00",
+      "domain": "www.daengineering.com",
+      "group": "Dark Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/99b121bd2b1138735982f2d413d67de9.png",
+      "url": "https://www.ransomware.live/id/RGVzaWduLUFpcmUgRW5naW5lZXJpbmcsIElOQ0BEYXJrIFByb2plY3Q=",
+      "victim": "Design-Aire Engineering, INC"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-08-24T16:11:47.096251+00:00",
@@ -359,50 +393,6 @@
       "screenshot": "https://images.ransomware.live/victims/ab4ed4d978f1b30daa0f2999eca16c52.png",
       "url": "https://www.ransomware.live/id/V2VzdHdpbmcgR3JvdXAgU0VAY29pbmJhc2VjYXJ0ZWw=",
       "victim": "Westwing Group SE"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-23T18:58:00.451966+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8324d05a-396f-4f6f-8364-6458f90564f5",
-      "country": "IT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-23T18:58:22.915335+00:00",
-      "domain": "www.semp.it",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4b3bc478616be86a6a4c5689b7246b19.png",
-      "url": "https://www.ransomware.live/id/Uy5FLk0uUC4gcy5yLmwuQHFpbGlu",
-      "victim": "S.E.M.P. s.r.l."
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-23T13:02:32+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a8aef68bcb899d105729a10",
-      "country": "AU",
-      "data_size": null,
-      "description": "Sharp Motor Group is a privately owned automotive dealership group based in Tweed Heads, New South Wales, Australia. The company serves customers across Tweed Heads, the Northern Rivers region, and the Gold Coast. Sharp Motor Group sells new, used, and demonstrator vehicles and provides vehicle servicing, spare parts, finance, insurance, and trade-in services. Its dealership represents major automotive brands, including Kia, Suzuki, Mahindra, Chery, Renault, and GMSV. The company focuses on providing a convenient one-stop automotive service and emphasizes customer service, value, choice, and a positive buying and ownership experience. \nThe company headquarters is located in 153 Wharf Street, Tweed Heads, NSW 2485, Australia. 51-200 Employees",
-      "discovered": "2026-08-24T04:51:59.732876+00:00",
-      "domain": "sharpmotorgroup.com.au",
-      "group": "Storm",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-24T12:31:14.706916",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/54bea31baeb9c66aa6ce9c089ff6c973.png",
-      "url": "https://www.ransomware.live/id/U2hhcnAgTW90b3IgR3JvdXBAU3Rvcm0=",
-      "victim": "Sharp Motor Group"
     }
   ]
 }
