@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T16:33:33.711290+00:00",
+  "last_success": "2026-08-24T17:27:43.321379+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-24T13:01:53.086000+00:00",
+      "claim_url": "",
+      "country": "MX",
+      "data_size": null,
+      "description": "Law Practice Stolen data: 61 GB.",
+      "discovered": "2026-08-24T13:20:21.987922+00:00",
+      "domain": "www.federisabogados.com",
+      "group": "Booba Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RmVkZXJpcyBBYm9nYWRvc0BCb29iYSBQcm9qZWN0",
+      "victim": "Federis Abogados"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-08-24T00:54:16.482468+00:00",
@@ -416,33 +433,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWVkdWNhcjogVGVsZW1lZGljaW5lIGFuZCBQYXRpZW50IE1hbmFnZW1lbnQgU3lzdGVtQGthenU=",
       "victim": "Meducar: Telemedicine and Patient Management System"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-23T08:07:30.446787+00:00",
-      "claim_url": "",
-      "country": "MX",
-      "data_size": null,
-      "description": "digital healthcare platform designed to help doctors, clinics, and medical professionals manage their daily operations more efficiently. It provides tools for scheduling patient appointments, maintaining electronic medical records, and conducting telemedicine consultations through online video or messaging. The platform also supports clinical documentation, patient communication, and administrative tasks, helping healthcare providers reduce paperwork and improve organization. Overall, ConsultorioMovil aims to simplify medical practice management and improve the way doctors interact with and care for their patients through a single, centralized system.",
-      "discovered": "2026-08-23T08:07:31.820087+00:00",
-      "domain": "consultoriomovil.net",
-      "group": "kazu",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-23T08:07:30",
-        "users": 3327,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q29uc3VsdG9yaW9Nb3ZpbDogVGVsZW1lZGljaW5lIGFuZCBIZWFsdGhjYXJlIFN5c3RlbUBrYXp1",
-      "victim": "ConsultorioMovil: Telemedicine and Healthcare System"
     }
   ]
 }
