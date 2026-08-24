@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-24T13:48:41.072964+00:00",
+  "last_success": "2026-08-24T14:38:16.273468+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "published": "Mon, 24 Aug 2026 18:05:36 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -34,10 +40,16 @@
       "published": "Mon, 24 Aug 2026 13:38:31 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "published": "Sat, 22 Aug 2026 20:02:41 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "published": "Mon, 24 Aug 2026 10:00:19 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "South Korean startup platform breach exposes key management failures",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "published": "Mon, 24 Aug 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
       "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
       "published": "Sun, 23 Aug 2026 10:23:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "published": "Sat, 22 Aug 2026 10:14:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "published": "Sat, 22 Aug 2026 09:00:09 -0400"
     }
   ]
 }
