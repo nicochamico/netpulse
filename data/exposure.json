@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:57:07.441475+00:00",
+  "generated_at": "2026-08-24T13:01:21.992421+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "photo.dbi-nyc.com",
         "one.one.one.one",
-        "test.naviance.com"
+        "nths-ntccsd-ia.schoolloop.com",
+        "jves-dcsd1-nv.schoolloop.com"
       ]
     },
     {
