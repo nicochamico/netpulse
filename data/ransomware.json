@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T01:07:05.412413+00:00",
+  "last_success": "2026-08-24T03:00:17.038313+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-08-23T21:25:53.204353+00:00",
+      "claim_url": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/companies/westwing-2",
+      "country": "DE",
+      "data_size": null,
+      "description": "[AI generated] Westwing Group SE is a German e-commerce company specializing in home and living products. Founded in 2011 and headquartered in Munich, Germany, it operates an online platform offering curated furniture, décor, and lifestyle products. The company serves customers across multiple European markets and combines an inspiration-driven shopping experience with a members-only model, targeting design-conscious consumers seeking premium home furnishings.",
+      "discovered": "2026-08-23T21:26:15.633976+00:00",
+      "domain": "",
+      "group": "coinbasecartel",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ab4ed4d978f1b30daa0f2999eca16c52.png",
+      "url": "https://www.ransomware.live/id/V2VzdHdpbmcgR3JvdXAgU0VAY29pbmJhc2VjYXJ0ZWw=",
+      "victim": "Westwing Group SE"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-23T18:58:00.451966+00:00",
@@ -406,33 +423,6 @@
       "screenshot": "https://images.ransomware.live/victims/b1e496cc64277025fc8521a378921b2b.png",
       "url": "https://www.ransomware.live/id/QXF1YW1hciBJbmNAbWV0YWVuY3J5cHRvcg==",
       "victim": "Aquamar Inc"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-23T07:35:02.496134+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:09dc4c91d8121c0f6a44fd584b4a7a1f/0AFC:e23244d5ca0b6e2c3d7701ad03eb144f9b5be7f720368862a2992c0e4fe2392a",
-      "country": "JP",
-      "data_size": null,
-      "description": "The company specializes in creating a comfortable home environment, focusing on heating, cooling and hot water technologies.\nIt was founded at April 1937, and now have more than 2000 employee.\nCorona Corporation is stock listed, ticker 5909.T at Tokyo Stock Exchange (Standard)",
-      "discovered": "2026-08-23T07:35:27.486167+00:00",
-      "domain": "corona.co.jp",
-      "group": "metaencryptor",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-08-23T07:35:02",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0c3e8c9d6fdbb8769e833ae75c596ada.png",
-      "url": "https://www.ransomware.live/id/Q29yb25hIENvcnBvcmF0aW9uQG1ldGFlbmNyeXB0b3I=",
-      "victim": "Corona Corporation"
     }
   ]
 }
