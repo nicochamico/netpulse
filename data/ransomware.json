@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-25T13:47:07.471330+00:00",
+  "last_success": "2026-08-25T14:41:19.217388+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-25T09:30:02.936346+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=pump-engineering-company",
+      "country": "US",
+      "data_size": null,
+      "description": "About Pump Engineering Company Pump Engineering Company is a full-service distributor and supplier of industrial pumps, parts, and fluid handling systems, serving Southern California since 1946. During the cyberattack, 120,000 files (115 GB) were stolen, including an extensive customer database, insurance documents, confidential financial documents, and a vast number of project drawings.",
+      "discovered": "2026-08-25T09:51:49.817517+00:00",
+      "domain": "www.pumpengineering.net",
+      "group": "Dark Project",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d3b66de8697b5e4f444b6bc71032dd15.png",
+      "url": "https://www.ransomware.live/id/UHVtcCBFbmdpbmVlcmluZyBDb21wYW55QERhcmsgUHJvamVjdA==",
+      "victim": "Pump Engineering Company"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-08-25T09:22:09.625354+00:00",
@@ -362,11 +379,21 @@
       "claim_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=792",
       "country": "",
       "data_size": null,
-      "description": "https://marcktechno.comMarktechno has been a key player in the mechanical and sheet metal Deadline: 2026-08-31 13:50:00.000000",
+      "description": "https://marcktechno.com Marktechno has been a key player in the mechanical and sheet metal Deadline: 2026-08-31 13:50:00.000000",
       "discovered": "2026-08-24T14:23:32.659108+00:00",
-      "domain": "",
+      "domain": "marcktechno.com",
       "group": "arcusmedia",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-25T14:08:12.353440",
+        "users": 0,
+        "users_url": 0
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/6974a4026efebd098c8423b5b343997d.png",
@@ -381,9 +408,19 @@
       "data_size": null,
       "description": "www.mproerp.comManagementPro Inc. is a Computer Software Company, specialized in ERP Solut Deadline: 2026-08-31 13:50:00.000000",
       "discovered": "2026-08-24T14:24:08.989253+00:00",
-      "domain": "",
+      "domain": "mproerp.com",
       "group": "arcusmedia",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 9,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-25T14:07:46.199207",
+        "users": 1617,
+        "users_url": 57
+      },
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/ac7678cafc6e3421c9c405b7d7893339.png",
@@ -406,23 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/9c3aeba8333a6f5876e8425007dd97de.png",
       "url": "https://www.ransomware.live/id/Q29sZGZpc2ggU2VhZm9vZEBxaWxpbg==",
       "victim": "Coldfish Seafood"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-08-24T13:52:53+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/government-of-vojvodina",
-      "country": "RS",
-      "data_size": null,
-      "description": "The Provincial Government of Vojvodina is focused on enhancing economic and academic cooperation within the region and internationally. SENVIBE project is to improve and build national educational capacities, cooperation and competences in dealing with environmental and occupational noise and vibration (No&Vib) engineering issues in accordance with ongoing EU integration strategies and the needs identified in Serbia.",
-      "discovered": "2026-08-24T14:22:11.845487+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/98463659b2e4482c0bdcf24d6f177b67.png",
-      "url": "https://www.ransomware.live/id/R292ZXJubWVudCBvZiBWb2p2b2RpbmFAUGFuemVy",
-      "victim": "Government of Vojvodina"
     }
   ]
 }

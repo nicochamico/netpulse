@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T13:47:07.471330+00:00",
+  "last_success": "2026-08-25T14:41:19.217388+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "published": "Tue, 25 Aug 2026 10:01:11 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "published": "Tue, 25 Aug 2026 09:51:58 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
       "published": "Tue, 25 Aug 2026 09:00:00 -0400"
@@ -62,18 +74,6 @@
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "published": "Mon, 24 Aug 2026 17:14:30 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "published": "Mon, 24 Aug 2026 15:26:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "published": "Mon, 24 Aug 2026 13:56:24 -0400"
     }
   ]
 }
