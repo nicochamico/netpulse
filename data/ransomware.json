@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-25T16:33:39.599510+00:00",
+  "last_success": "2026-08-25T17:28:24.479962+00:00",
   "count": 100,
   "items": [
     {
@@ -64,6 +64,33 @@
       "screenshot": "https://images.ransomware.live/victims/1af22e0cde029ef7f149f1b686540164.png",
       "url": "https://www.ransomware.live/id/RGVudGlzdCBpbiBOZXcgQnJpdGFpbiwgQ1RARGFyayBQcm9qZWN0",
       "victim": "Dentist in New Britain, CT"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-25T00:00:00+00:00",
+      "claim_url": "",
+      "country": "DE",
+      "data_size": null,
+      "description": "WINTER Ingenieure specializes in planning and monitoring the construction of technical building\nequipment across Germany, focusing on functionality, sustainability, and cost-effectiveness. W\nith a team of over 140 employees located in Düsseldorf, Berlin, and Hamburg, they integrate tec\nhnical components into buildings innovatively.\n\nWe will upload 340gb of corporate data soon. Employee personal information (German passports, I\nDs, addresses, phones contacts), confidential files, projects, lots of specifications and so on\n.\n",
+      "discovered": "2026-08-25T12:53:05.913666+00:00",
+      "domain": "winter-ingenieure.de",
+      "group": "akira",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-25T14:06:23.054727",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/V0lOVEVSIEluZ2VuaWV1cmVAYWtpcmE=",
+      "victim": "WINTER Ingenieure"
     },
     {
       "activity": "Financial Services",
@@ -416,23 +443,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2hlcm55eSAmIEFzc29jaWF0ZXNAQm9vYmEgUHJvamVjdA==",
       "victim": "Chernyy & Associates"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-24T14:32:48.594000+00:00",
-      "claim_url": "",
-      "country": "GB",
-      "data_size": null,
-      "description": "Furniture and Home Furnishings Manufacturing Stolen data: 15 GB.",
-      "discovered": "2026-08-24T14:50:43.116668+00:00",
-      "domain": "www.davroc.co.uk",
-      "group": "Booba Project",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RGF2cm9jQEJvb2JhIFByb2plY3Q=",
-      "victim": "Davroc"
     }
   ]
 }
