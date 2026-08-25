@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-25T12:41:20.874341+00:00",
+  "last_success": "2026-08-25T13:47:07.471330+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-25T09:22:09.625354+00:00",
+      "claim_url": "",
+      "country": "MY",
+      "data_size": null,
+      "description": "PUBLICATION SCHEDULED. [LEAK / 1844 FILES]",
+      "discovered": "2026-08-25T09:22:11.312472+00:00",
+      "domain": "",
+      "group": "majinahanashi",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UENBIEdyb3VwIFNkbi4gQmhkLkBtYWppbmFoYW5hc2hp",
+      "victim": "PCA Group Sdn. Bhd."
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-25T09:09:19.726372+00:00",
+      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=dentist-in-new-britain-ct",
+      "country": "US",
+      "data_size": null,
+      "description": "About Dentist in New Britain, CT Dentist in New Britain has spent over a decade caring for families across New Britain—pairing modern technology with the kind of warmth you don't expect from a dental office. As a result of the attack, the following were compromised: the entire customer database, consisting of just over 8,000 files, as well as a small number of records containing Social Security numbers",
+      "discovered": "2026-08-25T09:21:23.224020+00:00",
+      "domain": "dentistinnewbritain.com",
+      "group": "Dark Project",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-25T09:21:00",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1af22e0cde029ef7f149f1b686540164.png",
+      "url": "https://www.ransomware.live/id/RGVudGlzdCBpbiBOZXcgQnJpdGFpbiwgQ1RARGFyayBQcm9qZWN0",
+      "victim": "Dentist in New Britain, CT"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-08-24T22:27:06.812467+00:00",
@@ -379,40 +423,6 @@
       "screenshot": "https://images.ransomware.live/victims/98463659b2e4482c0bdcf24d6f177b67.png",
       "url": "https://www.ransomware.live/id/R292ZXJubWVudCBvZiBWb2p2b2RpbmFAUGFuemVy",
       "victim": "Government of Vojvodina"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-24T13:39:34.656000+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Insurance Stolen data: 92 GB.",
-      "discovered": "2026-08-24T13:50:21.369174+00:00",
-      "domain": "www.cwico.com",
-      "group": "Booba Project",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q291bnRyeS1XaWRlIEluc3VyYW5jZUBCb29iYSBQcm9qZWN0",
-      "victim": "Country-Wide Insurance"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-24T13:18:49+00:00",
-      "claim_url": "http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion/blog?uuid=340ec8c9-e611-3e1f-a055-94c473d09c50",
-      "country": "PT",
-      "data_size": null,
-      "description": "Sinarmas Cepsa Pte. Ltd. is a joint venture between Cepsa and Sinar Mas Group, specializing in the production and marketing of oleochemicals, particularly fatty alcohols and their derivatives",
-      "discovered": "2026-08-24T13:53:35.396420+00:00",
-      "domain": "www.ptesm.com",
-      "group": "blackwater",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4976694ee30c5bdfcbd9cbeebd8169ee.png",
-      "url": "https://www.ransomware.live/id/d3d3LnB0ZXNtLmNvbUBibGFja3dhdGVy",
-      "victim": "www.ptesm.com"
     }
   ]
 }

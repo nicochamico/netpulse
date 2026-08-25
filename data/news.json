@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T12:41:20.874341+00:00",
+  "last_success": "2026-08-25T13:47:07.471330+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "published": "Tue, 25 Aug 2026 18:49:41 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "published": "Tue, 25 Aug 2026 18:13:51 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
@@ -28,16 +40,10 @@
       "published": "Tue, 25 Aug 2026 16:44:07 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "published": "Tue, 25 Aug 2026 14:04:07 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "published": "Tue, 25 Aug 2026 11:42:35 +0530"
+      "source": "BleepingComputer",
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "published": "Tue, 25 Aug 2026 09:00:00 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
       "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
       "published": "Mon, 24 Aug 2026 13:56:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "published": "Mon, 24 Aug 2026 11:17:16 -0400"
     }
   ]
 }
