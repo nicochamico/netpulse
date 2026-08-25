@@ -1,9 +1,36 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-24T23:19:46.925701+00:00",
+  "last_success": "2026-08-25T01:05:44.858463+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-08-24T19:29:08.259302+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/lagegepescait/",
+      "country": "IT",
+      "data_size": null,
+      "description": "Based in Lallio, near Bergamo in Lombardy, the company traces its origins to 1957, when Santo Gavazzi established a small …",
+      "discovered": "2026-08-24T19:29:25.478541+00:00",
+      "domain": "lagegepesca.it",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-24T19:29:08",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b43b7e1c3005397a9f1f64d2c7738a1f.png",
+      "url": "https://www.ransomware.live/id/bGFnZWdlcGVzY2EuaXRAc2FmZXBheQ==",
+      "victim": "lagegepesca.it"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-08-24T18:08:26.978238+00:00",
@@ -376,23 +403,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QmlobEBha2lyYQ==",
       "victim": "Bihl"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-08-24T00:00:00+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/senvibe",
-      "country": "",
-      "data_size": null,
-      "description": "SENVIBE project is to improve and build national educational capacities, cooperation and competences in dealing with environmental and occupational noise and vibration (No&Vib) engineering issues in accordance with ongoing EU integration strategies and the needs identified in Serbia.",
-      "discovered": "2026-08-24T12:21:38.939396+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d1d7c59d46d2ce2b31e7e97728030573.png",
-      "url": "https://www.ransomware.live/id/U2VudmliZUBQYW56ZXI=",
-      "victim": "Senvibe"
     }
   ]
 }
