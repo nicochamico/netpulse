@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T06:41:01.445623+00:00",
+  "last_success": "2026-08-25T07:40:51.889721+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+      "published": "Tue, 25 Aug 2026 11:42:35 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -32,12 +38,6 @@
       "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
       "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
       "published": "Mon, 24 Aug 2026 17:26:34 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "published": "Mon, 24 Aug 2026 17:21:36 +0530"
     },
     {
       "source": "BleepingComputer",
