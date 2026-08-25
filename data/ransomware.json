@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-25T22:23:15.518816+00:00",
+  "last_success": "2026-08-25T23:22:24.838974+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-25T18:59:27.606894+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=67b118f1-0db6-4685-95b4-8dcd8bff0d5d",
+      "country": "RO",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-25T19:00:00.001606+00:00",
+      "domain": "www.paderteg.ro",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U0MgUGFkZXJUZUcgQ2FibHVyaSBFbGVjdHJpY2VAcWlsaW4=",
+      "victim": "SC PaderTeG Cabluri Electrice"
+    },
     {
       "activity": "Transportation",
       "attackdate": "2026-08-25T15:53:53.687890+00:00",
@@ -436,33 +453,6 @@
       "screenshot": "https://images.ransomware.live/victims/8efb3a8728dd103d53b22a3aaf282d51.png",
       "url": "https://www.ransomware.live/id/Sm9uZXMsIExpdHRsZSAmIENvLiwgQ1BBcywgTExQQERhcmsgUHJvamVjdA==",
       "victim": "Jones, Little & Co., CPAs, LLP"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-24T17:59:49.594198+00:00",
-      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=the-liberty-group",
-      "country": "US",
-      "data_size": null,
-      "description": "About The Liberty Group Companys offerings include local, long distance, and international moving, lab relocation services, and logistics solutions. They cater to a diverse range of clients, providing professional and comprehensive assistance to both residential and commercial customers. Investigators are working to identify the perpetrators and assess the full scope of the damage. A company has suffered a major cyberattack resulting in the theft of approximately 27,000 internal files. The leaked documents include financial records, internal working materials, and personal data of employees. Attackers encrypted the company's systems following the breach, severely disrupting operations",
-      "discovered": "2026-08-24T18:21:30.380970+00:00",
-      "domain": "libertygrp.com",
-      "group": "Dark Project",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-24T18:21:10",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3b5ecc399b07dbee8aa54a7a30f0d141.png",
-      "url": "https://www.ransomware.live/id/VGhlIExpYmVydHkgR3JvdXBARGFyayBQcm9qZWN0",
-      "victim": "The Liberty Group"
     }
   ]
 }
