@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T09:32:07.311676+00:00",
+  "last_success": "2026-08-25T10:28:52.189123+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "published": "Tue, 25 Aug 2026 14:04:07 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
@@ -32,12 +38,6 @@
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
       "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "published": "Mon, 24 Aug 2026 18:05:36 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "published": "Mon, 24 Aug 2026 17:26:34 +0530"
     },
     {
       "source": "BleepingComputer",
