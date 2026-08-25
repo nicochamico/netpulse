@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T14:41:19.217388+00:00",
+  "last_success": "2026-08-25T15:39:10.047165+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "published": "Tue, 25 Aug 2026 19:37:37 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
@@ -34,10 +40,10 @@
       "published": "Tue, 25 Aug 2026 17:03:44 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "published": "Tue, 25 Aug 2026 16:44:07 +0530"
+      "source": "BleepingComputer",
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "published": "Tue, 25 Aug 2026 10:44:16 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Police arrests dozens of suspects in global cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
       "published": "Tue, 25 Aug 2026 06:53:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "published": "Mon, 24 Aug 2026 17:14:30 -0400"
     }
   ]
 }
