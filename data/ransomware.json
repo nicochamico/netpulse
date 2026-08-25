@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-25T18:35:21.012999+00:00",
+  "last_success": "2026-08-25T19:28:40.334905+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-08-25T14:25:46.616345+00:00",
+      "claim_url": "https://transfer.it/t/XMX4214zCJrb",
+      "country": "ID",
+      "data_size": null,
+      "description": "We Breached This company a few months ago. we stole 375.66MB.\nmirror 1: https://anonfilesnew.com/s/4t-mBJg9wMy\nMore info is on darkforums.ru about this leak.",
+      "discovered": "2026-08-25T14:26:02.536617+00:00",
+      "domain": "www.smart-tbk.com",
+      "group": "ShadowByt3$",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/87a3d45930ebf5b2b152bb7bb58f291d.png",
+      "url": "https://www.ransomware.live/id/U2luYXIgTWFzIEFncmlidXNpbmVzcyBhbmQgRm9vZCBHb2xkZW4gQWdyaS1SZXNvdXJjZXMpQFNoYWRvd0J5dDMk",
+      "victim": "Sinar Mas Agribusiness and Food Golden Agri-Resources)"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-08-25T14:25:11.616150+00:00",
+      "claim_url": "https://transfer.it/t/Ek7m9dkzhZ6Y",
+      "country": "GB",
+      "data_size": null,
+      "description": "We Breached A-plus through a sql injection vulnerability and downloaded everything in there backend. We gained access to there system on 08/18/2026\n\nThe following data was stolen:\n\n1. Website User Data (`usr.csv`)\n- This file contains the administrative backend infrastructure for the website, exposing:\n- 10 internal accounts, including the usernames `admin`, `debuger`, `camby`, `asuka`, `jimmy`, `ricole`, and `green`.\n- Password hashes (SHA-1 format) revealing that almost all administrative users shared the exact same password.\n- Internal access metadata\n\n\n2. Marketing and Public Web Content\n\n- The remaining four files contain the text, configuration, and structural layout used to display information to visitors on `a-plussoft.com`:\n`- products.csv`\n13 lines): The master list of software solutions and mobile apps sold by the company (such as SalesAnywhere).\n\n`- product_content.csv` (101 lines): The detailed marketing descriptions, features, specifications, and text modules displayed on individual product pages.\n\n`- news.csv` (89 lines): The text content of all historical corporate announcements, updates, and press releases published by the company.\n\n`- news_cate.csv` (2 lines): The category organization tags used to sort the news section on the website\n\nUncompressed size\ntotal records: 211\n2,787,292 Bytes, which equals 2.6582 Megabytes (MB).\n\nmirror 1: https://anonfilesnew.com/s/XtgbXhRkQQ8\nmirror 2: https://pixeldrain.com/u/jUpuUyj9",
+      "discovered": "2026-08-25T14:25:27.547858+00:00",
+      "domain": "www.a-plussoft.com",
+      "group": "ShadowByt3$",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b951202ea0b2bfabb4aade12d8418993.png",
+      "url": "https://www.ransomware.live/id/QS1QbHVzIFNvZnR3YXJlIExpbWl0ZWRAU2hhZG93Qnl0MyQ=",
+      "victim": "A-Plus Software Limited"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-25T09:30:02.936346+00:00",
@@ -409,40 +443,6 @@
       "screenshot": "https://images.ransomware.live/victims/05b078d7735b62f807274339fe7fe99e.png",
       "url": "https://www.ransomware.live/id/V296YWlyQGRyYWdvbmZvcmNl",
       "victim": "Wozair"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-24T15:18:57.242244+00:00",
-      "claim_url": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog/?post_uuid=65fa9687-26ec-41c7-8aca-7bc0b1d62c51",
-      "country": "CA",
-      "data_size": null,
-      "description": "(data of many thousands of customers, including credit reports, SSNs, addresses, etc.) Brookview Financial is a boutique private lender specializing in quick-close financing solutions for real estate projects. Established in 1992, the company has served as a trusted capital partner for thousands of real estate investors across the nation. They offer a range of loan programs, including commercial bridge loans, fix & flip loans, and special situation financing, with amounts ranging from $75,000 to over $50 million. Known for their personal service and flexible terms, Brookview can close deals in as little as 7 days.",
-      "discovered": "2026-08-24T15:25:38.120735+00:00",
-      "domain": "www.brookviewfinancial.com",
-      "group": "dragonforce",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cfd485a857902fe3924606ad2e3a441e.png",
-      "url": "https://www.ransomware.live/id/QnJvb2t2aWV3IEZpbmFuY2lhbEBkcmFnb25mb3JjZQ==",
-      "victim": "Brookview Financial"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-24T14:38:45.480000+00:00",
-      "claim_url": "",
-      "country": "RU",
-      "data_size": null,
-      "description": "Law Practice Stolen data: 67 GB.",
-      "discovered": "2026-08-24T14:50:22.819753+00:00",
-      "domain": "www.chernyy-law.com",
-      "group": "Booba Project",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2hlcm55eSAmIEFzc29jaWF0ZXNAQm9vYmEgUHJvamVjdA==",
-      "victim": "Chernyy & Associates"
     }
   ]
 }

@@ -1,9 +1,26 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-25T18:35:21.012999+00:00",
-  "count": 1675,
+  "last_success": "2026-08-25T19:28:40.334905+00:00",
+  "count": 1676,
   "items": [
+    {
+      "cveID": "CVE-2026-60004",
+      "vendorProject": "Gitea",
+      "product": "Gitea",
+      "vulnerabilityName": "Gitea Code Injection Vulnerability",
+      "dateAdded": "2026-08-25",
+      "shortDescription": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-08-28",
+      "knownRansomwareCampaignUse": "Unknown",
+      "notes": "https://github.com/go-gitea/gitea/security/advisories/GHSA-rcr6-4jqh-j84m ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
+      "cwes": [
+        "CWE-94"
+      ],
+      "epss": null,
+      "epss_percentile": null
+    },
     {
       "cveID": "CVE-2026-21962",
       "vendorProject": "Oracle",
@@ -156,24 +173,6 @@
       ],
       "epss": 0.10431,
       "epss_percentile": 0.95378
-    },
-    {
-      "cveID": "CVE-2025-62593",
-      "vendorProject": "Ray-Project",
-      "product": "Ray",
-      "vulnerabilityName": "Ray-Project Ray Code Injection Vulnerability",
-      "dateAdded": "2026-08-17",
-      "shortDescription": "Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-08-20",
-      "knownRansomwareCampaignUse": "Unknown",
-      "notes": "https://github.com/ray-project/ray/security/advisories/GHSA-q279-jhrf-cc6v ; https://github.com/ray-project/ray/commit/70e7c72780bdec075dba6cad1afe0832772bfe09 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
-      "cwes": [
-        "CWE-94",
-        "CWE-352"
-      ],
-      "epss": 0.16888,
-      "epss_percentile": 0.9681
     }
   ]
 }
