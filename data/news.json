@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-25T21:24:39.719627+00:00",
+  "last_success": "2026-08-25T22:23:15.518816+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "published": "Tue, 25 Aug 2026 17:58:14 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "published": "Tue, 25 Aug 2026 17:39:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
       "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
       "published": "Tue, 25 Aug 2026 16:25:26 -0400"
@@ -62,18 +74,6 @@
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
       "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
       "published": "Tue, 25 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "published": "Tue, 25 Aug 2026 09:51:58 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "published": "Tue, 25 Aug 2026 09:00:00 -0400"
     }
   ]
 }
