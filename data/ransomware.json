@@ -1,9 +1,26 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-26T05:31:04.152805+00:00",
+  "last_success": "2026-08-26T06:42:31.822817+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-26T01:56:14.102888+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8f547a67-d984-4212-bfb2-ac38b169df36",
+      "country": "GB",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-26T01:57:16.824942+00:00",
+      "domain": "www.ai-thermal.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWlyIEludGVybmF0aW9uYWwgVGhlcm1hbCBTeXN0ZW1zQHFpbGlu",
+      "victim": "Air International Thermal Systems"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-08-25T21:20:06.264983+00:00",
@@ -428,33 +445,6 @@
       "screenshot": "https://images.ransomware.live/victims/14f8e0f688df8b6d09c16c352b65b53e.png",
       "url": "https://www.ransomware.live/id/QmFpLWNoaSBDUEEgRmlybUBPcm92YQ==",
       "victim": "Bai-chi CPA Firm"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-08-25T00:00:00+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "WINTER Ingenieure specializes in planning and monitoring the construction of technical building\nequipment across Germany, focusing on functionality, sustainability, and cost-effectiveness. W\nith a team of over 140 employees located in Düsseldorf, Berlin, and Hamburg, they integrate tec\nhnical components into buildings innovatively.\n\nWe will upload 340gb of corporate data soon. Employee personal information (German passports, I\nDs, addresses, phones contacts), confidential files, projects, lots of specifications and so on\n.\n",
-      "discovered": "2026-08-25T12:53:05.913666+00:00",
-      "domain": "winter-ingenieure.de",
-      "group": "akira",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-25T14:06:23.054727",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V0lOVEVSIEluZ2VuaWV1cmVAYWtpcmE=",
-      "victim": "WINTER Ingenieure"
     }
   ]
 }
