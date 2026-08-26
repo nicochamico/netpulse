@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-26T13:52:13.301974+00:00",
+  "last_success": "2026-08-26T14:41:13.353668+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-26T09:52:33.678371+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Founded in 1999, MEMSIC is a company that designs, manufactures Flow sensors, Accelerometers, Sensing technology, Inertial systems, Magnetometers, Tilt sensors. MEMSIC is located in Massachusetts.",
+      "discovered": "2026-08-26T09:52:34.994614+00:00",
+      "domain": "",
+      "group": "abyss",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TUVNU0lDQGFieXNz",
+      "victim": "MEMSIC"
     },
     {
       "activity": "Professional Services",
@@ -463,33 +480,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UENBIEdyb3VwIFNkbi4gQmhkLkBtYWppbmFoYW5hc2hp",
       "victim": "PCA Group Sdn. Bhd."
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-25T09:09:19.726372+00:00",
-      "claim_url": "http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion/article?slug=dentist-in-new-britain-ct",
-      "country": "US",
-      "data_size": null,
-      "description": "About Dentist in New Britain, CT Dentist in New Britain has spent over a decade caring for families across New Britain—pairing modern technology with the kind of warmth you don't expect from a dental office. As a result of the attack, the following were compromised: the entire customer database, consisting of just over 8,000 files, as well as a small number of records containing Social Security numbers",
-      "discovered": "2026-08-25T09:21:23.224020+00:00",
-      "domain": "dentistinnewbritain.com",
-      "group": "Dark Project",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-25T09:21:00",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/1af22e0cde029ef7f149f1b686540164.png",
-      "url": "https://www.ransomware.live/id/RGVudGlzdCBpbiBOZXcgQnJpdGFpbiwgQ1RARGFyayBQcm9qZWN0",
-      "victim": "Dentist in New Britain, CT"
     }
   ]
 }
