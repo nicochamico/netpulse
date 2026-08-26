@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-26T16:15:12.526517+00:00",
+  "last_success": "2026-08-26T18:56:42.397574+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "published": "Wed, 26 Aug 2026 22:12:03 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "published": "Wed, 26 Aug 2026 21:05:05 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
@@ -28,16 +40,16 @@
       "published": "Wed, 26 Aug 2026 17:06:49 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "published": "Wed, 26 Aug 2026 15:57:23 +0530"
+      "source": "BleepingComputer",
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "published": "Wed, 26 Aug 2026 14:48:24 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "published": "Wed, 26 Aug 2026 15:08:45 +0530"
+      "source": "BleepingComputer",
+      "title": "Meta agrees to $18 billion settlement over teen social media harms",
+      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+      "published": "Wed, 26 Aug 2026 12:41:05 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Snowflake ends service-account passwords. Now comes the hard part",
       "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
       "published": "Wed, 26 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "published": "Wed, 26 Aug 2026 09:17:54 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "published": "Wed, 26 Aug 2026 08:06:28 -0400"
     }
   ]
 }
