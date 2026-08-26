@@ -1,9 +1,53 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-26T01:07:57.213679+00:00",
+  "last_success": "2026-08-26T03:01:31.778396+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-25T21:20:06.264983+00:00",
+      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/17E19C9B6B41D33F",
+      "country": "RU",
+      "data_size": null,
+      "description": "",
+      "discovered": "2026-08-25T21:20:18.615993+00:00",
+      "domain": "",
+      "group": "AuditTeam",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a4c7e8ca4bfea26754e583403702970f.png",
+      "url": "https://www.ransomware.live/id/bWEqKip1cEBBdWRpdFRlYW0=",
+      "victim": "ma***up"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-25T20:57:09.561479+00:00",
+      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/industryairliquidekr/",
+      "country": "KR",
+      "data_size": null,
+      "description": "Air Liquide has operated in South Korea for several decades and supplies essential gases and related technologies to major industries, …",
+      "discovered": "2026-08-25T20:57:25.789152+00:00",
+      "domain": "industry.airliquide.kr",
+      "group": "safepay",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-25T20:57:09",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/90e3b7b557792fbc55dd21ac79baf009.png",
+      "url": "https://www.ransomware.live/id/aW5kdXN0cnkuYWlybGlxdWlkZS5rckBzYWZlcGF5",
+      "victim": "industry.airliquide.kr"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-08-25T19:24:33.690931+00:00",
@@ -421,50 +465,6 @@
       "screenshot": "https://images.ransomware.live/victims/abd52592f1df1feb14173fa463a42a7b.png",
       "url": "https://www.ransomware.live/id/QUdST0xBTkQgUy5BLkBxaWxpbg==",
       "victim": "AGROLAND S.A."
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-08-24T22:27:06.812467+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=3d339ba7-a05c-4817-aea1-650ff6ea3a3f",
-      "country": "",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-24T22:27:31.568037+00:00",
-      "domain": "www.consegsa.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0df89e683cbb510f3d245747243611b8.png",
-      "url": "https://www.ransomware.live/id/Q29uc3VsdG9yZXMgZGUgU2VndXJvc0BxaWxpbg==",
-      "victim": "Consultores de Seguros"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-24T21:21:26.480350+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Family law firm, established 1995 by Victor A. Shaheen (†2025 - the General Assembly of Virginia honored him with a resolution; google it, it is touching). Now run by his three sons. 48 employees across four offices: Richmond, Midlothian, Virginia Beach, Newport News. What do they do? They close 150+ real estate transactions EVERY MONTH for some of the largest corporate relocation programs in America. When a Fortune-500 moves an employee to Virginia, this firm holds that employee's Social Security Number, bank wiring details, home address, family identities, and sometimes their medical clearance. They hold everyone's future in a shared folder. We now hold the folder. WHAT WE TOOK 36,788 files · 27GB · 21,789 fully read 67,000+ SSN patterns (their own dedup says 6,017 real people — we will let their customers decide which number to believe) EVIDENCE — SERIES PREVIEW (from their actual files) - S1 DEEDS WITH SOCIAL SECURITY NUMBERS File: \"5053815 - Unsigned Deed.docx\" (verbatim from their server): \"***-**-XXXX B•••• H••• Social Security Number ***-**-XXXX J••••• H••• Social Security Number 10356 Ashburn Road, North Chesterfield, VA 23235\" File: \"Kelley 5042085 - DEED.docx\": \"PURCHASER(S): N••••• S••• SELLER'S NAME: S••• E. K•••• SS#: ***-**-XXXX ...including the withholding of twenty percent (20%) of the sales proceeds.\" ← FIRPTA: foreign sellers. IRS will want this list. We have it. Thousands of these. Every deed folder = a name, a number, an address, a transaction. Their client roster IS the leak. - S3 INSIDE THEIR BANKING & THEIR NETWORK File: \"shared_Accounting/Banking/Other Banking/Shaheen DDA Statements SunTrust DDA\" (email from SunTrustOnlineCourier to their own staff — headers verbatim): Received: from barracuda.shaheenlaw.com ([10.0.0.6]) by ricdcex1.shaheenlaw.com ... X-ASG-Debug-ID: 1291233029-... for ; Wed, 1 Dec 2010 Why we publish an email HEADER: their internal map is in it. Barracuda at 10.0.0.6. Exchange \"ricdcex1\". Domain SHAHEENWORLD. We did not forget how to enter. Neither will the next group, when we sell the map. 150 banking statement attachments ride along in this folder. - S5 THE CLIENT LIST, WRITTEN IN FOLDERNAMES They named folders after their customers. Verbatim paths: shared_PENDING_SALE/HENNY/Closed Files/ Wisniewski-Markel, Suzanne_5027384_12263 Eagle ... Merza, Jamal & Adrienne_5027826_811 Woodberry ... Name, file number, STREET ADDRESS — in the path itself. Marketing lists sell for money. This one is annotated with purchase history. Relocation buyers are premium leads. - S2 MEDICAL - S4 LITIGATION Held. 120 medical files exist (their own audit counted them). Litigation: we confirm their December escrow dispute is public (Porchlight Homes v. Almeida & Shaheen, Henrico — google it, BizSense covered it). Virginia residents: §18.2-186.6. Illinois relocations: BIPA. Opposing counsel and journalists: samples on request. Media & researchers: samples on request, we answer fast We keep our word to everyone who pays. We keep it also to everyone who does not.",
-      "discovered": "2026-08-24T21:21:27.834915+00:00",
-      "domain": "slgjustice.com",
-      "group": "Deadlock",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-24T21:28:16.858409",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U0hBSEVFTiBMQVcgR1JPVVAgUExDIC0gUmljaG1vbmQsIFZpcmdpbmlhLCBVU0FARGVhZGxvY2s=",
-      "victim": "SHAHEEN LAW GROUP PLC - Richmond, Virginia, USA"
     }
   ]
 }
