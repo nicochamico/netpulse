@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-26T09:37:33.850653+00:00",
+  "last_success": "2026-08-26T10:32:07.472473+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "published": "Wed, 26 Aug 2026 15:57:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "published": "Wed, 26 Aug 2026 15:08:45 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
@@ -26,18 +38,6 @@
       "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
       "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
       "published": "Wed, 26 Aug 2026 11:17:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "published": "Tue, 25 Aug 2026 23:47:17 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "published": "Tue, 25 Aug 2026 19:37:37 +0530"
     },
     {
       "source": "BleepingComputer",

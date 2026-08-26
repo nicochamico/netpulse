@@ -1,9 +1,43 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-26T09:37:33.850653+00:00",
+  "last_success": "2026-08-26T10:32:07.472473+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-11-18 00:00:00.000000",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Paylogix is an insuretech pioneer offering premium technology sol\nutions that streamline the administration of voluntary benefits. \nTheir robust suite of services includes enrollment, premium billi\nng, alternative funding, and a software-as-a-service platform tai\nlored for groups of all sizes.\n\nWe will upload 185gb of corporate data soon. Employee personal in\nformation (complete information about 130 employees including SSN\ns, passports, DLs and so on), client information, detailed financ\nials, internal confidential files, NDAs and so on.\n",
+      "discovered": "2026-01-15T13:48:29.435004+00:00",
+      "domain": "paylogix.com",
+      "group": "akira",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {
+          "Generic Stealer": 1,
+          "RedLine": 1
+        },
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2025-11-02T00:00:00+00:00",
+        "thirdparties": 0,
+        "update": "2026-04-30T04:48:33",
+        "users": 2,
+        "users_url": 3
+      },
+      "press": {
+        "link": "https://www.ransomware.live/id/cGF5bG9naXguY29tQDIwMjYtMTEtMTg=",
+        "source": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
+        "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026."
+      },
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
+      "victim": "Paylogix"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-08-26T01:56:14.102888+00:00",
@@ -428,23 +462,6 @@
       "screenshot": "https://images.ransomware.live/victims/76329eb4a6e45df13f31550ecb59737d.png",
       "url": "https://www.ransomware.live/id/QXJpY2ggRW50ZXJwcmlzZSBDby4sIEx0ZC5AT3JvdmE=",
       "victim": "Arich Enterprise Co., Ltd."
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-08-25T00:00:00+00:00",
-      "claim_url": "http://maa2yprc5pldyr5hjn246hw7i66wdhglnostqgqkcbuh4vyyeos4xxyd.onion/jseeqqmmnmrrmdrjdp/",
-      "country": "TW",
-      "data_size": null,
-      "description": "Bai-chi CPA Firm is a registered Taiwanese CPA practice.",
-      "discovered": "2026-08-25T23:22:09.673993+00:00",
-      "domain": "www.baichi.com.tw",
-      "group": "Orova",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/14f8e0f688df8b6d09c16c352b65b53e.png",
-      "url": "https://www.ransomware.live/id/QmFpLWNoaSBDUEEgRmlybUBPcm92YQ==",
-      "victim": "Bai-chi CPA Firm"
     }
   ]
 }
