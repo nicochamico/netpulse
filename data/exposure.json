@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:18:20.469375+00:00",
+  "generated_at": "2026-08-26T13:34:48.957595+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "api.ifood.com.br",
         "one.one.one.one",
-        "nths-ntccsd-ia.schoolloop.com",
-        "jves-dcsd1-nv.schoolloop.com"
+        "guest.prelios.com"
       ]
     },
     {
