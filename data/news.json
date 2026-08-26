@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-26T08:39:14.566327+00:00",
+  "last_success": "2026-08-26T09:37:33.850653+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "published": "Wed, 26 Aug 2026 13:24:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "published": "Wed, 26 Aug 2026 12:42:55 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
@@ -26,18 +38,6 @@
       "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
       "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
       "published": "Tue, 25 Aug 2026 19:37:37 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "published": "Tue, 25 Aug 2026 18:49:41 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "published": "Tue, 25 Aug 2026 18:13:51 +0530"
     },
     {
       "source": "BleepingComputer",
