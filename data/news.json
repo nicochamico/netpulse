@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-26T11:26:42.292263+00:00",
+  "last_success": "2026-08-26T12:45:30.176773+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "published": "Wed, 26 Aug 2026 17:06:49 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
@@ -34,10 +40,10 @@
       "published": "Wed, 26 Aug 2026 11:57:07 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "published": "Wed, 26 Aug 2026 11:17:28 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "published": "Wed, 26 Aug 2026 08:06:28 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Massive DDoS attack disrupts Norway’s government digital services",
       "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
       "published": "Tue, 25 Aug 2026 11:52:36 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "published": "Tue, 25 Aug 2026 10:44:16 -0400"
     }
   ]
 }
