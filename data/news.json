@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-27T13:44:46.320122+00:00",
+  "last_success": "2026-08-27T23:34:13.107073+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "published": "Fri, 28 Aug 2026 00:06:19 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "published": "Thu, 27 Aug 2026 20:43:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "published": "Thu, 27 Aug 2026 20:42:16 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "published": "Thu, 27 Aug 2026 19:09:56 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
@@ -16,64 +40,40 @@
       "published": "Thu, 27 Aug 2026 17:26:26 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "What the Data Says About AI in Security Operations in 2026",
-      "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-      "published": "Thu, 27 Aug 2026 17:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "published": "Thu, 27 Aug 2026 17:38:53 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "published": "Thu, 27 Aug 2026 16:30:57 +0530"
+      "source": "BleepingComputer",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "published": "Thu, 27 Aug 2026 12:31:53 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "published": "Thu, 27 Aug 2026 15:03:38 +0530"
+      "source": "BleepingComputer",
+      "title": "Manchester Airports Group says hackers stole travelers' data",
+      "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
+      "published": "Thu, 27 Aug 2026 12:12:26 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "published": "Thu, 27 Aug 2026 13:43:11 +0530"
+      "source": "BleepingComputer",
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "published": "Thu, 27 Aug 2026 10:00:10 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Android 17 adds ECH support to make web browsing harder to track",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
+      "published": "Thu, 27 Aug 2026 10:00:00 -0400"
     },
     {
       "source": "BleepingComputer",
       "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
       "published": "Thu, 27 Aug 2026 09:31:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "published": "Thu, 27 Aug 2026 08:16:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "published": "Thu, 27 Aug 2026 08:16:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "published": "Thu, 27 Aug 2026 07:10:04 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "published": "Thu, 27 Aug 2026 05:16:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "published": "Thu, 27 Aug 2026 04:13:50 -0400"
     }
   ]
 }
