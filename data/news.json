@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-27T02:53:12.008072+00:00",
+  "last_success": "2026-08-27T13:44:46.320122+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "published": "Wed, 26 Aug 2026 22:12:03 +0530"
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "published": "Thu, 27 Aug 2026 17:26:30 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "published": "Wed, 26 Aug 2026 21:05:05 +0530"
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "published": "Thu, 27 Aug 2026 17:26:26 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "published": "Wed, 26 Aug 2026 19:14:31 +0530"
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "published": "Thu, 27 Aug 2026 17:00:00 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "published": "Wed, 26 Aug 2026 18:37:02 +0530"
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "published": "Thu, 27 Aug 2026 16:30:57 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "published": "Wed, 26 Aug 2026 17:25:00 +0530"
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "published": "Thu, 27 Aug 2026 15:03:38 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "published": "Wed, 26 Aug 2026 17:06:49 +0530"
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "published": "Thu, 27 Aug 2026 13:43:11 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "published": "Wed, 26 Aug 2026 17:33:20 -0400"
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "published": "Thu, 27 Aug 2026 09:31:13 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "published": "Wed, 26 Aug 2026 14:48:24 -0400"
+      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+      "published": "Thu, 27 Aug 2026 08:16:32 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Meta agrees to $18 billion settlement over teen social media harms",
-      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-      "published": "Wed, 26 Aug 2026 12:41:05 -0400"
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "published": "Thu, 27 Aug 2026 08:16:24 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "published": "Wed, 26 Aug 2026 11:19:21 -0400"
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "published": "Thu, 27 Aug 2026 07:10:04 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "published": "Wed, 26 Aug 2026 10:47:51 -0400"
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "published": "Thu, 27 Aug 2026 05:16:50 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-      "published": "Wed, 26 Aug 2026 10:17:59 -0400"
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "published": "Thu, 27 Aug 2026 04:13:50 -0400"
     }
   ]
 }
