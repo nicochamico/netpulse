@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:27:42.903451+00:00",
+  "generated_at": "2026-08-27T14:32:46.749086+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "api.ifood.com.br",
-        "one.one.one.one",
-        "guest.prelios.com"
+        "wlc100.cabq.gov",
+        "wifilogin.hydro.mb.ca",
+        "one.one.one.one"
       ]
     },
     {
