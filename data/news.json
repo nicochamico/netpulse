@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-27T23:34:13.107073+00:00",
+  "last_success": "2026-08-28T09:27:47.186789+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "published": "Fri, 28 Aug 2026 13:55:36 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "published": "Fri, 28 Aug 2026 13:50:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
@@ -28,16 +40,10 @@
       "published": "Thu, 27 Aug 2026 19:09:56 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "published": "Thu, 27 Aug 2026 17:26:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-      "published": "Thu, 27 Aug 2026 17:26:26 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+      "published": "Fri, 28 Aug 2026 05:10:13 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Android 17 adds ECH support to make web browsing harder to track",
       "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
       "published": "Thu, 27 Aug 2026 10:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-      "published": "Thu, 27 Aug 2026 09:31:13 -0400"
     }
   ]
 }
