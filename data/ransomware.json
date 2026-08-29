@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-29T19:10:14.567997+00:00",
+  "last_success": "2026-08-29T22:19:28.183759+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-29T18:00:25.128832+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=2affb033-7e6a-48cc-be6d-8b0bcb395750",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-29T18:00:45.102178+00:00",
+      "domain": "www.laparchitects.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2ce4517ad864b2e508a1708387a9ce80.png",
+      "url": "https://www.ransomware.live/id/TEFQb2NvIEFyY2hpdGVjdHNAcWlsaW4=",
+      "victim": "LAPoco Architects"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-29T15:03:00+00:00",
+      "claim_url": "/post/uniguacu/",
+      "country": "",
+      "data_size": null,
+      "description": "full commitment of the network having full access to infrastructure, thus ensuring access to the database containing confidential and financial information! I obtained some images that compromise the financial sector. You have 13 days to trade. If the trade doesn't occur as planned, we will have to take severe measures. I sent some images to show the veracity of the attack. The warning has been given! [Size: 151.0 MB | Sector: Education]",
+      "discovered": "2026-08-29T15:21:02.506987+00:00",
+      "domain": "",
+      "group": "emperador",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VW5pZ3VhY3VAZW1wZXJhZG9y",
+      "victim": "Uniguacu"
     },
     {
       "activity": "Manufacturing",
@@ -346,40 +380,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWNLZXNzb24gQ29ycG9yYXRpb25Ac2hpbnlodW50ZXJz",
       "victim": "McKesson Corporation"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-08-28T23:21:12.759777+00:00",
-      "claim_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/sittnak-lojistik-a-ş-",
-      "country": "TR",
-      "data_size": null,
-      "description": "Status: upcoming | Data size: — | Files: 0 files | Deadline: 2026-09-15T00:00:00Z",
-      "discovered": "2026-08-28T23:21:25.915181+00:00",
-      "domain": "",
-      "group": "Doommageddon",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/dccaefdb66ba9dcbca0ff505eae5f164.png",
-      "url": "https://www.ransomware.live/id/U0lUVE5BSyBMb2ppc3RpayBBLsWeLkBEb29tbWFnZWRkb24=",
-      "victim": "SITTNAK Lojistik A.Ş."
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-28T23:20:48.276011+00:00",
-      "claim_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/akpera-gayrimenkul-yatırım-a-ş-",
-      "country": "TR",
-      "data_size": null,
-      "description": "Status: upcoming | Data size: — | Files: 0 files | Deadline: 2026-09-15T00:00:00Z",
-      "discovered": "2026-08-28T23:21:03.592833+00:00",
-      "domain": "",
-      "group": "Doommageddon",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/df1c1868d48c8f11eb2201e865c54327.png",
-      "url": "https://www.ransomware.live/id/QWtwZXJhIEdheXJpbWVua3VsIFlhdMSxcsSxbSBBLsWeLkBEb29tbWFnZWRkb24=",
-      "victim": "Akpera Gayrimenkul Yatırım A.Ş."
     }
   ]
 }
