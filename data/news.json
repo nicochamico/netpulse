@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-29T15:28:07.854094+00:00",
+  "last_success": "2026-08-29T19:10:14.567997+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "published": "Sat, 29 Aug 2026 21:55:03 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -32,12 +38,6 @@
       "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
       "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
       "published": "Fri, 28 Aug 2026 21:26:55 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "published": "Fri, 28 Aug 2026 20:57:26 +0530"
     },
     {
       "source": "BleepingComputer",
