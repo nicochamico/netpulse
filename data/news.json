@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-08-29T10:45:24.728702+00:00",
+  "last_success": "2026-08-29T15:28:07.854094+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "published": "Sat, 29 Aug 2026 10:19:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
       "published": "Fri, 28 Aug 2026 18:40:17 -0400"
@@ -68,12 +74,6 @@
       "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
       "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
       "published": "Fri, 28 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "published": "Fri, 28 Aug 2026 08:58:43 -0400"
     }
   ]
 }

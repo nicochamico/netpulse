@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-08-29T10:45:24.728702+00:00",
+  "last_success": "2026-08-29T15:28:07.854094+00:00",
   "count": 1685,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-287"
       ],
-      "epss": 0.41192,
-      "epss_percentile": 0.98607
+      "epss": 0.43205,
+      "epss_percentile": 0.98671
     },
     {
       "cveID": "CVE-2026-53362",
@@ -34,7 +34,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: ; https://git.kernel.org/stable/c/14200d435af9a9eeb444f529fc2f689a236b7962; https://git.kernel.org/stable/c/65fb14cbebb0cd0eff903a22d33537ddc8b95769; https://git.kernel.org/stable/c/46f201f8b4c39633a1fa3dc12459f506d470993d; https://git.kernel.org/stable/c/6374fb9edf72c67a118a2c214a0dddd04c921e0a; https://git.kernel.org/stable/c/e9eacf19281ea2498b36291b56c9606118c2d74e; https://git.kernel.org/stable/c/736b380e28d0480c7bc3e022f1950f31fe53a7c5 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-53362",
       "cwes": [],
       "epss": 0.0051,
-      "epss_percentile": 0.41293
+      "epss_percentile": 0.41335
     },
     {
       "cveID": "CVE-2026-66384",
@@ -50,8 +50,8 @@
       "cwes": [
         "CWE-22"
       ],
-      "epss": 0.00543,
-      "epss_percentile": 0.43193
+      "epss": 0.00579,
+      "epss_percentile": 0.45078
     },
     {
       "cveID": "CVE-2021-23758",
@@ -83,7 +83,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://access.redhat.com/articles/1537873 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2015-3246",
       "cwes": [],
       "epss": 0.08799,
-      "epss_percentile": 0.94861
+      "epss_percentile": 0.94867
     },
     {
       "cveID": "CVE-2015-5287",
@@ -98,7 +98,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/abrt/abrt/commit/3c1b60cfa62d39e5fff5a53a5bc53dae189e740e ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2015-5287",
       "cwes": [],
       "epss": 0.04962,
-      "epss_percentile": 0.91605
+      "epss_percentile": 0.91611
     },
     {
       "cveID": "CVE-2022-0995",
@@ -115,7 +115,7 @@
         "CWE-787"
       ],
       "epss": 0.09518,
-      "epss_percentile": 0.95154
+      "epss_percentile": 0.95158
     },
     {
       "cveID": "CVE-2026-8452",
@@ -132,7 +132,7 @@
         "CWE-119"
       ],
       "epss": 0.01606,
-      "epss_percentile": 0.73711
+      "epss_percentile": 0.73731
     },
     {
       "cveID": "CVE-2019-1068",
@@ -147,7 +147,7 @@
       "notes": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1068 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2019-1068",
       "cwes": [],
       "epss": 0.52845,
-      "epss_percentile": 0.98921
+      "epss_percentile": 0.98923
     },
     {
       "cveID": "CVE-2026-60004",
