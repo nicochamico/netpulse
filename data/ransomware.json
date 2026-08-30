@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-29T22:19:28.183759+00:00",
+  "last_success": "2026-08-30T01:01:21.114262+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-08-29T19:28:09.456331+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=f366be31-dcd5-4b96-809c-197c9ba6999c",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-29T19:28:32.521672+00:00",
+      "domain": "www.banditchippers.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/de49d198fca669ce94e9c51380651209.png",
+      "url": "https://www.ransomware.live/id/QmFuZGl0IEluZHVzdHJpZXNAcWlsaW4=",
+      "victim": "Bandit Industries"
     },
     {
       "activity": "Professional Services",
@@ -363,23 +380,6 @@
       "screenshot": "https://images.ransomware.live/victims/3b89e0493d401f6e9df74181e328695f.png",
       "url": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
       "victim": "Oilquip Inc"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-08-28T23:57:48.817488+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Hundreds of millions of records/rows of data was compromised containing very sensitive information spanning from PII to PHI. We urge you to reach out. Read our emails. We will provide a substanial discount. Failure to engage with us will result in the full publication of data taken from you and we very much intend to carry that out if you do not engage with us. This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 29 Aug 2026 | Warning: FINAL WARNING",
-      "discovered": "2026-08-28T23:57:50.569651+00:00",
-      "domain": "",
-      "group": "shinyhunters",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWNLZXNzb24gQ29ycG9yYXRpb25Ac2hpbnlodW50ZXJz",
-      "victim": "McKesson Corporation"
     }
   ]
 }
