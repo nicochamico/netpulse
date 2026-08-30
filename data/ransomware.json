@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-30T01:01:21.114262+00:00",
+  "last_success": "2026-08-30T07:50:37.828942+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-08-29T21:01:55.310143+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 30 Aug 2026 | Warning: FINAL WARNING",
+      "discovered": "2026-08-29T21:01:56.845816+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TmVvZ2VuIENvcnBvcmF0aW9uQHNoaW55aHVudGVycw==",
+      "victim": "Neogen Corporation"
     },
     {
       "activity": "Other",
@@ -363,23 +380,6 @@
       "screenshot": "https://images.ransomware.live/victims/40fcfaf426eadda085db57d7ca71ab58.png",
       "url": "https://www.ransomware.live/id/U291dGggUGFjaWZpYyBIb3RlbCBMaW1pdGVkQE9yb3Zh",
       "victim": "South Pacific Hotel Limited"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-08-28T23:59:00+00:00",
-      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a8f0c6c9cd108bf26a1bbe6",
-      "country": "US",
-      "data_size": null,
-      "description": "Oilquip Inc, established in 1960, is a comprehensive fluid power distributor that specializes in hydraulics, pneumatics, oil conditioning, and system integration. The company is dedicated to providing innovative electro-hydraulic and electro-mechanical solutions while exceeding customer expectations. Their services include design and engineering, fluid conditioning, power generation, and repairs and upgrades, catering to a diverse range of clients. Oilquip prides itself on its customer-focused approach, flexibility, and commitment to excellence in all aspects of its operations.",
-      "discovered": "2026-08-29T00:25:36.702779+00:00",
-      "domain": "",
-      "group": "incransom",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3b89e0493d401f6e9df74181e328695f.png",
-      "url": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
-      "victim": "Oilquip Inc"
     }
   ]
 }
