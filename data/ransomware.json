@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-30T07:50:37.828942+00:00",
+  "last_success": "2026-08-30T13:30:56.141027+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-08-30T09:10:27.833814+00:00",
+      "claim_url": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/detail/5fu0x8tyhssmlkn5pxxoxw1wqvtikx",
+      "country": "MD",
+      "data_size": null,
+      "description": "Twin States News is a media organization that provides comprehensive coverage of local, state, national, and world news. Their services include reporting on various topics such as crime, education, health, politics, and community events. The inten",
+      "discovered": "2026-08-30T09:10:43.889079+00:00",
+      "domain": "wmdn.net",
+      "group": "threeam",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-08-30T09:10:27",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/842a551e687ef48f98b3497e482b7d69.png",
+      "url": "https://www.ransomware.live/id/d21kbi5uZXRAdGhyZWVhbQ==",
+      "victim": "wmdn.net"
     },
     {
       "activity": "Agriculture and Food Production",
@@ -93,13 +120,23 @@
       "activity": "Other",
       "attackdate": "2026-08-29T15:03:00+00:00",
       "claim_url": "/post/uniguacu/",
-      "country": "",
+      "country": "BR",
       "data_size": null,
       "description": "full commitment of the network having full access to infrastructure, thus ensuring access to the database containing confidential and financial information! I obtained some images that compromise the financial sector. You have 13 days to trade. If the trade doesn't occur as planned, we will have to take severe measures. I sent some images to show the veracity of the attack. The warning has been given! [Size: 151.0 MB | Sector: Education]",
       "discovered": "2026-08-29T15:21:02.506987+00:00",
-      "domain": "",
+      "domain": "uniguacu.com.br",
       "group": "emperador",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 9,
+        "update": "2026-08-30T09:32:28.247168",
+        "users": 346,
+        "users_url": 35
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
@@ -363,23 +400,6 @@
       "screenshot": "https://images.ransomware.live/victims/73c0772b2f0c08f3a4de2d45439ea193.png",
       "url": "https://www.ransomware.live/id/SVRDIFByb3BlcnRpZXMgR3JvdXAgTGltaXRlZEBPcm92YQ==",
       "victim": "ITC Properties Group Limited"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-08-29T00:00:00+00:00",
-      "claim_url": "http://maa2yprc5pldyr5hjn246hw7i66wdhglnostqgqkcbuh4vyyeos4xxyd.onion/tdktzqllhidxxapwas/",
-      "country": "HK",
-      "data_size": null,
-      "description": "The hotel has a unique glass curtain wall and an oval building appearance. The building is 28 floors high, with 293 rooms and suites.",
-      "discovered": "2026-08-29T09:21:06.187141+00:00",
-      "domain": "www.southpacifichotel.com.hk/tw/index.html",
-      "group": "Orova",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/40fcfaf426eadda085db57d7ca71ab58.png",
-      "url": "https://www.ransomware.live/id/U291dGggUGFjaWZpYyBIb3RlbCBMaW1pdGVkQE9yb3Zh",
-      "victim": "South Pacific Hotel Limited"
     }
   ]
 }
