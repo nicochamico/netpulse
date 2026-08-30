@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-08-30T13:30:56.141027+00:00",
+  "last_success": "2026-08-30T17:53:37.125659+00:00",
   "count": 100,
   "items": [
     {
@@ -39,6 +39,40 @@
       "victim": "Paylogix"
     },
     {
+      "activity": "Professional Services",
+      "attackdate": "2026-08-30T13:31:52.183958+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=633d975c-e73f-462e-95fb-a372b53b600a",
+      "country": "GB",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-30T13:32:11.953862+00:00",
+      "domain": "www.absolutecs.co.uk",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d56517c6f27326fa495105de889b5e5a.png",
+      "url": "https://www.ransomware.live/id/QWJzb2x1dGUgQ29uc3VsdGFuY3kgU2VydmljZXNAcWlsaW4=",
+      "victim": "Absolute Consultancy Services"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-08-30T13:31:08.677544+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9b7d483d-aaa7-4da7-8724-a96e7005d141",
+      "country": "QA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-30T13:31:32.133234+00:00",
+      "domain": "www.blackcat.com.qa",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/76560848fc566c1013400a43b112a582.png",
+      "url": "https://www.ransomware.live/id/QmxhY2sgQ2F0IEVuZ2luZWVyaW5nIENvbnN0cnVjdGlvbiBXbGxAcWlsaW4=",
+      "victim": "Black Cat Engineering Construction Wll"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-08-30T09:10:27.833814+00:00",
       "claim_url": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/detail/5fu0x8tyhssmlkn5pxxoxw1wqvtikx",
@@ -66,6 +100,23 @@
       "victim": "wmdn.net"
     },
     {
+      "activity": "Healthcare",
+      "attackdate": "2026-08-30T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9cc2365a-5fb6-4668-a614-7e65684bb18b",
+      "country": "",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-08-30T13:32:55.756731+00:00",
+      "domain": "www.crystalbiosolutions.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c1006057ce506cf69bf22baf0b6395f1.png",
+      "url": "https://www.ransomware.live/id/Q3J5c3RhbHBoYXJtYXRlY2hAcWlsaW4=",
+      "victim": "Crystalpharmatech"
+    },
+    {
       "activity": "Agriculture and Food Production",
       "attackdate": "2026-08-29T21:01:55.310143+00:00",
       "claim_url": "",
@@ -73,9 +124,19 @@
       "data_size": null,
       "description": "This is a final warning to reach out by 1 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 30 Aug 2026 | Warning: FINAL WARNING",
       "discovered": "2026-08-29T21:01:56.845816+00:00",
-      "domain": "",
+      "domain": "neogen.com",
       "group": "shinyhunters",
-      "infostealer": "",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 2,
+        "update": "2026-08-30T14:36:14.421557",
+        "users": 35,
+        "users_url": 12
+      },
       "press": null,
       "ransom": null,
       "screenshot": "",
@@ -339,67 +400,6 @@
       "screenshot": "https://images.ransomware.live/victims/eba08db1513a15a343b5cec0b15a992f.png",
       "url": "https://www.ransomware.live/id/dHJjLWNvbXBhbmllc0BpYWg2NDc3",
       "victim": "trc-companies"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-08-29T01:51:11.731473+00:00",
-      "claim_url": "https://transfer.it/t/RMwmoUlFgJhS",
-      "country": "US",
-      "data_size": null,
-      "description": "Guess your too busy focusing on your clients then changing password and protecting your clients. We breached them through pm.livable.com. You can see screenshots and file tree in the proof section. Also bleepingcomputer we will send you the data so you can confirm it too. Were not bluffing BayView Real Estate guess you guys didn't learn your lesson from the 26 million lawsuit but now you will.\n\nThe following data was stolen:\n\n1. Corporate Identity and Admin Profiles\n\n6 Individual Administrator Profiles: Complete web profile exports, account configurations, and visible permission mappings for six active employees:\n- Breanna Tiu\n- Diana Nguyen\n- Elise Hou\n- Jeanne David\n- Wendy Wu\n- Zhen Deng\n\n2. High-Density Financial Database Dumping\n- Building Statement Reports: The core database extraction file (Building-nK37xrmRYcoCMHymv-statements-report.pdf\n- Sample Distribution Summaries: Multi-property accounting records detailing exactly how utility expenses are balanced and divided across real estate assets (including specialized trackers for 394 Midway Street).\n\n3. Operational Infrastructure & Platform Playbooks\n- Internal Corporate Handbooks: Step-by-step business guides detailing how money is processed and collected:\n-  Bill & Collect: Manuals for handling payments routed directly through Livable's platform.\n- Convergent: Frameworks detailing workflows where tenants pay the property group directly.\n\n- Software Integration Guides: Training documentation teaching personnel how to map customer data tables between platforms:\n- AppFolio ID and Charges mapping logs\n- Yardi system integration guides\n\nComplete Video Tutorial Playbooks: Over 100 MB of internal instructional videos teaching how to navigate the portal, manage profiles, and export tenant lists:\n- 01 PM Portal Intro\n- 02 How to Setup a Tenant's Account\n- 03 How to Access the Tenant's Account\n- 04 How to Access the Allocation Table\n- 05 Move Out Processing\n- 06 Export tenant charges and download CSV files\n- PM Portal Training - Portfolio Overview & Building Profile\n- PM Portal Training - Resident Profile & Allocation Tables\n- PM Portal Training - Utility Recovery Proforma, Add a Building, Export Monthly Tenant Charges\n\n4. Tenant Communication Scripts & Branding Graphics\n- Official Digital Graphics: High-resolution templates used by the company for onboarding and platform access:\n- Bill & Collect Welcome Email interface maps\n- Convergent Welcome Email branding templates\n- Resident Portal dashboard graphical layouts\n- Physical Outreach Letters: Word and PDF versions of letters sent directly to tenants regarding payments and billing statuses:\n- Bill & Collect / Convergent / Net Zero Billing Tenant Welcome Letters\n- Delinquency Template notification forms\n- Physical Billing Statements and Net Zero Statement layouts\n\n5. Legal Leases & Regional Utility Addenda\n- 30-Day Notice Templates: Legally binding notification documents used to alter tenant agreements (30 Day Notice_Billing Method Change, Notice of Supplier Change, and Notice of Supplier and Allocation Formula Change).\n- Geographic Lease Addenda Collections: Specific legal attachments containing the rules and formulas for utility billing across different municipal districts:\n- California Addenda (including localized frameworks for Hayward and Los Angeles)\n- National Utility Addenda / US Addenda (including localized parameters for Seattle)\n- Exhibit B - Submetered Water regulatory documents\n- Lease Addendum Guide instructional packets\n\nUncompressed size: 216653153 bytes(216.6 MB)\ncompressed size: 78.0MB\n\nmirror 1: https://pixeldrain.com/u/pc8VfBLf\nmirror 2: https://fex.net/s/vydmesb",
-      "discovered": "2026-08-29T01:51:27.108290+00:00",
-      "domain": "pm.livable.com",
-      "group": "ShadowByt3$",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-08-29T01:51:11",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e750c7cbe8ea9e2adab6b75443ca1e08.png",
-      "url": "https://www.ransomware.live/id/QmF5VmlldyBSZWFsIEVzdGF0ZUBTaGFkb3dCeXQzJA==",
-      "victim": "BayView Real Estate"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-08-29T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b03ebcee-148c-41f8-ba2e-30817cb3b4bb",
-      "country": "MT",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-08-29T12:03:33.001727+00:00",
-      "domain": "www.bliss1041.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/161b567dbb5ae1733513fa38c51b0c5b.png",
-      "url": "https://www.ransomware.live/id/QkxJU1MgMTA0MUBxaWxpbg==",
-      "victim": "BLISS 1041"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-08-29T00:00:00+00:00",
-      "claim_url": "http://maa2yprc5pldyr5hjn246hw7i66wdhglnostqgqkcbuh4vyyeos4xxyd.onion/tniuxcbkulursuccej/",
-      "country": "HK",
-      "data_size": null,
-      "description": "ITC Properties is an investment holding company and the Group is principally engaged in development of, selling of and investment in properties in Macau, Hong Kong, the People's Republic of China (the \"PRC\") and Canada; securities investments and provision of loan financing services.",
-      "discovered": "2026-08-29T11:51:55.918962+00:00",
-      "domain": "www.itcproperties.com",
-      "group": "Orova",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/73c0772b2f0c08f3a4de2d45439ea193.png",
-      "url": "https://www.ransomware.live/id/SVRDIFByb3BlcnRpZXMgR3JvdXAgTGltaXRlZEBPcm92YQ==",
-      "victim": "ITC Properties Group Limited"
     }
   ]
 }
