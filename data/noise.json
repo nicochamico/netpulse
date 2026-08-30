@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:30:47.101631+00:00",
+  "generated_at": "2026-08-30T01:40:35.246792+00:00",
   "sources": [
     "abuse.ch Feodo Tracker",
     "GreyNoise Community (optional)"
@@ -7,15 +7,6 @@
   "active_c2_ips": 0,
   "by_malware": [],
   "watchlist_hits": [],
-  "greynoise": [
-    {
-      "ip": "185.220.101.1",
-      "noise": true,
-      "riot": false,
-      "classification": "malicious",
-      "name": "unknown",
-      "last_seen": "2026-08-28"
-    }
-  ],
-  "signal": 5
+  "greynoise": [],
+  "signal": 0
 }
