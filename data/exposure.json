@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:54:07.690438+00:00",
+  "generated_at": "2026-08-31T06:43:57.515606+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "kckwyandotte.schoolloop.com",
-        "longfellow-aps-nm.schoolloop.com",
-        "one.one.one.one"
+        "one.one.one.one",
+        "www.wlan-lh.sanhua-aweco.com"
       ]
     },
     {
