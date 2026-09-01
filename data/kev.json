@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-09-01T13:04:04.029842+00:00",
+  "last_success": "2026-09-01T17:34:52.668543+00:00",
   "count": 1687,
   "items": [
     {
@@ -18,8 +18,8 @@
       "cwes": [
         "CWE-470"
       ],
-      "epss": 0.00462,
-      "epss_percentile": 0.38255
+      "epss": 0.00926,
+      "epss_percentile": 0.58022
     },
     {
       "cveID": "CVE-2026-81578",
@@ -35,8 +35,8 @@
       "cwes": [
         "CWE-306"
       ],
-      "epss": 0.00393,
-      "epss_percentile": 0.32397
+      "epss": 0.00771,
+      "epss_percentile": 0.53134
     },
     {
       "cveID": "CVE-2023-49105",
@@ -68,7 +68,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: ; https://git.kernel.org/stable/c/14200d435af9a9eeb444f529fc2f689a236b7962; https://git.kernel.org/stable/c/65fb14cbebb0cd0eff903a22d33537ddc8b95769; https://git.kernel.org/stable/c/46f201f8b4c39633a1fa3dc12459f506d470993d; https://git.kernel.org/stable/c/6374fb9edf72c67a118a2c214a0dddd04c921e0a; https://git.kernel.org/stable/c/e9eacf19281ea2498b36291b56c9606118c2d74e; https://git.kernel.org/stable/c/736b380e28d0480c7bc3e022f1950f31fe53a7c5 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-53362",
       "cwes": [],
       "epss": 0.0051,
-      "epss_percentile": 0.41471
+      "epss_percentile": 0.41502
     },
     {
       "cveID": "CVE-2026-66384",
@@ -85,7 +85,7 @@
         "CWE-22"
       ],
       "epss": 0.00579,
-      "epss_percentile": 0.45326
+      "epss_percentile": 0.45357
     },
     {
       "cveID": "CVE-2021-23758",
@@ -102,7 +102,7 @@
         "CWE-502"
       ],
       "epss": 0.83633,
-      "epss_percentile": 0.99666
+      "epss_percentile": 0.99667
     },
     {
       "cveID": "CVE-2015-3246",
@@ -117,7 +117,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://access.redhat.com/articles/1537873 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2015-3246",
       "cwes": [],
       "epss": 0.08799,
-      "epss_percentile": 0.94801
+      "epss_percentile": 0.94805
     },
     {
       "cveID": "CVE-2015-5287",
@@ -132,7 +132,7 @@
       "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/abrt/abrt/commit/3c1b60cfa62d39e5fff5a53a5bc53dae189e740e ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2015-5287",
       "cwes": [],
       "epss": 0.04962,
-      "epss_percentile": 0.91569
+      "epss_percentile": 0.91575
     },
     {
       "cveID": "CVE-2022-0995",
@@ -149,7 +149,7 @@
         "CWE-787"
       ],
       "epss": 0.09518,
-      "epss_percentile": 0.95091
+      "epss_percentile": 0.95095
     },
     {
       "cveID": "CVE-2026-8452",
@@ -166,7 +166,7 @@
         "CWE-119"
       ],
       "epss": 0.01606,
-      "epss_percentile": 0.74148
+      "epss_percentile": 0.74165
     }
   ]
 }

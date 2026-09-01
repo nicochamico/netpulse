@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-01T13:04:04.029842+00:00",
+  "last_success": "2026-09-01T17:34:52.668543+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "published": "Tue, 01 Sep 2026 19:37:20 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "published": "Tue, 01 Sep 2026 18:38:58 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
@@ -28,16 +40,22 @@
       "published": "Tue, 01 Sep 2026 12:52:30 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "published": "Mon, 31 Aug 2026 22:54:28 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "published": "Tue, 01 Sep 2026 10:45:06 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "published": "Mon, 31 Aug 2026 19:20:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Novocure data breach affects more than 1,400 cancer patients",
+      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "published": "Tue, 01 Sep 2026 10:28:40 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "published": "Tue, 01 Sep 2026 10:01:11 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Recently patched PaperCut zero-days used in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
       "published": "Tue, 01 Sep 2026 03:48:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "published": "Mon, 31 Aug 2026 16:47:54 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "published": "Mon, 31 Aug 2026 14:51:04 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "published": "Mon, 31 Aug 2026 12:56:57 -0400"
     }
   ]
 }
