@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-01T07:14:03.851505+00:00",
+  "last_success": "2026-09-01T13:04:04.029842+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "published": "Tue, 01 Sep 2026 14:35:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "published": "Tue, 01 Sep 2026 13:56:24 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "published": "Tue, 01 Sep 2026 12:52:30 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
@@ -16,28 +40,22 @@
       "published": "Mon, 31 Aug 2026 19:20:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "published": "Mon, 31 Aug 2026 17:44:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "published": "Tue, 01 Sep 2026 08:38:35 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "published": "Mon, 31 Aug 2026 17:17:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "published": "Tue, 01 Sep 2026 05:15:07 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "published": "Mon, 31 Aug 2026 17:01:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "published": "Mon, 31 Aug 2026 14:34:55 +0530"
+      "source": "BleepingComputer",
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "published": "Tue, 01 Sep 2026 03:48:24 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -53,27 +71,9 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "published": "Mon, 31 Aug 2026 12:56:57 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "published": "Mon, 31 Aug 2026 12:50:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "published": "Mon, 31 Aug 2026 10:52:03 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "published": "Mon, 31 Aug 2026 10:00:10 -0400"
     }
   ]
 }
