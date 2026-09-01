@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-01T20:31:17.280961+00:00",
+  "last_success": "2026-09-01T22:59:25.049396+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,50 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-01T17:27:12.993710+00:00",
+      "claim_url": "",
+      "country": "HU",
+      "data_size": null,
+      "description": "Szechenyi Programiroda Nonprofit Kf",
+      "discovered": "2026-09-01T17:27:14.520298+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U3plY2hlbnlpIFByb2dyYW1pcm9kYSBOb25wcm9maXQgS2ZAcmh5c2lkYQ==",
+      "victim": "Szechenyi Programiroda Nonprofit Kf"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-01T16:02:55.796000+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/118",
+      "country": "BR",
+      "data_size": null,
+      "description": "Business Services",
+      "discovered": "2026-09-01T16:25:03.194416+00:00",
+      "domain": "oportunidados.com.br",
+      "group": "direwolf",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-01T16:24:49",
+        "users": 6,
+        "users_url": 3
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9d4bac68747992372f0db1e71b4bfd07.png",
+      "url": "https://www.ransomware.live/id/T3BvcnR1bmlkYWRvc0BkaXJld29sZg==",
+      "victim": "Oportunidados"
     },
     {
       "activity": "Manufacturing",
@@ -495,60 +539,6 @@
       "screenshot": "https://images.ransomware.live/victims/fc38fc3ef613a1a43b6f61a2385ed3e0.png",
       "url": "https://www.ransomware.live/id/c291dGhzaWduLmluQGtyeWJpdA==",
       "victim": "southsign.in"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-01T08:54:33.115056+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/e6c5461f72626d0dd12186aa932006643c9a45b9cc7c4c024ccb73ad550c7b98/",
-      "country": "US",
-      "data_size": null,
-      "description": "The Holding Company for Construction and Development (HCCD) is an Egyptian public holding company (Egyptian Holding Stoc...",
-      "discovered": "2026-09-01T08:54:50.905348+00:00",
-      "domain": "hccd-construction.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-09-01T08:54:33",
-        "users": 6,
-        "users_url": 3
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e01aadd9da7824bbbf4e633433a3aced.png",
-      "url": "https://www.ransomware.live/id/aGNjZC1jb25zdHJ1Y3Rpb24uY29tQGtyeWJpdA==",
-      "victim": "hccd-construction.com"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-01T04:27:15.036424+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/baoatah/",
-      "country": "US",
-      "data_size": null,
-      "description": "Organization with 150 emails extracted. Domain: lawter.com",
-      "discovered": "2026-09-01T04:27:28.960315+00:00",
-      "domain": "lawter.com",
-      "group": "medusalocker",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-09-01T04:27:14",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/46664ab76e6ee29f8c74d1b9c71b5bb2.png",
-      "url": "https://www.ransomware.live/id/TGF3dGVyQG1lZHVzYWxvY2tlcg==",
-      "victim": "Lawter"
     }
   ]
 }
