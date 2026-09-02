@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-02T21:34:42.915417+00:00",
+  "last_success": "2026-09-02T23:50:31.359340+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-02T17:45:28.531799+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/120",
+      "country": "ZA",
+      "data_size": null,
+      "description": "Software",
+      "discovered": "2026-09-02T17:53:21.581325+00:00",
+      "domain": "cartrack.co.za",
+      "group": "direwolf",
+      "infostealer": {
+        "employees": 2,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-02T17:53:08",
+        "users": 761,
+        "users_url": 52
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cbf0b3b542ee072c703e391dd84d1c0b.png",
+      "url": "https://www.ransomware.live/id/Q2FydHJhY2sgSG9sZGluZ3NAZGlyZXdvbGY=",
+      "victim": "Cartrack Holdings"
     },
     {
       "activity": "Not Found",
@@ -423,33 +450,6 @@
       "screenshot": "https://images.ransomware.live/victims/174fc69efa77c10734c28c363a781bc4.png",
       "url": "https://www.ransomware.live/id/UFQgSW50cmFjbyBQZW50YSBUYmtAZGlyZXdvbGY=",
       "victim": "PT Intraco Penta Tbk"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-01T15:41:15.676000+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/116",
-      "country": "US",
-      "data_size": null,
-      "description": "Insurance",
-      "discovered": "2026-09-01T15:54:31.468817+00:00",
-      "domain": "honeycombinsurance.com",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-01T15:54:13",
-        "users": 13,
-        "users_url": 5
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7b226d1f66632ea92e72a12b32712cfc.png",
-      "url": "https://www.ransomware.live/id/SG9uZXljb21iIFByb2dyYW1zIEluY0BkaXJld29sZg==",
-      "victim": "Honeycomb Programs Inc"
     }
   ]
 }
