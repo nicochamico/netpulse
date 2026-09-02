@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-02T10:36:37.237096+00:00",
+  "last_success": "2026-09-02T14:57:28.118792+00:00",
   "count": 100,
   "items": [
     {
@@ -39,6 +39,33 @@
       "victim": "Paylogix"
     },
     {
+      "activity": "Other",
+      "attackdate": "2026-09-02T09:28:49.376627+00:00",
+      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/banaoah/",
+      "country": "IN",
+      "data_size": null,
+      "description": "Organization with 9 emails extracted. Domain: licindia.com",
+      "discovered": "2026-09-02T09:29:09.492860+00:00",
+      "domain": "licindia.com",
+      "group": "medusalocker",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 396,
+        "update": "2026-09-02T09:28:49",
+        "users": 118,
+        "users_url": 14
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b805eb3cf0033b9faa315075c6998712.png",
+      "url": "https://www.ransomware.live/id/TGljaW5kaWFAbWVkdXNhbG9ja2Vy",
+      "victim": "Licindia"
+    },
+    {
       "activity": "Energy & Utilities",
       "attackdate": "2026-09-02T05:01:16.261951+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=678d1dd9-022a-4521-8317-67e56329d10e",
@@ -71,6 +98,33 @@
       "screenshot": "https://images.ransomware.live/victims/5266aef3b0b59ef5ab2c852c6f2e7bc9.png",
       "url": "https://www.ransomware.live/id/TWFybGJvcm91Z2ggUGFydG5lcnNAYW51Ymlz",
       "victim": "Marlborough Partners"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-02T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/chip-1-exchange-13b819b4",
+      "country": "SG",
+      "data_size": null,
+      "description": "[distributor] Chip 1 Exchange — a global independent electronics distributor headquartered in Neu-Isenburg, Germany, with primary US operations in Laguna Hills, California.\n\nThe dataset spans 13 years (2013-2026) of corporate operations and encompasses:\n\n40+ passport photographs, I-9 forms with SSNs, W-4 tax forms, payroll registers.\n<redacted>\nComplete 2026 financial intelligence — P&L through July, executive financial health assessment, AR/AP aging, chart of accounts revealing all bank account numbers.\n15+ exclusive franchise manufacturer agreements with pricing terms, territory allocations, and per-customer gross profit margins.\nITAR registration and defense customer sales orders to Jabil Defense, Curtis-Wright, GEN3 Defense, and Cobham Remec.\n5.7 GB of Outlook PST email archives spanning years of C-suite and employee correspondence.",
+      "discovered": "2026-09-02T06:52:31.237644+00:00",
+      "domain": "chip1.com",
+      "group": "aurora",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 7,
+        "update": "2026-09-02T10:17:33.905126",
+        "users": 1,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/23bf5cf57f746e0c81c6b037d858e01a.png",
+      "url": "https://www.ransomware.live/id/Q2hpcCAxIEV4Y2hhbmdlQGF1cm9yYQ==",
+      "victim": "Chip 1 Exchange"
     },
     {
       "activity": "Other",
@@ -215,6 +269,33 @@
       "victim": "Honeycomb Programs Inc"
     },
     {
+      "activity": "Technology",
+      "attackdate": "2026-09-01T13:08:59+00:00",
+      "claim_url": "",
+      "country": "IN",
+      "data_size": null,
+      "description": "seasiainfotech.com zoominfo.com/c/seasia-infotech/353879170 Seasia Infotech — global IT services company, founded in 2000 in California, USA.\nDelivery centers in India (Mohali/Chandigarh); offices in UK, Australia, UAE, Canada.\n25+ years in business; completed 50,000+ projects in 36+ countries for 500+ clients.\nClients include HP, Harley-Davidson, Mahindra, Flipkart, Adani, NEC, Canon.\nHolds CMMI Level 5 — the highest software process certification; also ISO 27001 and Microsoft Gold.\nServices: custom software, web/mobile apps, AI & Generative AI, cloud, cybersecurity, QA, UI/UX.\n2026 focus: \"AI Pods\" — ready-made expert teams with AI tools for HealthTech, FinTech, LegalTech.\nScale: ~300–680 employees, est. revenue $100–150M, fully bootstrapped — no external funding.\nRisks: shrinking headcount (-9% YoY), unaudited revenue figures, too small for giant enterprise deals.",
+      "discovered": "2026-09-02T10:30:50.512757+00:00",
+      "domain": "seasiainfotech.com",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 6,
+        "employees_url": 4,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 27,
+        "update": "2026-04-30T07:34:50",
+        "users": 3,
+        "users_url": 3
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U2Vhc2lhIEluZm90ZWNoQHRoZWdlbnRsZW1lbg==",
+      "victim": "Seasia Infotech"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-09-01T12:53:14.917102+00:00",
       "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/a40b5212-3e7e-4866-a96b-2e16b1b61e4e",
@@ -240,6 +321,33 @@
       "screenshot": "https://images.ransomware.live/victims/523bae5d73710718f0c62223394b61c1.png",
       "url": "https://www.ransomware.live/id/U0NITUlEVEBicmF2b3g=",
       "victim": "SCHMIDT"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-01T11:01:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6a97ed959cd108bf26aadc1c",
+      "country": "US",
+      "data_size": null,
+      "description": "Specialty Textile Services is a U.S. textile services company founded in 1996, specializing in linen rental and processing for the hospitality industry. Headquartered in Phoenix, Arizona, with a branch in San Diego, California, the company employs between 201 and 500 people.\r \r Serving mid-to-high-end restaurants, hotels, and other hospitality providers, Specialty Textile Services offers flexible rental programs covering a full line of linens, kitchen textiles, uniforms, and dust control products — all delivered clean and ready for use. Key features include:\r \r flexible pickup and delivery schedules, including multiple weekly service visits;\r all-inclusive service pricing with no upfront investment required from customers;\r an in-house commercial laundry facility operating 7 days a week, 365 days a year, with rapid emergency response available for special requests.",
+      "discovered": "2026-09-02T09:58:49.391822+00:00",
+      "domain": "specialtytextile.com",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-02T09:58:35",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ff9fa43b160213a0b31d35dc5713dcf8.png",
+      "url": "https://www.ransomware.live/id/c3BlY2lhbHR5dGV4dGlsZS5jb21AaW5jcmFuc29t",
+      "victim": "specialtytextile.com"
     },
     {
       "activity": "Education",
@@ -394,121 +502,6 @@
       "screenshot": "https://images.ransomware.live/victims/d48ae7f3d02de20959b09dd6d3746d94.png",
       "url": "https://www.ransomware.live/id/cmVpZ253b29kcGFyay5jb21Aa3J5Yml0",
       "victim": "reignwoodpark.com"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-01T08:59:28.372545+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/0cc1b08a430375b81d49f1e0bc6faa8f0f963165831ba630bb530e6f4913437b/",
-      "country": "TH",
-      "data_size": null,
-      "description": "Orex Trading Co., Ltd. is a Thai trusted distributor and one-stop service provider of medical products, pharmaceuticals,...",
-      "discovered": "2026-09-01T08:59:45.853771+00:00",
-      "domain": "orex.co.th",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 2,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-09-01T08:59:28",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/04f00b6fb385e18c942fe2b9afcb53d5.png",
-      "url": "https://www.ransomware.live/id/b3JleC5jby50aEBrcnliaXQ=",
-      "victim": "orex.co.th"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-01T08:58:51.944165+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/1e58b691ac4e24572b7d184beddefa3fc67addeb830714852e3c5d87c5a54b4f/",
-      "country": "US",
-      "data_size": null,
-      "description": "Arab Maritime Petroleum Transport Company (AMPTC) is a leading Arab maritime shipping company established in 1972 as a s...",
-      "discovered": "2026-09-01T08:59:09.502058+00:00",
-      "domain": "amptc.net",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-09-01T08:58:51",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/267a0d214042d170a9f84d3b25b716b4.png",
-      "url": "https://www.ransomware.live/id/YW1wdGMubmV0QGtyeWJpdA==",
-      "victim": "amptc.net"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-01T08:58:15.107214+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/f6d3a75e05df78f42ef573ea36c91f4ae27682d98a1f4b152b836772912be9cd/",
-      "country": "DE",
-      "data_size": null,
-      "description": "DMT Consulting Private Limited is an Indian private limited company incorporated on September 25, 1998, formerly known a...",
-      "discovered": "2026-09-01T08:58:33.063029+00:00",
-      "domain": "dmt-group.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 1,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 8,
-        "update": "2026-09-01T08:58:15",
-        "users": 9,
-        "users_url": 4
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/45ef28477f11bdad6cae136c24966b94.png",
-      "url": "https://www.ransomware.live/id/ZG10LWdyb3VwLmNvbUBrcnliaXQ=",
-      "victim": "dmt-group.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-01T08:57:38.600445+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/eef2674fa5fbd480f4e5d9e74b67388f89ebd936cb7b47cd9ac6449a0545c0de/",
-      "country": "BT",
-      "data_size": null,
-      "description": "Jigme Singye Wangchuck School of Law (JSW Law) is Bhutan's first and only law school, established by Royal Charter on Fe...",
-      "discovered": "2026-09-01T08:57:56.209777+00:00",
-      "domain": "jswlaw.bt",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 6,
-        "employees_url": 7,
-        "infostealer_stats": {
-          "Generic Stealer": 8,
-          "Lumma": 3,
-          "Raccoon": 2,
-          "RedLine": 4,
-          "StealC": 1,
-          "Vidar": 1
-        },
-        "last_employee_compromised": "2025-09-25T08:17:38+00:00",
-        "last_user_compromised": "2025-09-29T08:58:00+00:00",
-        "thirdparties": 7,
-        "update": "2026-09-01T08:57:38",
-        "users": 13,
-        "users_url": 4
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/87b4566d43d61c0e2e4811371614318b.png",
-      "url": "https://www.ransomware.live/id/anN3bGF3LmJ0QGtyeWJpdA==",
-      "victim": "jswlaw.bt"
     }
   ]
 }
