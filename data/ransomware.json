@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-02T00:58:02.738029+00:00",
+  "last_success": "2026-09-02T05:34:22.662575+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,50 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-01T22:20:58.431704+00:00",
+      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/8tEkAvb4TaoYSH37/",
+      "country": "US",
+      "data_size": null,
+      "description": "Country: United States |\nWebsite: qualityresourcepvt.com |\nRevenue: $19 Million |\nIndustry: Advertising Networks |\nEmployees: 201–500 employees |\nProperties: 60.1 GB (170,436 Files, 88,440 Folders)",
+      "discovered": "2026-09-01T22:21:43.231902+00:00",
+      "domain": "qualityresourcepvt.com",
+      "group": "Global Secret Group",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-01T22:20:58",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f6f175ff89014929b32c2ad4edf2bac8.png",
+      "url": "https://www.ransomware.live/id/UXVhbGl0eSBSZXNvdXJjZSBQdnRAR2xvYmFsIFNlY3JldCBHcm91cA==",
+      "victim": "Quality Resource Pvt"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-01T21:22:02.497478+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Holland & Knight, headquartered in Tampa, Florida, and established in 1968, is a law firm that offers …",
+      "discovered": "2026-09-01T21:22:04.213469+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "victim": "Holland & Knight"
     },
     {
       "activity": "Other",
@@ -485,60 +529,6 @@
       "screenshot": "https://images.ransomware.live/victims/5f38c2ef62415cf8569bfbdb91ac5a31.png",
       "url": "https://www.ransomware.live/id/bWVjY2FoaWdoZmVlZC5ibG9nc3BvdC5jb21Aa3J5Yml0",
       "victim": "meccahighfeed.blogspot.com"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-09-01T08:55:45.577276+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/6a9b514ef9eeea3ab76331ed34f0b796b5026d954b82857cac761f071d677438/",
-      "country": "MX",
-      "data_size": null,
-      "description": "Transportes Montejo S.A.S. is a Colombian specialized heavy transport and logistics company established on June 7, 1988,...",
-      "discovered": "2026-09-01T08:56:02.653516+00:00",
-      "domain": "transportesmontejo.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 5,
-        "update": "2026-09-01T13:01:28",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6b187f40f6e8fc4f266e5a18bf18e318.png",
-      "url": "https://www.ransomware.live/id/dHJhbnNwb3J0ZXNtb250ZWpvLmNvbUBrcnliaXQ=",
-      "victim": "transportesmontejo.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-01T08:55:09.859883+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/345b9d9a8ff8d46121bcb22a787654becef59c35fa7f13e5489693a22437268d/",
-      "country": "IN",
-      "data_size": null,
-      "description": "Southsign Technologies is an Indian proprietor firm established in 2021, headquartered in Dindigul, Tamil Nadu, India, o...",
-      "discovered": "2026-09-01T08:55:26.679557+00:00",
-      "domain": "southsign.in",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-01T08:55:09",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/fc38fc3ef613a1a43b6f61a2385ed3e0.png",
-      "url": "https://www.ransomware.live/id/c291dGhzaWduLmluQGtyeWJpdA==",
-      "victim": "southsign.in"
     }
   ]
 }
