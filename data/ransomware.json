@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-02T05:34:22.662575+00:00",
+  "last_success": "2026-09-02T10:36:37.237096+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-09-02T05:01:16.261951+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=678d1dd9-022a-4521-8317-67e56329d10e",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-02T05:01:37.576150+00:00",
+      "domain": "www.graysonrecc.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3b80b694ddad12991ddab02e7dd4965f.png",
+      "url": "https://www.ransomware.live/id/R3JheXNvbiBSdXJhbCBFbGVjdHJpYyBDb29wZXJhdGl2ZUBxaWxpbg==",
+      "victim": "Grayson Rural Electric Cooperative"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-02T03:51:32.174315+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/5VYRngWB4RHGrQhum0wZh8OC72oO1g3GU++a70ZsZ6tkH4WMROBRx4tJXAXmdwAp3e0NJ5M+6ftohrSE8ypGt5MGR0ZWd4",
+      "country": "GB",
+      "data_size": null,
+      "description": "Major data breach at a capital solutions advisory firm.",
+      "discovered": "2026-09-02T03:52:25.670056+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5266aef3b0b59ef5ab2c852c6f2e7bc9.png",
+      "url": "https://www.ransomware.live/id/TWFybGJvcm91Z2ggUGFydG5lcnNAYW51Ymlz",
+      "victim": "Marlborough Partners"
     },
     {
       "activity": "Other",
@@ -475,60 +509,6 @@
       "screenshot": "https://images.ransomware.live/victims/87b4566d43d61c0e2e4811371614318b.png",
       "url": "https://www.ransomware.live/id/anN3bGF3LmJ0QGtyeWJpdA==",
       "victim": "jswlaw.bt"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-09-01T08:57:00.910522+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/a6192b6dd1341e11255961b0434a7f6b3ecbe1ca982dc4d8cb8035c2bbc8978e/",
-      "country": "IN",
-      "data_size": null,
-      "description": "Vedantaa Institute of Medical Sciences (VIMS) is a private Indian medical education institution and hospital operated un...",
-      "discovered": "2026-09-01T08:57:18.981540+00:00",
-      "domain": "vedantaainstitute.in",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-01T08:57:00",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6be631f2eed557bc4c454bbd62fa7aa4.png",
-      "url": "https://www.ransomware.live/id/dmVkYW50YWFpbnN0aXR1dGUuaW5Aa3J5Yml0",
-      "victim": "vedantaainstitute.in"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-09-01T08:56:22.460289+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/1801921261dfee2323d1805c368ef40de7f9ea55a9c81b786eb119fdaceff14e/",
-      "country": "SA",
-      "data_size": null,
-      "description": "مصنع مكة وهاي فيد للأعلاف (Mecca High Feed Factory) is an Egyptian animal feed manufacturing compan...",
-      "discovered": "2026-09-01T08:56:41.898943+00:00",
-      "domain": "meccahighfeed.blogspot.com",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-01T08:56:22",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5f38c2ef62415cf8569bfbdb91ac5a31.png",
-      "url": "https://www.ransomware.live/id/bWVjY2FoaWdoZmVlZC5ibG9nc3BvdC5jb21Aa3J5Yml0",
-      "victim": "meccahighfeed.blogspot.com"
     }
   ]
 }

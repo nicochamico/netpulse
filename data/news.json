@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-02T05:34:22.662575+00:00",
+  "last_success": "2026-09-02T10:36:37.237096+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "published": "Wed, 02 Sep 2026 14:48:02 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "published": "Wed, 02 Sep 2026 14:40:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "published": "Wed, 02 Sep 2026 13:17:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "published": "Wed, 02 Sep 2026 12:38:50 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "published": "Wed, 02 Sep 2026 12:26:30 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -10,34 +40,28 @@
       "published": "Tue, 01 Sep 2026 23:23:11 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "published": "Tue, 01 Sep 2026 22:49:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "published": "Wed, 02 Sep 2026 06:29:39 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "published": "Tue, 01 Sep 2026 19:37:20 +0530"
+      "source": "BleepingComputer",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "published": "Wed, 02 Sep 2026 05:06:48 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "published": "Tue, 01 Sep 2026 18:38:58 +0530"
+      "source": "BleepingComputer",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "published": "Wed, 02 Sep 2026 04:00:43 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "published": "Tue, 01 Sep 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "published": "Tue, 01 Sep 2026 14:35:30 +0530"
+      "source": "BleepingComputer",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "published": "Wed, 02 Sep 2026 02:39:29 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Aesto Health says data breach affects over 9.5 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
       "published": "Tue, 01 Sep 2026 15:28:17 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "published": "Tue, 01 Sep 2026 13:54:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "published": "Tue, 01 Sep 2026 10:45:06 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "published": "Tue, 01 Sep 2026 10:28:40 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "published": "Tue, 01 Sep 2026 10:01:11 -0400"
     }
   ]
 }
