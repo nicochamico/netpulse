@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-03T16:54:58.339903+00:00",
+  "last_success": "2026-09-03T19:38:00.634564+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "published": "Thu, 03 Sep 2026 23:32:47 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
@@ -34,10 +40,10 @@
       "published": "Thu, 03 Sep 2026 16:13:01 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "published": "Thu, 03 Sep 2026 16:06:39 +0530"
+      "source": "BleepingComputer",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "published": "Thu, 03 Sep 2026 14:28:12 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
       "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
       "published": "Thu, 03 Sep 2026 09:50:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "published": "Thu, 03 Sep 2026 08:16:32 -0400"
     }
   ]
 }
