@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:22:39.399604+00:00",
+  "generated_at": "2026-09-03T15:06:52.621276+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "sm-centralia-ca.schoolloop.com",
+        "guestnet.maranahealthcenter.org",
         "one.one.one.one",
-        "wlc.cabq.gov"
+        "prd4.conrep.com"
       ]
     },
     {
