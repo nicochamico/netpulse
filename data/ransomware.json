@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-03T12:34:59.908421+00:00",
+  "last_success": "2026-09-03T16:54:58.339903+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-09-03T11:48:39+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/dinas-komunikasi-dan-informatika",
+      "country": "ID",
+      "data_size": null,
+      "description": "The Central Java Province Communication and Informatics Service was formed based on Central Java Provincial Regulation Number 9 of 2016 concerning the Formation and Composition of Central Java Province Regional Apparatuses and Central Java Governor Regulation Number 70 of 2016 concerning the Organization and Work Procedure of the Central Java Province Communication and Informatics Office. As for the duties of the Central Java Province Communication and Informatics Office, it is to assist the Governor in carrying out government affairs in the communications and informatics sector, the coding sector, and the statistics sector which are the authority of the Regions and the assistance tasks assigned to the Regions.",
+      "discovered": "2026-09-03T11:51:28.146802+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/281683558ed7ad5afda60b211d1f4377.png",
+      "url": "https://www.ransomware.live/id/RGluYXMgS29tdW5pa2FzaSBkYW4gSW5mb3JtYXRpa2FAUGFuemVy",
+      "victim": "Dinas Komunikasi dan Informatika"
+    },
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-09-03T10:53:45+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "America’s Food Basket is a U.S. cooperative grocery-store network. Its site, afbasket.com, provides store locations, weekly ads, online shopping, delivery, recipes, and job listings. It operates under the America’s Food Basket and Ideal Food Basket names.",
+      "discovered": "2026-09-03T11:22:06.843905+00:00",
+      "domain": "",
+      "group": "Wallstreet",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QW1lcmljYeKAmXMgRm9vZCBCYXNrZXRAV2FsbHN0cmVldA==",
+      "victim": "America’s Food Basket"
     },
     {
       "activity": "Professional Services",
@@ -161,6 +195,23 @@
       "victim": "PTT Oil and Retail Business"
     },
     {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-09-02T15:45:32+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a98449c4cc2b2e7e76b5a97",
+      "country": "CA",
+      "data_size": null,
+      "description": "Petrocare Construction is a company founded on old fashioned principals - yet implementing cutting edge technology and state-of-the-art building methods, and we are proud of this. We have and continue to make a difference by \"Teaming in Partnership\" with our clients. Important to us is - what is important to you, namely: accurate job costing, timely progress reports, effective construction management, qualified staff, subcontractors and more. Because our team is in partnership with you, we will always work hard to maintain a solid, long-term relationship with you - that is our way of doing business. We understand the challenges of modern construction. We are pro-active in our response to the complex needs of environmental, technological and time sensitive issues. It is our clear focus to meet and exceed the needs of our clients. We are specialists in commercial, industrial, wholesale and retail petroleum facilities. Whether it be design/build construction, environmental remediation ordecommissioning we will serve your needs all over Western Canada. We are a company of people, equipment and technology that will provide the catalyst to meet and exceed your building construction and site maintenance needs for today and beyond. \nThe company headquarters is located in 1202 Avenue X South, Saskatoon, SK S7M 3H9, Canada. 51-200 Employees",
+      "discovered": "2026-09-03T08:30:21.286105+00:00",
+      "domain": "",
+      "group": "Storm",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/099d0943ce47e459fec713806f69ab2a.png",
+      "url": "https://www.ransomware.live/id/UGV0cm9jYXJlIENvbnN0cnVjdGlvbkBTdG9ybQ==",
+      "victim": "Petrocare Construction"
+    },
+    {
       "activity": "Financial Services",
       "attackdate": "2026-09-02T15:41:47+00:00",
       "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a9843bb4cc2b2e7e76b5a96",
@@ -273,6 +324,33 @@
       "victim": "Marlborough Partners"
     },
     {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-02T00:00:00+00:00",
+      "claim_url": "",
+      "country": "BR",
+      "data_size": null,
+      "description": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors.",
+      "discovered": "2026-09-03T09:54:12.520621+00:00",
+      "domain": "engefitas.com.br",
+      "group": "Vexy Ransomware",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 3,
+        "update": "2026-09-03T09:54:10",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RW5nZWZpdGFzQFZleHkgUmFuc29td2FyZQ==",
+      "victim": "Engefitas"
+    },
+    {
       "activity": "Government & Defense",
       "attackdate": "2026-09-02T00:00:00+00:00",
       "claim_url": "",
@@ -322,104 +400,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/U2NydWJhRHViIEF1dG8gV2FzaCBDZW50ZXJzQGFraXJh",
       "victim": "ScrubaDub Auto Wash Centers"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-02T00:00:00+00:00",
-      "claim_url": "",
-      "country": "NL",
-      "data_size": null,
-      "description": "Algra Group specializes in customized input systems, front panels, and industrial labels, provi\nding tailored solutions for various industries. Their product range includes agnostic touch sys\ntems, piezo keyboards, and weightpads, catering to sectors such as food processing, automation,\nwellness, medical technology, and transportation.\n\nWe will upload corporate data soon. Employee personal information (passport numbers, DLs), clie\nnts and partners information, contacts and agreements, financials, NDAs.\n",
-      "discovered": "2026-09-02T13:52:47.916604+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QWxncmEgR3JvdXBAYWtpcmE=",
-      "victim": "Algra Group"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-02T00:00:00+00:00",
-      "claim_url": "http://yecdjimqiaekprxza6wkqecma4bwt757qiyfjngsaxg7rkjv4xukpwad.onion/data/part1.simplexengg.in/",
-      "country": "IN",
-      "data_size": null,
-      "description": "[AI generated] N/A",
-      "discovered": "2026-09-02T13:21:21.433862+00:00",
-      "domain": "part1.simplexengg.in",
-      "group": "Eclipse",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-02T13:20:57",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7edfb3e9f774a77352ff9740733f43cc.png",
-      "url": "https://www.ransomware.live/id/cGFydDEuc2ltcGxleGVuZ2cuaW5ARWNsaXBzZQ==",
-      "victim": "part1.simplexengg.in"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-09-02T00:00:00+00:00",
-      "claim_url": "http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion/place/luiusuxs7vt1g4fr/",
-      "country": "SG",
-      "data_size": null,
-      "description": "Royal Plaza on Scotts Hotel is a five-star independent hotel located in the heart of Singapore's Orchard Road, offering spacious and modern accommodations. With a legacy of over 50 years, it has been recognized as Asia Pacific's Best Independent Hotel, providing guests with a comfortable stay and award-winning halal-certified dining at its renowned Carousel restaurant. The hotel caters to both leisure and business travelers, featuring facilities for meetings, events, and weddings. Guests can enjoy exclusive offers and loyalty rewards through the I Prefer Hotel Rewards Programme.",
-      "discovered": "2026-09-02T12:22:01.548771+00:00",
-      "domain": "royalplaza.com.sg",
-      "group": "Eclipse",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-09-02T12:21:43",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/20a9242190daf67e4b8b8d41554c24d8.png",
-      "url": "https://www.ransomware.live/id/Um95YWwgUGxhemEgT24gU2NvdHRzQEVjbGlwc2U=",
-      "victim": "Royal Plaza On Scotts"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-02T00:00:00+00:00",
-      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/chip-1-exchange-13b819b4",
-      "country": "US",
-      "data_size": null,
-      "description": "[distributor] Chip 1 Exchange — a global independent electronics distributor headquartered in Neu-Isenburg, Germany, with primary US operations in Laguna Hills, California.\n\nThe dataset spans 13 years (2013-2026) of corporate operations and encompasses:\n\n40+ passport photographs, I-9 forms with SSNs, W-4 tax forms, payroll registers.\n<redacted>\nComplete 2026 financial intelligence — P&L through July, executive financial health assessment, AR/AP aging, chart of accounts revealing all bank account numbers.\n15+ exclusive franchise manufacturer agreements with pricing terms, territory allocations, and per-customer gross profit margins.\nITAR registration and defense customer sales orders to Jabil Defense, Curtis-Wright, GEN3 Defense, and Cobham Remec.\n5.7 GB of Outlook PST email archives spanning years of C-suite and employee correspondence.",
-      "discovered": "2026-09-02T06:52:31.237644+00:00",
-      "domain": "chip1.com",
-      "group": "aurora",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 7,
-        "update": "2026-09-02T10:17:33.905126",
-        "users": 1,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/23bf5cf57f746e0c81c6b037d858e01a.png",
-      "url": "https://www.ransomware.live/id/Q2hpcCAxIEV4Y2hhbmdlQGF1cm9yYQ==",
-      "victim": "Chip 1 Exchange"
     }
   ]
 }

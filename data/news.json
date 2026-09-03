@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-03T12:34:59.908421+00:00",
+  "last_success": "2026-09-03T16:54:58.339903+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "published": "Thu, 03 Sep 2026 21:22:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "published": "Thu, 03 Sep 2026 20:56:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "published": "Thu, 03 Sep 2026 20:09:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "published": "Thu, 03 Sep 2026 17:28:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
@@ -16,64 +40,40 @@
       "published": "Thu, 03 Sep 2026 16:06:39 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "published": "Thu, 03 Sep 2026 14:13:17 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "published": "Thu, 03 Sep 2026 11:22:33 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "published": "Thu, 03 Sep 2026 11:56:59 +0530"
+      "source": "BleepingComputer",
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "published": "Thu, 03 Sep 2026 11:13:29 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "published": "Thu, 03 Sep 2026 10:49:04 +0530"
+      "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "published": "Thu, 03 Sep 2026 11:02:52 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "published": "Wed, 02 Sep 2026 23:57:49 +0530"
+      "source": "BleepingComputer",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "Thu, 03 Sep 2026 10:52:20 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "published": "Thu, 03 Sep 2026 09:50:59 -0400"
     },
     {
       "source": "BleepingComputer",
       "title": "Microsoft says KB5120998 Windows update resets desktop settings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
       "published": "Thu, 03 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "published": "Thu, 03 Sep 2026 07:02:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "published": "Thu, 03 Sep 2026 04:55:25 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "published": "Wed, 02 Sep 2026 17:00:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "published": "Wed, 02 Sep 2026 15:28:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "published": "Wed, 02 Sep 2026 11:47:08 -0400"
     }
   ]
 }
