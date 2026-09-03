@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-03T02:53:16.473491+00:00",
+  "last_success": "2026-09-03T07:45:57.309056+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-02T23:21:08.641249+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] Greenberg Traurig is a large multinational law firm headquartered in the United States. It provides legal services across numerous practice areas including corporate law, real estate, litigation, intellectual property, and government affairs. Operating in the legal services industry, the firm serves clients globally with offices across the United States, Europe, Latin America, Asia, and the Middle East.",
+      "discovered": "2026-09-02T23:21:12.808426+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/R3JlZW5iZXJnIFRyYXVyaWdAU2lsZW50UmFuc29tR3JvdXA=",
+      "victim": "Greenberg Traurig"
     },
     {
       "activity": "Not Found",
@@ -413,23 +430,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
       "victim": "Holland & Knight"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-01T17:27:12.993710+00:00",
-      "claim_url": "",
-      "country": "HU",
-      "data_size": null,
-      "description": "Szechenyi Programiroda Nonprofit Kf",
-      "discovered": "2026-09-01T17:27:14.520298+00:00",
-      "domain": "",
-      "group": "rhysida",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U3plY2hlbnlpIFByb2dyYW1pcm9kYSBOb25wcm9maXQgS2ZAcmh5c2lkYQ==",
-      "victim": "Szechenyi Programiroda Nonprofit Kf"
     }
   ]
 }
