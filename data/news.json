@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-03T19:38:00.634564+00:00",
+  "last_success": "2026-09-03T22:15:28.158158+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "published": "Thu, 03 Sep 2026 18:01:37 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "published": "Thu, 03 Sep 2026 16:04:24 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
       "published": "Thu, 03 Sep 2026 14:28:12 -0400"
@@ -62,18 +74,6 @@
       "title": "Anthropic confirms Claude is down, multiple models affected",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
       "published": "Thu, 03 Sep 2026 11:02:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "published": "Thu, 03 Sep 2026 10:52:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "published": "Thu, 03 Sep 2026 09:50:59 -0400"
     }
   ]
 }
