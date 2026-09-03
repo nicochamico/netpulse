@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-03T07:45:57.309056+00:00",
+  "last_success": "2026-09-03T12:34:59.908421+00:00",
   "count": 100,
   "items": [
     {
@@ -159,6 +159,40 @@
       "screenshot": "https://images.ransomware.live/victims/24a1b99b26b7c46ad5fd7568e351f8c0.png",
       "url": "https://www.ransomware.live/id/UFRUIE9pbCBhbmQgUmV0YWlsIEJ1c2luZXNzQGRpcmV3b2xm",
       "victim": "PTT Oil and Retail Business"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-02T15:41:47+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a9843bb4cc2b2e7e76b5a96",
+      "country": "US",
+      "data_size": null,
+      "description": "GSAC Auto Financing specializes in providing auto loans for individuals with challenged credit. They offer assistance in rebuilding credit while helping clients find suitable vehicles through their network of dealers. The company emphasizes that bad credit does not have to be a barrier to obtaining a car. GSAC is committed to accurately reporting payment histories to credit bureaus to aid in credit repair. \nThe company headquarters is located in 1645 Ogden Avenue, Downers Grove, IL 60515, United States. 11-50 Employees",
+      "discovered": "2026-09-03T08:29:17.903105+00:00",
+      "domain": "",
+      "group": "Storm",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/35cdfd031a09d381dd7135f9bf870311.png",
+      "url": "https://www.ransomware.live/id/R1NBQyBBdXRvIEZpbmFuY2luZ0BTdG9ybQ==",
+      "victim": "GSAC Auto Financing"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-02T15:25:00+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a983fcc4cc2b2e7e76b5a95",
+      "country": "US",
+      "data_size": null,
+      "description": "Star Aviation, Inc. is a leading provider of engine wire harness repair services, including DER repairs and PMA, specifically tailored for the Commercial Aerospace Industry. They offer a comprehensive range of services such as wire harness inspection, testing, repair, overhaul, modification, and sales. The company is committed to enhancing reliability and reducing maintenance costs for their clients by utilizing advanced technology and a customer-focused approach. Star Aviation is recognized as the world's first full-service Electronic Wire Interconnect System (EWIS) Solution Center, ensuring high standards of quality, safety, and customer service. \nThe company headquarters is located in 9001 W Highway 42, Goshen, KY 40026, United States.. 11-50 Employees",
+      "discovered": "2026-09-03T08:29:49.721423+00:00",
+      "domain": "",
+      "group": "Storm",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ac6197f16ab034b603773e75ba98098e.png",
+      "url": "https://www.ransomware.live/id/U3RhciBBdmlhdGlvbiwgSW5jQFN0b3Jt",
+      "victim": "Star Aviation, Inc"
     },
     {
       "activity": "Not Found",
@@ -386,50 +420,6 @@
       "screenshot": "https://images.ransomware.live/victims/23bf5cf57f746e0c81c6b037d858e01a.png",
       "url": "https://www.ransomware.live/id/Q2hpcCAxIEV4Y2hhbmdlQGF1cm9yYQ==",
       "victim": "Chip 1 Exchange"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-01T22:20:58.431704+00:00",
-      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/8tEkAvb4TaoYSH37/",
-      "country": "US",
-      "data_size": null,
-      "description": "Country: United States |\nWebsite: qualityresourcepvt.com |\nRevenue: $19 Million |\nIndustry: Advertising Networks |\nEmployees: 201–500 employees |\nProperties: 60.1 GB (170,436 Files, 88,440 Folders)",
-      "discovered": "2026-09-01T22:21:43.231902+00:00",
-      "domain": "qualityresourcepvt.com",
-      "group": "Global Secret Group",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-01T22:20:58",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f6f175ff89014929b32c2ad4edf2bac8.png",
-      "url": "https://www.ransomware.live/id/UXVhbGl0eSBSZXNvdXJjZSBQdnRAR2xvYmFsIFNlY3JldCBHcm91cA==",
-      "victim": "Quality Resource Pvt"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-01T21:22:02.497478+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Holland & Knight, headquartered in Tampa, Florida, and established in 1968, is a law firm that offers …",
-      "discovered": "2026-09-01T21:22:04.213469+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
-      "victim": "Holland & Knight"
     }
   ]
 }
