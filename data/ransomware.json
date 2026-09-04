@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-04T05:28:41.007080+00:00",
+  "last_success": "2026-09-04T10:34:09.485357+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-04T01:31:02.923761+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=adec1c55-2d8f-4001-b107-5bc6e3433690",
+      "country": "",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-04T01:31:29.000633+00:00",
+      "domain": "www.completepackaginggroup.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cc96f5ca596c5d868fad7ecadc2abf9b.png",
+      "url": "https://www.ransomware.live/id/Q29tcGxldGUgUGFja2FnaW5nIFNvbHV0aW9uc0BxaWxpbg==",
+      "victim": "Complete Packaging Solutions"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-04T01:30:07.372000+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=285a4356-5f48-45b3-b1ce-a250aab638a8",
+      "country": "CL",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-04T01:30:43.737853+00:00",
+      "domain": "www.tanner.cl",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/bbe887bab4a4744b1c90da4e05aab581.png",
+      "url": "https://www.ransomware.live/id/VGFubmVyQHFpbGlu",
+      "victim": "Tanner"
     },
     {
       "activity": "Education",
@@ -382,40 +416,6 @@
       "screenshot": "https://images.ransomware.live/victims/24a1b99b26b7c46ad5fd7568e351f8c0.png",
       "url": "https://www.ransomware.live/id/UFRUIE9pbCBhbmQgUmV0YWlsIEJ1c2luZXNzQGRpcmV3b2xm",
       "victim": "PTT Oil and Retail Business"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-09-02T15:45:32+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a98449c4cc2b2e7e76b5a97",
-      "country": "CA",
-      "data_size": null,
-      "description": "Petrocare Construction is a company founded on old fashioned principals - yet implementing cutting edge technology and state-of-the-art building methods, and we are proud of this. We have and continue to make a difference by \"Teaming in Partnership\" with our clients. Important to us is - what is important to you, namely: accurate job costing, timely progress reports, effective construction management, qualified staff, subcontractors and more. Because our team is in partnership with you, we will always work hard to maintain a solid, long-term relationship with you - that is our way of doing business. We understand the challenges of modern construction. We are pro-active in our response to the complex needs of environmental, technological and time sensitive issues. It is our clear focus to meet and exceed the needs of our clients. We are specialists in commercial, industrial, wholesale and retail petroleum facilities. Whether it be design/build construction, environmental remediation ordecommissioning we will serve your needs all over Western Canada. We are a company of people, equipment and technology that will provide the catalyst to meet and exceed your building construction and site maintenance needs for today and beyond. \nThe company headquarters is located in 1202 Avenue X South, Saskatoon, SK S7M 3H9, Canada. 51-200 Employees",
-      "discovered": "2026-09-03T08:30:21.286105+00:00",
-      "domain": "",
-      "group": "Storm",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/099d0943ce47e459fec713806f69ab2a.png",
-      "url": "https://www.ransomware.live/id/UGV0cm9jYXJlIENvbnN0cnVjdGlvbkBTdG9ybQ==",
-      "victim": "Petrocare Construction"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-09-02T15:41:47+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6a9843bb4cc2b2e7e76b5a96",
-      "country": "US",
-      "data_size": null,
-      "description": "GSAC Auto Financing specializes in providing auto loans for individuals with challenged credit. They offer assistance in rebuilding credit while helping clients find suitable vehicles through their network of dealers. The company emphasizes that bad credit does not have to be a barrier to obtaining a car. GSAC is committed to accurately reporting payment histories to credit bureaus to aid in credit repair. \nThe company headquarters is located in 1645 Ogden Avenue, Downers Grove, IL 60515, United States. 11-50 Employees",
-      "discovered": "2026-09-03T08:29:17.903105+00:00",
-      "domain": "",
-      "group": "Storm",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/35cdfd031a09d381dd7135f9bf870311.png",
-      "url": "https://www.ransomware.live/id/R1NBQyBBdXRvIEZpbmFuY2luZ0BTdG9ybQ==",
-      "victim": "GSAC Auto Financing"
     }
   ]
 }
