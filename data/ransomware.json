@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-04T10:34:09.485357+00:00",
+  "last_success": "2026-09-04T14:45:59.641092+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,60 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-04T06:59:18.414443+00:00",
+      "claim_url": "",
+      "country": "UY",
+      "data_size": null,
+      "description": "Sector: Law Firm | Revenue: US$ 5,000,000",
+      "discovered": "2026-09-04T06:59:19.092117+00:00",
+      "domain": "blancoetcheverry.com",
+      "group": "gunra",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-04T06:59:18",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QmxhbmNvICYgRXRjaGV2ZXJyeUBndW5yYQ==",
+      "victim": "Blanco & Etcheverry"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-09-04T06:58:58.669209+00:00",
+      "claim_url": "",
+      "country": "VE",
+      "data_size": null,
+      "description": "Sector: Insurance | Revenue: US$ 157,000,000",
+      "discovered": "2026-09-04T06:58:59.451329+00:00",
+      "domain": "laoccidental.com",
+      "group": "gunra",
+      "infostealer": {
+        "employees": 10,
+        "employees_url": 13,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 7,
+        "update": "2026-04-30T03:02:36",
+        "users": 30,
+        "users_url": 5
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/T2NjaWRlbnRhbEBndW5yYQ==",
+      "victim": "Occidental"
     },
     {
       "activity": "Manufacturing",
@@ -372,50 +426,6 @@
       "screenshot": "https://images.ransomware.live/victims/cbf0b3b542ee072c703e391dd84d1c0b.png",
       "url": "https://www.ransomware.live/id/Q2FydHJhY2sgSG9sZGluZ3NAZGlyZXdvbGY=",
       "victim": "Cartrack Holdings"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-02T16:42:11+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Ormond Beach, Florida, is a scenic coastal city just north of Daytona Beach, known for its beaches, relaxed atmosphere, historic charm, and outdoor activities.",
-      "discovered": "2026-09-02T16:51:15.246733+00:00",
-      "domain": "",
-      "group": "Wallstreet",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/T3Jtb25kIEJlYWNoIEZsb3JpZGFAV2FsbHN0cmVldA==",
-      "victim": "Ormond Beach Florida"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-09-02T16:28:59.877000+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/119",
-      "country": "TH",
-      "data_size": null,
-      "description": "Chemicals",
-      "discovered": "2026-09-02T16:54:26.923730+00:00",
-      "domain": "pttor.com",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 64,
-        "employees_url": 13,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 45,
-        "update": "2026-09-02T16:54:13",
-        "users": 1465,
-        "users_url": 100
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/24a1b99b26b7c46ad5fd7568e351f8c0.png",
-      "url": "https://www.ransomware.live/id/UFRUIE9pbCBhbmQgUmV0YWlsIEJ1c2luZXNzQGRpcmV3b2xm",
-      "victim": "PTT Oil and Retail Business"
     }
   ]
 }
