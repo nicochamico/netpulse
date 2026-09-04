@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-04T14:45:59.641092+00:00",
+  "last_success": "2026-09-04T18:04:09.573446+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-09-04T11:30:34.266514+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=a2710463-aa0e-4555-be9c-57188ff6434c",
+      "country": "CA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-04T11:30:59.887918+00:00",
+      "domain": "www.ccq.org",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6433946f17d7189c0cca58f25a824b8a.png",
+      "url": "https://www.ransomware.live/id/Q29tbWlzc2lvbiBkZSBsYSBjb25zdHJ1Y3Rpb24gZHUgUXVlYmVjIChDQ1EpQHFpbGlu",
+      "victim": "Commission de la construction du Quebec (CCQ)"
     },
     {
       "activity": "Professional Services",
@@ -159,6 +176,23 @@
       "screenshot": "https://images.ransomware.live/victims/e78606dec684424fced0e585c5cb14ff.png",
       "url": "https://www.ransomware.live/id/U2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24gKFNHTEEpQHNwYWNlYmVhcnM=",
       "victim": "Schwartz, Giannini, Lantsberger & Adamson (SGLA)"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-04T00:00:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Worrell Corporation is a family-owned business based in Indianapolis that specializes in promot\nional products, marketing, and print services. They assist clients in finding impactful promoti\nonal items while offering tailored marketing strategies and webstore solutions.\n\nWe will upload 45gb of corporate data soon. Employee and client information, contacts and agree\nments, financials, projects and so on.\n",
+      "discovered": "2026-09-04T13:51:54.499887+00:00",
+      "domain": "",
+      "group": "akira",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/V29ycmVsbEBha2lyYQ==",
+      "victim": "Worrell"
     },
     {
       "activity": "Healthcare",
@@ -382,50 +416,6 @@
       "screenshot": "https://images.ransomware.live/victims/7416fb23160b346fbf6d981c4e83ea41.png",
       "url": "https://www.ransomware.live/id/Ry4uLiAuLi5nQFNpbGVudFJhbnNvbUdyb3Vw",
       "victim": "G... ...g"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-02T19:51:20.115027+00:00",
-      "claim_url": "https://business-data-leaks.com/about#abe7113d195c4413ddc3aed20",
-      "country": "",
-      "data_size": null,
-      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-      "discovered": "2026-09-02T19:52:07.189702+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/62b3a1cd1ec3ab8b77b5eb487c1f2f8f.png",
-      "url": "https://www.ransomware.live/id/Uy4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "victim": "S... M..."
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-09-02T17:45:28.531799+00:00",
-      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/120",
-      "country": "ZA",
-      "data_size": null,
-      "description": "Software",
-      "discovered": "2026-09-02T17:53:21.581325+00:00",
-      "domain": "cartrack.co.za",
-      "group": "direwolf",
-      "infostealer": {
-        "employees": 2,
-        "employees_url": 1,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-02T17:53:08",
-        "users": 761,
-        "users_url": 52
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cbf0b3b542ee072c703e391dd84d1c0b.png",
-      "url": "https://www.ransomware.live/id/Q2FydHJhY2sgSG9sZGluZ3NAZGlyZXdvbGY=",
-      "victim": "Cartrack Holdings"
     }
   ]
 }
