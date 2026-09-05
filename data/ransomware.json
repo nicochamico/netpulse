@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-05T19:54:50.594785+00:00",
+  "last_success": "2026-09-05T21:54:57.518542+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-05T16:12:16+00:00",
+      "claim_url": "",
+      "country": "MX",
+      "data_size": null,
+      "description": "New Delhi–based private technology company incorporated in 2013. Its registered business classification is software publishing, consultancy and supply, including software development, maintenance and web-page design. Its network records also identify MEGA VELOCITY PVT LTD as an Internet/hosting network operator.",
+      "discovered": "2026-09-05T17:22:03.885731+00:00",
+      "domain": "megavelocity.net",
+      "group": "Vexy Ransomware",
+      "infostealer": {
+        "employees": 1,
+        "employees_url": 1,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-05T17:22:02",
+        "users": 48,
+        "users_url": 27
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TWVnYSBWZWxvY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
+      "victim": "Mega Velocity"
     },
     {
       "activity": "Financial Services",
@@ -411,33 +438,6 @@
       "screenshot": "https://images.ransomware.live/victims/ab6565dfe4e2f5f2a768c12bbd25ba85.png",
       "url": "https://www.ransomware.live/id/a2FsYWhlYWx0aC5ldUBsb2NrYml0NQ==",
       "victim": "kalahealth.eu"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-09-04T15:10:05+00:00",
-      "claim_url": "",
-      "country": "IN",
-      "data_size": null,
-      "description": "Manufacturer, supplier and exporter/distributor of fabrics and apparel-related products, including cotton fabrics, shirting, suiting, jacquard, sherwani fabrics, uniforms, ladies' tops and readymade garments",
-      "discovered": "2026-09-04T16:23:32.912477+00:00",
-      "domain": "annapurnafashion.com",
-      "group": "Vexy Ransomware",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-04T16:23:31",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QW5uYXB1cm5hIEZhc2hpb25AVmV4eSBSYW5zb213YXJl",
-      "victim": "Annapurna Fashion"
     }
   ]
 }
