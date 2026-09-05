@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-05T02:54:27.054595+00:00",
+  "last_success": "2026-09-05T07:23:47.750533+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-09-05T01:47:00+00:00",
+      "claim_url": "/post/judicial-branch-of-the-province-of-jujuy/",
+      "country": "AR",
+      "data_size": null,
+      "description": "The official website of the Judicial Branch of Jujuy, Argentina. It provides court information, digital case management, mediation services, legal rulings, and judicial news for legal professionals and the public.\n\nNow i have your wordpress databases, login credentials to internal systems(thanks to marcos :)), as well as your email credentials\n\nRespond to us, pay the ransom.(Check your emails & check spam as well.) [Size: 4.2 GB | Sector: Government, Law]",
+      "discovered": "2026-09-05T02:50:45.984795+00:00",
+      "domain": "",
+      "group": "emperador",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/SnVkaWNpYWwgQnJhbmNoIG9mIHRoZSBQcm92aW5jZSBvZiBKdWp1eUBlbXBlcmFkb3I=",
+      "victim": "Judicial Branch of the Province of Jujuy"
     },
     {
       "activity": "Not Found",
@@ -451,23 +468,6 @@
       "screenshot": "https://images.ransomware.live/victims/e78606dec684424fced0e585c5cb14ff.png",
       "url": "https://www.ransomware.live/id/U2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24gKFNHTEEpQHNwYWNlYmVhcnM=",
       "victim": "Schwartz, Giannini, Lantsberger & Adamson (SGLA)"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-04T00:00:00+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "Discover Stransky—a leader in sustainable energy solutions. Trust in over 30 years of experienc\ne in heating technology and quality.\n\nWe will upload 50gb of corporate data soon. Employee personal information, contacts and agreeme\nnts, financials, projects, NDAs and so on.\n",
-      "discovered": "2026-09-04T14:53:27.302480+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U3RyYW5za3kgSGVpei1NZXNzLVJlZ2VsdGVjaG5payBHbWJIQGFraXJh",
-      "victim": "Stransky Heiz-Mess-Regeltechnik GmbH"
     }
   ]
 }
