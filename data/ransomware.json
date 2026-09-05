@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-05T11:37:08.927874+00:00",
+  "last_success": "2026-09-05T14:34:01.532266+00:00",
   "count": 100,
   "items": [
     {
@@ -71,6 +71,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SnVkaWNpYWwgQnJhbmNoIG9mIHRoZSBQcm92aW5jZSBvZiBKdWp1eUBlbXBlcmFkb3I=",
       "victim": "Judicial Branch of the Province of Jujuy"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-05T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/metrea-llc-77f4beea",
+      "country": "US",
+      "data_size": null,
+      "description": "[defence] Metrea LLC (formerly Meta Special Aerospace, LLC) and its subsidiary Commuter Air Technology, Inc. (CAT) are US defense contractors providing Contractor Owned, Contractor Operated (COCO) ISR aircraft services to US Special Operations Command. They operate modified King Air 350 surveillance aircraft in Niger, East Africa, the Philippines, and other theaters.\n\n<redacted>\n339 MB of Harris PRC-117G military tactical radio firmware including compiled waveform binaries for SINCGARS, HAVEQUICK II, ROVER, and 10 other ITAR-controlled waveforms (USML Category XI).\nNamed deployment data for 14+ operators at Sable Spear sites in Niger and East Africa, with rotation schedules, SIPRNet access documentation, and divert airfield planning.\nComplete SOCOM contract pricing portfolios — labor rates, burn rates, TINA-certified cost data, and subcontractor pricing for SOCPAC C3PO, Sable Spear, and Sable Dagger programs.\n232 employee personnel files including resumes, W-9 forms (SSN), SERE training certificates, security clearances, expense reports, and deployment records.\nNSWDG (SEAL Team Six), MARSOC, and 75th Rangers training exercise documentation — 37 separately funded SOCOM training deliveries under the Alpha 28 program.\n<redacted>",
+      "discovered": "2026-09-05T09:53:15.683002+00:00",
+      "domain": "Metrea LLC/Commuter Air Technology, Inc.",
+      "group": "aurora",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/56f61ba8a82c38f798fb19966dbdd07a.png",
+      "url": "https://www.ransomware.live/id/TWV0cmVhIExMQy9Db21tdXRlciBBaXIgVGVjaG5vbG9neSwgSW5jLkBhdXJvcmE=",
+      "victim": "Metrea LLC/Commuter Air Technology, Inc."
     },
     {
       "activity": "Not Found",
@@ -451,23 +468,6 @@
       "screenshot": "https://images.ransomware.live/victims/bbe887bab4a4744b1c90da4e05aab581.png",
       "url": "https://www.ransomware.live/id/VGFubmVyQHFpbGlu",
       "victim": "Tanner"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-09-04T00:38:34+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/hochschule-heilbronn-bildungscampus",
-      "country": "DE",
-      "data_size": null,
-      "description": "AStA Hochschule Heilbronn is the general students' committee that represents student interests both within and outside the university in Heilbronn. The organization serves as a spokesperson for the student body and provides a variety of support services, including legal and tax counseling, a grievance box, and laptop rentals. Additionally, the committee organizes numerous events and manages the university sports program. It operates as a central point of contact for students facing problems and coordinates with various student parliaments and faculty representatives.",
-      "discovered": "2026-09-04T00:51:09.295624+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/621d32c230ed1c03e0bb35df47be0157.png",
-      "url": "https://www.ransomware.live/id/SG9jaHNjaHVsZSBIZWlsYnJvbm4gQmlsZHVuZ3NjYW1wdXNAUGFuemVy",
-      "victim": "Hochschule Heilbronn Bildungscampus"
     }
   ]
 }
