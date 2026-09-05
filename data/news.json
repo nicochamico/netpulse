@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-05T07:23:47.750533+00:00",
+  "last_success": "2026-09-05T11:37:08.927874+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "published": "Sat, 05 Sep 2026 13:25:10 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "published": "Sat, 05 Sep 2026 13:01:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
@@ -28,16 +40,10 @@
       "published": "Fri, 04 Sep 2026 14:18:45 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "published": "Fri, 04 Sep 2026 13:05:14 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "published": "Fri, 04 Sep 2026 12:48:47 +0530"
+      "source": "BleepingComputer",
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "published": "Sat, 05 Sep 2026 07:11:50 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
       "published": "Fri, 04 Sep 2026 09:22:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "published": "Fri, 04 Sep 2026 08:22:30 -0400"
     }
   ]
 }
