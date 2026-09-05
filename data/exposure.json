@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:26:55.462711+00:00",
+  "generated_at": "2026-09-05T15:28:12.472246+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "sm-centralia-ca.schoolloop.com",
+        "soms-vcusd-ca.schoolloop.com",
         "one.one.one.one",
-        "wlc.cabq.gov"
+        "awslaledev.femco.com.tw"
       ]
     },
     {
