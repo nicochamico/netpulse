@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-04T23:42:10.898766+00:00",
+  "last_success": "2026-09-05T02:54:27.054595+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-04T19:57:08.379198+00:00",
+      "claim_url": "https://business-data-leaks.com/about#2a0da5d9353254402f3aa1735",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-09-04T19:57:57.547279+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/029ab7b607cfa01c2795f86f4e4068e6.png",
+      "url": "https://www.ransomware.live/id/SC4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "H... C..."
     },
     {
       "activity": "Technology",
@@ -118,6 +135,33 @@
       "victim": "MBT Telecom"
     },
     {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-04T15:46:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/ad4c5e4fb3efe31d475d8a10290631e6",
+      "country": "NL",
+      "data_size": null,
+      "description": "Huisartsencentrum Klein Iterson is a Healthcare Services provider operating in the primary medical c...",
+      "discovered": "2026-09-04T20:56:55.403583+00:00",
+      "domain": "huisartsencentrumkleiniterson.nl",
+      "group": "lockbit5",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-04T20:56:30",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/40d95001b3e338da4ddcb72643819e69.png",
+      "url": "https://www.ransomware.live/id/aHVpc2FydHNlbmNlbnRydW1rbGVpbml0ZXJzb24ubmxAbG9ja2JpdDU=",
+      "victim": "huisartsencentrumkleiniterson.nl"
+    },
+    {
       "activity": "Other",
       "attackdate": "2026-09-04T15:33:10+00:00",
       "claim_url": "",
@@ -143,6 +187,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/U2FuY2l0eSBTb2Z0IFRvdWNoQFZleHkgUmFuc29td2FyZQ==",
       "victim": "Sancity Soft Touch"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-04T15:29:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/8ada66fb50893d32c1efcf75d4fd6bd7",
+      "country": "DE",
+      "data_size": null,
+      "description": "KALA Health is an international manufacturing and distribution company of nutraceutical health produ...",
+      "discovered": "2026-09-04T20:57:31.960521+00:00",
+      "domain": "kalahealth.eu",
+      "group": "lockbit5",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 2,
+        "update": "2026-09-04T20:57:07",
+        "users": 2,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ab6565dfe4e2f5f2a768c12bbd25ba85.png",
+      "url": "https://www.ransomware.live/id/a2FsYWhlYWx0aC5ldUBsb2NrYml0NQ==",
+      "victim": "kalahealth.eu"
     },
     {
       "activity": "Retail & E-Commerce",
@@ -231,6 +302,33 @@
       "screenshot": "https://images.ransomware.live/victims/6433946f17d7189c0cca58f25a824b8a.png",
       "url": "https://www.ransomware.live/id/Q29tbWlzc2lvbiBkZSBsYSBjb25zdHJ1Y3Rpb24gZHUgUXVlYmVjIChDQ1EpQHFpbGlu",
       "victim": "Commission de la construction du Quebec (CCQ)"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-04T10:27:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/4652cbe1e838548b272effe6e93b8f2a",
+      "country": "US",
+      "data_size": null,
+      "description": "For over 60 years, PSC Industries has been the number 1 supplier of nsulation, gasketing, seals, adh...",
+      "discovered": "2026-09-04T20:58:40.702949+00:00",
+      "domain": "pscindustries.com",
+      "group": "lockbit5",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-04T20:57:46",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2bd8c5bf298e2c51722d2258be6765f1.png",
+      "url": "https://www.ransomware.live/id/cHNjaW5kdXN0cmllcy5jb21AbG9ja2JpdDU=",
+      "victim": "pscindustries.com"
     },
     {
       "activity": "Professional Services",
@@ -370,74 +468,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/U3RyYW5za3kgSGVpei1NZXNzLVJlZ2VsdGVjaG5payBHbWJIQGFraXJh",
       "victim": "Stransky Heiz-Mess-Regeltechnik GmbH"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-04T00:00:00+00:00",
-      "claim_url": "http://tridentfrdy6jydwywfx4vx422vnto7pktao2gyx2qdcwjanogq454ad.onion/article/5589e436-5387-4f33-99da-6c76ecf35856",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] SouthernCarlson is a U.S.-based distributor specializing in packaging, fastening, and installation solutions. The company serves industries such as construction, manufacturing, and retail, supplying tools, equipment, and materials including staples, nails, strapping, and related supplies. Operating primarily across the United States, SouthernCarlson functions as a key distribution partner for businesses requiring industrial packaging and fastening products.",
-      "discovered": "2026-09-04T14:04:00.266010+00:00",
-      "domain": "",
-      "group": "tridentlocker",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/d410c5c103d6d56608505ebd7a61ffea.png",
-      "url": "https://www.ransomware.live/id/U291dGhlcm5DYXJsc29uQHRyaWRlbnRsb2NrZXI=",
-      "victim": "SouthernCarlson"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-04T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Worrell Corporation is a family-owned business based in Indianapolis that specializes in promot\nional products, marketing, and print services. They assist clients in finding impactful promoti\nonal items while offering tailored marketing strategies and webstore solutions.\n\nWe will upload 45gb of corporate data soon. Employee and client information, contacts and agree\nments, financials, projects and so on.\n",
-      "discovered": "2026-09-04T13:51:54.499887+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V29ycmVsbEBha2lyYQ==",
-      "victim": "Worrell"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-03T22:59:22.512544+00:00",
-      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/73/studio-oculistico-ciraci",
-      "country": "IT",
-      "data_size": null,
-      "description": "Studio Oculistico Ciraci - ophthalmology clinic based in Bari, Italy,  that opened in 1989 as a center accredited with the Italian National  Health Service (SSN). With more than two decades of experience, it focuses on the prevention  and treatment of major eye conditions using modern diagnostic  technologies. Its main areas of expertise include glaucoma,  vitreoretinal diseases (especially maculopathies), correction of  refractive errors (Excimer laser PRK and cataract surgery), strabismus,  keratoconus, and the renewal of special driving licenses. The clinic is run by specialists Dr. Giuseppe Ciraci and Dr.ssa Lorenza  Ciraci and emphasizes high-quality, safe care supported by a  professional team. https://www.oculisticaciraci.it/",
-      "discovered": "2026-09-03T22:59:43.262661+00:00",
-      "domain": "www.oculisticaciraci.it",
-      "group": "spacebears",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f1d494b268974a82deaa45adaa1070cf.png",
-      "url": "https://www.ransomware.live/id/U3R1ZGlvIE9jdWxpc3RpY28gQ2lyYWNpQHNwYWNlYmVhcnM=",
-      "victim": "Studio Oculistico Ciraci"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-03T20:23:41.223260+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Katten Muchin Rosenman is a full-service law firm headquartered in the United States. Operating across multiple offices in major American cities and internationally, the firm provides legal services in areas including corporate law, litigation, financial markets, real estate, intellectual property, and regulatory compliance. It serves clients across industries such as finance, entertainment, and healthcare, and is recognized as a prominent firm within the U.S. legal sector.",
-      "discovered": "2026-09-03T20:23:46.079304+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/S2F0dGVuIE11Y2hpbiBSb3Nlbm1hbkBTaWxlbnRSYW5zb21Hcm91cA==",
-      "victim": "Katten Muchin Rosenman"
     }
   ]
 }
