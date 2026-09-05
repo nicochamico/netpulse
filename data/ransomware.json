@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-05T21:54:57.518542+00:00",
+  "last_success": "2026-09-05T23:32:58.091956+00:00",
   "count": 100,
   "items": [
     {
@@ -64,6 +64,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWVnYSBWZWxvY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
       "victim": "Mega Velocity"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-05T15:58:47+00:00",
+      "claim_url": "",
+      "country": "BR",
+      "data_size": null,
+      "description": "lideraviacao.com.br zoominfo.com/c/líder-aviação/372493800 Líder Aviação is Latin America's largest business aviation company, founded in 1958 in Belo Horizonte, Brazil, as an air taxi with a single Cessna 170. Today: ~R$1.2B revenue, 1,300+ staff, 50+ aircraft, 22 own bases; 42.5% owned by US Bristow Group, run by the founder's third generation (President: Junia Hermont). A one-stop shop: charters (first booking app in Brazil), the region's largest FBO network, aircraft sales (exclusive HondaJet dealer, 1,000+ sold), a top MRO (authorized for Bell, HondaJet, Gulfstream) and offshore helicopter ops for Petrobras since 1973 (1M+ flight hours). Key edge: safety — the only Brazilian company with IS-BAO Stage 3, plus Argus Platinum and 5× Petrobras Peotram wins. First SAF flight in Brazilian business aviation (2024), now expanding into agribusiness and electric aviation. Bottom line: a 67-year-old family giant controlling South American business aviation end-to-end.",
+      "discovered": "2026-09-05T18:29:44.230169+00:00",
+      "domain": "lideraviacao.com.br",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 11,
+        "employees_url": 6,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 37,
+        "update": "2026-09-05T18:29:42",
+        "users": 115,
+        "users_url": 23
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TGlkZXIgQXZpYWNhb0B0aGVnZW50bGVtZW4=",
+      "victim": "Lider Aviacao"
     },
     {
       "activity": "Financial Services",
@@ -342,6 +369,63 @@
       "victim": "Sports Endeavors"
     },
     {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-04T17:26:38+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "veradigm.com zoominfo.com/c/veradigm-llc/471134180 \n3.5+ million personal patient records with PII  full name, address, social security number, email, address, phone number,guarantors PII ,Score Veradigm Inc. is a publicly traded American healthcare technology and data analytics company (OTC: MDRX), the former Allscripts, founded in 1986 and renamed Veradigm in January 2023, headquartered in Chicago with about 2,300–2,600 employees. Its core asset is one of the largest multi-EHR data networks in US healthcare — over 450,000 connected providers and 200M+ patient records — which it monetizes through three segments: Provider (EHR, practice management, revenue cycle: $473M in 2024), Payer (quality and risk adjustment analytics: $67.3M) and Life Sciences (real-world data and AI-driven evidence: $54M).",
+      "discovered": "2026-09-05T18:29:58.376127+00:00",
+      "domain": "veradigm.com",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {
+          "Lumma": 3,
+          "RedLine": 1
+        },
+        "last_employee_compromised": "1970-01-01T00:00:00+00:00",
+        "last_user_compromised": "2026-04-27T21:22:02+00:00",
+        "thirdparties": 3,
+        "update": "2026-09-05T18:29:56",
+        "users": 6,
+        "users_url": 4
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VmVyYWRpZ21AdGhlZ2VudGxlbWVu",
+      "victim": "Veradigm"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-04T17:20:01+00:00",
+      "claim_url": "",
+      "country": "PL",
+      "data_size": null,
+      "description": "karierazdrowit.pl zoominfo.com/c/zdrowit/535531700  Zdrowit S.A. is a family-owned Polish pharmacy chain with 100% Polish capital, operating since 2004 and headquartered in Bytom, Silesia, with over 1,000 employees across 40+ cities in southern and central Poland, aiming to become the largest pharmacy network in the region. The business is growing extremely fast, with 2024 net sales revenue up +83.5%, though its net profit margin fell 10.3% due to the costs of rapid expansion. The company is structured as a holding: individual pharmacies operate as separate Sp. z o.o. entities under Zdrowit S.A., which is registered under KRS 0000704305 with a share capital of 1,197,432.00 PLN. Its core workforce consists of pharmacists and pharmacy technicians hired across dozens of locations, supported by a small modern HQ team in Bytom covering data, IT, controlling and marketing. A key strength is its internship pipeline, offering a 2-year program for technicians and a 6-month program for pharmacis",
+      "discovered": "2026-09-05T18:30:11.287716+00:00",
+      "domain": "karierazdrowit.pl",
+      "group": "thegentlemen",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-05T18:30:10",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/WmRyb3dpdEB0aGVnZW50bGVtZW4=",
+      "victim": "Zdrowit"
+    },
+    {
       "activity": "Technology",
       "attackdate": "2026-09-04T16:50:33.189882+00:00",
       "claim_url": "",
@@ -357,87 +441,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TUJUIFRlbGVjb21ARFlTUEhPUjFB",
       "victim": "MBT Telecom"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-04T15:46:00+00:00",
-      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/ad4c5e4fb3efe31d475d8a10290631e6",
-      "country": "NL",
-      "data_size": null,
-      "description": "Huisartsencentrum Klein Iterson is a Healthcare Services provider operating in the primary medical c...",
-      "discovered": "2026-09-04T20:56:55.403583+00:00",
-      "domain": "huisartsencentrumkleiniterson.nl",
-      "group": "lockbit5",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-04T20:56:30",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/40d95001b3e338da4ddcb72643819e69.png",
-      "url": "https://www.ransomware.live/id/aHVpc2FydHNlbmNlbnRydW1rbGVpbml0ZXJzb24ubmxAbG9ja2JpdDU=",
-      "victim": "huisartsencentrumkleiniterson.nl"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-04T15:33:10+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "IT services company providing web design & development, software/application development, payment gateway services, digital marketing, mobile applications, software testing and cloud-related services.",
-      "discovered": "2026-09-04T16:23:12.456390+00:00",
-      "domain": "softtouch4u.com",
-      "group": "Vexy Ransomware",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-04T16:23:11",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U2FuY2l0eSBTb2Z0IFRvdWNoQFZleHkgUmFuc29td2FyZQ==",
-      "victim": "Sancity Soft Touch"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-04T15:29:00+00:00",
-      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/8ada66fb50893d32c1efcf75d4fd6bd7",
-      "country": "DE",
-      "data_size": null,
-      "description": "KALA Health is an international manufacturing and distribution company of nutraceutical health produ...",
-      "discovered": "2026-09-04T20:57:31.960521+00:00",
-      "domain": "kalahealth.eu",
-      "group": "lockbit5",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 2,
-        "update": "2026-09-04T20:57:07",
-        "users": 2,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ab6565dfe4e2f5f2a768c12bbd25ba85.png",
-      "url": "https://www.ransomware.live/id/a2FsYWhlYWx0aC5ldUBsb2NrYml0NQ==",
-      "victim": "kalahealth.eu"
     }
   ]
 }
