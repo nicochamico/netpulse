@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:03:37.242414+00:00",
+  "generated_at": "2026-09-06T17:03:10.806228+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -39,7 +39,6 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "home.puderbach.eu",
         "dns9.quad9.net"
       ]
     }
