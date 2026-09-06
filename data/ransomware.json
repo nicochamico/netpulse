@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-05T23:32:58.091956+00:00",
+  "last_success": "2026-09-06T02:53:13.548174+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,50 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-05T21:44:49.338000+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/122",
+      "country": "US",
+      "data_size": null,
+      "description": "Healthcare Services",
+      "discovered": "2026-09-05T21:54:20.573912+00:00",
+      "domain": "missionpethealth.com",
+      "group": "direwolf",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-05T21:53:47",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0a97c2b37ab595e25a01d78a5c401e80.png",
+      "url": "https://www.ransomware.live/id/TWlzc2lvbiBQZXQgSGVhbHRoQGRpcmV3b2xm",
+      "victim": "Mission Pet Health"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-09-05T21:29:41.291608+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Spirit Cultural Exchange is a U.S.-based organization that provides international cultural exchange and J-1 visa programs for students, young professionals, teachers, and international participants. Its programs include Summer Work and Travel, internships, professional training, and teaching opportunities in the United States",
+      "discovered": "2026-09-05T21:29:42.693866+00:00",
+      "domain": "www.spiritexchange.com",
+      "group": "kazu",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U3Bpcml0IEN1bHR1cmFsIEV4Y2hhbmdlIC0gVVNAa2F6dQ==",
+      "victim": "Spirit Cultural Exchange - US"
     },
     {
       "activity": "Transportation",
@@ -397,50 +441,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VmVyYWRpZ21AdGhlZ2VudGxlbWVu",
       "victim": "Veradigm"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-04T17:20:01+00:00",
-      "claim_url": "",
-      "country": "PL",
-      "data_size": null,
-      "description": "karierazdrowit.pl zoominfo.com/c/zdrowit/535531700  Zdrowit S.A. is a family-owned Polish pharmacy chain with 100% Polish capital, operating since 2004 and headquartered in Bytom, Silesia, with over 1,000 employees across 40+ cities in southern and central Poland, aiming to become the largest pharmacy network in the region. The business is growing extremely fast, with 2024 net sales revenue up +83.5%, though its net profit margin fell 10.3% due to the costs of rapid expansion. The company is structured as a holding: individual pharmacies operate as separate Sp. z o.o. entities under Zdrowit S.A., which is registered under KRS 0000704305 with a share capital of 1,197,432.00 PLN. Its core workforce consists of pharmacists and pharmacy technicians hired across dozens of locations, supported by a small modern HQ team in Bytom covering data, IT, controlling and marketing. A key strength is its internship pipeline, offering a 2-year program for technicians and a 6-month program for pharmacis",
-      "discovered": "2026-09-05T18:30:11.287716+00:00",
-      "domain": "karierazdrowit.pl",
-      "group": "thegentlemen",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-05T18:30:10",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/WmRyb3dpdEB0aGVnZW50bGVtZW4=",
-      "victim": "Zdrowit"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-04T16:50:33.189882+00:00",
-      "claim_url": "",
-      "country": "MM",
-      "data_size": null,
-      "description": "Myanmar Broadband Telecom Co., Ltd. (MBT) is a leading fiber internet service provider and telecommunications network solutions company established in Myanmar in 2013. Full database compromise exposing 209,970 user records including PII, passwords, and device information.",
-      "discovered": "2026-09-04T16:50:33.931476+00:00",
-      "domain": "",
-      "group": "DYSPHOR1A",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TUJUIFRlbGVjb21ARFlTUEhPUjFB",
-      "victim": "MBT Telecom"
     }
   ]
 }
