@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:14:03.437748+00:00",
+  "generated_at": "2026-09-06T06:01:17.615228+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "soms-vcusd-ca.schoolloop.com",
+        "guestnet.maranahealthcenter.org",
         "one.one.one.one",
-        "awslaledev.femco.com.tw"
+        "prd4.conrep.com"
       ]
     },
     {
