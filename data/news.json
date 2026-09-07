@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-07T05:39:53.392757+00:00",
+  "last_success": "2026-09-07T11:33:31.344847+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "published": "Mon, 07 Sep 2026 14:01:12 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "published": "Mon, 07 Sep 2026 13:23:04 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -28,16 +40,28 @@
       "published": "Sat, 05 Sep 2026 22:22:33 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "published": "Sat, 05 Sep 2026 21:35:08 +0530"
+      "source": "BleepingComputer",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "published": "Mon, 07 Sep 2026 06:36:37 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "published": "Sat, 05 Sep 2026 19:47:02 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "published": "Mon, 07 Sep 2026 06:32:40 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "published": "Mon, 07 Sep 2026 06:06:38 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "published": "Mon, 07 Sep 2026 02:17:41 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
       "published": "Sun, 06 Sep 2026 10:23:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "published": "Sat, 05 Sep 2026 10:29:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "published": "Sat, 05 Sep 2026 07:11:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "published": "Fri, 04 Sep 2026 12:56:45 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "published": "Fri, 04 Sep 2026 11:25:59 -0400"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-07T05:39:53.392757+00:00",
+  "last_success": "2026-09-07T11:33:31.344847+00:00",
   "count": 100,
   "items": [
     {
@@ -39,6 +39,23 @@
       "victim": "Paylogix"
     },
     {
+      "activity": "Education",
+      "attackdate": "2026-09-07T04:54:09.105418+00:00",
+      "claim_url": "",
+      "country": "CA",
+      "data_size": null,
+      "description": "MSM Unify is a global education technology platform that helps students find and apply to international universities and programs. It connects students with 1,500+ campuses and more than 50,000 programs across destinations such as Canada, the USA, the UK, Australia, and Germany. The platform provides support with course selection, university applications, scholarships, visa assistance, education loans, accommodation, and test preparation",
+      "discovered": "2026-09-07T04:54:10.656250+00:00",
+      "domain": "www.msmunify.com",
+      "group": "kazu",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TVNNIFVuaWZ5OiBHbG9iYWwgRWR1Y2F0aW9uIFBsYXRmb3JtIC0gQ0FAa2F6dQ==",
+      "victim": "MSM Unify: Global Education Platform - CA"
+    },
+    {
       "activity": "Healthcare",
       "attackdate": "2026-09-07T01:32:58.372900+00:00",
       "claim_url": "",
@@ -54,6 +71,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TWVkZWxhLmNvbUBzaGlueWh1bnRlcnM=",
       "victim": "Medela.com"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-07T00:00:00+00:00",
+      "claim_url": "https://mega.nz/notpublishedyetbutwillbesoon",
+      "country": "GB",
+      "data_size": null,
+      "description": "We have emailed the following\r\n\r\nla@benleedsproperties.com\r\nnikki@benleedsproperties.com\r\n21736Roscoe@benleedsproperties.com\r\n3327livonia@benleedsproperties.com\r\nAccounting@BenLeedsProperties.com\r\nSupport@BenLeedsProperties.com\r\nManagement@BenLeedsProperties.com\r\n\r\nReply back and negotiate or all data that we said was stolen gets published. If you comply and negotiate then we won't leak the data that we say we have and could tear down your reputation like dominos. Were not bluffing and this is not a drill we have what we say we have and we are willing to publish it and let everyone accross La and Hollywood know since it affects some people there. You have till wednesday September 9th 2026 due to labor day for USA Companies.",
+      "discovered": "2026-09-07T03:52:12.749532+00:00",
+      "domain": "benleedsproperties.com",
+      "group": "ShadowByt3$",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-07T04:58:23.022904",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7701c50d0468d50b30a98eb4a2e370c0.png",
+      "url": "https://www.ransomware.live/id/QmVuIExlZWRzIFByb3BlcnRpZXNAU2hhZG93Qnl0MyQ=",
+      "victim": "Ben Leeds Properties"
     },
     {
       "activity": "Government & Defense",
@@ -436,40 +480,6 @@
       "screenshot": "https://images.ransomware.live/victims/4911de2ba03937dc7d6934b9fc79febc.png",
       "url": "https://www.ransomware.live/id/Tm9sYW4gQ29uc3VsdGluZyBHcm91cEBxaWxpbg==",
       "victim": "Nolan Consulting Group"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-09-05T11:28:46.437214+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=05e13c6e-47a3-4022-abf1-06eae70f1662",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-09-05T11:29:05.259581+00:00",
-      "domain": "www.colonialhyundai.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/70de70cdc4bf2ab6b9dbee0d4683e8eb.png",
-      "url": "https://www.ransomware.live/id/Q29sb25pYWwgSHl1bmRhaUBxaWxpbg==",
-      "victim": "Colonial Hyundai"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-09-05T11:28:13.981691+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=58349bee-bd7c-491c-ae26-f8d92e517b40",
-      "country": "GB",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-09-05T11:28:34.617597+00:00",
-      "domain": "www.bigtablegroup.com",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a46fb4e3aad13d18c69dd4d258575c11.png",
-      "url": "https://www.ransomware.live/id/VGhlIEJpZyBUYWJsZUBxaWxpbg==",
-      "victim": "The Big Table"
     }
   ]
 }
