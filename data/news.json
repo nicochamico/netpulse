@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-07T11:33:31.344847+00:00",
+  "last_success": "2026-09-07T17:12:56.671478+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "published": "Mon, 07 Sep 2026 21:21:56 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "published": "Mon, 07 Sep 2026 20:06:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "published": "Mon, 07 Sep 2026 17:15:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "published": "Mon, 07 Sep 2026 17:06:39 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "published": "Mon, 07 Sep 2026 16:50:14 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
@@ -10,34 +40,28 @@
       "published": "Mon, 07 Sep 2026 14:01:12 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "published": "Mon, 07 Sep 2026 13:23:04 +0530"
+      "source": "BleepingComputer",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "published": "Mon, 07 Sep 2026 12:50:29 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "published": "Sun, 06 Sep 2026 15:02:38 +0530"
+      "source": "BleepingComputer",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "published": "Mon, 07 Sep 2026 11:39:51 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "published": "Sun, 06 Sep 2026 14:04:20 +0530"
+      "source": "BleepingComputer",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "published": "Mon, 07 Sep 2026 09:05:11 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "published": "Sun, 06 Sep 2026 01:44:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "published": "Sat, 05 Sep 2026 22:22:33 +0530"
+      "source": "BleepingComputer",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "published": "Mon, 07 Sep 2026 08:16:32 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
       "published": "Mon, 07 Sep 2026 06:32:40 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "published": "Mon, 07 Sep 2026 06:06:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "published": "Mon, 07 Sep 2026 02:17:41 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "published": "Sun, 06 Sep 2026 21:15:43 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "published": "Sun, 06 Sep 2026 10:23:46 -0400"
     }
   ]
 }
