@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-07T17:12:56.671478+00:00",
+  "last_success": "2026-09-07T21:05:40.082825+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "published": "Mon, 07 Sep 2026 23:42:09 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
@@ -32,12 +38,6 @@
       "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
       "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
       "published": "Mon, 07 Sep 2026 16:50:14 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "published": "Mon, 07 Sep 2026 14:01:12 +0530"
     },
     {
       "source": "BleepingComputer",
