@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-07T00:40:24.414071+00:00",
+  "last_success": "2026-09-07T05:39:53.392757+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+      "published": "Sun, 06 Sep 2026 21:15:43 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
       "published": "Sun, 06 Sep 2026 10:23:46 -0400"
@@ -68,12 +74,6 @@
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
       "published": "Fri, 04 Sep 2026 11:25:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "published": "Fri, 04 Sep 2026 10:30:15 -0400"
     }
   ]
 }

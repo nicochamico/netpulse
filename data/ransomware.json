@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-07T00:40:24.414071+00:00",
+  "last_success": "2026-09-07T05:39:53.392757+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-07T01:32:58.372900+00:00",
+      "claim_url": "",
+      "country": "CH",
+      "data_size": null,
+      "description": "This is a final warning to reach out by 08 Sep 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 07 Sep 2026 | Warning: FINAL WARNING",
+      "discovered": "2026-09-07T01:32:59.937610+00:00",
+      "domain": "Medela.com",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TWVkZWxhLmNvbUBzaGlueWh1bnRlcnM=",
+      "victim": "Medela.com"
     },
     {
       "activity": "Government & Defense",
@@ -453,23 +470,6 @@
       "screenshot": "https://images.ransomware.live/victims/a46fb4e3aad13d18c69dd4d258575c11.png",
       "url": "https://www.ransomware.live/id/VGhlIEJpZyBUYWJsZUBxaWxpbg==",
       "victim": "The Big Table"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-05T04:28:40.580880+00:00",
-      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/76/d-max-engineering-inc",
-      "country": "US",
-      "data_size": null,
-      "description": "D‑MAX Engineering, Inc. is a San Diego-based environmental consulting firm specializing in storm water services, particularly for governmental agencies.  Our multidisciplinary team includes environmental scientists, engineers, chemists, and biologists. Our team is experienced with the National Pollutant Discharge Elimination System (NPDES) permit requirements in Southern California.Since 1996, when the company was founded, we have completed numerous storm water projects for 18 municipalities in San Diego, Orange, Imperial, and Riverside Counties. We have developed a reputation for practical solutions, cost-effectiveness, responsiveness, and flexibility.  D-MAX is recognized across the region for our expertise in jurisdictional storm water program development and reporting, water quality monitoring, Industrial General Permit compliance assistance, development and construction services, and inspections of businesses, municipal facilities, construction sites, and treatment control BMPs.Our experience has provided us with a comprehensive understanding of complex, countywide water quality issues and the ability to effectively address them. D-MAX adapts to our clients’ needs and provides a level of quality service that sets us apart. Our diverse team of professionals, central location, and familiarity with the region allows us to provide clients with a wide variety of services at affordable rates. We are a state-certified small business enterprise (SBE).-Personal information of employees and clients -Financial documents-Сommunications drawings https://www.dmaxinc.com/",
-      "discovered": "2026-09-05T04:29:03.242636+00:00",
-      "domain": "www.dmaxinc.com",
-      "group": "spacebears",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/282fddb16afb7ec6b4025abcf9109d91.png",
-      "url": "https://www.ransomware.live/id/RC1NQVggRW5naW5lZXJpbmcsIEluY0BzcGFjZWJlYXJz",
-      "victim": "D-MAX Engineering, Inc"
     }
   ]
 }
