@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-08T14:06:55.364466+00:00",
+  "last_success": "2026-09-08T18:17:08.471029+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "published": "Tue, 08 Sep 2026 21:50:23 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "published": "Tue, 08 Sep 2026 20:24:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "published": "Tue, 08 Sep 2026 19:49:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "published": "Tue, 08 Sep 2026 19:18:16 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
@@ -16,64 +40,40 @@
       "published": "Tue, 08 Sep 2026 17:19:02 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-      "published": "Tue, 08 Sep 2026 16:52:07 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "published": "Tue, 08 Sep 2026 14:43:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "published": "Tue, 08 Sep 2026 14:13:51 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "published": "Tue, 08 Sep 2026 12:30:43 +0530"
+      "source": "BleepingComputer",
+      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+      "published": "Tue, 08 Sep 2026 13:57:03 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
-      "published": "Tue, 08 Sep 2026 09:34:47 -0400"
+      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+      "published": "Tue, 08 Sep 2026 12:35:47 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-      "published": "Tue, 08 Sep 2026 08:40:48 -0400"
+      "title": "OpenAI says ChatGPT outage causes image generation errors",
+      "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+      "published": "Tue, 08 Sep 2026 12:28:42 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers build AI frameworks for widescale credential theft",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-      "published": "Tue, 08 Sep 2026 08:03:03 -0400"
+      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+      "published": "Tue, 08 Sep 2026 11:22:33 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-      "published": "Tue, 08 Sep 2026 07:57:51 -0400"
+      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+      "published": "Tue, 08 Sep 2026 10:55:20 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-      "published": "Tue, 08 Sep 2026 03:35:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "published": "Mon, 07 Sep 2026 12:50:29 -0400"
+      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+      "published": "Tue, 08 Sep 2026 10:40:32 -0400"
     }
   ]
 }
