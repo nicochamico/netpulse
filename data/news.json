@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-08T04:03:12.196638+00:00",
+  "last_success": "2026-09-08T09:20:35.633495+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "published": "Tue, 08 Sep 2026 12:30:43 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -34,10 +40,10 @@
       "published": "Mon, 07 Sep 2026 17:06:39 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "published": "Mon, 07 Sep 2026 16:50:14 +0530"
+      "source": "BleepingComputer",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "published": "Tue, 08 Sep 2026 03:35:50 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
       "published": "Mon, 07 Sep 2026 06:36:37 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "published": "Mon, 07 Sep 2026 06:32:40 -0400"
     }
   ]
 }
