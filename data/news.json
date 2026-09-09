@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-09T13:22:39.302939+00:00",
+  "last_success": "2026-09-09T17:32:02.610576+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "published": "Wed, 09 Sep 2026 19:53:55 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
@@ -34,10 +40,22 @@
       "published": "Wed, 09 Sep 2026 14:41:03 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "published": "Wed, 09 Sep 2026 13:49:32 +0530"
+      "source": "BleepingComputer",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "published": "Wed, 09 Sep 2026 12:48:33 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "published": "Wed, 09 Sep 2026 11:31:23 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "published": "Wed, 09 Sep 2026 10:01:11 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
       "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
       "published": "Wed, 09 Sep 2026 03:30:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "published": "Wed, 09 Sep 2026 02:25:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "published": "Tue, 08 Sep 2026 21:16:27 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "published": "Tue, 08 Sep 2026 16:35:14 -0400"
     }
   ]
 }
