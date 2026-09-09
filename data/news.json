@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-09T03:01:18.633872+00:00",
+  "last_success": "2026-09-09T08:35:51.695247+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "published": "Wed, 09 Sep 2026 10:11:29 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+      "published": "Wed, 09 Sep 2026 09:57:51 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
@@ -28,53 +40,40 @@
       "published": "Tue, 08 Sep 2026 19:18:16 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "published": "Tue, 08 Sep 2026 17:24:29 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "published": "Tue, 08 Sep 2026 17:19:02 +0530"
+      "source": "BleepingComputer",
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "published": "Wed, 09 Sep 2026 03:30:15 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Feed temporarily unavailable",
-      "link": "#",
-      "published": "",
-      "error": "HTTP Error 403: Forbidden"
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": "Wed, 09 Sep 2026 02:25:48 -0400"
     },
     {
-      "source": "KrebsOnSecurity",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": "Tue, 08 Sep 2026 21:44:22 +0000"
+      "source": "BleepingComputer",
+      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+      "published": "Tue, 08 Sep 2026 21:16:27 -0400"
     },
     {
-      "source": "KrebsOnSecurity",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "published": "Tue, 01 Sep 2026 22:40:28 +0000"
+      "source": "BleepingComputer",
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "published": "Tue, 08 Sep 2026 16:35:14 -0400"
     },
     {
-      "source": "KrebsOnSecurity",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "published": "Thu, 27 Aug 2026 11:04:15 +0000"
+      "source": "BleepingComputer",
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "published": "Tue, 08 Sep 2026 16:24:16 -0400"
     },
     {
-      "source": "KrebsOnSecurity",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "published": "Fri, 14 Aug 2026 11:24:35 +0000"
-    },
-    {
-      "source": "KrebsOnSecurity",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "published": "Tue, 11 Aug 2026 21:28:35 +0000"
+      "source": "BleepingComputer",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "published": "Tue, 08 Sep 2026 16:08:55 -0400"
     }
   ]
 }
