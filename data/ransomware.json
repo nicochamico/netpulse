@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-09T08:35:51.695247+00:00",
+  "last_success": "2026-09-09T13:22:39.302939+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-09T04:53:07.414912+00:00",
+      "claim_url": "http://anubisyfkh5rixydjpoo3jqucauajz2juybrbtuglcppjj2y3eg3y6ad.onion/r/kNBNu2z2L5DaCF3Rqzk2jPPQWcnQ8j4Ob3JNbY+wBQVAJhgFcOuE7SJDf2xf06SgsCwj8czCzWBjEvRukSo5TRQajJlNHRJ",
+      "country": "",
+      "data_size": null,
+      "description": "A data breach at a company full of smiling patients.",
+      "discovered": "2026-09-09T04:54:18.301902+00:00",
+      "domain": "",
+      "group": "anubis",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c09842ff2265efaa8b71745edc833be9.png",
+      "url": "https://www.ransomware.live/id/R2VsbGlicmFuZCBTdXBwb3J0IFNlcnZpY2VzQGFudWJpcw==",
+      "victim": "Gellibrand Support Services"
     },
     {
       "activity": "Energy & Utilities",
@@ -493,23 +510,6 @@
       "screenshot": "https://images.ransomware.live/victims/016773867fb79c42eecf874d4f4cd1bd.png",
       "url": "https://www.ransomware.live/id/Y29udHJlcmFzLmNvbS5hckBsb2NrYml0NQ==",
       "victim": "contreras.com.ar"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-09-08T13:26:27.544205+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=70fa650d-b9a1-4f47-89cb-9551f5266355",
-      "country": "US",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-09-08T13:27:02.593094+00:00",
-      "domain": "www.alaskaelectricalapprenticeship.org",
-      "group": "qilin",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/32f8102136d81ef2684ec6c6cbba097d.png",
-      "url": "https://www.ransomware.live/id/QWxhc2thIEVsZWN0cmljYWwgQXBwcmVudGljZXNoaXBAcWlsaW4=",
-      "victim": "Alaska Electrical Apprenticeship"
     }
   ]
 }
