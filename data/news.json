@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-09T20:23:08.978384+00:00",
+  "last_success": "2026-09-09T22:54:26.550953+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "published": "Wed, 09 Sep 2026 17:40:44 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "published": "Wed, 09 Sep 2026 17:30:36 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "published": "Wed, 09 Sep 2026 17:02:14 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
       "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
       "published": "Wed, 09 Sep 2026 12:48:33 -0400"
@@ -56,24 +74,6 @@
       "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
       "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
       "published": "Wed, 09 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "published": "Wed, 09 Sep 2026 06:11:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "published": "Wed, 09 Sep 2026 04:44:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "published": "Wed, 09 Sep 2026 03:30:15 -0400"
     }
   ]
 }
