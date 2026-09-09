@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-09T17:32:02.610576+00:00",
+  "last_success": "2026-09-09T20:23:08.978384+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,60 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-09T13:51:46+00:00",
+      "claim_url": "",
+      "country": "BR",
+      "data_size": null,
+      "description": "Logar Network Solutions is a Brazilian managed IT services provider (MSP) that delivers outsourced IT management, cybersecurity, cloud infrastructure, backup and disaster recovery, software licensing, hardware lifecycle management, and custom software development. The company primarily serves medium-sized businesses across multiple industries, offering 24/7 IT monitoring and support. It has served more than 500 companies and operates across six Brazilian states.",
+      "discovered": "2026-09-09T14:52:38.749252+00:00",
+      "domain": "logar.com.br",
+      "group": "Vexy Ransomware",
+      "infostealer": {
+        "employees": 5,
+        "employees_url": 2,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 11,
+        "update": "2026-09-09T14:52:37",
+        "users": 1,
+        "users_url": 1
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TG9nYXIgTmV0d29yayBTb2x1dGlvbnNAVmV4eSBSYW5zb213YXJl",
+      "victim": "Logar Network Solutions"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-09T13:19:48.575000+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/134",
+      "country": "GB",
+      "data_size": null,
+      "description": "Financial Software",
+      "discovered": "2026-09-09T13:28:59.906297+00:00",
+      "domain": "relycomply.com",
+      "group": "direwolf",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-09T13:28:45",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ecf6359a1d81e40088944a5b14cf948d.png",
+      "url": "https://www.ransomware.live/id/UmVseUNvbXBseSBBTUwgUGxhdGZvcm1AZGlyZXdvbGY=",
+      "victim": "RelyComply AML Platform"
     },
     {
       "activity": "Manufacturing",
@@ -149,6 +203,33 @@
       "screenshot": "https://images.ransomware.live/victims/c09842ff2265efaa8b71745edc833be9.png",
       "url": "https://www.ransomware.live/id/R2VsbGlicmFuZCBTdXBwb3J0IFNlcnZpY2VzQGFudWJpcw==",
       "victim": "Gellibrand Support Services"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-09T01:20:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aa15b3d9cd108bf26f1a91f",
+      "country": "DE",
+      "data_size": null,
+      "description": "Die Mediengruppe Thiel aus Ludwigsfelde ist Ihr verlässlicher Druck- und Werbepartner, wenn es um individuelle Lösungen für innen und außen geht. Ob eindrucksvolle Printprodukte, maßgeschneiderte Werbetechnik oder professionelle Geschäftsausstattung – bei uns erhalten Sie alles aus einer Hand.\r \r Dank unseres breiten Leistungsspektrums sparen Sie sich Wege, Schnittstellen und Zeit – und können sich ganz auf Ihr Kerngeschäft konzentrieren. Unser engagiertes Team aus Ideengebern, Technik-Profis und Gestaltern begleitet Sie dabei von der ersten Idee bis zur fertigen Umsetzung.",
+      "discovered": "2026-09-09T13:31:40.717081+00:00",
+      "domain": "mediengruppethiel.de",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-09T14:44:50.416733",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/4d843d4d506022087fda7c2c42b23379.png",
+      "url": "https://www.ransomware.live/id/aHR0cHM6Ly9tZWRpZW5ncnVwcGV0aGllbC5kZS9AaW5jcmFuc29t",
+      "victim": "https://mediengruppethiel.de/"
     },
     {
       "activity": "Manufacturing",
@@ -389,87 +470,6 @@
       "screenshot": "https://images.ransomware.live/victims/5e055baae84136ce3c4855d466bb9180.png",
       "url": "https://www.ransomware.live/id/Z3NuZ2VzdGlvbi5lc0BzYWZlcGF5",
       "victim": "gsngestion.es"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-08T19:45:47.153008+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/hbpropt/",
-      "country": "PT",
-      "data_size": null,
-      "description": "Established in 1994, the company has more than three decades of experience providing technology products, infrastructure, consulting, maintenance, and technical …",
-      "discovered": "2026-09-08T19:46:02.891254+00:00",
-      "domain": "hbpro.pt",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-08T19:45:47",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/63c5eda4da0a76fd4a121fe4aba42f3c.png",
-      "url": "https://www.ransomware.live/id/aGJwcm8ucHRAc2FmZXBheQ==",
-      "victim": "hbpro.pt"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-08T18:45:47.116207+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/recoverycafeorg/",
-      "country": "US",
-      "data_size": null,
-      "description": "The organization was founded in 2003 and opened its first physical café in Seattle in 2004. Its approach is based …",
-      "discovered": "2026-09-08T18:46:15.049192+00:00",
-      "domain": "recoverycafe.org",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-08T18:45:47",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f8b74865833f150c7cdc01c8c441ec1d.png",
-      "url": "https://www.ransomware.live/id/cmVjb3ZlcnljYWZlLm9yZ0BzYWZlcGF5",
-      "victim": "recoverycafe.org"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-08T18:44:58.745748+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/mcnishsteelcom/",
-      "country": "CA",
-      "data_size": null,
-      "description": "The company is headquartered in Edmonton, Alberta, and was founded in 1978 by William and Wallace McNish. It has developed …",
-      "discovered": "2026-09-08T18:45:28.152337+00:00",
-      "domain": "mcnishsteel.com",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 1,
-        "update": "2026-09-08T18:44:58",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ccdeb2fcc71379276da24703e4e57cd1.png",
-      "url": "https://www.ransomware.live/id/bWNuaXNoc3RlZWwuY29tQHNhZmVwYXk=",
-      "victim": "mcnishsteel.com"
     }
   ]
 }
