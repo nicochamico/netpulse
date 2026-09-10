@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-09T22:54:26.550953+00:00",
+  "last_success": "2026-09-10T00:49:29.540436+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-09-09T19:44:00.083917+00:00",
+      "claim_url": "http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion/#/post/b44446de-514b-4c36-a5b2-8f893733fc3d",
+      "country": "US",
+      "data_size": null,
+      "description": "Gardens Alive, Inc. is a privately held U.S. consumer goods company specializing in direct-to-consumer gardening products, plants, seeds, nursery stock, fertili... - 2tb data",
+      "discovered": "2026-09-09T19:58:11.346069+00:00",
+      "domain": "",
+      "group": "embargo",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2805caf73d15694d0eda912024146f86.png",
+      "url": "https://www.ransomware.live/id/Z2FyZGVuc2FsaXZlLmNvbSwgYml0c2FuZHBpZWNlcy5jb20sIGlzZWxpbnVyc2VyeS5sb2NhbCwgd2Vla3Nyb3Nlcy5vcmcsIGVzbS5sb2NhbEBlbWJhcmdv",
+      "victim": "gardensalive.com, bitsandpieces.com, iselinursery.local, weeksroses.org, esm.local"
     },
     {
       "activity": "Technology",
@@ -232,6 +249,60 @@
       "victim": "https://mediengruppethiel.de/"
     },
     {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-09-09T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=84596ac3-df07-4e54-9c58-c25effad7e42",
+      "country": "JP",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-09T20:08:41.180934+00:00",
+      "domain": "e-mitsuwa.com",
+      "group": "qilin",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-09T20:08:03",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/09d72b3e92097b08cc198ffe774abc02.png",
+      "url": "https://www.ransomware.live/id/TWl0c3V3YSBUcmFkaW5nIENvLiwgTHRkQHFpbGlu",
+      "victim": "Mitsuwa Trading Co., Ltd"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-09T00:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aa1b4799cd108bf26fb4634",
+      "country": "US",
+      "data_size": null,
+      "description": "Cullotta Bravo Law Group is a personal injury law firm based in Aurora, IL, with over 35 years of experience in various legal areas including personal injury, nursing home abuse, and workers compensation.",
+      "discovered": "2026-09-09T20:01:15.667794+00:00",
+      "domain": "cullottalaw.com",
+      "group": "incransom",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-09T19:59:24",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Y3VsbG90dGFsYXcuY29tQGluY3JhbnNvbQ==",
+      "victim": "cullottalaw.com"
+    },
+    {
       "activity": "Manufacturing",
       "attackdate": "2026-09-09T00:00:00+00:00",
       "claim_url": "",
@@ -389,87 +460,6 @@
       "screenshot": "https://images.ransomware.live/victims/4c99e8520f27574bf5e8d707bcde9723.png",
       "url": "https://www.ransomware.live/id/YXNzaXByaW1lLml0QHNhZmVwYXk=",
       "victim": "assiprime.it"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-09-08T19:47:30.834528+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/gayaforeses/",
-      "country": "ES",
-      "data_size": null,
-      "description": "The company is headquartered in Onda, Castellón, one of Europe's most important ceramic manufacturing regions. Established in 1949, Gayafores has …",
-      "discovered": "2026-09-08T19:47:46.415204+00:00",
-      "domain": "gayafores.es",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-08T19:47:30",
-        "users": 1,
-        "users_url": 1
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a72381e88019c491adff27e666e3a90d.png",
-      "url": "https://www.ransomware.live/id/Z2F5YWZvcmVzLmVzQHNhZmVwYXk=",
-      "victim": "gayafores.es"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-08T19:46:56.397805+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/cenmar-manilacom/",
-      "country": "PH",
-      "data_size": null,
-      "description": "The company was registered with the Philippine Securities and Exchange Commission in 1997 and received authorization to operate as a …",
-      "discovered": "2026-09-08T19:47:12.037372+00:00",
-      "domain": "cenmar-manila.com",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-08T19:46:56",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b3e3edfa33dfaef4622c3f6a6353f55a.png",
-      "url": "https://www.ransomware.live/id/Y2VubWFyLW1hbmlsYS5jb21Ac2FmZXBheQ==",
-      "victim": "cenmar-manila.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-08T19:46:23.440820+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/gsngestiones/",
-      "country": "ES",
-      "data_size": null,
-      "description": "The company is based in Villaviciosa de Odón, Madrid, and operates through the GSN Gestión brand. Its website states that …",
-      "discovered": "2026-09-08T19:46:37.545599+00:00",
-      "domain": "gsngestion.es",
-      "group": "safepay",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-08T19:46:23",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5e055baae84136ce3c4855d466bb9180.png",
-      "url": "https://www.ransomware.live/id/Z3NuZ2VzdGlvbi5lc0BzYWZlcGF5",
-      "victim": "gsngestion.es"
     }
   ]
 }
