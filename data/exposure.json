@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:32:47.539536+00:00",
+  "generated_at": "2026-09-10T21:55:01.636503+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -15,6 +15,7 @@
         2053,
         2082,
         2083,
+        2086,
         2087,
         8443,
         8880
@@ -23,9 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "ebms-uat05.dhs.tn.gov",
         "one.one.one.one",
-        "guest.mfaoil.com"
+        "mail.chellatextiles.com",
+        "biometric.kerala.gov.in"
       ]
     },
     {
