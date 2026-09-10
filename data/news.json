@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-10T10:35:11.470548+00:00",
+  "last_success": "2026-09-10T14:48:00.412853+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "published": "Thu, 10 Sep 2026 20:06:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "published": "Thu, 10 Sep 2026 17:15:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "published": "Thu, 10 Sep 2026 17:11:53 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "published": "Thu, 10 Sep 2026 17:03:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "published": "Thu, 10 Sep 2026 16:06:46 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
@@ -10,34 +40,22 @@
       "published": "Thu, 10 Sep 2026 12:42:55 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "published": "Thu, 10 Sep 2026 12:34:01 +0530"
+      "source": "BleepingComputer",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "published": "Thu, 10 Sep 2026 10:11:34 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "published": "Wed, 09 Sep 2026 23:56:05 +0530"
+      "source": "BleepingComputer",
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "published": "Thu, 10 Sep 2026 10:00:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "published": "Wed, 09 Sep 2026 22:04:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "published": "Wed, 09 Sep 2026 19:53:55 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "published": "Wed, 09 Sep 2026 17:27:36 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "published": "Thu, 10 Sep 2026 07:14:28 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Trezor warns users of email provider breach, phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
       "published": "Thu, 10 Sep 2026 02:56:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "published": "Wed, 09 Sep 2026 17:40:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "published": "Wed, 09 Sep 2026 17:30:36 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "published": "Wed, 09 Sep 2026 17:02:14 -0400"
     }
   ]
 }
