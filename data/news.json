@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-10T05:34:33.196498+00:00",
+  "last_success": "2026-09-10T10:35:11.470548+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "published": "Thu, 10 Sep 2026 12:42:55 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "published": "Thu, 10 Sep 2026 12:34:01 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -28,16 +40,22 @@
       "published": "Wed, 09 Sep 2026 17:27:36 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "published": "Wed, 09 Sep 2026 16:47:07 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "published": "Thu, 10 Sep 2026 05:10:20 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "published": "Wed, 09 Sep 2026 16:13:04 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "published": "Thu, 10 Sep 2026 04:08:16 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "published": "Thu, 10 Sep 2026 02:56:33 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
       "published": "Wed, 09 Sep 2026 17:02:14 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "published": "Wed, 09 Sep 2026 12:48:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "published": "Wed, 09 Sep 2026 11:31:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "published": "Wed, 09 Sep 2026 10:01:11 -0400"
     }
   ]
 }

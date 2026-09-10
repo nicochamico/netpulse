@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-10T05:34:33.196498+00:00",
+  "last_success": "2026-09-10T10:35:11.470548+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-10T05:25:07.819230+00:00",
+      "claim_url": "https://transfer.it/t/SnxE0AtDWD4A",
+      "country": "US",
+      "data_size": null,
+      "description": "Contact us and negotiate. Don't be like the other real estate companies we have breached. We have serious data which contains the following below. Also we have a image url too to show you that we are not bluffing negotiate and we will remove your name and show you all the proof you want.\n\nurl: http://sdwbyttda4uzwdffbt4m7niuodiwhcgmkyxqg5nly2bjxqa6xtbe3fyd.onion/invoice.png\n\nData Compromised:\n\nthe leak contains 0.014 million contacts (exactly 14,476 unique customer records).\nThe following was stolen\n\n1. Complete Identity and Client Databases (14,476 Total Profiles)\n\nThe extraction completely drains the brokerage team's customer network, divided into three distinct lifecycle tables:\n\n- 10,993 Nurtured Contacts:\n- 3,306 Archived Contacts:\n- 177 Awaiting Nurture Contacts: The fresh pipeline of new inquiries, open-house visitors, and active 30-day leads.\n\n2. Deep Behavioral Tracking & Psychological Analytics\n\nFor every single one of those 14,476 profiles, We stole exact behavioral history and intent metrics, including:\n\n- Predictive Intent Metrics: scout score and score change counters that signal exactly when a high-net-worth client is getting ready to purchase.\n- Direct Interaction Metrics: Explicit lists of Homes Viewed, Homes Interested (properties starred or liked), Home Value Alert Views, and Market Activity Alert Views.\n- Communication Analytics: Logs of Email receives, Email opens, email clicks, email rejects, and system Errors mapping out exactly how responsive a customer is to digital alerts.\n\n3. Corporate Financial and Transaction Data\n\n- 40 Invoice PDFs: A localized batch of billing records detailing contractual pricing, vendor relationships, and enterprise account balances.\n- Corporate Payment Method: Active account billing profiles, explicitly exposing a corporate Visa card ending in 8265 with an expiration date of 01/29.\n\n\n4. Direct Brand Impersonation Assets\n\n- Administrative Access Details: The team leader’s personal profile details, including name, primary corporate emails (john.engel@elliman.com, engelteaminfo@elliman.com), direct contact phone numbers (203 247 4700), and official state real estate license number (RES.0787476).\n\n- High-Definition Media Links: Pristine branding paths hosted on the platform's live AWS CloudFront CDN network (d1buiexcd5gara.cloudfront.net\n\n- Operational Templates: The exact welcoming and onboarding text strings used by the agents to register new users.\n\nThe .csv is in the format below:\n\nNurtured_Contacts\nName,Email,scout score,score change,type,tags,created at,Auto Nurture Active,Alerts,Email receives,Email opens,email rejects,email clicks,Homes Viewed,Homes Interested,Home Value Alert Views,Market Activity Alert Views,Errors,Starred\n\nand that is for all of them. If you don't negotiate we will sell it on underground forums for one person only and we will send proofs to bleepingcomputer and haveibeenpwned. You have 72 hours to negotiate it will get leaked on 09/12/2026 at 10:10 PM New York Time EST/EDT.\n\nTo negotiate are session is below for negotiations only\n\nsession: 05dd14d0860cb5d6901de01af2a84c026d914197d0f8ed892085ea3be556563301\n\ncontact us via email has a second option:\nShadowByt3S@proton.me",
+      "discovered": "2026-09-10T05:25:30.437382+00:00",
+      "domain": "johnengelteam.realscout.com",
+      "group": "ShadowByt3$",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-10T05:25:07",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7111e481bea9f6e4b97e67ab9cb49405.png",
+      "url": "https://www.ransomware.live/id/Sm9obiBFbmdlbCBUZWFtQFNoYWRvd0J5dDMk",
+      "victim": "John Engel Team"
     },
     {
       "activity": "Other",
@@ -438,23 +465,6 @@
       "screenshot": "https://images.ransomware.live/victims/0263c539497f2c9ef9e93b43992a7668.png",
       "url": "https://www.ransomware.live/id/UmVkIFN0YXIgT2lsQHBsYXk=",
       "victim": "Red Star Oil"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-09-08T20:45:53.639999+00:00",
-      "claim_url": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion/topic.php?id=uvrc17ZppDE4Jp",
-      "country": "US",
-      "data_size": null,
-      "description": "United States",
-      "discovered": "2026-09-08T20:46:11.659092+00:00",
-      "domain": "www.gtdist.com",
-      "group": "play",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9e12c1569c840671f7793523e9e761d3.png",
-      "url": "https://www.ransomware.live/id/R1QgRGlzdHJpYnV0b3JzQHBsYXk=",
-      "victim": "GT Distributors"
     }
   ]
 }
