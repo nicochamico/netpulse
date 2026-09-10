@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-10T14:48:00.412853+00:00",
+  "last_success": "2026-09-10T18:04:22.566608+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "published": "Thu, 10 Sep 2026 11:55:56 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "published": "Thu, 10 Sep 2026 11:43:58 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "published": "Thu, 10 Sep 2026 10:55:33 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
       "published": "Thu, 10 Sep 2026 10:11:34 -0400"
@@ -56,24 +74,6 @@
       "title": "Microsoft says September updates fix mouse settings reset issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
       "published": "Thu, 10 Sep 2026 07:14:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "published": "Thu, 10 Sep 2026 05:10:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "published": "Thu, 10 Sep 2026 04:08:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "published": "Thu, 10 Sep 2026 02:56:33 -0400"
     }
   ]
 }
