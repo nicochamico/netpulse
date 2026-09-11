@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-11T02:57:37.344805+00:00",
+  "last_success": "2026-09-11T07:54:06.863142+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "published": "Fri, 11 Sep 2026 13:01:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "published": "Fri, 11 Sep 2026 12:44:09 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "published": "Fri, 11 Sep 2026 12:16:18 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "published": "Fri, 11 Sep 2026 11:49:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
@@ -16,28 +40,10 @@
       "published": "Thu, 10 Sep 2026 20:06:47 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "published": "Thu, 10 Sep 2026 17:15:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "published": "Thu, 10 Sep 2026 17:11:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "published": "Thu, 10 Sep 2026 17:03:43 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "published": "Thu, 10 Sep 2026 16:06:46 +0530"
+      "source": "BleepingComputer",
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "published": "Fri, 11 Sep 2026 02:48:37 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
       "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
       "published": "Thu, 10 Sep 2026 11:55:56 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "published": "Thu, 10 Sep 2026 11:43:58 -0400"
     }
   ]
 }

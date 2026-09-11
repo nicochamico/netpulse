@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-11T02:57:37.344805+00:00",
+  "last_success": "2026-09-11T07:54:06.863142+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-09-11T00:23:54+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/agencia-estatal-de-meteorología",
+      "country": "ES",
+      "data_size": null,
+      "description": "Agencia Estatal de Meteorología - AEMET is a governmental agency of Spain that provides comprehensive meteorological services, including weather observation, predictions, and climate analytics. It serves various sectors such as agriculture, aviation, maritime activities, and emergency services. AEMET aims to support public safety and management through accurate weather forecasts, climate data, and educational resources. The agency also engages in research and international collaboration to enhance meteorological science and technology.",
+      "discovered": "2026-09-11T00:52:07.255341+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5b96ae64ca769342fe0b4f2effa1d95a.png",
+      "url": "https://www.ransomware.live/id/QWdlbmNpYSBFc3RhdGFsIGRlIE1ldGVvcm9sb2fDrWFAUGFuemVy",
+      "victim": "Agencia Estatal de Meteorología"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-10T22:52:27.676849+00:00",
+      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/mEMbPCoMYCBhYvwy/",
+      "country": "IN",
+      "data_size": null,
+      "description": "Country: India |\nWebsite: https://indialei.in/detailed-information/353561/335800GR1DJMM8YD7J14/the-gudivada-co-op-urban-bank-limited/ |\nRevenue: $50 Million |\nIndustry: Bank, Finance |\nEmployees: 25-50 |\nProperties: 41.3 GB (125,988 Files, 14,641 Folders)",
+      "discovered": "2026-09-10T22:53:11.852172+00:00",
+      "domain": "indialei.in/detailed-information/353561/335800GR1DJMM8YD7J14/the-gudivada-co-op-urban-bank-limited",
+      "group": "Global Secret Group",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0b132b4f9ab2219fb3746ee3efe112b1.png",
+      "url": "https://www.ransomware.live/id/Q08tT1AgVVJCQU4gQkFOSyBMVERAR2xvYmFsIFNlY3JldCBHcm91cA==",
+      "victim": "CO-OP URBAN BANK LTD"
     },
     {
       "activity": "Technology",
@@ -396,50 +430,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QUsgU3RhbXBpbmdAYWtpcmE=",
       "victim": "AK Stamping"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-10T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Eagle Construction specializes in building quality new homes across Virginia, offering a variet\ny of communities, floor plans, and quick move-in options. Their services cater to a diverse cli\nentele, including families and individuals looking for single-family homes, townhomes, and 55  \ncommunities.\n\nWe will upload 70gb of corporate data soon. Detailed employee personal information (passports, \nDLs, SSNs, w-9 forms), internal confidential files, projects, clients information and so on.\n",
-      "discovered": "2026-09-10T12:54:17.836629+00:00",
-      "domain": "",
-      "group": "akira",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/RWFnbGUgQ29uc3RydWN0aW9uQGFraXJh",
-      "victim": "Eagle Construction"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-10T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "George Cameron Nash Interior Design operates showrooms in Dallas and Houston, Texas, specializi\nng in high-end furniture and lighting. They represent a diverse range of brands, including Alex\nander Lamont, Chelsea Textiles, and Rubelli, offering products such as outdoor furniture, fabri\ncs, textiles, and wall coverings.\n\nWe will upload corporate data soon. Employee personal information, customer information, contra\ncts.\n",
-      "discovered": "2026-09-10T12:53:58.146829+00:00",
-      "domain": "georgecameronnash.com",
-      "group": "akira",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-10T13:47:02.938852",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/R2VvcmdlIENhbWVyb24gTmFzaEBha2lyYQ==",
-      "victim": "George Cameron Nash"
     }
   ]
 }
