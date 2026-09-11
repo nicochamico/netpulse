@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-10T23:41:56.732626+00:00",
+  "last_success": "2026-09-11T02:57:37.344805+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-10T20:16:11+00:00",
+      "claim_url": "",
+      "country": "IN",
+      "data_size": null,
+      "description": "i2k2 Networks Pvt. Ltd., established in 1999, is a leading Indian provider of cloud computing, web hosting, managed IT, data center, backup, disaster recovery, and DevOps solutions. With 25+ years of experience, 4,000+ customers, Tier III-compliant data centers, and 24/7 support, i2k2 delivers secure, scalable, and reliable IT solutions worldwide.",
+      "discovered": "2026-09-10T21:27:11.565115+00:00",
+      "domain": "i2k2.com",
+      "group": "Vexy Ransomware",
+      "infostealer": {
+        "employees": 17,
+        "employees_url": 12,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 22,
+        "update": "2026-09-10T21:27:09",
+        "users": 10,
+        "users_url": 12
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/aTJrMiBOZXR3b3Jrc0BWZXh5IFJhbnNvbXdhcmU=",
+      "victim": "i2k2 Networks"
     },
     {
       "activity": "Technology",
@@ -413,33 +440,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/R2VvcmdlIENhbWVyb24gTmFzaEBha2lyYQ==",
       "victim": "George Cameron Nash"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-09T23:51:55.198178+00:00",
-      "claim_url": "http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion/project/SyR7gg8M68RCbyjA/",
-      "country": "US",
-      "data_size": null,
-      "description": "Country: Miami, Florida 33166, US |\nWebsite: mesanusa.com |\nRevenue: $5.4 Million |\nIndustry: Industrial Machinery & Equipment, Manufacturing |\nEmployees: 10-20 |\nProperties: 184 GB (188,562 Files, 26,169 Folders)",
-      "discovered": "2026-09-09T23:52:49.895866+00:00",
-      "domain": "mesanusa.com",
-      "group": "Global Secret Group",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-09T23:51:55",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/61b3202de34331db11004dc518ff27db.png",
-      "url": "https://www.ransomware.live/id/TWVzYW4gVVNBQEdsb2JhbCBTZWNyZXQgR3JvdXA=",
-      "victim": "Mesan USA"
     }
   ]
 }
