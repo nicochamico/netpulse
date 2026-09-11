@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-11T19:26:47.182932+00:00",
+  "last_success": "2026-09-11T22:14:16.983426+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-11T15:42:01.231000+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/135",
+      "country": "MY",
+      "data_size": null,
+      "description": "Marine Shipping &amp; Transportation",
+      "discovered": "2026-09-11T15:54:58.991295+00:00",
+      "domain": "ptp.com.my",
+      "group": "direwolf",
+      "infostealer": {
+        "employees": 10,
+        "employees_url": 6,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 34,
+        "update": "2026-09-11T15:54:45",
+        "users": 322,
+        "users_url": 47
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ca216a3b32a41f68402d31688aed2902.png",
+      "url": "https://www.ransomware.live/id/UG9ydCBvZiBUYW5qdW5nIFBlbGVwYXNAZGlyZXdvbGY=",
+      "victim": "Port of Tanjung Pelepas"
     },
     {
       "activity": "Technology",
@@ -397,23 +424,6 @@
       "screenshot": "https://images.ransomware.live/victims/b0faa821c2011f89465c475e18a77ade.png",
       "url": "https://www.ransomware.live/id/SEVOUllQUkFUVC5DT01AY2xvcA==",
       "victim": "HENRYPRATT.COM"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-10T10:21:46.755840+00:00",
-      "claim_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/harley-davidson-com",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Harley-Davidson is an American iconic motorcycle manufacturer headquartered in Milwaukee, Wisconsin, USA. Founded in 1903, the company designs, manufactures, and sells heavyweight motorcycles, related parts, accessories, and branded merchandise. It operates globally across the powersports and automotive industry. Its website serves as a digital hub for product information, dealer locators, community engagement, and e-commerce for enthusiasts worldwide.",
-      "discovered": "2026-09-10T10:22:04.344216+00:00",
-      "domain": "HARLEY-DAVIDSON.COM",
-      "group": "clop",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e782ee52534270130752e58ffd59bc71.png",
-      "url": "https://www.ransomware.live/id/SEFSTEVZLURBVklEU09OLkNPTUBjbG9w",
-      "victim": "HARLEY-DAVIDSON.COM"
     }
   ]
 }
