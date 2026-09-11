@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-11T07:54:06.863142+00:00",
+  "last_success": "2026-09-11T12:35:47.412620+00:00",
   "count": 100,
   "items": [
     {
@@ -54,6 +54,37 @@
       "screenshot": "https://images.ransomware.live/victims/5b96ae64ca769342fe0b4f2effa1d95a.png",
       "url": "https://www.ransomware.live/id/QWdlbmNpYSBFc3RhdGFsIGRlIE1ldGVvcm9sb2fDrWFAUGFuemVy",
       "victim": "Agencia Estatal de Meteorología"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-11 00:00:00.000000",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/e6e709b5072728b43c95f73fab650022",
+      "country": "CN",
+      "data_size": null,
+      "description": "Founded in 2003 by Dr. Wu, Asia’s highly reputable dermatology professor, and his eldest son Eric Wu...",
+      "discovered": "2026-06-20T09:27:38.941381+00:00",
+      "domain": "drwu.com",
+      "group": "lockbit5",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-06-20T09:27:27",
+        "users": 106,
+        "users_url": 18
+      },
+      "press": {
+        "link": "https://www.ransomware.live/id/ZHJ3dS5jb21AMjAyNi0wOS0xMQ==",
+        "source": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2420626002&PU=0010",
+        "summary": "Le système d'information interne de DR.WU Skincare a été victime d'une cyberattaque. L'entreprise a évalué que l'impact sur ses opérations n'est pas majeur. Après avoir détecté l'anomalie, elle a immédiatement activé son mécanisme de réponse aux incidents de sécurité et a isolé les systèmes concernés. L'entreprise n'a pas trouvé de fuite de données personnelles à ce jour."
+      },
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c09077cfbf3d7501cf43ae433384811f.png",
+      "url": "https://www.ransomware.live/id/ZHJ3dS5jb21AbG9ja2JpdDU=",
+      "victim": "drwu.com"
     },
     {
       "activity": "Financial Services",
@@ -378,15 +409,15 @@
       "victim": "EASY JOB S.A.S."
     },
     {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-10T05:25:07.819230+00:00",
-      "claim_url": "https://transfer.it/t/SnxE0AtDWD4A",
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-09-10T05:53:29.864608+00:00",
+      "claim_url": "http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=aafe099f-f355-4460-95fb-4443b41efc21",
       "country": "US",
       "data_size": null,
-      "description": "Contact us and negotiate. Don't be like the other real estate companies we have breached. We have serious data which contains the following below. Also we have a image url too to show you that we are not bluffing negotiate and we will remove your name and show you all the proof you want.\n\nurl: http://sdwbyttda4uzwdffbt4m7niuodiwhcgmkyxqg5nly2bjxqa6xtbe3fyd.onion/invoice.png\n\nData Compromised:\n\nthe leak contains 0.014 million contacts (exactly 14,476 unique customer records).\nThe following was stolen\n\n1. Complete Identity and Client Databases (14,476 Total Profiles)\n\nThe extraction completely drains the brokerage team's customer network, divided into three distinct lifecycle tables:\n\n- 10,993 Nurtured Contacts:\n- 3,306 Archived Contacts:\n- 177 Awaiting Nurture Contacts: The fresh pipeline of new inquiries, open-house visitors, and active 30-day leads.\n\n2. Deep Behavioral Tracking & Psychological Analytics\n\nFor every single one of those 14,476 profiles, We stole exact behavioral history and intent metrics, including:\n\n- Predictive Intent Metrics: scout score and score change counters that signal exactly when a high-net-worth client is getting ready to purchase.\n- Direct Interaction Metrics: Explicit lists of Homes Viewed, Homes Interested (properties starred or liked), Home Value Alert Views, and Market Activity Alert Views.\n- Communication Analytics: Logs of Email receives, Email opens, email clicks, email rejects, and system Errors mapping out exactly how responsive a customer is to digital alerts.\n\n3. Corporate Financial and Transaction Data\n\n- 40 Invoice PDFs: A localized batch of billing records detailing contractual pricing, vendor relationships, and enterprise account balances.\n- Corporate Payment Method: Active account billing profiles, explicitly exposing a corporate Visa card ending in 8265 with an expiration date of 01/29.\n\n\n4. Direct Brand Impersonation Assets\n\n- Administrative Access Details: The team leader’s personal profile details, including name, primary corporate emails (john.engel@elliman.com, engelteaminfo@elliman.com), direct contact phone numbers (203 247 4700), and official state real estate license number (RES.0787476).\n\n- High-Definition Media Links: Pristine branding paths hosted on the platform's live AWS CloudFront CDN network (d1buiexcd5gara.cloudfront.net\n\n- Operational Templates: The exact welcoming and onboarding text strings used by the agents to register new users.\n\nThe .csv is in the format below:\n\nNurtured_Contacts\nName,Email,scout score,score change,type,tags,created at,Auto Nurture Active,Alerts,Email receives,Email opens,email rejects,email clicks,Homes Viewed,Homes Interested,Home Value Alert Views,Market Activity Alert Views,Errors,Starred\n\nand that is for all of them. If you don't negotiate we will sell it on underground forums for one person only and we will send proofs to bleepingcomputer and haveibeenpwned. You have 72 hours to negotiate it will get leaked on 09/12/2026 at 10:10 PM New York Time EST/EDT.\n\nTo negotiate are session is below for negotiations only\n\nsession: 05dd14d0860cb5d6901de01af2a84c026d914197d0f8ed892085ea3be556563301\n\ncontact us via email has a second option:\nShadowByt3S@proton.me",
-      "discovered": "2026-09-10T05:25:30.437382+00:00",
-      "domain": "johnengelteam.realscout.com",
-      "group": "ShadowByt3$",
+      "description": "Medical Department Store in united state",
+      "discovered": "2026-09-11T05:53:47.072496+00:00",
+      "domain": "medicaldepartmentstore.com",
+      "group": "dragonforce",
       "infostealer": {
         "employees": 0,
         "employees_url": 0,
@@ -394,42 +425,15 @@
         "last_employee_compromised": null,
         "last_user_compromised": null,
         "thirdparties": 0,
-        "update": "2026-09-10T05:25:07",
+        "update": "2026-09-11T05:53:10",
         "users": 0,
         "users_url": 0
       },
       "press": null,
       "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7111e481bea9f6e4b97e67ab9cb49405.png",
-      "url": "https://www.ransomware.live/id/Sm9obiBFbmdlbCBUZWFtQFNoYWRvd0J5dDMk",
-      "victim": "John Engel Team"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-10T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "AK Stamping is a leader in precision metal stamping technology, offering engineered design solu\ntions and a complete package of manufacturing capabilities, including prototyping, tooling, and\nprecision stamping for various manufacturing scales.\n\nWe will upload 30gb of corporate data soon. SQL and other internal files.\n",
-      "discovered": "2026-09-10T12:54:37.339972+00:00",
-      "domain": "akstamping.com",
-      "group": "akira",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-10T13:46:51.407022",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QUsgU3RhbXBpbmdAYWtpcmE=",
-      "victim": "AK Stamping"
+      "screenshot": "https://images.ransomware.live/victims/cc82f0e7d1ac1dc210431285571e5916.png",
+      "url": "https://www.ransomware.live/id/TWVkaWNhbCBEZXBhcnRtZW50IFN0b3JlQGRyYWdvbmZvcmNl",
+      "victim": "Medical Department Store"
     }
   ]
 }
