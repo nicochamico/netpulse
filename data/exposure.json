@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:14:27.844989+00:00",
+  "generated_at": "2026-09-11T12:51:42.885358+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "wlguest.commerzbank.com",
         "one.one.one.one",
-        "mail.chellatextiles.com",
-        "biometric.kerala.gov.in"
+        "www.qisd-nm.schoolloop.com"
       ]
     },
     {
