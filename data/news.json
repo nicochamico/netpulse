@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-12T10:04:09.352721+00:00",
+  "last_success": "2026-09-12T13:51:15.097271+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "published": "Sat, 12 Sep 2026 15:54:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
@@ -32,12 +38,6 @@
       "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
       "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
       "published": "Fri, 11 Sep 2026 19:40:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "published": "Fri, 11 Sep 2026 17:00:00 +0530"
     },
     {
       "source": "BleepingComputer",
