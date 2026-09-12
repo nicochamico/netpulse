@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-12T13:51:15.097271+00:00",
+  "last_success": "2026-09-12T16:43:56.260957+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "published": "Sat, 12 Sep 2026 10:14:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
       "published": "Fri, 11 Sep 2026 16:19:09 -0400"
@@ -68,12 +74,6 @@
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
       "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
       "published": "Fri, 11 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "published": "Fri, 11 Sep 2026 07:15:22 -0400"
     }
   ]
 }
