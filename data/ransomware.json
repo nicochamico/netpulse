@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-12T16:43:56.260957+00:00",
+  "last_success": "2026-09-12T18:56:06.573954+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,50 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-12T13:09:35.870195+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=273",
+      "country": "",
+      "data_size": null,
+      "description": "Axdia International Axdia International is a German electronics company that brings together a wide range of modern small electronics and electric mobility products.    More",
+      "discovered": "2026-09-12T13:10:06.735416+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b36a81a2bdc8c574a7401ccf2a995ca7.png",
+      "url": "https://www.ransomware.live/id/QXhkaWEgSW50ZXJuYXRpb25hbEByaHlzaWRh",
+      "victim": "Axdia International"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-12T12:44:25.690587+00:00",
+      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6aa53cbe102e2455604e8663?page=1",
+      "country": "US",
+      "data_size": null,
+      "description": "Revenue: $1.3 million",
+      "discovered": "2026-09-12T12:44:48.743923+00:00",
+      "domain": "watchops.com",
+      "group": "unsafe",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-12T12:44:25",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7ebe5d3df62e3fa231dd476400f9bf07.png",
+      "url": "https://www.ransomware.live/id/d2F0Y2hvcHMuY29tQHVuc2FmZQ==",
+      "victim": "watchops.com"
     },
     {
       "activity": "Hospitality",
@@ -406,40 +450,6 @@
       "screenshot": "https://images.ransomware.live/victims/8c2fd2ae16d44003ce388d12eb524ce6.png",
       "url": "https://www.ransomware.live/id/UHJhdmVnIENhdmVzIEphd2FpQG1lZHVzYWxvY2tlcg==",
       "victim": "Praveg Caves Jawai"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-09-12T08:26:29.008830+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "The Sutton, MA, official town website offers residents and visitors access to municipal services, news, permits, payments, and community programs.",
-      "discovered": "2026-09-12T08:26:30.334856+00:00",
-      "domain": "www.suttonma.gov",
-      "group": "global",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VE9XTiBPRiBTVVRUT04gfCBNQVNTQUNIVVNFVFRTQGdsb2JhbA==",
-      "victim": "TOWN OF SUTTON | MASSACHUSETTS"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-12T00:00:00+00:00",
-      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/E759D68D977D4EE5",
-      "country": "RU",
-      "data_size": null,
-      "description": "",
-      "discovered": "2026-09-12T10:50:20.666996+00:00",
-      "domain": "",
-      "group": "AuditTeam",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/bf70d3f4a52526ba144c55f908f40bbe.png",
-      "url": "https://www.ransomware.live/id/VEUqKipQQkBBdWRpdFRlYW0=",
-      "victim": "TE***PB"
     }
   ]
 }

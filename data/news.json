@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-12T16:43:56.260957+00:00",
+  "last_success": "2026-09-12T18:56:06.573954+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "published": "Sat, 12 Sep 2026 21:24:45 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
@@ -32,12 +38,6 @@
       "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
       "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
       "published": "Fri, 11 Sep 2026 19:59:47 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "published": "Fri, 11 Sep 2026 19:40:20 +0530"
     },
     {
       "source": "BleepingComputer",
