@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:16:29.897892+00:00",
+  "generated_at": "2026-09-12T22:28:13.605914+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "wlguest.commerzbank.com",
         "one.one.one.one",
-        "www.qisd-nm.schoolloop.com"
+        "wifiguest.zanini.com",
+        "exchangedelegation.ag.tn.gov"
       ]
     },
     {
