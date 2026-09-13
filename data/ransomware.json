@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-13T17:14:41.500858+00:00",
+  "last_success": "2026-09-13T20:17:48.891052+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-13T12:30:00+00:00",
+      "claim_url": "/post/navitrans/",
+      "country": "",
+      "data_size": null,
+      "description": "Navitrans is a leading Colombian distributor and service provider specializing in commercial trucks and heavy machinery, offering a comprehensive range of products and services including vehicle sales, spare parts distribution, and maintenance and repair services through a nationwide network of workshops. This post includes sensitive data about prices, financing, and other operational information. [Size: 223.2 MB | Sector: Manufacturing, Transportation]",
+      "discovered": "2026-09-13T13:51:22.518452+00:00",
+      "domain": "",
+      "group": "emperador",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TmF2aXRyYW5zQGVtcGVyYWRvcg==",
+      "victim": "Navitrans"
     },
     {
       "activity": "Not Found",
@@ -463,23 +480,6 @@
       "screenshot": "https://images.ransomware.live/victims/c641ee37b45f2a2bf8cb1315d59d7557.png",
       "url": "https://www.ransomware.live/id/cHNzLmh0QGtyeWJpdA==",
       "victim": "pss.ht"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-12T10:28:27.852658+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/d6c2af1136713d35a9c294992cbed89b7dd21acca7ff34b0549291a2eef5f4cd/",
-      "country": "CA",
-      "data_size": null,
-      "description": "Metalware Corporation Inc. is Canada's leading industrial shelving manufacturer, founded in 1954, headquartered in Montr...",
-      "discovered": "2026-09-12T10:28:44.004756+00:00",
-      "domain": "www.metalware.ca",
-      "group": "krybit",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/29bad11bd93fd01e0490856e238263fe.png",
-      "url": "https://www.ransomware.live/id/d3d3Lm1ldGFsd2FyZS5jYUBrcnliaXQ=",
-      "victim": "www.metalware.ca"
     }
   ]
 }
