@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-14T11:45:36.456082+00:00",
+  "last_success": "2026-09-14T17:39:56.991555+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "published": "Mon, 14 Sep 2026 22:28:42 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "published": "Mon, 14 Sep 2026 22:26:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "published": "Mon, 14 Sep 2026 21:30:04 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "published": "Mon, 14 Sep 2026 20:10:34 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "published": "Mon, 14 Sep 2026 17:28:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
@@ -10,34 +40,22 @@
       "published": "Mon, 14 Sep 2026 12:54:39 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "published": "Sun, 13 Sep 2026 15:41:48 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "published": "Mon, 14 Sep 2026 12:15:58 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "published": "Sat, 12 Sep 2026 21:24:45 +0530"
+      "source": "BleepingComputer",
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "published": "Mon, 14 Sep 2026 10:01:11 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "published": "Sat, 12 Sep 2026 15:54:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "published": "Sat, 12 Sep 2026 14:37:56 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "published": "Fri, 11 Sep 2026 22:00:18 +0530"
+      "source": "BleepingComputer",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "published": "Mon, 14 Sep 2026 08:15:23 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Microsoft: September updates break audio on some Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
       "published": "Mon, 14 Sep 2026 04:08:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "published": "Mon, 14 Sep 2026 03:06:27 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "published": "Sun, 13 Sep 2026 10:26:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "published": "Sat, 12 Sep 2026 10:14:32 -0400"
     }
   ]
 }
