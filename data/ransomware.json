@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-14T00:42:09.980075+00:00",
+  "last_success": "2026-09-14T05:46:12.658483+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-13T23:13:03+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/cerámicas-kantu",
+      "country": "",
+      "data_size": null,
+      "description": "Cerámicas Kantu S.A.C. is a Peruvian company specializing in the manufacturing of decorative tiles and accessories made from ceramic, porcelain, and glass. With over 40 years of experience in the ceramic industry and more than 15 years in producing construction finishes, they offer high-quality products with innovative designs. Their intended clients include distributors and individuals looking to enhance their spaces with unique decorative elements. The company emphasizes customer service and provides assistance through their sales advisors.",
+      "discovered": "2026-09-13T23:23:34.307597+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/94a0aa15e69fe6735ea18355357d8e25.png",
+      "url": "https://www.ransomware.live/id/Q2Vyw6FtaWNhcyBLYW50dUBQYW56ZXI=",
+      "victim": "Cerámicas Kantu"
     },
     {
       "activity": "Manufacturing",
@@ -443,33 +460,6 @@
       "screenshot": "https://images.ransomware.live/victims/776203cb010e2cfc7b214392eb4c5d8a.png",
       "url": "https://www.ransomware.live/id/bGFzdWx0YW5haG90ZWxzLmNvbUBrcnliaXQ=",
       "victim": "lasultanahotels.com"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-12T10:29:38.579092+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/a34c6dc5ac3bd4acd0ff22b009c376c1630c21ed2aa3ba56630909633c198cba/",
-      "country": "FR",
-      "data_size": null,
-      "description": "ERACM (École Régionale d'Acteurs de Cannes et Marseille) is a French non-profit association and regional drama school ...",
-      "discovered": "2026-09-12T10:29:54.827952+00:00",
-      "domain": "eracm.fr",
-      "group": "krybit",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-12T10:29:38",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/979d853e6624a2edf84a137344e57f0f.png",
-      "url": "https://www.ransomware.live/id/ZXJhY20uZnJAa3J5Yml0",
-      "victim": "eracm.fr"
     }
   ]
 }
