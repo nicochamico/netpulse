@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-15T19:58:20.890665+00:00",
+  "last_success": "2026-09-15T22:48:03.013059+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "published": "Tue, 15 Sep 2026 17:37:35 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "published": "Tue, 15 Sep 2026 16:34:15 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
       "published": "Tue, 15 Sep 2026 12:40:14 -0400"
@@ -62,18 +74,6 @@
       "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
       "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
       "published": "Tue, 15 Sep 2026 09:45:54 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "published": "Tue, 15 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "published": "Tue, 15 Sep 2026 05:50:25 -0400"
     }
   ]
 }

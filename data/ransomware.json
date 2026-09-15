@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-15T19:58:20.890665+00:00",
+  "last_success": "2026-09-15T22:48:03.013059+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-15T17:29:58.619917+00:00",
+      "claim_url": "http://i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad.onion/Company/Wiggins/",
+      "country": "US",
+      "data_size": null,
+      "description": "Large U.S. plaintiffs firm with Alabama, D.C., and Florida offices. Since 1985, it’s been known for excellence in discrimination, consumer protection, and employment law, leading class actions that advance protections for victims.",
+      "discovered": "2026-09-15T17:30:14.921178+00:00",
+      "domain": "www.wigginschilds.com",
+      "group": "insomnia",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/16a2a3d8df9467d07f496627552f176b.png",
+      "url": "https://www.ransomware.live/id/V2lnZ2lucywgQ2hpbGRzLCBQYW50YXppcywgRmlzaGVyLCAmIEdvbGRmYXJiIExMQ0BpbnNvbW5pYQ==",
+      "victim": "Wiggins, Childs, Pantazis, Fisher, & Goldfarb LLC"
     },
     {
       "activity": "Manufacturing",
@@ -383,33 +400,6 @@
       "screenshot": "https://images.ransomware.live/victims/9b428ee2b408e5538fc81e06b2c9bfc6.png",
       "url": "https://www.ransomware.live/id/TWNDYXJ0aHkgVGlyZSBTZXJ2aWNlQFN0b3Jt",
       "victim": "McCarthy Tire Service"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-14T22:38:16+00:00",
-      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6aa877589ce24c26c2581b60",
-      "country": "US",
-      "data_size": null,
-      "description": "PANTHERx Rare is a leading pharmacy specializing in rare disease care, offering personalized services and clinical expertise to patients, their families, and healthcare providers. The company focuses on creating individualized patient experiences through its innovative RxARECARE model and SWFT technology platform. PANTHERx collaborates closely with prescribers and manufacturers to ensure seamless access to specialty medications and exceptional care. With a commitment to quality and patient satisfaction, PANTHERx has received multiple industry awards, including the MMIT Patient Choice Award. \nThe company headquarters is located in 121 Bayer Road, Building Five, Pittsburgh, PA 15205, United States. 501-1000 Employees",
-      "discovered": "2026-09-15T10:46:52.785662+00:00",
-      "domain": "pantherxrare.com",
-      "group": "Storm",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-15T10:48:25.846126",
-        "users": 2,
-        "users_url": 2
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/01c067fbb0bb718ab21af25251abc9a9.png",
-      "url": "https://www.ransomware.live/id/UEFOVEhFUnggUmFyZUBTdG9ybQ==",
-      "victim": "PANTHERx Rare"
     }
   ]
 }
