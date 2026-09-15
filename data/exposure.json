@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:47:54.483006+00:00",
+  "generated_at": "2026-09-15T17:29:56.410759+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,19 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "wlguest.commerzbank.com",
-        "one.one.one.one",
-        "www.qisd-nm.schoolloop.com"
+        "u2-staging-support-jenkins.wso2.com",
+        "smsgw.wso2.com",
+        "us-updates.wso2.com",
+        "api.updates.wso2.com",
+        "xwlc-cnn-a.turner.com",
+        "zkbiocvs.wso2.com",
+        "testgrid.wso2.com",
+        "asia-updates.wso2.com",
+        "staging-supportbuilder-wilkes.wso2.com",
+        "wso2.com",
+        "cdn.updates.wso2.com",
+        "ses.wso2.com",
+        "one.one.one.one"
       ]
     },
     {
