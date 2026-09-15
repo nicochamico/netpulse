@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:17:48.542584+00:00",
+  "generated_at": "2026-09-15T12:47:54.483006+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -40,8 +40,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "test.itris.ch",
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "test.itris.ch"
       ]
     }
   ],
