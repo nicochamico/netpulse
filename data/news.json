@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-15T05:47:18.190693+00:00",
+  "last_success": "2026-09-15T11:02:48.090277+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "published": "Tue, 15 Sep 2026 12:22:16 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "published": "Tue, 15 Sep 2026 11:41:11 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "published": "Tue, 15 Sep 2026 11:01:05 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -22,22 +40,22 @@
       "published": "Mon, 14 Sep 2026 23:28:16 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "published": "Mon, 14 Sep 2026 22:26:30 +0530"
+      "source": "BleepingComputer",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "published": "Tue, 15 Sep 2026 05:50:25 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "published": "Mon, 14 Sep 2026 21:30:04 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "published": "Tue, 15 Sep 2026 04:40:20 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "published": "Mon, 14 Sep 2026 20:10:34 +0530"
+      "source": "BleepingComputer",
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "published": "Tue, 15 Sep 2026 03:31:09 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
       "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
       "published": "Mon, 14 Sep 2026 15:51:04 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "published": "Mon, 14 Sep 2026 15:03:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "published": "Mon, 14 Sep 2026 14:34:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "published": "Mon, 14 Sep 2026 12:15:58 -0400"
     }
   ]
 }
