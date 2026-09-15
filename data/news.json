@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-15T16:13:23.632771+00:00",
+  "last_success": "2026-09-15T19:58:20.890665+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "published": "Wed, 16 Sep 2026 00:24:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "published": "Tue, 15 Sep 2026 21:59:51 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
@@ -28,16 +40,10 @@
       "published": "Tue, 15 Sep 2026 16:42:32 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "published": "Tue, 15 Sep 2026 12:22:16 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "published": "Tue, 15 Sep 2026 11:41:11 +0530"
+      "source": "BleepingComputer",
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "published": "Tue, 15 Sep 2026 12:40:14 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
       "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
       "published": "Tue, 15 Sep 2026 05:50:25 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "published": "Tue, 15 Sep 2026 04:40:20 -0400"
     }
   ]
 }
