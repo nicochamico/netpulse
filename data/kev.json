@@ -1,9 +1,27 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-09-16T13:06:14.081470+00:00",
-  "count": 1710,
+  "last_success": "2026-09-16T17:57:00.129398+00:00",
+  "count": 1711,
   "items": [
+    {
+      "cveID": "CVE-2026-58704",
+      "vendorProject": "Google",
+      "product": "Pixel",
+      "vulnerabilityName": "Google Pixel Improper Authorization Vulnerability",
+      "dateAdded": "2026-09-16",
+      "shortDescription": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-09-19",
+      "knownRansomwareCampaignUse": "Unknown",
+      "forensicTriage": "Yes",
+      "notes": "https://source.android.com/docs/security/bulletin/pixel/2026/2026-09-01 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-58704",
+      "cwes": [
+        "CWE-693"
+      ],
+      "epss": 0.00112,
+      "epss_percentile": 0.01564
+    },
     {
       "cveID": "CVE-2026-76461",
       "vendorProject": "Cisco",
@@ -19,8 +37,8 @@
       "cwes": [
         "CWE-89"
       ],
-      "epss": 0.02162,
-      "epss_percentile": 0.81239
+      "epss": 0.02009,
+      "epss_percentile": 0.79862
     },
     {
       "cveID": "CVE-2026-84869",
@@ -28,7 +46,7 @@
       "product": "ScreenConnect",
       "vulnerabilityName": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
       "dateAdded": "2026-09-11",
-      "shortDescription": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+      "shortDescription": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "dueDate": "2026-09-14",
       "knownRansomwareCampaignUse": "Unknown",
@@ -39,7 +57,7 @@
         "CWE-862"
       ],
       "epss": 0.00691,
-      "epss_percentile": 0.50945
+      "epss_percentile": 0.51113
     },
     {
       "cveID": "CVE-2026-42016",
@@ -47,7 +65,7 @@
       "product": "Artifactory",
       "vulnerabilityName": "JFrog Artifactory Incorrect Authorization Vulnerability",
       "dateAdded": "2026-09-11",
-      "shortDescription": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "shortDescription": "JFrog Artifactory contains an incorrect authorization vulnerability that leads to a privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "dueDate": "2026-09-25",
       "knownRansomwareCampaignUse": "Unknown",
@@ -57,7 +75,7 @@
         "CWE-863"
       ],
       "epss": 0.00886,
-      "epss_percentile": 0.57342
+      "epss_percentile": 0.57488
     },
     {
       "cveID": "CVE-2026-42018",
@@ -75,7 +93,7 @@
         "CWE-287"
       ],
       "epss": 0.0092,
-      "epss_percentile": 0.58393
+      "epss_percentile": 0.5854
     },
     {
       "cveID": "CVE-2026-85706",
@@ -93,7 +111,7 @@
         "CWE-35"
       ],
       "epss": 0.11957,
-      "epss_percentile": 0.95887
+      "epss_percentile": 0.95901
     },
     {
       "cveID": "CVE-2026-86060",
@@ -101,7 +119,7 @@
       "product": "RouterOS",
       "vulnerabilityName": "MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
       "dateAdded": "2026-09-10",
-      "shortDescription": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.",
+      "shortDescription": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacker to change the trusted RouterOS policy mask, leading to privilege escalation.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "dueDate": "2026-09-13",
       "knownRansomwareCampaignUse": "Unknown",
@@ -111,7 +129,7 @@
         "CWE-88"
       ],
       "epss": 0.01057,
-      "epss_percentile": 0.62635
+      "epss_percentile": 0.62773
     },
     {
       "cveID": "CVE-2026-67277",
@@ -119,7 +137,7 @@
       "product": "RouterOS",
       "vulnerabilityName": "MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
       "dateAdded": "2026-09-10",
-      "shortDescription": "MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
+      "shortDescription": "MikroTik RouterOS contains a missing authentication for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
       "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
       "dueDate": "2026-09-13",
       "knownRansomwareCampaignUse": "Unknown",
@@ -129,7 +147,7 @@
         "CWE-306"
       ],
       "epss": 0.00869,
-      "epss_percentile": 0.56832
+      "epss_percentile": 0.56984
     },
     {
       "cveID": "CVE-2026-19490",
@@ -147,7 +165,7 @@
         "CWE-288"
       ],
       "epss": 0.05597,
-      "epss_percentile": 0.92475
+      "epss_percentile": 0.92504
     },
     {
       "cveID": "CVE-2025-25249",
@@ -166,25 +184,7 @@
         "CWE-787"
       ],
       "epss": 0.02403,
-      "epss_percentile": 0.83154
-    },
-    {
-      "cveID": "CVE-2026-87491",
-      "vendorProject": "Google",
-      "product": "Chromium V8",
-      "vulnerabilityName": "Google Chromium V8 Out of Bounds Write Vulnerability",
-      "dateAdded": "2026-09-09",
-      "shortDescription": "Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-09-23",
-      "knownRansomwareCampaignUse": "Unknown",
-      "forensicTriage": "No",
-      "notes": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0808145027.html ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-87491 ",
-      "cwes": [
-        "CWE-787"
-      ],
-      "epss": 0.00997,
-      "epss_percentile": 0.60837
+      "epss_percentile": 0.83215
     }
   ]
 }

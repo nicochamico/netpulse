@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-16T13:06:14.081470+00:00",
+  "last_success": "2026-09-16T17:57:00.129398+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,40 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-09-16T13:12:17+00:00",
+      "claim_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=809",
+      "country": "",
+      "data_size": null,
+      "description": "Arda.or.th—The Agricultural Research Development Agency (Public Organization) serves as a Deadline: 2026-09-23 13:09:00.000000",
+      "discovered": "2026-09-16T13:53:57.333588+00:00",
+      "domain": "",
+      "group": "arcusmedia",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f9969d01f2ea0922baca116ead0de0af.png",
+      "url": "https://www.ransomware.live/id/QVJEQUBhcmN1c21lZGlh",
+      "victim": "ARDA"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-16T12:55:17+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/nielsen-design",
+      "country": "",
+      "data_size": null,
+      "description": "Helmar Nielsen dreamed of a frame that was accessible, precise, and above all, industrially reproducible, without sacrificing elegance. This was the birth of a concept that, a few years later, would forever change the perception of framing.",
+      "discovered": "2026-09-16T13:22:39.132189+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1353057f8888d31b4ea7fae81b148772.png",
+      "url": "https://www.ransomware.live/id/TmllbHNlbiBEZXNpZ25AUGFuemVy",
+      "victim": "Nielsen Design"
     },
     {
       "activity": "Manufacturing",
@@ -442,40 +476,6 @@
       "screenshot": "https://images.ransomware.live/victims/2d8279b53ad878784de7318e561f347e.png",
       "url": "https://www.ransomware.live/id/QURNQHFpbGlu",
       "victim": "ADM"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-15T11:59:30.965687+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:b4e5dcfb3b326b048e07e9eb243f13de/0AFC:e7a37dfd17dd56a4dbf0ace14ec1970c3803b2c7819d8b27b95efd14633411c040dd911a325f1324eb38cedd28917dcb",
-      "country": "KR",
-      "data_size": null,
-      "description": "SFA Engineering Corporation is a South Korean high-tech engineering company specializing in industrial automation, robotics, and manufacturing equipment. The company provides advanced solutions for the semiconductor, OLED display, battery, and smart factory industries, serving major global manufacturers.",
-      "discovered": "2026-09-15T11:59:46.342220+00:00",
-      "domain": "www.sfa.co.kr",
-      "group": "metaencryptor",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a560f5771485b92cd2d6182ff42efd05.png",
-      "url": "https://www.ransomware.live/id/U0ZBIEVuZ2luZWVyaW5nIENvcnBvcmF0aW9uQG1ldGFlbmNyeXB0b3I=",
-      "victim": "SFA Engineering Corporation"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-15T11:58:49.936119+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:17fe94bae6f2528438ad5cd6abf43bdea9955e32ca2e0edcdffe61821b1ca70a/0AFC:db652f7bace8bdfd5e7e15c757ca5ec12d171d7b890b1073f3079a7a1f96c794ab0fdbd49e59c65fcc379bcd4e1b4900",
-      "country": "JP",
-      "data_size": null,
-      "description": "Nippon Steel Corporation is Japan’s largest steelmaker and one of the world’s leading steel producers. Headquartered in Tokyo, the company manufactures and supplies advanced steel products for the automotive, construction, energy, infrastructure, and industrial sectors. Nippon Steel operates globally through a large network of subsidiaries and production facilities, with annual revenue of approximately $67 billion and more than 138,000 employees.",
-      "discovered": "2026-09-15T11:59:12.189167+00:00",
-      "domain": "www.nipponsteel.com",
-      "group": "metaencryptor",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/54ba2f5f9216afc5775282a5367f0107.png",
-      "url": "https://www.ransomware.live/id/TmlwcG9uIFN0ZWVsIENvcnBvcmF0aW9uQG1ldGFlbmNyeXB0b3I=",
-      "victim": "Nippon Steel Corporation"
     }
   ]
 }

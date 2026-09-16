@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-16T13:06:14.081470+00:00",
+  "last_success": "2026-09-16T17:57:00.129398+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "published": "Wed, 16 Sep 2026 21:20:59 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "published": "Wed, 16 Sep 2026 20:57:49 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "published": "Wed, 16 Sep 2026 20:06:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "published": "Wed, 16 Sep 2026 19:07:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "published": "Wed, 16 Sep 2026 18:44:05 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
@@ -10,34 +40,16 @@
       "published": "Wed, 16 Sep 2026 17:28:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "published": "Wed, 16 Sep 2026 16:45:58 +0530"
+      "source": "BleepingComputer",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "published": "Wed, 16 Sep 2026 13:26:41 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "published": "Wed, 16 Sep 2026 16:45:48 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "published": "Wed, 16 Sep 2026 16:38:54 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "published": "Wed, 16 Sep 2026 11:18:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "published": "Wed, 16 Sep 2026 10:48:06 +0530"
+      "source": "BleepingComputer",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "published": "Wed, 16 Sep 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Windows Server 2022 reaches end of mainstream support next month",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
       "published": "Wed, 16 Sep 2026 05:10:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "published": "Wed, 16 Sep 2026 03:00:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "published": "Tue, 15 Sep 2026 17:37:35 -0400"
     }
   ]
 }
