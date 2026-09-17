@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:08:26.626294+00:00",
+  "generated_at": "2026-09-17T15:32:37.460898+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "guest-wifi.felician.edu",
         "one.one.one.one",
-        "bchs-bousd-ca.schoolloop.com"
+        "ewk-pps-nj.schoolloop.com",
+        "vwap.alvaka.net"
       ]
     },
     {
