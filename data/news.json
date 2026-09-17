@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-17T00:03:41.050944+00:00",
+  "last_success": "2026-09-17T05:42:32.453808+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "published": "Wed, 16 Sep 2026 20:35:48 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
       "published": "Wed, 16 Sep 2026 16:39:29 -0400"
@@ -68,12 +74,6 @@
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
       "published": "Wed, 16 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "published": "Wed, 16 Sep 2026 08:16:32 -0400"
     }
   ]
 }
