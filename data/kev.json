@@ -1,8 +1,8 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-09-18T18:03:18.824875+00:00",
-  "count": 1715,
+  "last_success": "2026-09-18T21:24:19.341255+00:00",
+  "count": 1716,
   "items": [
     {
       "cveID": "CVE-2025-39964",
@@ -20,7 +20,7 @@
         "CWE-362"
       ],
       "epss": 0.00323,
-      "epss_percentile": 0.25393
+      "epss_percentile": 0.25599
     },
     {
       "cveID": "CVE-2026-53266",
@@ -41,6 +41,24 @@
       "epss_percentile": 0.02189
     },
     {
+      "cveID": "CVE-2025-39682",
+      "vendorProject": "Linux",
+      "product": "Kernel",
+      "vulnerabilityName": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "dateAdded": "2026-09-18",
+      "shortDescription": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using incorrect zero-copy and queuing assumptions. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-09-21",
+      "knownRansomwareCampaignUse": "Unknown",
+      "forensicTriage": "Yes",
+      "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: ; https://git.kernel.org/stable/c/2902c3ebcca52ca845c03182000e8d71d3a5196f; https://git.kernel.org/stable/c/c09dd3773b5950e9cfb6c9b9a5f6e36d06c62677; https://git.kernel.org/stable/c/3439c15ae91a517cf3c650ea15a8987699416ad9; https://git.kernel.org/stable/c/29c0ce3c8cdb6dc5d61139c937f34cb888a6f42e; https://git.kernel.org/stable/c/62708b9452f8eb77513115b17c4f8d1a22ebf843 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2025-39682",
+      "cwes": [
+        "CWE-754"
+      ],
+      "epss": 0.00505,
+      "epss_percentile": 0.42129
+    },
+    {
       "cveID": "CVE-2026-58704",
       "vendorProject": "Google",
       "product": "Pixel",
@@ -55,8 +73,8 @@
       "cwes": [
         "CWE-693"
       ],
-      "epss": 0.00112,
-      "epss_percentile": 0.01564
+      "epss": 0.00207,
+      "epss_percentile": 0.11192
     },
     {
       "cveID": "CVE-2026-76460",
@@ -73,8 +91,8 @@
       "cwes": [
         "CWE-648"
       ],
-      "epss": null,
-      "epss_percentile": null
+      "epss": 0.00784,
+      "epss_percentile": 0.54494
     },
     {
       "cveID": "CVE-2026-87886",
@@ -91,8 +109,8 @@
       "cwes": [
         "CWE-276"
       ],
-      "epss": null,
-      "epss_percentile": null
+      "epss": 0.00281,
+      "epss_percentile": 0.20813
     },
     {
       "cveID": "CVE-2026-76461",
@@ -110,7 +128,7 @@
         "CWE-89"
       ],
       "epss": 0.02009,
-      "epss_percentile": 0.79862
+      "epss_percentile": 0.79955
     },
     {
       "cveID": "CVE-2026-84869",
@@ -129,7 +147,7 @@
         "CWE-862"
       ],
       "epss": 0.00691,
-      "epss_percentile": 0.51113
+      "epss_percentile": 0.51324
     },
     {
       "cveID": "CVE-2026-42016",
@@ -147,7 +165,7 @@
         "CWE-863"
       ],
       "epss": 0.00886,
-      "epss_percentile": 0.57488
+      "epss_percentile": 0.57678
     },
     {
       "cveID": "CVE-2026-42018",
@@ -165,25 +183,7 @@
         "CWE-287"
       ],
       "epss": 0.0092,
-      "epss_percentile": 0.5854
-    },
-    {
-      "cveID": "CVE-2026-85706",
-      "vendorProject": "GitLab",
-      "product": "Community Edition and Enterprise Edition",
-      "vulnerabilityName": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
-      "dateAdded": "2026-09-11",
-      "shortDescription": "GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-09-14",
-      "knownRansomwareCampaignUse": "Unknown",
-      "forensicTriage": "Yes",
-      "notes": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-2-released/ ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-85706",
-      "cwes": [
-        "CWE-35"
-      ],
-      "epss": 0.11957,
-      "epss_percentile": 0.95901
+      "epss_percentile": 0.58723
     }
   ]
 }
