@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-17T22:38:36.439146+00:00",
+  "last_success": "2026-09-18T00:59:43.305386+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-17T19:03:02.920495+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b134bc7a-1f8f-4ef3-8397-df4f5fc37d50",
+      "country": "",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-17T19:03:55.192442+00:00",
+      "domain": " www.invinciblegg.com",
+      "group": "qilin",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b670327272a2967edbaeec82085150bd.png",
+      "url": "https://www.ransomware.live/id/SW52aW5jaWJsZSBHR0BxaWxpbg==",
+      "victim": "Invincible GG"
     },
     {
       "activity": "Professional Services",
@@ -485,23 +502,6 @@
       "screenshot": "https://images.ransomware.live/victims/5acd5db6df9f20f498252241f798169a.png",
       "url": "https://www.ransomware.live/id/SGFuZHlUcmFjIEdyZXlzdGFyIEFaIFdBUk5JTkdAU2hhZG93Qnl0MyQ=",
       "victim": "HandyTrac Greystar AZ WARNING"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-16T20:26:00+00:00",
-      "claim_url": "/post/rda-motors-spa/",
-      "country": "IT",
-      "data_size": null,
-      "description": "is an Italian company engaged in premium cars. There are many customer documents and employee data [Size: 7.3 GB | Sector: Technology, Other]",
-      "discovered": "2026-09-16T20:50:58.426399+00:00",
-      "domain": "",
-      "group": "emperador",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UkRBIE1PVE9SUyBTLlAuQS5AZW1wZXJhZG9y",
-      "victim": "RDA MOTORS S.P.A."
     }
   ]
 }
