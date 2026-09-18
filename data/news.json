@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-18T14:46:22.867696+00:00",
+  "last_success": "2026-09-18T18:03:18.824875+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "published": "Fri, 18 Sep 2026 22:26:19 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published": "Fri, 18 Sep 2026 20:54:16 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
@@ -28,16 +40,16 @@
       "published": "Fri, 18 Sep 2026 16:10:06 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "published": "Fri, 18 Sep 2026 14:48:03 +0530"
+      "source": "BleepingComputer",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "published": "Fri, 18 Sep 2026 12:00:38 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "published": "Fri, 18 Sep 2026 11:47:25 +0530"
+      "source": "BleepingComputer",
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "published": "Fri, 18 Sep 2026 11:19:06 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
       "published": "Fri, 18 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "published": "Fri, 18 Sep 2026 05:34:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "published": "Fri, 18 Sep 2026 03:35:31 -0400"
     }
   ]
 }
