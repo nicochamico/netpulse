@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:38:44.026086+00:00",
+  "generated_at": "2026-09-18T05:13:42.496370+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,19 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "ewk-pps-nj.schoolloop.com",
-        "vwap.alvaka.net"
+        "u2-staging-support-jenkins.wso2.com",
+        "smsgw.wso2.com",
+        "us-updates.wso2.com",
+        "api.updates.wso2.com",
+        "xwlc-cnn-a.turner.com",
+        "zkbiocvs.wso2.com",
+        "testgrid.wso2.com",
+        "asia-updates.wso2.com",
+        "staging-supportbuilder-wilkes.wso2.com",
+        "wso2.com",
+        "cdn.updates.wso2.com",
+        "ses.wso2.com",
+        "one.one.one.one"
       ]
     },
     {
@@ -40,7 +50,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "other.dev.ops.dsb.no"
       ]
     }
   ],
