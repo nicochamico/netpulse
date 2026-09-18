@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-18T21:24:19.341255+00:00",
+  "last_success": "2026-09-18T23:51:47.605534+00:00",
   "count": 100,
   "items": [
     {
@@ -37,6 +37,33 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-18T17:51:01.431211+00:00",
+      "claim_url": "http://gammax6w3dkfdjfrjthtmqzsioue52vzy6lz54qy6jcvmogfpubutjyd.onion/post/HGvxCUBphjeJKnWK1EVU0CE0x7gVH6YJ",
+      "country": "US",
+      "data_size": null,
+      "description": "Premier Lighting & Controls is a full-service commercial lighting agency. It serves architects, contractors, distributors, building owners, and en...",
+      "discovered": "2026-09-18T17:52:03.699855+00:00",
+      "domain": "premierlight.com",
+      "group": "Gammax",
+      "infostealer": {
+        "employees": 0,
+        "employees_url": 0,
+        "infostealer_stats": {},
+        "last_employee_compromised": null,
+        "last_user_compromised": null,
+        "thirdparties": 0,
+        "update": "2026-09-18T17:51:00",
+        "users": 0,
+        "users_url": 0
+      },
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UHJlbWllciBMaWdodGluZyAmIENvbnRyb2xzQEdhbW1heA==",
+      "victim": "Premier Lighting & Controls"
     },
     {
       "activity": "Not Found",
@@ -454,23 +481,6 @@
       "screenshot": "https://images.ransomware.live/victims/cabc6e90d1a4fd4f289b679d1de052fb.png",
       "url": "https://www.ransomware.live/id/SW5sYW5kIGFuZCBPZmZzaG9yZSBDb250cmFjdG9yc0BxaWxpbg==",
       "victim": "Inland and Offshore Contractors"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-09-18T07:06:40.340016+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Revenue: $144.4 million\n\nAccela is a comprehensive cloud based software platform used by state and local governments to manage internal agency operations. We have successfully extracted over 50 GB of data from Accela. Data includes over 2 million lines of user data with PII, and 6 million user requests (from their citizen engagement portal where citizens report everyday non-emergencies in/around their neighbourhoods) also with PII. There is a lot of government data, from FBI agents to cops to regular government workers. Speak soon or Leak soon!",
-      "discovered": "2026-09-18T07:06:41.424685+00:00",
-      "domain": "Accela.com",
-      "group": "EndZone",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QWNjZWxhLmNvbUBFbmRab25l",
-      "victim": "Accela.com"
     }
   ]
 }
