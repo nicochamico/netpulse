@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-18T05:47:08.941328+00:00",
+  "last_success": "2026-09-18T10:32:51.685130+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "published": "Fri, 18 Sep 2026 14:48:03 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "published": "Fri, 18 Sep 2026 11:47:25 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
@@ -28,16 +40,16 @@
       "published": "Thu, 17 Sep 2026 19:33:13 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "published": "Thu, 17 Sep 2026 18:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "published": "Fri, 18 Sep 2026 05:34:33 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Thu, 17 Sep 2026 17:20:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "published": "Fri, 18 Sep 2026 03:35:31 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
       "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "published": "Thu, 17 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "published": "Thu, 17 Sep 2026 09:09:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "published": "Thu, 17 Sep 2026 07:33:35 -0400"
     }
   ]
 }
