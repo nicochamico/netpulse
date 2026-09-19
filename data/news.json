@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-19T08:30:34.720385+00:00",
+  "last_success": "2026-09-19T12:51:38.493483+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "published": "Sat, 19 Sep 2026 15:31:10 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "published": "Sat, 19 Sep 2026 15:01:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "published": "Sat, 19 Sep 2026 13:48:54 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "published": "Sat, 19 Sep 2026 13:21:34 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
@@ -16,28 +40,10 @@
       "published": "Sat, 19 Sep 2026 11:54:10 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "published": "Fri, 18 Sep 2026 23:32:24 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "published": "Fri, 18 Sep 2026 22:26:19 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "published": "Fri, 18 Sep 2026 20:54:16 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "published": "Fri, 18 Sep 2026 18:17:04 +0530"
+      "source": "BleepingComputer",
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "published": "Sat, 19 Sep 2026 07:38:20 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Webinar: Which Google Workspace security controls actually matter?",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
       "published": "Fri, 18 Sep 2026 09:10:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "published": "Fri, 18 Sep 2026 08:16:32 -0400"
     }
   ]
 }
