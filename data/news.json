@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-19T19:08:52.770086+00:00",
+  "last_success": "2026-09-19T22:05:33.865021+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "published": "Sun, 20 Sep 2026 00:06:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -14,12 +20,6 @@
       "title": "Identity Visibility in 2026: The Foundation of Identity Security",
       "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
       "published": "Sat, 19 Sep 2026 18:58:41 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sat, 19 Sep 2026 18:58:35 +0530"
     },
     {
       "source": "The Hacker News",
