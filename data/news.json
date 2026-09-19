@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-19T03:05:20.019833+00:00",
+  "last_success": "2026-09-19T08:30:34.720385+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "published": "Sat, 19 Sep 2026 12:44:54 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "published": "Sat, 19 Sep 2026 11:54:10 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
@@ -26,18 +38,6 @@
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
       "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
       "published": "Fri, 18 Sep 2026 18:17:04 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "published": "Fri, 18 Sep 2026 16:31:16 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "published": "Fri, 18 Sep 2026 16:31:01 +0530"
     },
     {
       "source": "BleepingComputer",
