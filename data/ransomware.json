@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-19T16:12:56.044168+00:00",
+  "last_success": "2026-09-19T19:08:52.770086+00:00",
   "count": 100,
   "items": [
     {
@@ -41,7 +41,7 @@
     {
       "activity": "Government & Defense",
       "attackdate": "2026-09-19T07:14:00+00:00",
-      "claim_url": "/post/cassias-mg-government/",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/cassias-mg-government/",
       "country": "BR",
       "data_size": null,
       "description": "network commitment, from government credentials to justice panels, such as access to the financial sector, police, personal data, medical (SUS), RG(CIN), BIRTH CERTIFICATE, CPF (identity number in Brazil) among other data from CASSIAS.MG.GOV departments, we will give you a deadline to negotiate with us! [Size: 720.0 MB | Sector: Medical, Government, Finance]",
@@ -61,9 +61,26 @@
       },
       "press": null,
       "ransom": null,
-      "screenshot": "",
+      "screenshot": "https://images.ransomware.live/victims/c2021581f800c5b83882d43d78f29c6f.png",
       "url": "https://www.ransomware.live/id/Q2Fzc2lhcyBNRyBHb3Zlcm5tZW50QGVtcGVyYWRvcg==",
       "victim": "Cassias MG Government"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-19T00:00:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "## Coming soon...",
+      "discovered": "2026-09-19T13:25:01.672733+00:00",
+      "domain": "",
+      "group": "cry0",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/WW91bmcgSW5qdXJ5IExhd0Bjcnkw",
+      "victim": "Young Injury Law"
     },
     {
       "activity": "Not Found",
@@ -512,23 +529,6 @@
       "screenshot": "https://images.ransomware.live/victims/8f8b1800b0ad33bd82a52d5e213ceef8.png",
       "url": "https://www.ransomware.live/id/QmVMaSBUZWFjaGVyIC8gRlNDIGVkdWNhdGlvbiBjZW50ZXJzIChBV1MpQE4wbg==",
       "victim": "BeLi Teacher / FSC education centers (AWS)"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-18T15:23:07.178275+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-vn-betting",
-      "country": "VN",
-      "data_size": null,
-      "description": "Online gambling / agent platform · Vietnam / Switzerland | The complete bettor database: 2,021,011 registered bettors with names, +84 phone numbers, email addresses, deposit and withdrawal amounts; The full agent network: 39,998 agent accounts, hierarchy, balances, credit lines and commission ladders; 85 million login records with IP addresses and device identifiers; Daily trading and P&L data per provider; The fraud stack: 33,000+ blacklisted emails and phones, arbitrage and odds-mover reports, multi-account detection rules | Publication proceeds in batches after the deadline. | [ACTIVE: deadline 2026-09-20 01:37 UTC]",
-      "discovered": "2026-09-18T15:23:23.007025+00:00",
-      "domain": "",
-      "group": "N0n",
-      "infostealer": "",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/b030ea31941779ae78da1006e0b75298.png",
-      "url": "https://www.ransomware.live/id/VmlldG5hbWVzZSBiZXR0aW5nIG9wZXJhdG9yIChHQzc4OSBuZXR3b3JrIC8gQm91bmRsZXNzIFRFKUBOMG4=",
-      "victim": "Vietnamese betting operator (GC789 network / Boundless TE)"
     }
   ]
 }
