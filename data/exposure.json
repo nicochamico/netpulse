@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:06:29.570108+00:00",
+  "generated_at": "2026-09-19T09:31:16.689456+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -35,7 +35,8 @@
       "open_ports": [
         53,
         443,
-        853
+        853,
+        8443
       ],
       "risky_ports": [],
       "vulns": [],
