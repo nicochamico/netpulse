@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-19T12:51:38.493483+00:00",
+  "last_success": "2026-09-19T16:12:56.044168+00:00",
   "count": 100,
   "items": [
     {
@@ -64,6 +64,23 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Q2Fzc2lhcyBNRyBHb3Zlcm5tZW50QGVtcGVyYWRvcg==",
       "victim": "Cassias MG Government"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-19T00:00:00+00:00",
+      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/32373FFB7AF7E725",
+      "country": "IT",
+      "data_size": null,
+      "description": "",
+      "discovered": "2026-09-19T10:50:28.792216+00:00",
+      "domain": "",
+      "group": "AuditTeam",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e2ab796dd9bdbe1d5c1ca1256a8c96e7.png",
+      "url": "https://www.ransomware.live/id/dGQqKip1cEBBdWRpdFRlYW0=",
+      "victim": "td***up"
     },
     {
       "activity": "Technology",
@@ -512,33 +529,6 @@
       "screenshot": "https://images.ransomware.live/victims/b030ea31941779ae78da1006e0b75298.png",
       "url": "https://www.ransomware.live/id/VmlldG5hbWVzZSBiZXR0aW5nIG9wZXJhdG9yIChHQzc4OSBuZXR3b3JrIC8gQm91bmRsZXNzIFRFKUBOMG4=",
       "victim": "Vietnamese betting operator (GC789 network / Boundless TE)"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-09-18T15:22:32.781736+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-uft",
-      "country": "US",
-      "data_size": null,
-      "description": "Education / Labor Union · US — New York | The union’s complete legal case archive — approx. 181,420 documents: grievance and arbitration files, disciplinary appeal decisions and personnel case files, each named for a member; Contract documents: CBAs, MOUs, MOAs and side letters; Nurse-federation and health-benefit-fund case materials; Teacher evaluation and class-size complaint files; Staff search and case-view audit logs | Publication proceeds in batches after the deadline. The victim can verify everything and settle in their private negotiation room. | [ACTIVE: deadline 2026-09-19 14:58 UTC]",
-      "discovered": "2026-09-18T15:22:48.612462+00:00",
-      "domain": "uft.org",
-      "group": "N0n",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-18T15:28:14.085548",
-        "users": 129,
-        "users_url": 19
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c9208d0402744c08eef5b9da802bcecf.png",
-      "url": "https://www.ransomware.live/id/VW5pdGVkIEZlZGVyYXRpb24gb2YgVGVhY2hlcnNATjBu",
-      "victim": "United Federation of Teachers"
     }
   ]
 }

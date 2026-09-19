@@ -1,13 +1,25 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-19T12:51:38.493483+00:00",
+  "last_success": "2026-09-19T16:12:56.044168+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "Sat, 19 Sep 2026 18:58:48 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "published": "Sat, 19 Sep 2026 18:58:41 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sat, 19 Sep 2026 15:31:10 +0530"
+      "published": "Sat, 19 Sep 2026 18:58:35 +0530"
     },
     {
       "source": "The Hacker News",
@@ -28,21 +40,27 @@
       "published": "Sat, 19 Sep 2026 13:21:34 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "published": "Sat, 19 Sep 2026 12:44:54 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "published": "Sat, 19 Sep 2026 11:54:10 +0530"
+      "source": "BleepingComputer",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "published": "Sat, 19 Sep 2026 10:56:31 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "published": "Sat, 19 Sep 2026 10:05:15 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "Sat, 19 Sep 2026 09:48:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
       "published": "Sat, 19 Sep 2026 07:38:20 -0400"
     },
     {
@@ -56,24 +74,6 @@
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "published": "Fri, 18 Sep 2026 11:19:06 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "published": "Fri, 18 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "published": "Fri, 18 Sep 2026 09:58:40 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "published": "Fri, 18 Sep 2026 09:10:19 -0400"
     }
   ]
 }
