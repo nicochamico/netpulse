@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-20T10:36:08.342984+00:00",
+  "last_success": "2026-09-20T14:28:05.964023+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-20T08:30:00+00:00",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/studio-notarile-associato-salvatore-costantino-e-anna-favarato/",
+      "country": "IT",
+      "data_size": null,
+      "description": "Studio Notarile Associato Salvatore Costantino E Anna Favarato, Follina \n+39 0438 971778\nPiazza Iv Novembre, 20, 31051, Follina , Italia\nNotary's office\nseveral thousand documents\nThere are many customer documents and employee data. [Sector: Finance, Other]",
+      "discovered": "2026-09-20T09:35:30.781513+00:00",
+      "domain": "costantinofavarato.it",
+      "group": "emperador",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1a7e115d59cc65f4b2feb6765fb96a0d.png",
+      "url": "https://www.ransomware.live/id/U3R1ZGlvIE5vdGFyaWxlIEFzc29jaWF0byBTYWx2YXRvcmUgQ29zdGFudGlubyBFIEFubmEgRmF2YXJhdG9AZW1wZXJhZG9y",
+      "victim": "Studio Notarile Associato Salvatore Costantino E Anna Favarato"
     },
     {
       "activity": "Technology",
@@ -55,6 +71,22 @@
       "screenshot": "https://images.ransomware.live/victims/eb4211112e60459b4d8270967ec93208.png",
       "url": "https://www.ransomware.live/id/RmFuYXRpY3MgKGdsb2JhbCBzcG9ydHMgY29tbWVyY2UgcGxhdGZvcm0pQE4wbg==",
       "victim": "Fanatics (global sports commerce platform)"
+    },
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-09-20T00:00:00+00:00",
+      "claim_url": "",
+      "country": "HK",
+      "data_size": null,
+      "description": "Data is not available now.",
+      "discovered": "2026-09-20T06:40:26.051276+00:00",
+      "domain": "greatbay-bio.com",
+      "group": "nightspire",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/R3JlYXQgQmF5IEJpb0BuaWdodHNwaXJl",
+      "victim": "Great Bay Bio"
     },
     {
       "activity": "Technology",
@@ -295,38 +327,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UHJlbWllciBMaWdodGluZyAmIENvbnRyb2xzQEdhbW1heA==",
       "victim": "Premier Lighting & Controls"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-18T15:50:07.534378+00:00",
-      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/192EB2B6AD7B98D9",
-      "country": "RU",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nI don't have any reliable information about a company named \"Paid Victim 192EB2B6AD7B98D9.\" This appears to be an anonymized or coded identifier, possibly from a ransomware leak site or threat intelligence feed, rather than an actual company name. Without access to the specific database or source that generated this identifier, I cannot provide factual details about its operations, industry, or country.",
-      "discovered": "2026-09-18T15:50:21.961822+00:00",
-      "domain": "",
-      "group": "AuditTeam",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/36bee1856fdf96af07b7be1482ffff84.png",
-      "url": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMTkyRUIyQjZBRDdCOThEOUBBdWRpdFRlYW0=",
-      "victim": "Paid Victim 192EB2B6AD7B98D9"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-09-18T15:27:02.291248+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-paypal-transcom",
-      "country": "SE",
-      "data_size": null,
-      "description": "Outsourced customer support / financial services · Netherlands / Tunisia | 86.7M connection records: daily support-agent sessions into PayPal corporate Citrix/AAA systems; Complete infrastructure map: internal AD, PKI, Netskope/Zscaler tenants, all 8 sites | All 8 sites are enforcing a network blackout until settlement. | [ACTIVE: deadline 2026-09-21 03:01 UTC]",
-      "discovered": "2026-09-18T15:27:18.196030+00:00",
-      "domain": "transcom.com",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/58e32ed0c1c2b0fc6946da8719b87e95.png",
-      "url": "https://www.ransomware.live/id/UGF5UGFsIHN1cHBvcnQgb3BlcmF0aW9ucyAoVHJhbnNjb20gV29ybGRXaWRlKUBOMG4=",
-      "victim": "PayPal support operations (Transcom WorldWide)"
     }
   ]
 }

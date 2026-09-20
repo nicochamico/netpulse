@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-20T10:36:08.342984+00:00",
+  "last_success": "2026-09-20T14:28:05.964023+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "published": "Sun, 20 Sep 2026 10:11:21 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "published": "Sun, 20 Sep 2026 08:00:00 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "published": "Sat, 19 Sep 2026 10:56:31 -0400"
@@ -62,18 +74,6 @@
       "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
       "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
       "published": "Sat, 19 Sep 2026 07:38:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "published": "Fri, 18 Sep 2026 12:00:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "published": "Fri, 18 Sep 2026 11:19:06 -0400"
     }
   ]
 }
