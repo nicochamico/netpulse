@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:24:47.012170+00:00",
+  "generated_at": "2026-09-20T06:43:43.986257+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -17,6 +17,7 @@
         2083,
         2086,
         2087,
+        8080,
         8443,
         8880
       ],
@@ -24,10 +25,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "testgeorec.halliburton.com",
         "one.one.one.one",
-        "wlc.uofnkona.edu",
-        "wlc.muni.org",
-        "muni.org"
+        "sunset-sfusd-ca.schoolloop.com"
       ]
     },
     {
