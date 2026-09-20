@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-20T00:38:12.244612+00:00",
+  "last_success": "2026-09-20T05:41:34.991486+00:00",
   "count": 100,
   "items": [
     {
@@ -118,6 +118,23 @@
       "screenshot": "https://images.ransomware.live/victims/cc19f111625acbab33a94b269ff342df.png",
       "url": "https://www.ransomware.live/id/U2NobmVpZGVy4oCZcyBDb21wdXRpbmdAYXJjdXNtZWRpYQ==",
       "victim": "Schneider’s Computing"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-19T11:10:00+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "IF YOU WANT TO SAVE YOUR BRAND AND NOT DIE BY MY HANDS: Email us from your official email at shinygroup@onionmail.com and lets see how rich you really are. 2.333% of my networth is a 8 figure amount, I hope you can pay that much because that is the demand, negotiable. Get your bosses in front of the white board in the war room. Clock is ticking moron. Kindly excuse our unprofessionalism. | Updated: 19 Sep 2026",
+      "discovered": "2026-09-20T00:15:13.939748+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "infostealer": "",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Tm90ZSB0byBDbDBwLV8tQHNoaW55aHVudGVycw==",
+      "victim": "Note to Cl0p-_-"
     },
     {
       "activity": "Government & Defense",
@@ -522,33 +539,6 @@
       "screenshot": "https://images.ransomware.live/victims/eb18f7d348cd7bef92cb798bf883c42d.png",
       "url": "https://www.ransomware.live/id/TWluaXN0cnkgb2YgRWR1Y2F0aW9uIOKAlCBBcmdlbnRpbmFATjBu",
       "victim": "Ministry of Education — Argentina"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-09-18T15:25:52.063207+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-argentem-creek",
-      "country": "US",
-      "data_size": null,
-      "description": "Investment management / private credit · United States | Full corporate network evidence: 2.5M+ connection records, complete internal systems map (Active Directory, SharePoint, MSP tooling, office-security integrations); Tax-season document flows of the firm and its investor document delivery platform | Corporate connectivity remains severed until settlement. | [ACTIVE: deadline 2026-09-21 03:01 UTC]",
-      "discovered": "2026-09-18T15:26:08.569411+00:00",
-      "domain": "argentemcreek.com",
-      "group": "N0n",
-      "infostealer": {
-        "employees": 0,
-        "employees_url": 0,
-        "infostealer_stats": {},
-        "last_employee_compromised": null,
-        "last_user_compromised": null,
-        "thirdparties": 0,
-        "update": "2026-09-18T15:32:25.274459",
-        "users": 0,
-        "users_url": 0
-      },
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/5300504d3bd946e1873c09c1221f7b15.png",
-      "url": "https://www.ransomware.live/id/QXJnZW50ZW0gQ3JlZWsgUGFydG5lcnMgKGludmVzdG1lbnQgZmlybSlATjBu",
-      "victim": "Argentem Creek Partners (investment firm)"
     }
   ]
 }
