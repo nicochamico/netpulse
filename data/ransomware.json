@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-21T00:56:13.350489+00:00",
+  "last_success": "2026-09-21T05:56:14.543112+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,38 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-09-21T00:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab02fa89cd108bf26c5e025",
+      "country": "ES",
+      "data_size": null,
+      "description": "Second House (Second House, S.L.) is a privately held real estate company   \r    headquartered in Barcelona, Spain, with over 26 years of experience in the  \r    property sector. Their business model centers on buying properties and      \r    adding value to them — through renovation works, improving rental           \r    situations, and legalizing the existing state of buildings — effectively    \r    driving renewal of the real estate market in Barcelona and its surroundings.\r                                                                                \r    They are actively acquiring in the Barcelona area (including L'Hospitalet,  \r    Badalona, Sant Cugat, etc.)",
+      "discovered": "2026-09-21T00:35:05.808718+00:00",
+      "domain": "",
+      "group": "incransom",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/401ea6f60dd429a98f26b20d88241a50.png",
+      "url": "https://www.ransomware.live/id/U0VDT05EIEhPVVNFQGluY3JhbnNvbQ==",
+      "victim": "SECOND HOUSE"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-21T00:00:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab057339cd108bf26ca4f1a",
+      "country": "US",
+      "data_size": null,
+      "description": "At Bonita Orthodontics, Dr. Maryann Kriger and our friendly team provide    \r    personalized orthodontic care using state-of-the-art technology. As a       \r    board-certified orthodontist and Elite Invisalign Provider, Dr. Kriger takes\r    a conservative approach — creating simple, affordable treatment plans that  \r    deliver beautiful, lasting smiles. Call today to schedule your free         \r    consultation!\r \r We have reached out to Bonita Ortho on multiple occasions to prevent this leak, warning them that it exposes the private information of patients who are minors. Despite this, our messages have been ignored.",
+      "discovered": "2026-09-21T00:34:36.706236+00:00",
+      "domain": "",
+      "group": "incransom",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2f361942f96d496f364104d89071329b.png",
+      "url": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t",
+      "victim": "Maryann Kriger"
     },
     {
       "activity": "Healthcare",
@@ -295,38 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/c2021581f800c5b83882d43d78f29c6f.png",
       "url": "https://www.ransomware.live/id/Q2Fzc2lhcyBNRyBHb3Zlcm5tZW50QGVtcGVyYWRvcg==",
       "victim": "Cassias MG Government"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-19T00:00:00+00:00",
-      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/electrolux/",
-      "country": "SE",
-      "data_size": null,
-      "description": "Electrolux Group is a Swedish multinational home-appliance manufacturer, producing refrigerators, washing machines, ovens, dishwashers, vacuum cleaners, and other household appliances under several brands worldwide.\r\n\r\nWe were able to access your azure database, and export every piece of data which adds up to ~41GB.\r\n\r\nYou will receive an email shortly containing the instructions you need to proceed.\r\n\r\nElectro_backup.7z is currently password locked, but if they do not pay the ransom, the password and the data WILL be leaked\r\n\r\nTime is ticking, Pay the ransom.\r\n\r\nIf you are having issues receiving instructions, contact me at: xdlmfao@morke.ru [Size: 12.7 GB | Sector: Manufacturing]",
-      "discovered": "2026-09-19T15:50:53.665077+00:00",
-      "domain": "electroluxgroup.com",
-      "group": "emperador",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/64f02caadca9086a4b41e9e6183ebb2e.png",
-      "url": "https://www.ransomware.live/id/RWxlY3Ryb2x1eEBlbXBlcmFkb3I=",
-      "victim": "Electrolux"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-19T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "## Coming soon...",
-      "discovered": "2026-09-19T13:25:01.672733+00:00",
-      "domain": "",
-      "group": "cry0",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/WW91bmcgSW5qdXJ5IExhd0Bjcnkw",
-      "victim": "Young Injury Law"
     }
   ]
 }
