@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-21T05:56:14.543112+00:00",
+  "last_success": "2026-09-21T12:10:13.962891+00:00",
   "count": 100,
   "items": [
     {
@@ -25,6 +25,38 @@
       "victim": "Paylogix"
     },
     {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-21T06:07:09.514997+00:00",
+      "claim_url": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/detail/g5ra83jo4igdmisbrxig919guwuyn7",
+      "country": "US",
+      "data_size": null,
+      "description": "Since 1976, Newman Tractor has been serving the heavy equipment industry both domestically, and internationally. Originally founded as a farm equipment business in Boone County, Kentucky, Newman Tractor has transformed into one of this country's m",
+      "discovered": "2026-09-21T06:07:48.540462+00:00",
+      "domain": "newmantractor.com",
+      "group": "threeam",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7ef29a6903f416846afe85fe10698c12.png",
+      "url": "https://www.ransomware.live/id/bmV3bWFudHJhY3Rvci5jb21AdGhyZWVhbQ==",
+      "victim": "newmantractor.com"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-21T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=337a2e3e-edbf-4a8e-9b75-157296837da2",
+      "country": "JP",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-21T08:01:50.407973+00:00",
+      "domain": "www.ikegami.co.jp",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9220f43cc95b08824f8fd489fdfdfd56.png",
+      "url": "https://www.ransomware.live/id/SUtFR0FNSSBUU1VTSElOS0kgQ09NUEFOWSBMSU1JVEVEQHFpbGlu",
+      "victim": "IKEGAMI TSUSHINKI COMPANY LIMITED"
+    },
+    {
       "activity": "Hospitality",
       "attackdate": "2026-09-21T00:00:00+00:00",
       "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab02fa89cd108bf26c5e025",
@@ -32,7 +64,7 @@
       "data_size": null,
       "description": "Second House (Second House, S.L.) is a privately held real estate company   \r    headquartered in Barcelona, Spain, with over 26 years of experience in the  \r    property sector. Their business model centers on buying properties and      \r    adding value to them — through renovation works, improving rental           \r    situations, and legalizing the existing state of buildings — effectively    \r    driving renewal of the real estate market in Barcelona and its surroundings.\r                                                                                \r    They are actively acquiring in the Barcelona area (including L'Hospitalet,  \r    Badalona, Sant Cugat, etc.)",
       "discovered": "2026-09-21T00:35:05.808718+00:00",
-      "domain": "",
+      "domain": "secondhouse.es",
       "group": "incransom",
       "press": null,
       "ransom": null,
@@ -48,13 +80,29 @@
       "data_size": null,
       "description": "At Bonita Orthodontics, Dr. Maryann Kriger and our friendly team provide    \r    personalized orthodontic care using state-of-the-art technology. As a       \r    board-certified orthodontist and Elite Invisalign Provider, Dr. Kriger takes\r    a conservative approach — creating simple, affordable treatment plans that  \r    deliver beautiful, lasting smiles. Call today to schedule your free         \r    consultation!\r \r We have reached out to Bonita Ortho on multiple occasions to prevent this leak, warning them that it exposes the private information of patients who are minors. Despite this, our messages have been ignored.",
       "discovered": "2026-09-21T00:34:36.706236+00:00",
-      "domain": "",
+      "domain": "bonitaortho.com",
       "group": "incransom",
       "press": null,
       "ransom": null,
       "screenshot": "https://images.ransomware.live/victims/2f361942f96d496f364104d89071329b.png",
       "url": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t",
       "victim": "Maryann Kriger"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-20T23:12:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/372f446d3ff50dd1ca3aecc6066687e5",
+      "country": "SO",
+      "data_size": null,
+      "description": "Siinqee Bank is a licensed Ethiopian financial institution that offers inclusive and innovative bank...",
+      "discovered": "2026-09-21T06:10:58.119416+00:00",
+      "domain": "siinqeebank.com",
+      "group": "lockbit5",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/11d8c9c7c0e42ca4ab4432285ac4f2bb.png",
+      "url": "https://www.ransomware.live/id/c2lpbnFlZWJhbmsuY29tQGxvY2tiaXQ1",
+      "victim": "siinqeebank.com"
     },
     {
       "activity": "Healthcare",
@@ -279,54 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/2038848f7265346314726324e3e68a68.png",
       "url": "https://www.ransomware.live/id/dm9sdGdhbWVzLmlvQHVuc2FmZQ==",
       "victim": "voltgames.io"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-19T15:30:18+00:00",
-      "claim_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=812",
-      "country": "BR",
-      "data_size": null,
-      "description": "akazzo.com.br—Akazzo Footwear specializes in exclusive fashion products, particularly focu Deadline: 2026-09-26 15:25:00.000000",
-      "discovered": "2026-09-19T16:53:14.452502+00:00",
-      "domain": "akazzo.com.br",
-      "group": "arcusmedia",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/daa2872fa95b24c7f85b106d658b28b8.png",
-      "url": "https://www.ransomware.live/id/QUtBWlpPQGFyY3VzbWVkaWE=",
-      "victim": "AKAZZO"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-19T15:30:10+00:00",
-      "claim_url": "http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/?p=813",
-      "country": "CA",
-      "data_size": null,
-      "description": "www.scomputing.ca—Schneider’s Computing & Websites Ltd. is a Canadian-owned and Deadline: 2026-09-26 15:25:00.000000",
-      "discovered": "2026-09-19T16:53:54.774549+00:00",
-      "domain": "scomputing.ca",
-      "group": "arcusmedia",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cc19f111625acbab33a94b269ff342df.png",
-      "url": "https://www.ransomware.live/id/U2NobmVpZGVy4oCZcyBDb21wdXRpbmdAYXJjdXNtZWRpYQ==",
-      "victim": "Schneider’s Computing"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-09-19T07:14:00+00:00",
-      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/cassias-mg-government/",
-      "country": "BR",
-      "data_size": null,
-      "description": "network commitment, from government credentials to justice panels, such as access to the financial sector, police, personal data, medical (SUS), RG(CIN), BIRTH CERTIFICATE, CPF (identity number in Brazil) among other data from CASSIAS.MG.GOV departments, we will give you a deadline to negotiate with us! [Size: 720.0 MB | Sector: Medical, Government, Finance]",
-      "discovered": "2026-09-19T07:50:51.612488+00:00",
-      "domain": "cassia.mg.gov.br",
-      "group": "emperador",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c2021581f800c5b83882d43d78f29c6f.png",
-      "url": "https://www.ransomware.live/id/Q2Fzc2lhcyBNRyBHb3Zlcm5tZW50QGVtcGVyYWRvcg==",
-      "victim": "Cassias MG Government"
     }
   ]
 }
