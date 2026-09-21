@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-09-21T12:10:13.962891+00:00",
+  "last_success": "2026-09-21T18:27:21.751213+00:00",
   "count": 1716,
   "items": [
     {
@@ -20,7 +20,7 @@
         "CWE-362"
       ],
       "epss": 0.0079,
-      "epss_percentile": 0.54718
+      "epss_percentile": 0.54297
     },
     {
       "cveID": "CVE-2026-53266",
@@ -38,7 +38,7 @@
         "CWE-787"
       ],
       "epss": 0.00276,
-      "epss_percentile": 0.20224
+      "epss_percentile": 0.20195
     },
     {
       "cveID": "CVE-2025-39682",
@@ -56,7 +56,7 @@
         "CWE-754"
       ],
       "epss": 0.012,
-      "epss_percentile": 0.66798
+      "epss_percentile": 0.66357
     },
     {
       "cveID": "CVE-2026-58704",
@@ -74,7 +74,7 @@
         "CWE-693"
       ],
       "epss": 0.00207,
-      "epss_percentile": 0.11161
+      "epss_percentile": 0.11142
     },
     {
       "cveID": "CVE-2026-76460",
@@ -92,7 +92,7 @@
         "CWE-648"
       ],
       "epss": 0.00784,
-      "epss_percentile": 0.54529
+      "epss_percentile": 0.54107
     },
     {
       "cveID": "CVE-2026-87886",
@@ -110,7 +110,7 @@
         "CWE-276"
       ],
       "epss": 0.00254,
-      "epss_percentile": 0.1733
+      "epss_percentile": 0.17289
     },
     {
       "cveID": "CVE-2026-76461",
@@ -128,7 +128,7 @@
         "CWE-89"
       ],
       "epss": 0.02009,
-      "epss_percentile": 0.79973
+      "epss_percentile": 0.79731
     },
     {
       "cveID": "CVE-2026-84869",
@@ -147,7 +147,7 @@
         "CWE-862"
       ],
       "epss": 0.00691,
-      "epss_percentile": 0.51363
+      "epss_percentile": 0.50979
     },
     {
       "cveID": "CVE-2026-42016",
@@ -165,7 +165,7 @@
         "CWE-863"
       ],
       "epss": 0.09058,
-      "epss_percentile": 0.95048
+      "epss_percentile": 0.95118
     },
     {
       "cveID": "CVE-2026-42018",
@@ -183,7 +183,7 @@
         "CWE-287"
       ],
       "epss": 0.11038,
-      "epss_percentile": 0.95707
+      "epss_percentile": 0.95772
     }
   ]
 }

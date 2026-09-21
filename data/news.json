@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-21T12:10:13.962891+00:00",
+  "last_success": "2026-09-21T18:27:21.751213+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "published": "Mon, 21 Sep 2026 23:01:01 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "published": "Mon, 21 Sep 2026 22:49:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "published": "Mon, 21 Sep 2026 22:27:31 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "published": "Mon, 21 Sep 2026 19:54:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "published": "Mon, 21 Sep 2026 19:45:40 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
@@ -10,70 +40,40 @@
       "published": "Mon, 21 Sep 2026 14:09:38 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "published": "Mon, 21 Sep 2026 11:36:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "Sun, 20 Sep 2026 00:06:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "Sat, 19 Sep 2026 18:58:48 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "published": "Sat, 19 Sep 2026 18:58:41 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "published": "Sat, 19 Sep 2026 15:01:17 +0530"
+      "source": "BleepingComputer",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "published": "Mon, 21 Sep 2026 14:23:11 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "published": "Mon, 21 Sep 2026 07:45:54 -0400"
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "published": "Mon, 21 Sep 2026 13:54:49 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "published": "Sun, 20 Sep 2026 10:11:21 -0400"
+      "title": "Google fined €403 million over location data privacy violations",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "published": "Mon, 21 Sep 2026 11:41:22 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "published": "Sun, 20 Sep 2026 08:00:00 -0400"
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "published": "Mon, 21 Sep 2026 10:42:37 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "published": "Sat, 19 Sep 2026 10:56:31 -0400"
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "published": "Mon, 21 Sep 2026 10:02:12 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "published": "Sat, 19 Sep 2026 10:05:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "published": "Sat, 19 Sep 2026 09:48:32 -0400"
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "published": "Mon, 21 Sep 2026 09:16:20 -0400"
     }
   ]
 }
