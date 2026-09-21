@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:21:22.921362+00:00",
+  "generated_at": "2026-09-21T13:10:32.511427+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -17,7 +17,6 @@
         2083,
         2086,
         2087,
-        8080,
         8443,
         8880
       ],
@@ -25,9 +24,10 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "bld07.conrep.com",
         "one.one.one.one",
-        "tscguestwlc.tractorsupply.com"
+        "wlc.uofnkona.edu",
+        "wlc.muni.org",
+        "muni.org"
       ]
     },
     {
