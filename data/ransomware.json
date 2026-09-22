@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-21T22:25:17.499800+00:00",
+  "last_success": "2026-09-22T01:25:02.337108+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-21T19:23:16.755341+00:00",
+      "claim_url": "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/reel/6ab17a43102e2455604e8859?page=1",
+      "country": "FI",
+      "data_size": null,
+      "description": "Revenue: $53.1 million",
+      "discovered": "2026-09-21T19:23:38.618927+00:00",
+      "domain": "kyyba.com",
+      "group": "unsafe",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/68858da022ae255bd4c9f6b357ad2cf6.png",
+      "url": "https://www.ransomware.live/id/a3l5YmEuY29tQHVuc2FmZQ==",
+      "victim": "kyyba.com"
     },
     {
       "activity": "Manufacturing",
@@ -297,36 +313,20 @@
       "victim": "newmantractor.com"
     },
     {
-      "activity": "Professional Services",
+      "activity": "Education",
       "attackdate": "2026-09-21T00:00:00+00:00",
       "claim_url": "",
       "country": "US",
       "data_size": null,
-      "description": "Prestige Management Inc. is a licensed real estate company based in New York, specializing in r\nesidential and commercial property management. The company is dedicated to providing high-quali\nty management services for property owners and residents, ensuring accountability and complianc\ne in their operations.\n\nWe will upload 20gb of corporate data soon. Employee and client information (name, address and \nso on), financials, payment details.\n",
-      "discovered": "2026-09-21T12:24:42.712887+00:00",
-      "domain": "prestigemgt.com",
-      "group": "akira",
+      "description": "Data is not available now.",
+      "discovered": "2026-09-21T18:43:08.077144+00:00",
+      "domain": "",
+      "group": "nightspire",
       "press": null,
       "ransom": null,
       "screenshot": "",
-      "url": "https://www.ransomware.live/id/UHJlc3RpZ2UgTWFuYWdlbWVudEBha2lyYQ==",
-      "victim": "Prestige Management"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-21T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=337a2e3e-edbf-4a8e-9b75-157296837da2",
-      "country": "JP",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-09-21T08:01:50.407973+00:00",
-      "domain": "www.ikegami.co.jp",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9220f43cc95b08824f8fd489fdfdfd56.png",
-      "url": "https://www.ransomware.live/id/SUtFR0FNSSBUU1VTSElOS0kgQ09NUEFOWSBMSU1JVEVEQHFpbGlu",
-      "victim": "IKEGAMI TSUSHINKI COMPANY LIMITED"
+      "url": "https://www.ransomware.live/id/U3BvKioqKiBTY2hvb2xzQG5pZ2h0c3BpcmU=",
+      "victim": "Spo**** Schools"
     }
   ]
 }
