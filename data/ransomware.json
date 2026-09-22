@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-22T07:16:38.189254+00:00",
+  "last_success": "2026-09-22T13:04:18.541576+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-22T03:37:27.960023+00:00",
+      "claim_url": "http://secponewsxgrlnirowclps2kllzaotaf5w2bsvktdnz4qhjr2jnwvvyd.onion/post/8629429a76e88003/index.html",
+      "country": "US",
+      "data_size": null,
+      "description": "The reviewed dataset is a single-snapshot, single-volume file-server tree (E:/Shares, 1.36M paths) covering NAI Earle Furman's brokerage deals, property-management portfolio (MRI accounting), broker commissions, employee home directories, and the absorbed Croxton Gray firm's data...",
+      "discovered": "2026-09-22T03:38:30.754998+00:00",
+      "domain": "",
+      "group": "secp0",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c880169e4931b8f387ce875d41fe7847.png",
+      "url": "https://www.ransomware.live/id/TkFJIEVhcmxlIEZ1cm1hbkBzZWNwMA==",
+      "victim": "NAI Earle Furman"
     },
     {
       "activity": "Retail & E-Commerce",
@@ -311,22 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/b259d2820d7b01f9c0a3a42f151a45eb.png",
       "url": "https://www.ransomware.live/id/SHlWaXNpb24gU3lzdGVtLiBJbmNAbWV0YWVuY3J5cHRvcg==",
       "victim": "HyVision System. Inc"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-09-21T13:03:26.615123+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:546fd74a211e8f61ca1b92b15def4a0d57f677788632c1b3c9da36189a34b18f/0AFC:1c31a0856f704398e38c0dee890ce56a88f702fc32322f23e985e0eedfd5fec57c1649b649e4561dc401279458754b34",
-      "country": "US",
-      "data_size": null,
-      "description": "Visual Intelligence is a managed services company that applies advances in drones, computing, and AI to assess and cleanse existing Telecom company databases, generate critical intelligence, and inform teams with a new digital core.​",
-      "discovered": "2026-09-21T13:04:07.966017+00:00",
-      "domain": "visualintelligenceinc.com",
-      "group": "metaencryptor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/769a98c0bc8b9b298c00d7c2be6fd044.png",
-      "url": "https://www.ransomware.live/id/VmlzdWFsIEludGVsbGlnZW5jZSwgSW5jLkBtZXRhZW5jcnlwdG9y",
-      "victim": "Visual Intelligence, Inc."
     }
   ]
 }

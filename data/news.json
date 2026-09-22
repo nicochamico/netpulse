@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-22T07:16:38.189254+00:00",
+  "last_success": "2026-09-22T13:04:18.541576+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "published": "Tue, 22 Sep 2026 17:15:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "published": "Tue, 22 Sep 2026 17:08:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "published": "Tue, 22 Sep 2026 16:47:41 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "published": "Tue, 22 Sep 2026 15:08:18 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "published": "Tue, 22 Sep 2026 13:22:03 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
@@ -10,34 +40,28 @@
       "published": "Tue, 22 Sep 2026 12:03:57 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "published": "Tue, 22 Sep 2026 11:33:14 +0530"
+      "source": "BleepingComputer",
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "published": "Tue, 22 Sep 2026 08:57:07 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "published": "Tue, 22 Sep 2026 11:01:59 +0530"
+      "source": "BleepingComputer",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "published": "Tue, 22 Sep 2026 08:48:06 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "published": "Mon, 21 Sep 2026 23:01:01 +0530"
+      "source": "BleepingComputer",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "published": "Tue, 22 Sep 2026 05:55:11 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "published": "Mon, 21 Sep 2026 22:49:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "published": "Mon, 21 Sep 2026 22:27:31 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "published": "Tue, 22 Sep 2026 04:53:09 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "CISA alerts of active exploitation of three Linux kernel flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
       "published": "Mon, 21 Sep 2026 16:12:17 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "published": "Mon, 21 Sep 2026 14:23:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "published": "Mon, 21 Sep 2026 13:54:49 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fined €403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "published": "Mon, 21 Sep 2026 11:41:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "published": "Mon, 21 Sep 2026 10:42:37 -0400"
     }
   ]
 }
