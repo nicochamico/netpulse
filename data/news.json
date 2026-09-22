@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-22T01:25:02.337108+00:00",
+  "last_success": "2026-09-22T07:16:38.189254+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "published": "Tue, 22 Sep 2026 12:03:57 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "published": "Tue, 22 Sep 2026 11:33:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "published": "Tue, 22 Sep 2026 11:01:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
@@ -20,24 +38,6 @@
       "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
       "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
       "published": "Mon, 21 Sep 2026 22:27:31 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "published": "Mon, 21 Sep 2026 19:54:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "published": "Mon, 21 Sep 2026 19:45:40 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "published": "Mon, 21 Sep 2026 14:09:38 +0530"
     },
     {
       "source": "BleepingComputer",
