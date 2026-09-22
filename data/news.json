@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-22T20:53:42.168777+00:00",
+  "last_success": "2026-09-22T23:28:34.401845+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "published": "Tue, 22 Sep 2026 17:45:45 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "published": "Tue, 22 Sep 2026 17:40:37 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
       "published": "Tue, 22 Sep 2026 16:35:24 -0400"
@@ -62,18 +74,6 @@
       "title": "Reducing shadow IT visibility gaps with Wazuh",
       "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
       "published": "Tue, 22 Sep 2026 13:17:41 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "published": "Tue, 22 Sep 2026 12:32:47 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "published": "Tue, 22 Sep 2026 11:00:00 -0400"
     }
   ]
 }

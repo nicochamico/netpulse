@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-22T20:53:42.168777+00:00",
+  "last_success": "2026-09-22T23:28:34.401845+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,38 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-22T18:51:01.226697+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Dear Assistant Director Brett Leatherman of the FBI Cyber Division & Director Kash Patel of the FBI, During Quarter Two of this year the Federal Bureau of Investigation (FBI) made substantial false allegations regarding our organisation in a FLASH report. We have been severely offended. We were very disappointed to see an agency of your standing would resort to such circulation of disinformation in an attempt to \"disrupt\" our operations, an effort that ultimately proved unsuccessful. For us to properly address and correct these unfounded allegations, we were compelled to adopt a forceful and assertive posture to ensure our response was fully acknowledged. This PSA today does just that. Our PSA today works to address these allegations and correct them. We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job. Whether it be a Special Agent or any other role within your agency. The following FBI services were compromised: Criminal Justice (CJ), HR, Medlink, and more. We are willing to allow you a time of 1 week to correct or simply REMOVE the 2026 Quarter 2 FLASH report on us that includes several FALSE allegations: - \"Threat actors often use their real or exaggerated claims of access to sensitive or personal information to prompt payment from victims. \" - \"To exert pressure on victims[1], SH actors commonly use harassment strategies, sending threatening text messages and phone calls to victims and their family members, and in some cases, swatting\" - \" Threat actors may falsely claim to have sensitive or compromising information, including embarrassing photographs or videos of victims, which frequently do not exist.\" We wish to state unequivocally our threats and claims are very real. Not exaggerated and never a bluff. This PSA today is living evidence of that. We wish to state unequivocally we have NEVER conducted swatting attacks against corporate victims personnel nor have we ever texted victims personnel family members any threats. We wish to state unequivocally we have NEVER claimed to have sensitive or compromising information, including embarrassing photographs and videos of victims. WE ARE NOT SEXTORTIONISTS . Finally, we wish to STATE UNEQUIVOCALLY we are NOT apart of \"The Com\". We have NEVER been apart of \"The Com\". \"The Com\" is a propaganda started by the Information Security Industry which has brainwashed past FBI and DOJ officials into formalising this nonsense. As a big believer and supporter of the U.S. Constitution - we are exercising the First Amendment and actively combating disinformation. This is not a ransom, coercion, or extortion. Your federal policies do not apply here. This PSA is NOT financially motivated. We recognise that certain statements within your FLASH report appear to stem from biased public reporting by certain journalists who have previously and intentionally propagated false narratives about our organisation in an attempt to \"disrupt\" our operations and hinder clients trust in our organisation hoping nobody pays us. Should those certain journalists and you know very well who you are, continue these unwarranted attacks and defamatory statements, we will be forced to respond in a civil manner with a commensurate and forceful defence of our reputation. As any human being would do. We welcome any and all journalists to inquire us at shinygroup@onionmail.com to hear our side of the story. Make the right decision, don't be the next headline. Thank you for your attention to this matter. -SH | Updated: 23 Sep 2026",
+      "discovered": "2026-09-22T18:51:02.990444+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UFNBIC0gUkVBRCBUSElTIE5PV0BzaGlueWh1bnRlcnM=",
+      "victim": "PSA - READ THIS NOW"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-22T17:21:46.692231+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-africatech",
+      "country": "ML",
+      "data_size": null,
+      "description": "IT services / document services · Mali | Client documents: scans, attestations, insurance and embassy files, shared business folders | Operations are fully stopped. Nothing restores without settlement — all backups and shadow copies are encrypted or destroyed. | [ACTIVE: deadline 2026-09-25 16:00 UTC]",
+      "discovered": "2026-09-22T17:22:04.310703+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/faa38495c3755b59c229ddbb55f5911f.png",
+      "url": "https://www.ransomware.live/id/QUZSSUNBLVRFQ0ggKElUIHNlcnZpY2VzIC8gZG9jdW1lbnQgcHJvY2Vzc2luZylATjBu",
+      "victim": "AFRICA-TECH (IT services / document processing)"
     },
     {
       "activity": "Not Found",
@@ -295,38 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/53407e1bccf904be2d897779e9b40cca.png",
       "url": "https://www.ransomware.live/id/SHVybGV5QHBsYXk=",
       "victim": "Hurley"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-21T22:13:56.425586+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:d324eb14e08c4bdf0fbd780782154c5c2fda058a933274ac8c8eed1ead56dc51/0AFC:8620d66f79897a22a6019e28fdc56504de558f2466d4719dafcafb9526503fc3",
-      "country": "JP",
-      "data_size": null,
-      "description": "Astemo operates worldwide as a global mega-supplier of automotive parts, with approximately 80,000 employees across the United States, Asia, China, Europe, and Japan. Through operations in three business segments (Electrification Business, Vehicle Business, and Motorcycle Business), we develop, manufacture, sell and service automotive parts, transportation and industrial machinery, equipment and systems.",
-      "discovered": "2026-09-21T22:14:32.083951+00:00",
-      "domain": "www.astemo.com/en",
-      "group": "metaencryptor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/df6be4d6983d33ebed673fb4d6b4108a.png",
-      "url": "https://www.ransomware.live/id/QXN0ZW1vLCBMdGQuQG1ldGFlbmNyeXB0b3I=",
-      "victim": "Astemo, Ltd."
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-21T21:55:42.820592+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nThe name \"Hogan Lovells Cadwalader\" does not correspond to a single known entity. Hogan Lovells and Cadwalader, Wickersham & Taft are two separate, distinct international law firms. Hogan Lovells is a global law firm formed from a 2010 merger of Hogan & Hartson and Lovells, headquartered in London and Washington D.C. Cadwalader is a US law firm founded in 1792, headquartered in New York. There is no record of a merged firm using this combined name.",
-      "discovered": "2026-09-21T21:55:47.896780+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SG9nYW4gTG92ZWxscyBDYWR3YWxhZGVyQFNpbGVudFJhbnNvbUdyb3Vw",
-      "victim": "Hogan Lovells Cadwalader"
     }
   ]
 }
