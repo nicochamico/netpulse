@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-23T03:16:33.102130+00:00",
+  "last_success": "2026-09-23T09:03:18.530122+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-23T00:22:17.057423+00:00",
+      "claim_url": "https://business-data-leaks.com/about#7d9c23f2b783dc82f6223f9b9",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-09-23T00:22:21.462121+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Vy4uLiBCLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "W... B..."
     },
     {
       "activity": "Professional Services",
@@ -311,22 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/f62e14b4770df1122e2ff3edbfaa3e86.png",
       "url": "https://www.ransomware.live/id/U2VhbGNvbkB0ZXJtaXRl",
       "victim": "Sealcon"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-09-22T00:49:33+00:00",
-      "claim_url": "http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion/post/6ab1d0eb00ab5ab6ab5a23c5",
-      "country": "US",
-      "data_size": null,
-      "description": "theLender was created to make a difference. As a group of proven industry leaders who recently founded one of the largest and fastest growing Wholesale mortgage companies in the United States, the company aims to change the stagnant landscape of Wholesale mortgage - one partnership, one loan, and one day at a time.\n",
-      "discovered": "2026-09-22T01:44:58.093768+00:00",
-      "domain": "thelender.com",
-      "group": "termite",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/398d141d0f2706b988f50b22cdde741d.png",
-      "url": "https://www.ransomware.live/id/dGhlTGVuZGVyQHRlcm1pdGU=",
-      "victim": "theLender"
     }
   ]
 }

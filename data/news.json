@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-23T03:16:33.102130+00:00",
+  "last_success": "2026-09-23T09:03:18.530122+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "published": "Wed, 23 Sep 2026 13:59:48 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "published": "Wed, 23 Sep 2026 13:59:24 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "published": "Wed, 23 Sep 2026 12:34:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "published": "Wed, 23 Sep 2026 11:00:09 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -16,28 +40,16 @@
       "published": "Tue, 22 Sep 2026 23:33:10 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "published": "Tue, 22 Sep 2026 23:28:15 +0530"
+      "source": "BleepingComputer",
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "published": "Wed, 23 Sep 2026 04:20:05 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "published": "Tue, 22 Sep 2026 22:33:31 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "published": "Tue, 22 Sep 2026 22:11:12 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "published": "Tue, 22 Sep 2026 21:44:04 +0530"
+      "source": "BleepingComputer",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "published": "Wed, 23 Sep 2026 03:17:23 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "published": "Tue, 22 Sep 2026 15:13:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "published": "Tue, 22 Sep 2026 14:04:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "published": "Tue, 22 Sep 2026 13:17:41 -0400"
     }
   ]
 }
