@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-23T18:48:55.532146+00:00",
+  "last_success": "2026-09-23T22:01:49.319652+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": "Wed, 23 Sep 2026 23:36:30 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -34,10 +40,16 @@
       "published": "Wed, 23 Sep 2026 17:46:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "published": "Wed, 23 Sep 2026 17:17:19 +0530"
+      "source": "BleepingComputer",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "published": "Wed, 23 Sep 2026 17:25:13 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "published": "Wed, 23 Sep 2026 15:53:54 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
       "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
       "published": "Wed, 23 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "published": "Wed, 23 Sep 2026 08:29:53 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "published": "Wed, 23 Sep 2026 07:18:13 -0400"
     }
   ]
 }
