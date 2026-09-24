@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:55:21.423376+00:00",
+  "generated_at": "2026-09-24T05:54:30.838135+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,22 +12,17 @@
         80,
         443,
         2052,
-        2053,
-        2082,
-        2083,
         2086,
         2087,
-        8080,
-        8443,
-        8880
+        8080
       ],
       "risky_ports": [],
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "guest.wesleycollege.net",
+        "dck.com.ru",
         "one.one.one.one",
-        "wifilogin.hydro.mb.ca"
+        "wlc-prival.prival.com"
       ]
     },
     {
