@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-24T07:09:45.524188+00:00",
+  "last_success": "2026-09-24T13:11:44.581738+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-24T08:44:46.503372+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Good afternoon, We have no further comments to make regarding our PSA statement we released the other day. Our organisation is highly confident we have achieved our goal and our intentions we repeatedly made clear to journalists and in our public statements. There is 5 days remaining still. We have no comment yet regarding what we will do if the victim entity does not comply with our kind request . Nonetheless, we got what we wanted and we have a business to run and operate as usual. We will not be responding to any press inquiries about this and we will not be sharing updates about other datasets we have that we did not yet disclose to the public. We reiterate and want to assiduously emphasise we are NOT extorting the victim in question, this is NOT financially motivated and this is NOT a ransom. Thank you for your time and attention to this matter. This is now old news. Regards, SH | Updated: 24 Sep 2026",
+      "discovered": "2026-09-24T08:44:48.048248+00:00",
+      "domain": "",
+      "group": "shinyhunters",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RmluYWwgc3RhdGVtZW50IHJlIFBTQUBzaGlueWh1bnRlcnM=",
+      "victim": "Final statement re PSA"
     },
     {
       "activity": "Other",
@@ -311,22 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/e5ee0a1d77c174ffb6505edf79307edf.png",
       "url": "https://www.ransomware.live/id/U2V6bmFtQG1lZHVzYWxvY2tlcg==",
       "victim": "Seznam"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-23T07:39:19.606774+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/barayaj/",
-      "country": "BG",
-      "data_size": null,
-      "description": "Organization with 583 emails extracted. Domain: abv.bg | Sofia, Bulgaria",
-      "discovered": "2026-09-23T07:39:33.505905+00:00",
-      "domain": "abv.bg",
-      "group": "medusalocker",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9e82ba523d71247ce7b8048637db1ad8.png",
-      "url": "https://www.ransomware.live/id/QWJ2QG1lZHVzYWxvY2tlcg==",
-      "victim": "Abv"
     }
   ]
 }
