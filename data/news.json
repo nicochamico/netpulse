@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-23T22:01:49.319652+00:00",
+  "last_success": "2026-09-24T01:02:57.392659+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "published": "Wed, 23 Sep 2026 18:46:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
       "published": "Wed, 23 Sep 2026 17:25:13 -0400"
@@ -68,12 +74,6 @@
       "title": "InfraTrust report warns network management systems under attack",
       "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
       "published": "Wed, 23 Sep 2026 10:35:26 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "published": "Wed, 23 Sep 2026 10:01:11 -0400"
     }
   ]
 }

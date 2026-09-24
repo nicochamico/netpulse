@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-23T22:01:49.319652+00:00",
+  "last_success": "2026-09-24T01:02:57.392659+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,38 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-23T19:20:12.330662+00:00",
+      "claim_url": "http://uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion/leaks",
+      "country": "",
+      "data_size": null,
+      "description": "Abtach Ltd. was renamed Intersys Ltd.—a Pakistani company engaged in fraud targeting the US. The company’s employees charged fees for services that did not actually exist.\nThe company’s founder, Azneem Bilwani, was involved in the illicit trafficking of synthetic opioids and fentanyl analogues, which were supplied to the US market via the eWorldTrade marketplace.\n\nWe encrypted all virtual machines and snapshots on their ESXi hypervisors and all files on employee computers, and exfiltrated 1.5 TB of data from their infrastructure. We possess all their documents and bank records, which contain evidence of Azneem Bilwani’s illegal activities.\nWill be published soon... | Severity: HIGH | Size: 1.5 TB | Status: selling | $100,000",
+      "discovered": "2026-09-23T19:20:51.283138+00:00",
+      "domain": "",
+      "group": "Barracuda",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0189c8e1c75d6904bc4236ef6d4c57a4.png",
+      "url": "https://www.ransomware.live/id/QWJ0YWNoIEx0ZC5AQmFycmFjdWRh",
+      "victim": "Abtach Ltd."
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-23T18:20:21.602297+00:00",
+      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/goldstarfinancial",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] N/A\n\nI don't have reliable, verified information about a specific company operating at \"goldstarfinancial.com.\" There are multiple businesses that have used similar \"Gold Star Financial\" naming conventions in different jurisdictions (this is a fairly generic name used by mortgage brokers, lending companies, and financial services firms in various countries), so I cannot confidently confirm which specific entity this domain refers to, its current operational status, ownership, or verified business details without risking inaccurate attribution.\n\nIf you can provide additional context (such as the specific country, registration details, or services advertised on the site), I can help assess it more accurately. Alternatively, if this is for threat intelligence purposes, I'd recommend verifying details through domain registration records (WHOIS), business registries, or regulatory filings relevant to",
+      "discovered": "2026-09-23T18:20:39.427019+00:00",
+      "domain": "goldstarfinancial.com",
+      "group": "BrainCipher",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/bf0ec893b5d206a86c0808c4488cf923.png",
+      "url": "https://www.ransomware.live/id/Z29sZHN0YXJmaW5hbmNpYWwuY29tQEJyYWluQ2lwaGVy",
+      "victim": "goldstarfinancial.com"
     },
     {
       "activity": "Manufacturing",
@@ -295,38 +327,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SElUIGRkQGFraXJh",
       "victim": "HIT dd"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-23T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Apex Litigation Support is a business that provides comprehensive litigation services to attorn\neys and law firms. Our team of experienced professionals is committed to delivering accurate an\nd timely results that exceed our client's expectations.\n\nWe will upload 77gb of corporate data soon. Detailed employee and clients personal information \n(passports, licenses, names, addresses, phones, emails and so on), personal financials, confide\nntial files, enormous amount of client data, lots of NDAs and so on.\n",
-      "discovered": "2026-09-23T12:23:15.329907+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QXBleCBMaXRpZ2F0aW9uIFN1cHBvcnRAYWtpcmE=",
-      "victim": "Apex Litigation Support"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-22T22:52:30.574908+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Clark Hill (Clark Hill PLC) is a full-service law firm headquartered in Detroit, Michigan, United States. It operates in the legal services industry, providing counsel across practice areas including corporate law, litigation, labor and employment, intellectual property, cybersecurity, government relations, and healthcare law. The firm serves businesses, governments, and individuals through multiple offices across the United States and internationally.",
-      "discovered": "2026-09-22T22:52:34.143004+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Q2xhcmsgSGlsbEBTaWxlbnRSYW5zb21Hcm91cA==",
-      "victim": "Clark Hill"
     }
   ]
 }
