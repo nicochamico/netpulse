@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-24T13:11:44.581738+00:00",
+  "last_success": "2026-09-24T18:09:52.141468+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "published": "Thu, 24 Sep 2026 20:57:32 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "published": "Thu, 24 Sep 2026 19:59:06 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
@@ -28,16 +40,22 @@
       "published": "Thu, 24 Sep 2026 12:37:25 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "published": "Thu, 24 Sep 2026 12:02:03 +0530"
+      "source": "BleepingComputer",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "published": "Thu, 24 Sep 2026 13:47:44 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "published": "Thu, 24 Sep 2026 11:06:18 +0530"
+      "source": "BleepingComputer",
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "published": "Thu, 24 Sep 2026 10:02:12 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "published": "Thu, 24 Sep 2026 09:27:57 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
       "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "published": "Thu, 24 Sep 2026 05:38:53 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "published": "Thu, 24 Sep 2026 04:14:47 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "published": "Wed, 23 Sep 2026 18:46:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "published": "Wed, 23 Sep 2026 17:25:13 -0400"
     }
   ]
 }
