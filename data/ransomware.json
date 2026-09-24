@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-24T01:02:57.392659+00:00",
+  "last_success": "2026-09-24T07:09:45.524188+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,54 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-24T02:20:17.407267+00:00",
+      "claim_url": "http://uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion/leaks",
+      "country": "AR",
+      "data_size": null,
+      "description": "This is a small company of 4-5 people, yet it has big clients in the oil production sector.\nUnfortunately, the company neglected data security, allowing us to gain access to all their confidential files - projects, documents, blueprints, and so on.\nThe company has been ignoring us for five days now, and we will soon publish their files. This is a warning. We do not wish to harm anyone, but we are prepared to inflict maximum damage.\nVictim website: https://www.solucioning.com/ | Severity: HIGH | Size: 463 GB | Status: selling | $100,000",
+      "discovered": "2026-09-24T02:21:19.755959+00:00",
+      "domain": "",
+      "group": "Barracuda",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0189c8e1c75d6904bc4236ef6d4c57a4.png",
+      "url": "https://www.ransomware.live/id/U29sdWNpb25pbmcgUy5BLkBCYXJyYWN1ZGE=",
+      "victim": "Solucioning S.A."
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-24T01:21:35.046377+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Revenue: Revenue: $229 million\n\neTeam Inc. is a privately held global workforce solutions and business transformation company. Founded in 1999 by Ben Thakur, the company is certified as a Minority Business Enterprise (MBE). It has grown from a boutique IT staffing agency into a massive global network, managing thousands of internal employees and contract workers across continents. We successfully exfiltrated all employee records (15K), including full names, email addresses, home addresses, DOBs, SSNs, phone numbers, contracts, managers, hire dates, salaries and more. We engaged with eTeam privately some time back, and now we are going public with the announcement as eTeam was negligent of the incident that took place then. We're giving you one more chance. Speak soon or leak soon!",
+      "discovered": "2026-09-24T01:21:36.513046+00:00",
+      "domain": "",
+      "group": "EndZone",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/ZVRlYW1ARW5kWm9uZQ==",
+      "victim": "eTeam"
+    },
+    {
+      "activity": "Transportation",
+      "attackdate": "2026-09-23T20:07:00+00:00",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/ontrac/",
+      "country": "US",
+      "data_size": null,
+      "description": "OnTrac is a major last-mile e-commerce delivery company formed by the 2021 merger of LaserShip and OnTrac. It positions itself as a direct alternative to FedEx and UPS, offering coast-to-coast coverage, 7-day-a-week operations, and competitive rates to reach over 75% of the U.S. population.\n\nWe hold your full employee database, 197k records of employee PII:\n\nemployeeNumber,xrefCode,firstName,middleName,lastName,loginId,employeeId,hireDate,originalHireDate,startDate,terminated,roles,legalEntity,legalEntityAddress,homePhone,mobilePhone,businessPhone,businessMobile,pager,personalFax,personalEmail,businessEmail,facebook,linkedin,addressPrimary1,addressPrimary2,addressMailing1,addressMailing2,userApproved,nativeAuth,culture\n\nWe demand an amount of 1 million, otherwise your data WILL be publicly posted.\n\nInstructions will be emailed to you shortly.\n\nIf you do not receive them, contact me on session, or email me.\n\nSession: 05651c7323273b723588d47455471ee9e27feb5187a30f2933554a705aacb38358\nEmail: xdlmfao@morke.ru, kajsdsalkufsaoiuairw7@outlook.com\n\n(I prefer session.)\n\nIf you do not cooperate, your partners and employees will be targeted.\n\nEmails were sent to: webcustomerservice@ontrac.com, customerservice@ontrac.com, softwaresupport@ontrac.com, softwaresupport@ontrac.com, apisupport@ontrac.com, RSaiz@OnTrac.com, scorral@ontrac.com, SMcCandless@OnTrac.com [Sector: Retail, Transportation]",
+      "discovered": "2026-09-23T20:51:04.749900+00:00",
+      "domain": "",
+      "group": "emperador",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/99b55914d402f242236a1b483b167508.png",
+      "url": "https://www.ransomware.live/id/T25UcmFjQGVtcGVyYWRvcg==",
+      "victim": "OnTrac"
     },
     {
       "activity": "Not Found",
@@ -279,54 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/9e82ba523d71247ce7b8048637db1ad8.png",
       "url": "https://www.ransomware.live/id/QWJ2QG1lZHVzYWxvY2tlcg==",
       "victim": "Abv"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-23T00:22:17.057423+00:00",
-      "claim_url": "https://business-data-leaks.com/about#7d9c23f2b783dc82f6223f9b9",
-      "country": "",
-      "data_size": null,
-      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-      "discovered": "2026-09-23T00:22:21.462121+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/Vy4uLiBCLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "victim": "W... B..."
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-23T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Urban Engineering is a company that specializes in providing engineering services. They focus o\nn delivering innovative solutions for various projects. Their intended clients include business\nes and organizations seeking professional engineering expertise. The company is headquartered i\nn Annandale, Virginia.\n\nWe will upload 20gb of corporate data soon. Employee information, projects, lots of financial d\nocuments, contracts and agreements, NDAs and so on.\n",
-      "discovered": "2026-09-23T13:24:53.745474+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VXJiYW4gRW5naW5lZXJpbmdAYWtpcmE=",
-      "victim": "Urban Engineering"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-23T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "HIT d.d. is a prominent entertainment and gaming provider based in Nova Gorica, Slovenia, offer\ning a diverse range of services including hotels, casinos, wellness centers, and dining options\n. With over 40 years of experience, the company operates multiple resorts and entertainment ven\nues across Slovenia and Bosnia and Herzegovina, catering to both local and international client\ns.\n\nWe will upload 367gb of corporate data soon. Detailed employee personal information (passports,\nlicenses, names, addresses, phones, email and so on), financials, confidential agreements, cli\nent data, interesting casino files, NDAs and so on.\n",
-      "discovered": "2026-09-23T12:23:35.249184+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SElUIGRkQGFraXJh",
-      "victim": "HIT dd"
     }
   ]
 }
