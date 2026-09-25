@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-25T05:46:53.458785+00:00",
+  "last_success": "2026-09-25T11:06:49.051143+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-25T03:21:29.623423+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-tapclicks",
+      "country": "US",
+      "data_size": null,
+      "description": "Marketing analytics / SaaS · United States | The complete platform source code (97,000+ commits with full history); The multi-tenant instance management system with production architecture; A customer's full marketing database: 354 advertising platform datasets, client lists, user accounts with password hashes, ad-platform connection credentials | Everything is real, complete and verifiable. | [ACTIVE: deadline 2026-09-28 01:59 UTC]",
+      "discovered": "2026-09-25T03:21:46.506246+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/71e340002e041eb6b6f6bee0721021ab.png",
+      "url": "https://www.ransomware.live/id/VGFwQ2xpY2tzIChtYXJrZXRpbmcgYW5hbHl0aWNzIHBsYXRmb3JtKUBOMG4=",
+      "victim": "TapClicks (marketing analytics platform)"
     },
     {
       "activity": "Financial Services",
@@ -311,22 +327,6 @@
       "screenshot": "https://images.ransomware.live/victims/0189c8e1c75d6904bc4236ef6d4c57a4.png",
       "url": "https://www.ransomware.live/id/U29sdWNpb25pbmcgUy5BLkBCYXJyYWN1ZGE=",
       "victim": "Solucioning S.A."
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-24T01:21:35.046377+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Revenue: Revenue: $229 million\n\neTeam Inc. is a privately held global workforce solutions and business transformation company. Founded in 1999 by Ben Thakur, the company is certified as a Minority Business Enterprise (MBE). It has grown from a boutique IT staffing agency into a massive global network, managing thousands of internal employees and contract workers across continents. We successfully exfiltrated all employee records (15K), including full names, email addresses, home addresses, DOBs, SSNs, phone numbers, contracts, managers, hire dates, salaries and more. We engaged with eTeam privately some time back, and now we are going public with the announcement as eTeam was negligent of the incident that took place then. We're giving you one more chance. Speak soon or leak soon!",
-      "discovered": "2026-09-24T01:21:36.513046+00:00",
-      "domain": "",
-      "group": "EndZone",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/ZVRlYW1ARW5kWm9uZQ==",
-      "victim": "eTeam"
     }
   ]
 }
