@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-25T20:14:03.328338+00:00",
+  "last_success": "2026-09-25T23:47:41.721608+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "published": "Fri, 25 Sep 2026 17:41:07 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "published": "Fri, 25 Sep 2026 16:57:55 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
       "published": "Fri, 25 Sep 2026 14:13:33 -0400"
@@ -62,18 +74,6 @@
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
       "published": "Fri, 25 Sep 2026 10:54:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "published": "Fri, 25 Sep 2026 10:51:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "published": "Fri, 25 Sep 2026 08:40:59 -0400"
     }
   ]
 }
