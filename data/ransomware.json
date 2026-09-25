@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-24T21:56:43.149960+00:00",
+  "last_success": "2026-09-25T00:19:14.950214+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,54 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-09-24T20:00:52.235789+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/pending-6ab577d1234c6-1790277585/",
+      "country": "SA",
+      "data_size": null,
+      "description": "efada.sa...",
+      "discovered": "2026-09-24T20:01:08.851154+00:00",
+      "domain": "efada.sa",
+      "group": "krybit",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c57cd22c5cbc6bf7fe9cc269cd8bed49.png",
+      "url": "https://www.ransomware.live/id/ZWZhZGEuc2FAa3J5Yml0",
+      "victim": "efada.sa"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-24T18:01:13.290204+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=277",
+      "country": "",
+      "data_size": null,
+      "description": "NEAD Pro Nead Pro is a professional multidisciplinary firm based in Gorizia and Udine, Italy, that provides legal, tax, bankruptcy, and accounting consulting services.What it is: a network share belonging to two Italian professional firms located at Via Roma 20, Gorizia (Friuli-Venezia Giulia):NEAD SRL (NORTH EAST ADVISORS S.R.L.) - an accounting firm, dottore commercialista, P.IVA 01114220310, REA GO-72906;NEAD PRO - PROFESSIONISTI RIUNITI - a law firm, P.IVA 01157140318.Volume: ~575,000 files / ~253 GB. The root contains a single branch Nuova directory\\NEAD\\ (plus an empty Documenti folder and a scatter of PDF scans at the root level).Structure and contents:Branch\tVolume\tContentsNEAD PRO SITE - Documenti 231,137 files / 193.5 GB\tLaw firm: 03.PRATICHE (46,620 files: CIVILE 9,665, PENALE 537, SOVRAINDEBITAMENTO 1,208), 04. INCARICHI (85,321: FALLIMENTI 22,492, ESECUZIONI 28,509, ADS 14,547, TRUST, CURATELE), SEGRETERIA with CREDENZIALI VARIE.xlsx (~40 firm accounts: SPID, PEC, banks, 2 cards with full PAN+CVC, safe code), bank scans (BANCOMAT PIN, BCC agreements)NEAD SRL SITE - Documenti 101,125 / 55.3 GB\tAccounting firm: 03.CLIENTI - 199 active + 184 former client folders (730, CU, F24, contracts), 44 private SOGEI Entratel .P12 keys (signing clients' tax returns), ISA/IRAP tax filings 2019�2020, client master data, Account.xlsxPRIMA NOTA - Documenti\t1,885 / 871 MB\tCash books 2019�2026 (21 xlsx): CASSA / CONTO CORRENTE / POS / CARTA / SISTERPOWERBI - Documenti\t548 / 627 MB\t37 financial BI models .pbix (BI_ISIDE, BI_NEAD, ATHENA, PNAI)ARCHIVIO\t921 / 2.6 GB\tMPS bank statements 2020�2024, NEAD SRL account closure, firm mail archivePOSTA SARDAMAR / PANEGIOCHI / ISIDE / ADMIN SRL\t~165+ / ~174 MB\tClient and firm mail: IVECO Capital leasing, accertamento Agenzia Entrate, Capitaneria di Porto, verbali poliziaES. IMM. 112-2024\t10 files\tReal-estate enforcement proceedings (Tribunale di Gorizia): bank statements and CIE (ID cards) of auction participantsNEAD root ~85 PDF / 127 MB\tScanned bank statements, F24 forms, IPZS envelope with the PIN/PUK of a CIE cardMost sensitive data: client dossiers with tax codes (codici fiscali), court case files (civil/criminal/bankruptcy), medical documents (Art. 9 GDPR), the firm's credential database with full PAN+CVC of two cards and the safe code, 52 Entratel electronic signature keys, ~100 SEPA mandates with IBANs and signatures, client PST archives (7.5 GB), a client's Huawei phone backup (Facebook/Gmail/Telegram databases), passports of foreign shareholders.    More",
+      "discovered": "2026-09-24T18:01:29.579614+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/69cc1c8f2f490aa82926d9b05b639e60.png",
+      "url": "https://www.ransomware.live/id/TkVBRCBQcm9Acmh5c2lkYQ==",
+      "victim": "NEAD Pro"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-24T16:49:16.111000+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab5548c9cd108bf2677a835",
+      "country": "MO",
+      "data_size": null,
+      "description": "full data all country",
+      "discovered": "2026-09-24T17:58:23.744897+00:00",
+      "domain": "",
+      "group": "incransom",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/98bcc4e8f63753a9a40d49f00475f9d8.png",
+      "url": "https://www.ransomware.live/id/Ym5sYXdtYWNhdS5jb20gd3d3LmJuLWlwLmNvbUBpbmNyYW5zb20=",
+      "victim": "bnlawmacau.com www.bn-ip.com"
     },
     {
       "activity": "Not Found",
@@ -279,54 +327,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/V2FsbGF0ZWNAYWtpcmE=",
       "victim": "Wallatec"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-09-24T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=02785247-5bb1-42b8-aa7f-3dd0d96e2dc3",
-      "country": "FR",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-09-24T13:46:11.050170+00:00",
-      "domain": "coopagora.fr",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0077ee6083f15318978ce7ac709eadd8.png",
-      "url": "https://www.ransomware.live/id/QWdvcmEgY29vcMOpcmF0aXZlIGFncmljb2xlQHFpbGlu",
-      "victim": "Agora coopérative agricole"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-24T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Strack Construction is a commercial and industrial construction contractor headquartered in St.\nJoseph, Minnesota. Founded in 1938, the family-owned company provides design-build, general co\nntracting, construction management, and real estate development services.\n\nWe will upload 60gb of corporate data soon. Employee information, projects (drawings and specif\nications), detailed financials, client information, NDAs and so on.\n",
-      "discovered": "2026-09-24T13:26:41.048603+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U3RyYWNrIENvbXBhbmllc0Bha2lyYQ==",
-      "victim": "Strack Companies"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-09-24T00:00:00+00:00",
-      "claim_url": "http://o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion/italy.html",
-      "country": "IT",
-      "data_size": null,
-      "description": "Italy is being exposed for failing to follow proper data protection laws.\r\n\r\nIncludes 85,000+ Files — 150GB. Top departments, units, offices affected.",
-      "discovered": "2026-09-24T13:21:32.131653+00:00",
-      "domain": "",
-      "group": "ImNotAVillain",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/aa1ea13dd495456ab227aac7862c5688.png",
-      "url": "https://www.ransomware.live/id/SXRhbHlASW1Ob3RBVmlsbGFpbg==",
-      "victim": "Italy"
     }
   ]
 }
