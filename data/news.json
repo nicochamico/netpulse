@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-25T16:30:21.407630+00:00",
+  "last_success": "2026-09-25T20:14:03.328338+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "published": "Fri, 25 Sep 2026 14:13:33 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "published": "Fri, 25 Sep 2026 13:24:20 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
       "published": "Fri, 25 Sep 2026 12:00:00 -0400"
@@ -62,18 +74,6 @@
       "title": "Microsoft plans to deprecate Windows Deployment Services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
       "published": "Fri, 25 Sep 2026 08:40:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "published": "Fri, 25 Sep 2026 07:35:14 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "published": "Fri, 25 Sep 2026 06:30:38 -0400"
     }
   ]
 }
