@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-25T00:19:14.950214+00:00",
+  "last_success": "2026-09-25T05:46:53.458785+00:00",
   "count": 100,
   "items": [
     {
@@ -23,6 +23,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
       "victim": "Paylogix"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-24T22:23:54.647205+00:00",
+      "claim_url": "",
+      "country": "UG",
+      "data_size": null,
+      "description": "Armada Credit Bureau Limited is a duly licensed credit reporting and analytics company",
+      "discovered": "2026-09-24T22:23:56.245321+00:00",
+      "domain": "www.armadacrb.co.ug",
+      "group": "Spirals",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QXJtYWRhIENyZWRpdCBCdXJlYXVAU3BpcmFscw==",
+      "victim": "Armada Credit Bureau"
     },
     {
       "activity": "Other",
@@ -311,22 +327,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/ZVRlYW1ARW5kWm9uZQ==",
       "victim": "eTeam"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-09-24T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Wallatec creates high-performance carbonation systems for restaurants and busy kitchens. Their \nequipment is built to handle intense daily use, working perfectly even in the most hectic envir\nonments.\n\nWe will upload 15gb of corporate data soon. Employee information (passports), projects, financi\nals, client information and so on.\n",
-      "discovered": "2026-09-24T13:56:18.753785+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V2FsbGF0ZWNAYWtpcmE=",
-      "victim": "Wallatec"
     }
   ]
 }
