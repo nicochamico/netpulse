@@ -1,28 +1,24 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-25T11:06:49.051143+00:00",
+  "last_success": "2026-09-25T16:30:21.407630+00:00",
   "count": 100,
   "items": [
     {
-      "activity": "Financial Services",
-      "attackdate": "2026-11-18 00:00:00.000000",
-      "claim_url": "",
-      "country": "US",
+      "activity": "Healthcare",
+      "attackdate": "2026-09-25T09:25:00+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6ab630619cd108bf2694b2ef",
+      "country": "MA",
       "data_size": null,
-      "description": "Paylogix is an insuretech pioneer offering premium technology sol\nutions that streamline the administration of voluntary benefits. \nTheir robust suite of services includes enrollment, premium billi\nng, alternative funding, and a software-as-a-service platform tai\nlored for groups of all sizes.\n\nWe will upload 185gb of corporate data soon. Employee personal in\nformation (complete information about 130 employees including SSN\ns, passports, DLs and so on), client information, detailed financ\nials, internal confidential files, NDAs and so on.\n",
-      "discovered": "2026-01-15T13:48:29.435004+00:00",
-      "domain": "paylogix.com",
-      "group": "akira",
-      "press": {
-        "link": "https://www.ransomware.live/id/cGF5bG9naXguY29tQDIwMjYtMTEtMTg=",
-        "source": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
-        "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026."
-      },
+      "description": "Pharma5\r \r 21, Rue des Asphodèles, Maârif Extension, 20100 Casablanca, Morocco\r 05 22 23 62 15\r pharma5.ma\r \r Leaked data: 50Gb\r \r Corporate and financial information, data on products and their supply, quality control and certification, drug testing and related issues, employee personal data, counterparties, and much more.",
+      "discovered": "2026-09-25T10:33:40.339269+00:00",
+      "domain": "pharma5.ma",
+      "group": "incransom",
+      "press": null,
       "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UGF5bG9naXhAYWtpcmE=",
-      "victim": "Paylogix"
+      "screenshot": "https://images.ransomware.live/victims/4312a13a1e8029539c51478c38efc838.png",
+      "url": "https://www.ransomware.live/id/cGhhcm1hNS5tYUBpbmNyYW5zb20=",
+      "victim": "pharma5.ma"
     },
     {
       "activity": "Technology",
