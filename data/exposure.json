@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:16:17.608135+00:00",
+  "generated_at": "2026-09-25T17:26:13.696123+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,6 +12,7 @@
         80,
         443,
         2052,
+        2083,
         2086,
         2087,
         8080
@@ -20,9 +21,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dck.com.ru",
-        "one.one.one.one",
-        "wlc-prival.prival.com"
+        "co-srcs-ca.schoolloop.com",
+        "cchs-blsd-id.schoolloop.com",
+        "one.one.one.one"
       ]
     },
     {
