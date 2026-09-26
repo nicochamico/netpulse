@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:25:05.798561+00:00",
+  "generated_at": "2026-09-26T22:06:28.628605+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -15,14 +15,16 @@
         2083,
         2086,
         2087,
-        8080
+        8080,
+        8443
       ],
       "risky_ports": [],
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "co-srcs-ca.schoolloop.com",
-        "cchs-blsd-id.schoolloop.com",
+        "qa.areeba.com",
+        "demona.tredire.stg.go.com",
+        "areeba.com",
         "one.one.one.one"
       ]
     },
