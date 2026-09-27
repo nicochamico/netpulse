@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-27T06:11:27.182293+00:00",
+  "last_success": "2026-09-27T12:43:26.068988+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published": "Sun, 27 Sep 2026 13:17:57 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
@@ -32,12 +38,6 @@
       "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
       "published": "Sat, 26 Sep 2026 14:19:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "published": "Sat, 26 Sep 2026 13:18:33 +0530"
     },
     {
       "source": "BleepingComputer",
