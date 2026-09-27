@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-27T20:51:42.606781+00:00",
+  "last_success": "2026-09-27T23:37:36.103535+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-09-27T17:02:48.801719+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=dc126a0f-d8c2-4bee-84ac-31e60c0d895f",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-27T17:03:11.072620+00:00",
+      "domain": "www.xicoled.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8e9803afb3f40dd817646d2cfc9b7423.png",
+      "url": "https://www.ransomware.live/id/WElDT0BxaWxpbg==",
+      "victim": "XICO"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-27T17:02:01.210817+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=507b6770-93b2-456b-bc96-6e4b2bb9ce72",
+      "country": "CA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-09-27T17:02:29.099119+00:00",
+      "domain": "www.island.ca",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e67d48837df25a7c3291e388e863e319.png",
+      "url": "https://www.ransomware.live/id/SXNsYW5kQHFpbGlu",
+      "victim": "Island"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-09-27T16:05:31.762329+00:00",
@@ -67,6 +99,22 @@
       "screenshot": "https://images.ransomware.live/victims/1196d425cb2e61cd0e080e3037159081.png",
       "url": "https://www.ransomware.live/id/Q2FyIFNlcnZpY2UgQWJzY2hsZXBwQGVtcGVyYWRvcg==",
       "victim": "Car Service Abschlepp"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-09-27T05:26:29+00:00",
+      "claim_url": "http://yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion/company/6ab8a905528b12a7cec1aca5",
+      "country": "US",
+      "data_size": null,
+      "description": "First Secure Bank Group is a U.S.-based financial services organization focused on providing community-oriented banking solutions to individuals, families, and businesses. The group operates through affiliated banking institutions, including First Secure Bank and The State Bank Group. Its services include personal and business checking and savings accounts, commercial and consumer lending, mortgages, online banking, treasury services, and other financial products. First Secure Bank Group emphasizes personalized customer service, long-term relationships, and supporting the financial growth of the communities it serves. Through its network of banking institutions, the group provides accessible financial solutions while maintaining a strong focus on local businesses, community development, and responsible banking practices. \nThe company headquarters is located in 2175 Oneida St, Joliet, IL 60435, USA. 51-200 Employees",
+      "discovered": "2026-09-27T17:53:23.053212+00:00",
+      "domain": "",
+      "group": "Storm",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ba031767fe565c001f7184fb09c09fd3.png",
+      "url": "https://www.ransomware.live/id/Rmlyc3QgU2VjdXJlIEJhbmsgR3JvdXBAU3Rvcm0=",
+      "victim": "First Secure Bank Group"
     },
     {
       "activity": "Technology",
@@ -275,54 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/R1RGTUBXYWxsc3RyZWV0",
       "victim": "GTFM"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-09-25T15:26:43+00:00",
-      "claim_url": "",
-      "country": "GB",
-      "data_size": null,
-      "description": "AR Valve Resources is a UK-based distributor of industrial valves, actuators, regulators, instrumentation, and spare parts. Based in Kent, the company serves national and international customers with product sourcing, technical support, testing, certification, documentation, and shipping services.",
-      "discovered": "2026-09-25T15:53:37.201195+00:00",
-      "domain": "ar-resources.com",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QXIgVmFsdmUgUmVzb3VyY2VzQFdhbGxzdHJlZXQ=",
-      "victim": "Ar Valve Resources"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-09-25T15:25:53+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Tobin & Company, CPA’s is a small accounting firm based in Harrison, New York, providing accounting, tax, auditing, and business consulting services, with a particular focus on nonprofit organizations.",
-      "discovered": "2026-09-25T15:53:56.395279+00:00",
-      "domain": "tobinandco.com",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VG9iaW4gJiBDb21wYW55QFdhbGxzdHJlZXQ=",
-      "victim": "Tobin & Company"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-25T15:24:26+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Breast Implant Center of Hawaii is a plastic surgery and aesthetics clinic serving patients across Hawaii. Based in Kailua-Kona, it offers breast augmentation, implant revision, breast lifts, body contouring.",
-      "discovered": "2026-09-25T15:25:13.785460+00:00",
-      "domain": "breastimplantcenterofhawaii.com",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QnJlYXN0IEltcGxhbnQgQ2VudGVyIG9mIEhhd2FpaUBXYWxsc3RyZWV0",
-      "victim": "Breast Implant Center of Hawaii"
     }
   ]
 }
