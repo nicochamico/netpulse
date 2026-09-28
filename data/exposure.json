@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:16:04.997602+00:00",
+  "generated_at": "2026-09-28T21:19:13.346173+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -22,10 +22,10 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "crguest.winston.com",
-        "winston.com",
-        "guest.schaefer-peters.com"
+        "qa.areeba.com",
+        "demona.tredire.stg.go.com",
+        "areeba.com",
+        "one.one.one.one"
       ]
     },
     {
@@ -40,7 +40,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "other.dev.ops.dsb.no"
       ]
     }
   ],
