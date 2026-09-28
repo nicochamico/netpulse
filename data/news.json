@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-28T18:25:29.155788+00:00",
+  "last_success": "2026-09-28T23:40:56.190651+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": "Tue, 29 Sep 2026 00:48:01 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": "Tue, 29 Sep 2026 00:05:42 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "published": "Mon, 28 Sep 2026 23:50:38 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "published": "Mon, 28 Sep 2026 23:12:18 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "published": "Mon, 28 Sep 2026 23:08:33 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
@@ -10,34 +40,28 @@
       "published": "Mon, 28 Sep 2026 19:30:53 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "published": "Mon, 28 Sep 2026 17:28:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "published": "Mon, 28 Sep 2026 16:56:47 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "published": "Mon, 28 Sep 2026 17:16:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "published": "Mon, 28 Sep 2026 16:31:16 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "published": "Mon, 28 Sep 2026 14:38:21 +0530"
+      "source": "BleepingComputer",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "published": "Mon, 28 Sep 2026 15:49:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "published": "Mon, 28 Sep 2026 12:51:49 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "published": "Sun, 27 Sep 2026 13:17:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "published": "Mon, 28 Sep 2026 14:50:59 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
       "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
       "published": "Mon, 28 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "published": "Mon, 28 Sep 2026 05:25:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "published": "Mon, 28 Sep 2026 03:30:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "published": "Mon, 28 Sep 2026 02:24:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "published": "Sun, 27 Sep 2026 19:40:39 -0400"
     }
   ]
 }
