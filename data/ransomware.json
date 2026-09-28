@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-27T23:37:36.103535+00:00",
+  "last_success": "2026-09-28T03:35:27.391315+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-27T22:10:38+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/ressources-si",
+      "country": "FR",
+      "data_size": null,
+      "description": "Ressources Si is a company that operates in the Movie Theaters industry. It employs 10to19 people and has 1Mto5M of revenue.",
+      "discovered": "2026-09-27T22:24:33.339674+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5cd077fb6790743d4e69a1b8c72d99e2.png",
+      "url": "https://www.ransomware.live/id/UmVzc291cmNlcyBTaUBQYW56ZXI=",
+      "victim": "Ressources Si"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-09-27T22:07:53+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/asesoría-far",
+      "country": "",
+      "data_size": null,
+      "description": "Asesoría FAR is a Barcelona-based firm providing property management, accounting, tax, and business advisory services.",
+      "discovered": "2026-09-27T22:25:06.347330+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ac62d65a98fed5a4a17e0fbd4c07b92f.png",
+      "url": "https://www.ransomware.live/id/QXNlc29yw61hIEZBUkBQYW56ZXI=",
+      "victim": "Asesoría FAR"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-09-27T17:02:48.801719+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QmVhdHVzIENhcnRvbnNAV2FsbHN0cmVldA==",
       "victim": "Beatus Cartons"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-25T15:27:30.421968+00:00",
-      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/morula-ivf",
-      "country": "ZA",
-      "data_size": null,
-      "description": "[AI generated] Morula IVF is a network of fertility clinics operating in Indonesia, specializing in in vitro fertilization (IVF) and other assisted reproductive technologies. It operates within the healthcare industry, specifically reproductive medicine, offering services such as fertility consultations, egg and sperm preservation, and infertility treatments. The company has multiple clinic locations across major Indonesian cities, serving patients seeking fertility treatment options.",
-      "discovered": "2026-09-25T16:28:05.214616+00:00",
-      "domain": "morulaivf.co.id",
-      "group": "everest",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TW9ydWxhIElWRkBldmVyZXN0",
-      "victim": "Morula IVF"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-25T15:27:30+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "GTFM LLC is a company operating through gtfmllc.com. Its website currently provides limited publicly accessible information, so its specific products or services could not be confirmed.",
-      "discovered": "2026-09-25T15:53:17.656722+00:00",
-      "domain": "",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/R1RGTUBXYWxsc3RyZWV0",
-      "victim": "GTFM"
     }
   ]
 }
