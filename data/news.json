@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-28T10:32:07.942329+00:00",
+  "last_success": "2026-09-28T18:25:29.155788+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "published": "Mon, 28 Sep 2026 19:30:53 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "published": "Mon, 28 Sep 2026 17:28:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "published": "Mon, 28 Sep 2026 17:16:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
@@ -22,22 +40,16 @@
       "published": "Sun, 27 Sep 2026 13:17:57 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "published": "Sat, 26 Sep 2026 23:52:52 +0530"
+      "source": "BleepingComputer",
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "published": "Mon, 28 Sep 2026 11:49:27 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "published": "Sat, 26 Sep 2026 17:16:40 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "published": "Sat, 26 Sep 2026 16:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "published": "Mon, 28 Sep 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
       "published": "Sun, 27 Sep 2026 19:40:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "published": "Sun, 27 Sep 2026 12:02:37 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "published": "Sun, 27 Sep 2026 10:13:31 -0400"
     }
   ]
 }
