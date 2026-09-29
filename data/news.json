@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-29T04:10:51.868832+00:00",
+  "last_success": "2026-09-29T11:04:12.192267+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "published": "Tue, 29 Sep 2026 14:05:10 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "published": "Tue, 29 Sep 2026 11:38:25 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "published": "Tue, 29 Sep 2026 10:42:32 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "published": "Tue, 29 Sep 2026 10:15:20 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
@@ -16,28 +40,16 @@
       "published": "Tue, 29 Sep 2026 00:05:42 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "published": "Mon, 28 Sep 2026 23:50:38 +0530"
+      "source": "BleepingComputer",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "published": "Tue, 29 Sep 2026 05:04:06 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "published": "Mon, 28 Sep 2026 23:12:18 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "published": "Mon, 28 Sep 2026 23:08:33 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "published": "Mon, 28 Sep 2026 19:30:53 +0530"
+      "source": "BleepingComputer",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "published": "Tue, 29 Sep 2026 03:33:12 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
       "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "published": "Mon, 28 Sep 2026 14:50:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "published": "Mon, 28 Sep 2026 11:49:27 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "published": "Mon, 28 Sep 2026 10:00:10 -0400"
     }
   ]
 }

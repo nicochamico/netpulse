@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-29T04:10:51.868832+00:00",
+  "last_success": "2026-09-29T11:04:12.192267+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-29T05:51:16.094577+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-precisionfacades",
+      "country": "GB",
+      "data_size": null,
+      "description": "Facade engineering and construction (UK) · United Kingdom | The complete company file server of a UK facade engineering contractor: finance and accounts records, audits, bank mandates, board papers, budgets and business plans; Project and tender data: current tender workload, tender tracker and sales forecasts; Confidential commercial records: SHEQT confidential folder and the costing database; Director-level sale and management documents | [ACTIVE: deadline 2026-10-02 05:32 UTC]",
+      "discovered": "2026-09-29T05:51:30.708992+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e41b2991f895b729b1ec5aa1735abd8f.png",
+      "url": "https://www.ransomware.live/id/UHJlY2lzaW9uIEZhY2FkZXMgTHRkQE4wbg==",
+      "victim": "Precision Facades Ltd"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-09-28T23:34:33.345725+00:00",
@@ -19,6 +35,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/TSoqKiBQKioqKiBNKioqQG5ldHJ1bm5lcg==",
       "victim": "M*** P**** M***"
+    },
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-09-28T21:11:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/30c6cb9f5d80f0e5bdc2a414552bea98",
+      "country": "BR",
+      "data_size": null,
+      "description": "Camorim Serviços Marítimos has over 30 years of expertise in the maritime sector, providing a range...",
+      "discovered": "2026-09-29T06:00:24.386324+00:00",
+      "domain": "camorim.com.br",
+      "group": "lockbit5",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/04695a95d3b5275a50098fd11c8c029b.png",
+      "url": "https://www.ransomware.live/id/Y2Ftb3JpbS5jb20uYnJAbG9ja2JpdDU=",
+      "victim": "camorim.com.br"
     },
     {
       "activity": "Not Found",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/9513427f5cd7b8596b7f9fc09a206e6d.png",
       "url": "https://www.ransomware.live/id/SnVudGFkZWFuZGFsdWNpYUBtZWR1c2Fsb2NrZXI=",
       "victim": "Juntadeandalucia"
-    },
-    {
-      "activity": "Agriculture and Food Production",
-      "attackdate": "2026-09-28T16:00:09.025890+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/badatak/",
-      "country": "ES",
-      "data_size": null,
-      "description": "Organization with 3292 emails extracted. Domain: premiumfruits.eu",
-      "discovered": "2026-09-28T16:00:23.742793+00:00",
-      "domain": "premiumfruits.eu",
-      "group": "medusalocker",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e606429f4ab7651c2e335dfb08c5eafc.png",
-      "url": "https://www.ransomware.live/id/UHJlbWl1bWZydWl0c0BtZWR1c2Fsb2NrZXI=",
-      "victim": "Premiumfruits"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-09-28T15:57:50.233254+00:00",
-      "claim_url": "http://vjc7ovbxy3q27t2wffvvwbjodzdu2i3eonbvsippxdva3awmxwyv52ad.onion/index.php?p=",
-      "country": "US",
-      "data_size": null,
-      "description": "The Kidney Center is a leading provider of nephrology services in South Jersey, specializing in the diagnosis and treatment of kidney disease and hypertension. Due to their negligence in their own safety and the safety of their clients, confidential medical information, including medical records, lab/dialysis/transplant data, billing/insurance data, and patient demographics, was compromised and exposed. Their cybersecurity breaches violate the HIPAA privacy and security regulations.",
-      "discovered": "2026-09-28T15:58:06.779865+00:00",
-      "domain": "https:renaldocs.com",
-      "group": "interlock",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/68c2554faf538486e0065c8d6b81d6a8.png",
-      "url": "https://www.ransomware.live/id/VGhlIENlbnRlciBmb3IgS2lkbmV5IENhcmVAaW50ZXJsb2Nr",
-      "victim": "The Center for Kidney Care"
     }
   ]
 }
