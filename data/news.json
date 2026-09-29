@@ -1,13 +1,25 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-29T17:36:21.017728+00:00",
+  "last_success": "2026-09-29T21:50:24.066381+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "published": "Tue, 29 Sep 2026 23:17:01 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "Tue, 29 Sep 2026 22:30:00 +0530"
+      "published": "Tue, 29 Sep 2026 22:50:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "published": "Tue, 29 Sep 2026 22:50:08 +0530"
     },
     {
       "source": "The Hacker News",
@@ -28,52 +40,40 @@
       "published": "Tue, 29 Sep 2026 14:05:10 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "published": "Tue, 29 Sep 2026 11:38:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "published": "Tue, 29 Sep 2026 10:42:32 +0530"
+      "source": "BleepingComputer",
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "published": "Tue, 29 Sep 2026 17:30:08 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "published": "Tue, 29 Sep 2026 13:10:11 -0400"
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": "Tue, 29 Sep 2026 16:59:39 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "published": "Tue, 29 Sep 2026 11:39:19 -0400"
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "published": "Tue, 29 Sep 2026 16:09:55 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "published": "Tue, 29 Sep 2026 10:01:11 -0400"
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "published": "Tue, 29 Sep 2026 14:37:12 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "published": "Tue, 29 Sep 2026 07:41:53 -0400"
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "published": "Tue, 29 Sep 2026 14:09:39 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "published": "Tue, 29 Sep 2026 05:04:06 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "published": "Tue, 29 Sep 2026 03:33:12 -0400"
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "published": "Tue, 29 Sep 2026 13:37:40 -0400"
     }
   ]
 }
