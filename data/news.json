@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-29T11:04:12.192267+00:00",
+  "last_success": "2026-09-29T17:36:21.017728+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "published": "Tue, 29 Sep 2026 22:30:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "published": "Tue, 29 Sep 2026 19:43:20 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "published": "Tue, 29 Sep 2026 19:15:10 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
@@ -22,22 +40,28 @@
       "published": "Tue, 29 Sep 2026 10:42:32 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "published": "Tue, 29 Sep 2026 10:15:20 +0530"
+      "source": "BleepingComputer",
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "published": "Tue, 29 Sep 2026 13:10:11 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "published": "Tue, 29 Sep 2026 00:48:01 +0530"
+      "source": "BleepingComputer",
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "published": "Tue, 29 Sep 2026 11:39:19 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "published": "Tue, 29 Sep 2026 00:05:42 +0530"
+      "source": "BleepingComputer",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "published": "Tue, 29 Sep 2026 10:01:11 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "published": "Tue, 29 Sep 2026 07:41:53 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "published": "Tue, 29 Sep 2026 03:33:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "published": "Mon, 28 Sep 2026 16:56:47 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "published": "Mon, 28 Sep 2026 16:31:16 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "published": "Mon, 28 Sep 2026 15:49:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "published": "Mon, 28 Sep 2026 14:50:59 -0400"
     }
   ]
 }
