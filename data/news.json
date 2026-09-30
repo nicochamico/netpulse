@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-30T19:48:28.481862+00:00",
+  "last_success": "2026-09-30T23:26:49.763576+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "published": "Wed, 30 Sep 2026 16:34:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "published": "Wed, 30 Sep 2026 15:49:15 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
       "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "published": "Wed, 30 Sep 2026 14:08:34 -0400"
@@ -62,18 +74,6 @@
       "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
       "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "published": "Wed, 30 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "published": "Wed, 30 Sep 2026 09:37:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "published": "Wed, 30 Sep 2026 08:25:10 -0400"
     }
   ]
 }
