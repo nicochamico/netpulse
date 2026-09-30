@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-09-29T21:50:24.066381+00:00",
+  "last_success": "2026-09-30T01:02:47.955276+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-09-29T20:29:43.027172+00:00",
+      "claim_url": "http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#intense.pl",
+      "country": "PL",
+      "data_size": null,
+      "description": "+48 124200150 , NTENSE Group is a Polish software development and IT consulting company founded in 2006. The company specializes in delivering highly customizable digital transformation enterprise software designed to optimize operational efficiency, automate workflows, and reduce corporate expenditures. Stolen: --",
+      "discovered": "2026-09-29T20:30:19.592696+00:00",
+      "domain": "intense.pl",
+      "group": "m3rx",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/20e1d6141fdb2fd7eda80084d954d801.png",
+      "url": "https://www.ransomware.live/id/aW50ZW5zZS5wbEBtM3J4",
+      "victim": "intense.pl"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-09-29T17:55:22.568159+00:00",
+      "claim_url": "http://hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion/post/Pfa5mOakuACFbqhsUgrEzO57i8E7T5gR",
+      "country": "TW",
+      "data_size": null,
+      "description": "We are publishing 5% of the total data because the company's management is ignoring the situation and has not contacted us. The company's management has exactly 48 hours to contact us; otherwise, the entire dataset will be published.",
+      "discovered": "2026-09-29T17:55:38.445114+00:00",
+      "domain": "advantech.com",
+      "group": "chaos",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5cbbb95d3c38dedd4e8764851f8e6b2b.png",
+      "url": "https://www.ransomware.live/id/YWR2YW50ZWNoLmNvbUBjaGFvcw==",
+      "victim": "advantech.com"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-09-29T17:01:51.551262+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/97e10219e2073dbcbdc93f5de42b966b.png",
       "url": "https://www.ransomware.live/id/c29tYXNvbHVjb2VzLmNvbUBtM3J4",
       "victim": "somasolucoes.com"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-09-29T10:35:19.470107+00:00",
-      "claim_url": "http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#noonsugar.com",
-      "country": "AE",
-      "data_size": null,
-      "description": "+92 4235831462 , Noon Sugar Mills Limited is one of Pakistan's oldest and most esteemed business entities, specializing in the production of white sugar and industrial-grade ethanol. Established in 1964, the company has significantly expanded its sugarcane crushing capacity and ethanol production capabilities, reflecting its commitment to continuous improvement and environmental sustainability. The company serves a diverse clientele, including corporate clients and the agricultural community, while upholding high ethical standards and promoting social responsibility. With ISO certifications in place, Noon Sugar Mills Limited emphasizes quality and compliance in its operations. Stolen: --",
-      "discovered": "2026-09-29T10:35:52.678125+00:00",
-      "domain": "noonsugar.com",
-      "group": "m3rx",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3d5e7c77adf7f089ab4866d99888e1fb.png",
-      "url": "https://www.ransomware.live/id/bm9vbnN1Z2FyLmNvbUBtM3J4",
-      "victim": "noonsugar.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-09-29T10:34:23.503603+00:00",
-      "claim_url": "http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion#iccsi.com",
-      "country": "",
-      "data_size": null,
-      "description": "+1 (781) 331-9811. Interconnect Computer Cabling Services, Inc. is a full-service telecommunications company that has been operational since 1986, providing services for a diverse range of projects including education, medical facilities, hospitality, and corporate offices. The company specializes in telecommunications solutions and has recently developed touchless wave door opening systems to address safety concerns for clients returning to office spaces. Their clientele includes local schools, national railroad services, country clubs, and various commercial establishments. Interconnect is committed to delivering high-quality services tailored to the needs of their clients. Stolen: 434 GB 341,547 File",
-      "discovered": "2026-09-29T10:34:59.653412+00:00",
-      "domain": "iccsi.com",
-      "group": "m3rx",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cf6505a1145c36a60c20c3fcfca3096a.png",
-      "url": "https://www.ransomware.live/id/aWNjc2kuY29tQG0zcng=",
-      "victim": "iccsi.com"
     }
   ]
 }
