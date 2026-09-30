@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-09-30T07:56:41.315908+00:00",
+  "last_success": "2026-09-30T14:41:51.109316+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "published": "Wed, 30 Sep 2026 17:28:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "published": "Wed, 30 Sep 2026 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "published": "Wed, 30 Sep 2026 16:15:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "published": "Wed, 30 Sep 2026 13:54:35 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "published": "Wed, 30 Sep 2026 13:39:28 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
@@ -10,34 +40,28 @@
       "published": "Wed, 30 Sep 2026 11:00:30 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "published": "Tue, 29 Sep 2026 23:17:01 +0530"
+      "source": "BleepingComputer",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "published": "Wed, 30 Sep 2026 10:01:11 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "Tue, 29 Sep 2026 22:50:17 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "published": "Wed, 30 Sep 2026 09:37:15 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "published": "Tue, 29 Sep 2026 22:50:08 +0530"
+      "source": "BleepingComputer",
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "published": "Wed, 30 Sep 2026 08:25:10 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "published": "Tue, 29 Sep 2026 19:43:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "Tue, 29 Sep 2026 19:15:10 +0530"
+      "source": "BleepingComputer",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "published": "Wed, 30 Sep 2026 07:11:46 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
       "published": "Tue, 29 Sep 2026 17:30:08 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "published": "Tue, 29 Sep 2026 16:59:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "published": "Tue, 29 Sep 2026 16:09:55 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "published": "Tue, 29 Sep 2026 14:37:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "published": "Tue, 29 Sep 2026 14:09:39 -0400"
     }
   ]
 }
