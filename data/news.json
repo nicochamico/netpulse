@@ -1,43 +1,61 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-01T04:05:58.477092+00:00",
+  "last_success": "2026-10-01T11:20:50.467519+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "published": "Wed, 30 Sep 2026 22:16:29 +0530"
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "published": "Thu, 01 Oct 2026 16:12:36 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "published": "Wed, 30 Sep 2026 22:02:59 +0530"
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "published": "Thu, 01 Oct 2026 16:03:16 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "published": "Wed, 30 Sep 2026 20:54:54 +0530"
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "published": "Thu, 01 Oct 2026 13:19:36 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "published": "Wed, 30 Sep 2026 20:30:15 +0530"
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "published": "Thu, 01 Oct 2026 11:24:41 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "published": "Wed, 30 Sep 2026 17:28:00 +0530"
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "published": "Thu, 01 Oct 2026 10:51:10 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "published": "Wed, 30 Sep 2026 17:00:00 +0530"
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "published": "Thu, 01 Oct 2026 10:40:09 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "published": "Thu, 01 Oct 2026 07:14:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "published": "Thu, 01 Oct 2026 05:44:28 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "published": "Thu, 01 Oct 2026 03:33:57 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
       "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "published": "Wed, 30 Sep 2026 14:08:34 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "published": "Wed, 30 Sep 2026 11:49:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "published": "Wed, 30 Sep 2026 10:46:40 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "published": "Wed, 30 Sep 2026 10:01:11 -0400"
     }
   ]
 }

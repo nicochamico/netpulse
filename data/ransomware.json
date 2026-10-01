@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-01T04:05:58.477092+00:00",
+  "last_success": "2026-10-01T11:20:50.467519+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-10-01T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/laboratorios-roemmers-saicf-e9b9df85",
+      "country": "AR",
+      "data_size": null,
+      "description": "Laboratorios Roemmers SAICF — Argentina's #1 pharmaceutical company by revenue, with €1.669 billion in consolidated turnover, 6,890 employees, and 69 subsidiaries across 11 countries.\n\nThe exposed material includes:\n\n4,207 employees' national identity numbers (CUIL) — Argentina's equivalent of a Social Security Number — combined with dates of birth, health insurance affiliations, and employer identifiers. A complete identity-theft package for the entire Argentine workforce.\nPsychotropic drug dispensing records — employee-by-employee tracking of who receives clonazepam, alprazolam, diazepam, and other psychiatric medications from the company nursing station. The most sensitive category: mental health data.\nCOVID-19 health tracking with clinical symptoms — individual symptom logs, doctor's notes, quarantine dates, and return-to-work clearances for employees who tested positive.\nPre-employment medical exam results with full DNI (national identity document) numbers.\n<redacted>\n82 GB of drug formulations — the complete pharmaceutical IP portfolio covering every product Roemmers manufactures, from API synthesis methods to finished-form specifications.\n193 MB of API supplier qualification dossiers for 30+ international suppliers including CERBIOS (Switzerland), revealing the entire supply chain.\n14 GB of internal drug pricing strategy and competitive intelligence",
+      "discovered": "2026-10-01T06:55:01.164223+00:00",
+      "domain": "roemmers.com.ar",
+      "group": "aurora",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/e59490b8e017c5f0fc03f373a012c2c4.png",
+      "url": "https://www.ransomware.live/id/TGFib3JhdG9yaW9zIFJvZW1tZXJzIFNBSUNGQGF1cm9yYQ==",
+      "victim": "Laboratorios Roemmers SAICF"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-09-30T22:52:46.877549+00:00",
@@ -204,7 +220,7 @@
       "data_size": null,
       "description": "I have yet to hear a response from SitePro Rentals regarding the data breach. I have heard rumors that a law firm is investigating the incident(https://classlawdc.com/2026/09/28/sitepro-rentals-data-breach-investigation/). I am giving you 72 hours to contact me, otherwise I will leak the active employee details. \n\nThe information includes:\n\n IsTotalItem, Department_ShortName, Employee_FirstName, Employee_LastName, EmployeeEmploymentStatus_EmployeeNumber, Employee_HireDate, EmploymentStatus_ShortName, OrgUnit_ShortName, DeptJob_ShortName, EmployeeManager_ManagerDisplayName, PayType_ShortName, PayClass_ShortName, Employee_SocialSecurityNumber, Department_ShortName2, Employee_Gender, Employee_MiddleName, PersonAddress_Address1, PersonAddress_Address2, PersonAddress_City, PersonAddress_PostalCode, PersonAddress_StateCode, Employee_BirthDate, OrgUnit_ContactBusinessPhone, OrgUnit_ContactCellPhone, EmployeeManager_ManagerEmployeeNumber, EmployeeEmploymentStatus_BaseRate, EmployeeEmploymentStatus_BaseSalary, Department_LedgerCode, Department_XRefCode, and OrgUnit_XRefCode. \n\nContact me at xdlmfao@morke.ru \nSession: 05651c7323273b723588d47455471ee9e27feb5187a30f2933554a705aacb38358. [Sector: Construction]",
       "discovered": "2026-09-30T13:53:31.532445+00:00",
-      "domain": "",
+      "domain": "siteprorentals.com",
       "group": "emperador",
       "press": null,
       "ransom": null,
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/d4f0c40f64b9b7276c8da84da79fb74b.png",
       "url": "https://www.ransomware.live/id/UFJPSkFITkBsYW1hc2h0dQ==",
       "victim": "PROJAHN"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-09-30T13:02:40.019982+00:00",
-      "claim_url": "http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/post/99a5632408884e412ec7e38a87d611ea",
-      "country": "DE",
-      "data_size": null,
-      "description": "Altmannshofer Sicherheits-Videotechnik OHG is a German installer of electronic security systems from Affing near Augsburg, Bavaria. Since 1999 it plans and installs CCTV, burglar alarms (EMA), access control, electronic locks, fingerprint scanners",
-      "discovered": "2026-09-30T13:02:58.768381+00:00",
-      "domain": "altmannshofer.de",
-      "group": "lamashtu",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/89bf9e7091017cecc3a7a219bc2a7150.png",
-      "url": "https://www.ransomware.live/id/QWx0bWFubnNob2ZlciBTaWNoZXJoZWl0cy1WaWRlb3RlY2huaWtAbGFtYXNodHU=",
-      "victim": "Altmannshofer Sicherheits-Videotechnik"
     }
   ]
 }
