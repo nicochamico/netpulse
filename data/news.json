@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-01T17:59:29.838288+00:00",
+  "last_success": "2026-10-01T22:36:03.858860+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "published": "Thu, 01 Oct 2026 16:52:50 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "published": "Thu, 01 Oct 2026 15:32:47 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
       "published": "Thu, 01 Oct 2026 10:25:14 -0400"
@@ -62,18 +74,6 @@
       "title": "Microsoft enables Windows settings backup by default for orgs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
       "published": "Thu, 01 Oct 2026 07:14:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "published": "Thu, 01 Oct 2026 05:44:28 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "published": "Thu, 01 Oct 2026 03:33:57 -0400"
     }
   ]
 }
