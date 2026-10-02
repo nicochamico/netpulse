@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-02T01:59:45.204134+00:00",
+  "last_success": "2026-10-02T08:22:11.886261+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "published": "Fri, 02 Oct 2026 13:31:30 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "published": "Fri, 02 Oct 2026 11:19:50 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
@@ -26,18 +38,6 @@
       "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
       "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
       "published": "Thu, 01 Oct 2026 17:15:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "published": "Thu, 01 Oct 2026 16:12:36 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "published": "Thu, 01 Oct 2026 16:03:16 +0530"
     },
     {
       "source": "BleepingComputer",
