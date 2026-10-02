@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:18:50.011732+00:00",
+  "generated_at": "2026-10-02T23:09:08.941105+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,6 +12,7 @@
         80,
         443,
         2052,
+        2082,
         2083,
         2086,
         2087,
@@ -22,8 +23,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "wifi-guest.frieslandcampina.com",
-        "wireless.mohawkcollege.ca",
+        "www.mjusd-ca.schoolloop.com",
+        "test.desire2learn.com",
         "one.one.one.one"
       ]
     },
