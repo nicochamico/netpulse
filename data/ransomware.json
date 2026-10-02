@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-01T22:36:03.858860+00:00",
+  "last_success": "2026-10-02T01:59:45.204134+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-10-01T21:33:19.844246+00:00",
+      "claim_url": "http://krybieodq754vlwufrsuxaswxb5zpxyibaawmed2jaduoz2e5m56hmid.onion/blog/pending-6abed0d0df3cc-1790890192/",
+      "country": "",
+      "data_size": null,
+      "description": "Euroditel is a French managed services provider (MSP) specializing in\ntelephony and unified communications. Based in th...",
+      "discovered": "2026-10-01T21:33:33.216829+00:00",
+      "domain": "EURODITEL/RESOTELECOM",
+      "group": "krybit",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/dde979833328c075cfd8b3f757fec394.png",
+      "url": "https://www.ransomware.live/id/RVVST0RJVEVML1JFU09URUxFQ09NQGtyeWJpdA==",
+      "victim": "EURODITEL/RESOTELECOM"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-10-01T14:59:45.405240+00:00",
@@ -197,6 +213,22 @@
       "victim": "Post Metal Recycling"
     },
     {
+      "activity": "Education",
+      "attackdate": "2026-10-01T00:00:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "The Slate Valley Unified Union School District is a public school district located in Fair Haven, Vermont, serving the communities of Benson, Castleton, Fair Haven, Hubbardton, Orwell, and West Haven. The data also includes 647 GB of SQL databases containing personal and medical information about students and employees.",
+      "discovered": "2026-10-01T19:00:23.598688+00:00",
+      "domain": "",
+      "group": "kairos",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U2xhdGUgVmFsbGV5IFVuaWZpZWQgU2Nob29sIERpc3RyaWN0QGthaXJvcw==",
+      "victim": "Slate Valley Unified School District"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-10-01T00:00:00+00:00",
       "claim_url": "",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/f86697c644ca35be816fe74c8b56ffa3.png",
       "url": "https://www.ransomware.live/id/SG91c3RvbiBUaHlyb2lkICYgRW5kb2NyaW5lIFNwZWNpYWxpc3RzQE4wbg==",
       "victim": "Houston Thyroid & Endocrine Specialists"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-09-30T20:10:46.152435+00:00",
-      "claim_url": "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/blog/post/wolfusofskyde/",
-      "country": "DE",
-      "data_size": null,
-      "description": "The group provides a broad range of construction and infrastructure services to public and private clients in Rhineland-Palatinate, Saarland, neighboring …",
-      "discovered": "2026-09-30T20:11:02.018212+00:00",
-      "domain": "wolfusofsky.de",
-      "group": "safepay",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/45d5d96c12331fc63d180f98f9c7d940.png",
-      "url": "https://www.ransomware.live/id/d29sZnVzb2Zza3kuZGVAc2FmZXBheQ==",
-      "victim": "wolfusofsky.de"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-09-30T19:44:13+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Summit Electric Supply supplies electrical products and solutions for commercial, industrial, construction, OEM, institutional, and marine applications. Its website allows customers to browse products, check availability, manage orders, view invoices, and purchase online.",
-      "discovered": "2026-09-30T20:55:47.014462+00:00",
-      "domain": "summit.com",
-      "group": "Vexy Ransomware",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/U3VtbWl0IEVsZWN0cmljIFN1cHBseUBWZXh5IFJhbnNvbXdhcmU=",
-      "victim": "Summit Electric Supply"
     }
   ]
 }
