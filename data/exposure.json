@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:54:08.933767+00:00",
+  "generated_at": "2026-10-03T13:06:34.741282+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,8 +23,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "www.mjusd-ca.schoolloop.com",
-        "test.desire2learn.com",
+        "blackhole.suning.com",
+        "cdnwifi.comdata.com",
         "one.one.one.one"
       ]
     },
@@ -40,8 +40,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net",
-        "server.berg.net"
+        "dns9.quad9.net"
       ]
     }
   ],
