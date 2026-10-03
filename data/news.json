@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-03T06:00:56.373163+00:00",
+  "last_success": "2026-10-03T12:12:30.348682+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "published": "Sat, 03 Oct 2026 16:30:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -32,12 +38,6 @@
       "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
       "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
       "published": "Fri, 02 Oct 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "published": "Fri, 02 Oct 2026 13:31:30 +0530"
     },
     {
       "source": "BleepingComputer",
