@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-03T12:12:30.348682+00:00",
+  "last_success": "2026-10-03T16:57:51.282539+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-10-03T12:09:08+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "St. Francis Healthcare System of Hawaiʻi is a Catholic, nonprofit healthcare organization that has served Hawaiʻi families since 1927",
+      "discovered": "2026-10-03T12:24:31.897105+00:00",
+      "domain": "",
+      "group": "Wallstreet",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U3QuIEZyYW5jaXMgSGVhbHRoY2FyZSBTeXN0ZW1zIG9mIEhhd2FpaUBXYWxsc3RyZWV0",
+      "victim": "St. Francis Healthcare Systems of Hawaii"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-03T11:25:00+00:00",
+      "claim_url": "",
+      "country": "SA",
+      "data_size": null,
+      "description": "We compromised the network of the China Railway Construction Corporation\nSaudi Branch / Sama Construction consortium, the MAIN CONTRACTOR building\nthe Jeddah Central Stadium for the FIFA World Cup 2034.\n\n17 TB / 1.5M files exfiltrated, including:\n  - Main contract documents, interim payment certificates, and claims\n    against the owner (Jeddah Central Development Company, PIF)\n  - Active dispute and suspension claim records\n  - Personal data of 150,000+ employees, incl. Saudi employees\n  - IFC design documentation for the stadium\n  - Supplier and subcontractor commercial data (bid tabulations)",
+      "discovered": "2026-10-03T11:54:05.389560+00:00",
+      "domain": "",
+      "group": "Wallstreet",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA==",
+      "victim": "World Cup 2034"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-10-03T05:54:24.765535+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/V2VzdHJvcCBQcmltYXJ5ICYgTnVyc2VyeSBTY2hvb2xAdGhlZ2VudGxlbWVu",
       "victim": "Westrop Primary & Nursery School"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-10-02T07:50:49+00:00",
-      "claim_url": "",
-      "country": "AU",
-      "data_size": null,
-      "description": "mandurahses.org.au Mandurah State Emergency Service is a volunteer emergency rescue unit (part of DFES Western Australia), founded in 1976/78 and celebrating its 50th anniversary in 2026, based at 31 Education Drive, Greenfields, WA 6210. It is a non-profit organization — there is no revenue; funding comes from DFES (WA Government) and community donations. The unit has ~80+ active volunteers and 60–90 cadets (ages 12–17), one of the largest SES cadet programs in WA (26 years running), led by Local Manager Chris Stickland ESM (volunteer since 1986, unit leader since 2010). It responds 24/7/365 to storms, floods, land searches, water/cliff rescues and fires support — logging ~3,500–4,300 operational hours and up to 8,000 community hours per year.",
-      "discovered": "2026-10-03T06:25:51.608513+00:00",
-      "domain": "mandurahses.org.au",
-      "group": "thegentlemen",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TWFuZHVyYWggU3RhdGUgRW1lcmdlbmN5IFNlcnZpY2VAdGhlZ2VudGxlbWVu",
-      "victim": "Mandurah State Emergency Service"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-10-02T07:50:39.394230+00:00",
-      "claim_url": "",
-      "country": "GR",
-      "data_size": null,
-      "description": "rogdianakis.gr leads to (or is directly related to) the company Union FA (Union Financial Associates) , which is owned by Giorgos Rogdianakis (CEO of the company). This is a company that provides accounting, tax and consulting services to businesses.",
-      "discovered": "2026-10-02T07:50:40.565444+00:00",
-      "domain": "rogdianakis.gr",
-      "group": "Deadlock",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VU5JT04gRkFARGVhZGxvY2s=",
-      "victim": "UNION FA"
     }
   ]
 }
