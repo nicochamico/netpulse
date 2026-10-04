@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:22:55.875423+00:00",
+  "generated_at": "2026-10-04T21:46:22.259464+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "douglassms-wjusd-ca.schoolloop.com",
         "one.one.one.one",
-        "mnes.capousd.ca.schoolloop.com"
+        "www.dms.jlbpartners.com",
+        "msu-wism2.morgan.edu"
       ]
     },
     {
