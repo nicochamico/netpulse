@@ -1,9 +1,52 @@
 {
-  "generated_at": "2026-10-04T02:41:02.108035+00:00",
+  "generated_at": "2026-10-04T08:49:06.256411+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
   "anomalies": 0,
   "churn_events": 0,
   "signal": 0,
-  "events": []
+  "events": [
+    {
+      "event": "OK",
+      "prefix": "1.1.1.0/24",
+      "origin_asn": 13335,
+      "origins_seen": [
+        13335
+      ],
+      "name": "Cloudflare",
+      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
+      "status": "OK",
+      "rpki": "valid",
+      "updates_24h": {
+        "announcements": 268,
+        "withdrawals": 2
+      },
+      "updates_per_peer": 0.82,
+      "peers_visible": 328,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-10-04T08:49:06.256353+00:00"
+    },
+    {
+      "event": "OK",
+      "prefix": "8.8.8.0/24",
+      "origin_asn": 15169,
+      "origins_seen": [
+        15169
+      ],
+      "name": "Google DNS",
+      "holder": "GOOGLE - Google LLC",
+      "status": "OK",
+      "rpki": "valid",
+      "updates_24h": {
+        "announcements": 264,
+        "withdrawals": 20
+      },
+      "updates_per_peer": 0.85,
+      "peers_visible": 334,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-10-04T08:48:59.402885+00:00"
+    }
+  ]
 }

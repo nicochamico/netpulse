@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:41:02.548032+00:00",
+  "generated_at": "2026-10-04T08:49:07.430657+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "blackhole.suning.com",
-        "cdnwifi.comdata.com",
-        "one.one.one.one"
+        "douglassms-wjusd-ca.schoolloop.com",
+        "one.one.one.one",
+        "mnes.capousd.ca.schoolloop.com"
       ]
     },
     {
@@ -40,6 +40,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "tr.covra.nl",
         "dns9.quad9.net"
       ]
     }
