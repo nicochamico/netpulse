@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-04T09:19:31.471400+00:00",
+  "last_success": "2026-10-04T15:08:46.431547+00:00",
   "count": 100,
   "items": [
     {
@@ -44,7 +44,7 @@
       "data_size": null,
       "description": "Skaff Group SKAFF is a leader in Lebanon in the field of decorative fabrics. Files: 139,377Data volume: ~268 GB**Full HR dossiers - ~40 scans of Lebanese national ID cards (both sides + photos), a director's passport, civil-status extracts.Banking data - employee account files at Byblos Bank (named per person), Cedrus Bank corporate card program with banker contacts, account statements.Payroll violations - unpaid-salary analysis file, payroll module source code, staff leave requests.Employees' private lives - family photo archives on the work server.Commerce � price lists, Four Seasons and Les Galeries proposals, customs/export documents (Dubai, Erbil), customer claims.    More",
       "discovered": "2026-10-03T13:02:56.759867+00:00",
-      "domain": "",
+      "domain": "skaffgroup.com",
       "group": "rhysida",
       "press": null,
       "ransom": null,
