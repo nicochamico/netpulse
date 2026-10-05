@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-04T22:42:33.181237+00:00",
+  "last_success": "2026-10-05T01:34:43.807425+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-10-04T19:36:51.287628+00:00",
+      "claim_url": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion/topic.php?id=YUvMpeKHY9x4M",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-10-04T19:37:06.566868+00:00",
+      "domain": "www.boldspring.com",
+      "group": "play",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/2fbfdfb7ff3acecd5e0fe58cd8050e57.png",
+      "url": "https://www.ransomware.live/id/Qm9sZCBTcHJpbmcgTnVyc2VyeUBwbGF5",
+      "victim": "Bold Spring Nursery"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-10-04T19:36:12.633895+00:00",
+      "claim_url": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion/topic.php?id=BkyYiTWXAe9Xf3",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-10-04T19:36:32.595512+00:00",
+      "domain": "www.siliconvalleyglass.com",
+      "group": "play",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d799f66f9bd9bf51c9a43e036007452b.png",
+      "url": "https://www.ransomware.live/id/U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ==",
+      "victim": "Silicon Valley Glass"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-10-04T17:11:00+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2VvZiBBcmNoaXRlY3RzIG9mIExlw7NuIChDT0FMKUBha2lyYQ==",
       "victim": "The Official Collegeof Architects of León (COAL)"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-10-03T00:00:00+00:00",
-      "claim_url": "",
-      "country": "AE",
-      "data_size": null,
-      "description": "Seven Seas is a global maritime services group that specializes in providing general ship supplies, stores, spare parts & leading technical maritime brands through its extensive global network.",
-      "discovered": "2026-10-03T00:53:20.745035+00:00",
-      "domain": "sevenseasgroup.com",
-      "group": "Spirals",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/c2V2ZW4gc2VhcyBncm91cEBTcGlyYWxz",
-      "victim": "seven seas group"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-10-02T21:04:33.694921+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=619f9d9a-4828-46ef-bef3-ca52e1a9a5ee",
-      "country": "TH",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-10-02T21:04:55.711379+00:00",
-      "domain": "www.lionairthai.com",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/38ddea21028b642dd6b2470d9b3ee844.png",
-      "url": "https://www.ransomware.live/id/VGhhaSBMaW9uIEFpckBxaWxpbg==",
-      "victim": "Thai Lion Air"
     }
   ]
 }
