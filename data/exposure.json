@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:07:11.563425+00:00",
+  "generated_at": "2026-10-05T14:40:03.631258+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "www.dms.jlbpartners.com",
-        "msu-wism2.morgan.edu"
+        "gwi.nationwide.com",
+        "xwlc-ba.turner.com",
+        "one.one.one.one"
       ]
     },
     {
