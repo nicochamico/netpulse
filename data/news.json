@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-06T17:54:15.134294+00:00",
+  "last_success": "2026-10-06T22:18:49.404617+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "published": "Wed, 07 Oct 2026 00:08:55 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "published": "Tue, 06 Oct 2026 23:54:25 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
@@ -28,16 +40,16 @@
       "published": "Tue, 06 Oct 2026 14:51:47 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "published": "Tue, 06 Oct 2026 12:28:56 +0530"
+      "source": "BleepingComputer",
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "published": "Tue, 06 Oct 2026 17:00:27 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "published": "Tue, 06 Oct 2026 12:26:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "published": "Tue, 06 Oct 2026 15:21:53 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "How to secure RMM software: 8 controls MSPs should test",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
       "published": "Tue, 06 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "published": "Tue, 06 Oct 2026 07:31:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "published": "Tue, 06 Oct 2026 05:25:50 -0400"
     }
   ]
 }
