@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-07T17:13:50.463059+00:00",
+  "last_success": "2026-10-07T22:40:48.464579+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "published": "Thu, 08 Oct 2026 00:18:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "published": "Wed, 07 Oct 2026 23:13:20 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "published": "Wed, 07 Oct 2026 21:47:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
@@ -22,22 +40,16 @@
       "published": "Wed, 07 Oct 2026 17:27:05 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "published": "Wed, 07 Oct 2026 17:26:56 +0530"
+      "source": "BleepingComputer",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "published": "Wed, 07 Oct 2026 17:28:54 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "published": "Wed, 07 Oct 2026 17:19:26 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "published": "Wed, 07 Oct 2026 17:12:24 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "published": "Wed, 07 Oct 2026 16:50:13 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Hackers exploit critical Atlassian flaw after public PoC release",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
       "published": "Wed, 07 Oct 2026 08:49:01 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "published": "Wed, 07 Oct 2026 07:37:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "published": "Wed, 07 Oct 2026 06:35:15 -0400"
     }
   ]
 }

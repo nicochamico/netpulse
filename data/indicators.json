@@ -1,7 +1,7 @@
 {
   "source": "NetPulse indicators",
   "status": "partial",
-  "last_success": "2026-10-07T17:13:50.463059+00:00",
+  "last_success": "2026-10-07T22:40:48.464579+00:00",
   "internet_noise": null,
   "exposed_systems": null,
   "note": "Internet Noise and Exposure require a reliable external data source or internal collector."
