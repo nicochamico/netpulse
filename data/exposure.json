@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:30:37.323823+00:00",
+  "generated_at": "2026-10-07T00:09:21.476676+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -23,8 +23,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "blackhole.suning.com",
-        "cdnwifi.comdata.com",
+        "gwi.nationwide.com",
+        "xwlc-ba.turner.com",
         "one.one.one.one"
       ]
     },
@@ -40,7 +40,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "other.dev.ops.dsb.no"
       ]
     }
   ],
