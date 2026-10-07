@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-07T02:03:53.997799+00:00",
+  "last_success": "2026-10-07T09:46:52.769856+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "published": "Wed, 07 Oct 2026 13:37:38 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "published": "Wed, 07 Oct 2026 12:27:54 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
@@ -26,18 +38,6 @@
       "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
       "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
       "published": "Tue, 06 Oct 2026 16:56:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "published": "Tue, 06 Oct 2026 16:32:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "published": "Tue, 06 Oct 2026 14:51:47 +0530"
     },
     {
       "source": "BleepingComputer",
