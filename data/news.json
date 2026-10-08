@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-07T22:40:48.464579+00:00",
+  "last_success": "2026-10-08T02:29:17.340043+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "published": "Wed, 07 Oct 2026 19:04:37 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
       "published": "Wed, 07 Oct 2026 17:28:54 -0400"
@@ -68,12 +74,6 @@
       "title": "Ransomware has a new target. Is your backup ready?",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "published": "Wed, 07 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "published": "Wed, 07 Oct 2026 08:49:01 -0400"
     }
   ]
 }
