@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:31:09.255009+00:00",
+  "generated_at": "2026-10-08T22:30:42.027847+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,6 +12,7 @@
         80,
         443,
         2052,
+        2053,
         2082,
         2083,
         2086,
@@ -23,9 +24,10 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "gwi.nationwide.com",
-        "xwlc-ba.turner.com",
-        "one.one.one.one"
+        "shearers.com",
+        "secure.shearers.com",
+        "one.one.one.one",
+        "notices-sit04.dhs.tn.gov"
       ]
     },
     {
@@ -40,6 +42,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "mail.fairteiler.de",
         "dns9.quad9.net"
       ]
     }

@@ -1,52 +1,48 @@
 {
-  "generated_at": "2026-10-08T17:31:08.190897+00:00",
+  "generated_at": "2026-10-08T22:30:41.583688+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 0,
+  "anomalies": 2,
   "churn_events": 0,
-  "signal": 0,
+  "signal": 50,
   "events": [
     {
-      "event": "OK",
+      "event": "WITHDRAWN",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
-      "origins_seen": [
-        13335
-      ],
+      "origins_seen": [],
       "name": "Cloudflare",
-      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
-      "status": "OK",
-      "rpki": "valid",
+      "holder": "AS13335",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
       "updates_24h": {
-        "announcements": 375,
-        "withdrawals": 4
+        "announcements": 0,
+        "withdrawals": 0
       },
-      "updates_per_peer": 1.04,
-      "peers_visible": 365,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-10-08T17:31:08.190839+00:00"
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-10-08T22:30:41.583636+00:00"
     },
     {
-      "event": "OK",
+      "event": "WITHDRAWN",
       "prefix": "8.8.8.0/24",
       "origin_asn": 15169,
-      "origins_seen": [
-        15169
-      ],
+      "origins_seen": [],
       "name": "Google DNS",
-      "holder": "GOOGLE - Google LLC",
-      "status": "OK",
-      "rpki": "valid",
+      "holder": "AS15169",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
       "updates_24h": {
-        "announcements": 309,
-        "withdrawals": 21
+        "announcements": 0,
+        "withdrawals": 0
       },
-      "updates_per_peer": 0.89,
-      "peers_visible": 371,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-10-08T17:31:02.565904+00:00"
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-10-08T22:29:50.346593+00:00"
     }
   ]
 }
