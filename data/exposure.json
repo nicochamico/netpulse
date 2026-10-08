@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:58:49.887550+00:00",
+  "generated_at": "2026-10-08T10:23:27.144317+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,7 +12,6 @@
         80,
         443,
         2052,
-        2053,
         2082,
         2083,
         2086,
@@ -24,9 +23,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "wlc.inp-e.com",
-        "one.one.one.one",
-        "materguest.mater.org.au"
+        "gwi.nationwide.com",
+        "xwlc-ba.turner.com",
+        "one.one.one.one"
       ]
     },
     {
