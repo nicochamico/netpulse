@@ -1,48 +1,52 @@
 {
-  "generated_at": "2026-10-08T22:30:41.583688+00:00",
+  "generated_at": "2026-10-09T02:29:25.611601+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 2,
+  "anomalies": 0,
   "churn_events": 0,
-  "signal": 50,
+  "signal": 0,
   "events": [
     {
-      "event": "WITHDRAWN",
+      "event": "OK",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
-      "origins_seen": [],
+      "origins_seen": [
+        13335
+      ],
       "name": "Cloudflare",
-      "holder": "AS13335",
-      "status": "WITHDRAWN",
-      "rpki": "n/a",
+      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
+      "status": "OK",
+      "rpki": "valid",
       "updates_24h": {
-        "announcements": 0,
-        "withdrawals": 0
+        "announcements": 346,
+        "withdrawals": 6
       },
-      "updates_per_peer": 0,
-      "peers_visible": 0,
-      "is_security_anomaly": true,
-      "severity": 20,
-      "ts": "2026-10-08T22:30:41.583636+00:00"
+      "updates_per_peer": 0.97,
+      "peers_visible": 364,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-10-09T02:29:25.611546+00:00"
     },
     {
-      "event": "WITHDRAWN",
+      "event": "OK",
       "prefix": "8.8.8.0/24",
       "origin_asn": 15169,
-      "origins_seen": [],
+      "origins_seen": [
+        15169
+      ],
       "name": "Google DNS",
-      "holder": "AS15169",
-      "status": "WITHDRAWN",
-      "rpki": "n/a",
+      "holder": "GOOGLE - Google LLC",
+      "status": "OK",
+      "rpki": "valid",
       "updates_24h": {
-        "announcements": 0,
-        "withdrawals": 0
+        "announcements": 349,
+        "withdrawals": 25
       },
-      "updates_per_peer": 0,
-      "peers_visible": 0,
-      "is_security_anomaly": true,
-      "severity": 20,
-      "ts": "2026-10-08T22:29:50.346593+00:00"
+      "updates_per_peer": 1.01,
+      "peers_visible": 371,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-10-09T02:29:20.450771+00:00"
     }
   ]
 }
