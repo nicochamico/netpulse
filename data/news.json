@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-09T02:45:30.042975+00:00",
+  "last_success": "2026-10-09T10:01:16.870860+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "published": "Fri, 09 Oct 2026 14:33:24 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "published": "Fri, 09 Oct 2026 13:56:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "published": "Fri, 09 Oct 2026 13:41:33 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "published": "Fri, 09 Oct 2026 12:09:29 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
@@ -16,28 +40,16 @@
       "published": "Thu, 08 Oct 2026 23:28:02 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "published": "Thu, 08 Oct 2026 21:15:56 +0530"
+      "source": "BleepingComputer",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "published": "Fri, 09 Oct 2026 04:27:42 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "published": "Thu, 08 Oct 2026 20:56:56 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "published": "Thu, 08 Oct 2026 19:42:34 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "published": "Fri, 09 Oct 2026 01:41:04 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
       "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
       "published": "Thu, 08 Oct 2026 13:10:55 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "published": "Thu, 08 Oct 2026 11:26:33 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "published": "Thu, 08 Oct 2026 10:00:10 -0400"
     }
   ]
 }
