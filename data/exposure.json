@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:32:31.826730+00:00",
+  "generated_at": "2026-10-09T16:36:36.741333+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,10 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "shearers.com",
-        "secure.shearers.com",
-        "one.one.one.one",
-        "notices-sit04.dhs.tn.gov"
+        "nes-ccs-nc.schoolloop.com",
+        "wlan.kreisklinikum-siegen.de",
+        "one.one.one.one"
       ]
     },
     {
@@ -42,7 +41,6 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "mail.fairteiler.de",
         "dns9.quad9.net"
       ]
     }
