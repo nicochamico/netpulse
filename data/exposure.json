@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:07:03.395573+00:00",
+  "generated_at": "2026-10-10T07:08:09.731754+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -41,6 +41,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "mail.fairteiler.de",
         "dns9.quad9.net"
       ]
     }
