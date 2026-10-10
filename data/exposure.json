@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:02:45.851563+00:00",
+  "generated_at": "2026-10-10T21:44:54.900321+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,8 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "nes-ccs-nc.schoolloop.com",
-        "wlan.kreisklinikum-siegen.de",
+        "xwlc-test.turner.com",
+        "mshguest.sinaihealthsystem.ca",
+        "sinaihealthsystem.ca",
         "one.one.one.one"
       ]
     },
@@ -41,8 +42,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "mail.fairteiler.de",
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "tr.covra.nl"
       ]
     }
   ],
