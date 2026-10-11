@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-11T10:38:05.236822+00:00",
+  "last_success": "2026-10-11T16:32:28.666271+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-10-11T12:03:33.642327+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4d0df6c5-6ea6-45ef-b37c-941b6d3427f1",
+      "country": "MA",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-11T12:03:56.093755+00:00",
+      "domain": "kerix.net/fr/annuaire-entreprise/cnesten",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c9c79b26ea26c6e0de65d4f2404217b0.png",
+      "url": "https://www.ransomware.live/id/Q05FU1RFTkBxaWxpbg==",
+      "victim": "CNESTEN"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-10-11T12:02:40.859797+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=5cdba9d3-9237-44ba-96b1-693f48d843a6",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-11T12:03:13.556260+00:00",
+      "domain": "www.friendshipchristian.net",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0afe4e786da30d4656c96ec5e9fe96ea.png",
+      "url": "https://www.ransomware.live/id/RnJpZW5kc2hpcCBDaHJpc3RpYW4gU2Nob29sQHFpbGlu",
+      "victim": "Friendship Christian School"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-10-11T06:31:08.095603+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/b8d16dc0e9be5352eea49c145eb2900d.png",
       "url": "https://www.ransomware.live/id/c29sdXRlbmRAUGFuemVy",
       "victim": "solutend"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-09T20:07:41.988255+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=45bf5b10-ebf4-4c21-b7f3-d67531a86863",
-      "country": "SE",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-10-09T20:08:10.108235+00:00",
-      "domain": "www.vadetogroup.com",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/da6ee6c7a7567e58377acc1dc3e1713b.png",
-      "url": "https://www.ransomware.live/id/VmFkZXRvIEdyb3VwQHFpbGlu",
-      "victim": "Vadeto Group"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-10-09T19:33:21.471991+00:00",
-      "claim_url": "http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/detail/2j6omt34vg6p5jjsdnb9iljb3g2y18",
-      "country": "US",
-      "data_size": null,
-      "description": "Fleetworks Inc. offers comprehensive heavy-duty truck repair and fleet services across California, with locations in Oakland, Santa Fe Springs, and Riverside. Their skilled team specializes in a wide range of services including diesel repair, flee",
-      "discovered": "2026-10-09T19:33:42.469953+00:00",
-      "domain": "fleetworksinc.com",
-      "group": "threeam",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c29a6d971d8238c2351e5d7b046d80a4.png",
-      "url": "https://www.ransomware.live/id/ZmxlZXR3b3Jrc2luYy5jb21AdGhyZWVhbQ==",
-      "victim": "fleetworksinc.com"
     }
   ]
 }
