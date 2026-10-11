@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-10T23:12:34.888925+00:00",
+  "last_success": "2026-10-11T03:56:08.663012+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-10-10T20:04:49.616282+00:00",
+      "claim_url": "http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=b895683d-2b2c-48ae-89b1-31aea880f383",
+      "country": "TW",
+      "data_size": null,
+      "description": "TEXMA International Co., Ltd. is a leading Taiwanese apparel manufacturer specializing in high-quality women's woven apparel, activewear, and sportswear. Founded in 1975, the company operates under a \"Taiwan orders, global production\" business model, supplying some of the world's most recognizable fashion brands.",
+      "discovered": "2026-10-10T20:31:45.583913+00:00",
+      "domain": "texma.com.tw",
+      "group": "dragonforce",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/af703a7360550825c7e5d59814fdb673.png",
+      "url": "https://www.ransomware.live/id/VEVYTUEgSW50ZXJuYXRpb25hbCBDby4sIEx0ZEBkcmFnb25mb3JjZQ==",
+      "victim": "TEXMA International Co., Ltd"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-10-10T18:02:05+00:00",
+      "claim_url": "",
+      "country": "TH",
+      "data_size": null,
+      "description": "rtaf.mi.th is the official portal of the Royal Thai Air Force, one of Asia's oldest air forces (founded November 2, 1913; independent since 1937), with ~46,000 personnel and 11 combat wings, now running a modern Odoo-based portal publishing financial reports, procurement plans, and White Papers on its \"Unbeatable Air Force\" roadmap to 2037. Its fleet spans 46 F-16s, 11 Gripen C/D, 13 F-5TH Super Tigris, Saab 340 Erieye AEW&C, C-130s, and a VIP fleet including an ex-Thai Airways A340-500. In July 2025 the RTAF fought its first combat since 1988 in the Thai-Cambodian border conflict, with its Gripens achieving the type's first-ever combat weapons launch. The centerpiece modernization is the Gripen E/F program: Thailand signed the $550M \"Peace Burapha 1\" contract in August 2025 — first in APAC — with deliveries from 2029 and 8 more jets sought toward a 12-aircraft squadron by 2037. Air Chief Marshal Seksan Kantha, the 31st commander since October 2025",
+      "discovered": "2026-10-10T20:30:08.186003+00:00",
+      "domain": "rtaf.mi.th",
+      "group": "thegentlemen",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Um95YWwgVGhhaSBBaXIgRm9yY2VAdGhlZ2VudGxlbWVu",
+      "victim": "Royal Thai Air Force"
+    },
     {
       "activity": "Education",
       "attackdate": "2026-10-10T16:54:02.119535+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/e546a0b391c14b55e7dd60b68cdb0b60.png",
       "url": "https://www.ransomware.live/id/TXluZEBhbnViaXM=",
       "victim": "Mynd"
-    },
-    {
-      "activity": "Financial Services",
-      "attackdate": "2026-10-09T15:59:04.035000+00:00",
-      "claim_url": "http://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion/target/6ac90f73698707a00251b714",
-      "country": "GB",
-      "data_size": null,
-      "description": "Lopay is a UK-based fintech company that provides a payment platform enabling small and medium-sized enterprises (SMEs) and sole traders to accept credit card and mobile payments, as well as manage their sales and settlements. This includes financial information belonging to client companies, such as customer payment details, card information, banking data, transaction history, and payment terminal information.",
-      "discovered": "2026-10-09T19:12:37.596311+00:00",
-      "domain": "lopay.com",
-      "group": "Black X",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a68d6f28c18e5df0fb8af5aa6b3ef8ec.png",
-      "url": "https://www.ransomware.live/id/bG9wYXlAQmxhY2sgWA==",
-      "victim": "lopay"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-10-09T15:52:00+00:00",
-      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/imperial-diamond-jewellery/",
-      "country": "",
-      "data_size": null,
-      "description": "Engaged in the sale of jewelry made of precious metals, \ndiamond jewelry and the manufacture of custom jewelry.\nCountry: Hong Kong, China. Year of foundation: 2011\nFinancial documents, personal and customer data. [Sector: Manufacturing, Finance]",
-      "discovered": "2026-10-09T17:21:57.756871+00:00",
-      "domain": "",
-      "group": "emperador",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/feae521d9461d03253fa1707d7e48f0c.png",
-      "url": "https://www.ransomware.live/id/SW1wZXJpYWwgRGlhbW9uZCBKZXdlbGxlcnlAZW1wZXJhZG9y",
-      "victim": "Imperial Diamond Jewellery"
     }
   ]
 }
