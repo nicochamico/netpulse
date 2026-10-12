@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T01:33:45.672116+00:00",
+  "generated_at": "2026-10-12T08:00:51.284043+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,10 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "internet.scg.co.th",
-        "one.one.one.one",
-        "scg.co.th",
-        "gast-wlan.spang.de"
+        "nes-ccs-nc.schoolloop.com",
+        "wlan.kreisklinikum-siegen.de",
+        "one.one.one.one"
       ]
     },
     {
