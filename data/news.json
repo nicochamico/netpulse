@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-12T16:33:44.000965+00:00",
+  "last_success": "2026-10-12T23:28:38.684334+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "published": "Mon, 12 Oct 2026 20:46:26 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
@@ -34,14 +40,26 @@
       "published": "Mon, 12 Oct 2026 12:56:12 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "published": "Sun, 11 Oct 2026 09:54:34 +0530"
+      "source": "BleepingComputer",
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "published": "Mon, 12 Oct 2026 16:13:52 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Ledger confirms hardware wallet spy implant behind crypto thefts",
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "published": "Mon, 12 Oct 2026 15:23:01 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "published": "Mon, 12 Oct 2026 14:51:59 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "published": "Mon, 12 Oct 2026 12:27:23 -0400"
     },
@@ -56,24 +74,6 @@
       "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
       "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
       "published": "Mon, 12 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "published": "Mon, 12 Oct 2026 09:51:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "published": "Mon, 12 Oct 2026 09:09:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-      "published": "Mon, 12 Oct 2026 07:58:33 -0400"
     }
   ]
 }
