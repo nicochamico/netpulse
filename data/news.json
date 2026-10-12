@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-12T06:56:52.137158+00:00",
+  "last_success": "2026-10-12T16:33:44.000965+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "published": "Mon, 12 Oct 2026 17:25:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "published": "Mon, 12 Oct 2026 16:51:48 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "published": "Mon, 12 Oct 2026 16:06:56 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "published": "Mon, 12 Oct 2026 14:32:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "published": "Mon, 12 Oct 2026 12:56:12 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -10,70 +40,40 @@
       "published": "Sun, 11 Oct 2026 09:54:34 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "published": "Sat, 10 Oct 2026 16:30:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "published": "Sat, 10 Oct 2026 14:48:45 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "published": "Sat, 10 Oct 2026 00:44:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "published": "Fri, 09 Oct 2026 23:15:26 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "published": "Fri, 09 Oct 2026 18:52:53 +0530"
+      "source": "BleepingComputer",
+      "title": "Ledger confirms hardware wallet spy implant behind crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "Mon, 12 Oct 2026 12:27:23 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "published": "Sun, 11 Oct 2026 10:23:46 -0400"
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "published": "Mon, 12 Oct 2026 11:23:34 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "published": "Sat, 10 Oct 2026 11:07:54 -0400"
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "published": "Mon, 12 Oct 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "published": "Sat, 10 Oct 2026 10:16:17 -0400"
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "published": "Mon, 12 Oct 2026 09:51:07 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "published": "Sat, 10 Oct 2026 08:30:39 -0400"
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "published": "Mon, 12 Oct 2026 09:09:09 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "published": "Fri, 09 Oct 2026 16:31:37 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "published": "Fri, 09 Oct 2026 13:17:23 -0400"
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "published": "Mon, 12 Oct 2026 07:58:33 -0400"
     }
   ]
 }

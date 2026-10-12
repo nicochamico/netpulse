@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-12T06:56:52.137158+00:00",
+  "last_success": "2026-10-12T16:33:44.000965+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Education",
+      "attackdate": "2026-10-12T10:39:45.889160+00:00",
+      "claim_url": "http://xjhmtitnrdrgzw4vmsghirdoo2fk35a3tzj4enlmah4pvehdspydsiyd.onion/blog/?post_uuid=855a382e-353b-4025-9a7c-e946f88627f7",
+      "country": "CA",
+      "data_size": null,
+      "description": "Canadian Mennonite University (CMU) is a Christian institution in Winnipeg, Manitoba, offering undergraduate degrees in various fields such as arts, business, music, and sciences, along with three graduate degree programs. The university focuses on a small community environment that fosters academic, social, and spiritual growth, welcoming students from diverse backgrounds and beliefs. CMU emphasizes preparing students as skilled problem solvers and leaders committed to positive change in their communities and beyond. It offers financial aid and supports approximately 50% of its students through scholarships and bursaries",
+      "discovered": "2026-10-12T11:03:12.265227+00:00",
+      "domain": "cmu.ca",
+      "group": "dragonforce",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/56c95ad76dc926fd54fce780b9c2a9aa.png",
+      "url": "https://www.ransomware.live/id/Q2FuYWRpYW4gTWVubm9uaXRlIFVuaXZlcnNpdHkgKENNVSlAZHJhZ29uZm9yY2U=",
+      "victim": "Canadian Mennonite University (CMU)"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-10-12T03:22:54.618735+00:00",
+      "claim_url": "http://neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "Sector: Energy Distribution | Revenue: $14B USD",
+      "discovered": "2026-10-12T03:23:11.328584+00:00",
+      "domain": "eversource.com",
+      "group": "Redact",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/dde43211c986889efac13449e9a1813d.png",
+      "url": "https://www.ransomware.live/id/RXZlcnNvdXJjZSBFbmVyZ3lAUmVkYWN0",
+      "victim": "Eversource Energy"
+    },
     {
       "activity": "Transportation",
       "attackdate": "2026-10-11T21:40:00+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
       "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjdATjBu",
       "victim": "Company #27"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-11T00:00:00+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "US",
-      "data_size": null,
-      "description": "cannabis operator · Michigan, USA | [PENDING EXPOSURE: data publishes 2026-10-13 09:40 UTC]",
-      "discovered": "2026-10-11T14:23:05.603426+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjZATjBu",
-      "victim": "Company #26"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-11T00:00:00+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "US",
-      "data_size": null,
-      "description": "confectionery & telehealth · New York, USA | [PENDING EXPOSURE: data publishes 2026-10-13 09:40 UTC]",
-      "discovered": "2026-10-11T14:22:32.820044+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjVATjBu",
-      "victim": "Company #25"
     }
   ]
 }
