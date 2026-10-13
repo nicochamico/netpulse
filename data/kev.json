@@ -1,9 +1,27 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-10-13T13:32:43.735344+00:00",
-  "count": 1739,
+  "last_success": "2026-10-13T20:04:18.731491+00:00",
+  "count": 1740,
   "items": [
+    {
+      "cveID": "CVE-2026-104935",
+      "vendorProject": "Ivanti",
+      "product": "Connect Secure",
+      "vulnerabilityName": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "dateAdded": "2026-10-13",
+      "shortDescription": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-10-16",
+      "knownRansomwareCampaignUse": "Unknown",
+      "forensicTriage": "Yes",
+      "notes": "https:/forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-CVE-2026-104935 ; https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
+      "cwes": [
+        "CWE-290"
+      ],
+      "epss": null,
+      "epss_percentile": null
+    },
     {
       "cveID": "CVE-2015-5477",
       "vendorProject": "ISC",
@@ -56,7 +74,7 @@
         "CWE-312"
       ],
       "epss": 0.03609,
-      "epss_percentile": 0.89211
+      "epss_percentile": 0.8923
     },
     {
       "cveID": "CVE-2021-3199",
@@ -74,7 +92,7 @@
         "CWE-22"
       ],
       "epss": 0.19352,
-      "epss_percentile": 0.97297
+      "epss_percentile": 0.97301
     },
     {
       "cveID": "CVE-2015-3306",
@@ -110,7 +128,7 @@
         "CWE-119"
       ],
       "epss": 0.00592,
-      "epss_percentile": 0.4677
+      "epss_percentile": 0.46853
     },
     {
       "cveID": "CVE-2026-102490",
@@ -128,7 +146,7 @@
         "CWE-269"
       ],
       "epss": 0.0055,
-      "epss_percentile": 0.44407
+      "epss_percentile": 0.44495
     },
     {
       "cveID": "CVE-2026-102489",
@@ -146,7 +164,7 @@
         "CWE-384"
       ],
       "epss": 0.01255,
-      "epss_percentile": 0.687
+      "epss_percentile": 0.68745
     },
     {
       "cveID": "CVE-2026-104286",
@@ -165,25 +183,7 @@
         "CWE-158"
       ],
       "epss": 0.02201,
-      "epss_percentile": 0.82034
-    },
-    {
-      "cveID": "CVE-2026-76504",
-      "vendorProject": "Cisco",
-      "product": "Catalyst SD-WAN Manager",
-      "vulnerabilityName": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
-      "dateAdded": "2026-09-30",
-      "shortDescription": "Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-10-03",
-      "knownRansomwareCampaignUse": "Unknown",
-      "forensicTriage": "Yes",
-      "notes": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU ; ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-76504",
-      "cwes": [
-        "CWE-177"
-      ],
-      "epss": 0.01819,
-      "epss_percentile": 0.78155
+      "epss_percentile": 0.8206
     }
   ]
 }
