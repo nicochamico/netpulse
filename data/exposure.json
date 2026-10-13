@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:54:52.351001+00:00",
+  "generated_at": "2026-10-13T00:14:26.360003+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,9 +24,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "nes-ccs-nc.schoolloop.com",
-        "wlan.kreisklinikum-siegen.de",
-        "one.one.one.one"
+        "one.one.one.one",
+        "ucc.vodafone.com",
+        "portal.guest.altertrading.com"
       ]
     },
     {
