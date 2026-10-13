@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:52:00.357918+00:00",
+  "generated_at": "2026-10-13T14:50:04.831033+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -25,8 +25,7 @@
       "tags": [],
       "hostnames": [
         "one.one.one.one",
-        "ucc.vodafone.com",
-        "portal.guest.altertrading.com"
+        "webauth.phsa.ca"
       ]
     },
     {
@@ -41,7 +40,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "other.dev.ops.dsb.no"
       ]
     }
   ],
