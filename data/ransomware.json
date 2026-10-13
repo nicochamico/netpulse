@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-13T05:26:02.662003+00:00",
+  "last_success": "2026-10-13T13:32:43.735344+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-13T01:34:16.213183+00:00",
+      "claim_url": "http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion/topic.php?id=Kh2jwtbyr911ND",
+      "country": "US",
+      "data_size": null,
+      "description": "United States",
+      "discovered": "2026-10-13T01:34:32.983032+00:00",
+      "domain": "www.theinnovationgroup.com",
+      "group": "play",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3b0c2556f4280e08e6d8515a3fb345b5.png",
+      "url": "https://www.ransomware.live/id/VGhlIElubm92YXRpb24gR3JvdXBAcGxheQ==",
+      "victim": "The Innovation Group"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-10-13T00:37:06.758566+00:00",
@@ -67,6 +83,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QWR2YW5jZWQgSW1hZ2luZyBTb2x1dGlvbnNAcGxheQ==",
       "victim": "Advanced Imaging Solutions"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-13T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/the-buckner-company-inc-75b23ef0",
+      "country": "US",
+      "data_size": null,
+      "description": "[insurance] The Buckner Company, Inc. is a commercial property & casualty insurance brokerage headquartered in Salt Lake City, Utah, with a second office in Denver, Colorado.\n\nThe exfiltrated dataset includes:\n\n1,500+ plaintext credentials — Chrome, Edge, and Google password exports from 8+ employees, plus 20+ password spreadsheets. Verified: kbennett’s file alone contains 503 entries covering Hartford, Travelers, Chubb, Progressive, Sedgwick, mortgage portals, banking, and personal accounts.\nEmployee SSNs for 150–250 individuals — W-2 reports across three entities (TBC, TBI, COL) spanning four tax years (2019–2022), plus 2023 W-2 and 1099-NEC reports.\n316 individual Total Compensation PDFs and 3+ years of Paycom payroll rate history — every employee’s salary, bonus, and benefits laid bare.\nA complete M&A acquisition pipeline — 60+ prospect folders with due diligence, LOIs, valuations, and the full BroadStreet Partners closing package (52 exhibits including Disclosure Schedules, MIPA, corporate structure documents).\n128 Outlook PST email archives spanning years of business correspondence.\nCorporate tax returns for Buckner (2004–2024), Citrus Insurance LLC (2021–2023), and Consolidated Agencies (2022–2023).\n7 named individuals’ driver license scans and the Applied Epic insurance management database (Epic.mdf).",
+      "discovered": "2026-10-13T07:27:11.241612+00:00",
+      "domain": "The Buckner Company, Inc.",
+      "group": "aurora",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/80c0f80237e47ab31294957f028aa424.png",
+      "url": "https://www.ransomware.live/id/VGhlIEJ1Y2tuZXIgQ29tcGFueSwgSW5jLkBhdXJvcmE=",
+      "victim": "The Buckner Company, Inc."
     },
     {
       "activity": "Healthcare",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/e6caeb753ed8c7d448aa16a866bbb3dc.png",
       "url": "https://www.ransomware.live/id/UHJvZGllbEBxaWxpbg==",
       "victim": "Prodiel"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-12T14:47:34.308156+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:9fe46cf358a571276b8177fdbce15f31f280783169a763645de631d6537a8fdc/0AFC:40bb7d396d88c7564dcec7fc3c5423b39496a1f5990be7911f2e46bb57531e78",
-      "country": "US",
-      "data_size": null,
-      "description": "MyMichigan Health provides a full continuum of care across a wide array of settings, including urgent care centers, home health, virtual care, as well as medical offices. Their expertise spans 85 specialties and subspecialties, including behavioral health, cardiology, primary care, hematology/oncology, neurosciences, orthopedics, women and children services, and vascular surgery among others.\n\nData size: —\nRevenue: USD 5.1B",
-      "discovered": "2026-10-12T14:47:55.318406+00:00",
-      "domain": "www.mymichigan.org",
-      "group": "metaencryptor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/63bc78280be7279c131ef623e9beec91.png",
-      "url": "https://www.ransomware.live/id/TXlNaWNoaWdhbiBIZWFsdGhAbWV0YWVuY3J5cHRvcg==",
-      "victim": "MyMichigan Health"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-10-12T14:46:51.067521+00:00",
-      "claim_url": "https://metacrpttdfpbm4qoxzcrqqgr6e6zafpazgxm72knmujw2mwvi34rwad.onion/0AFC:7714ccdf63f0d70759f8b284128b51cc/0AFC:cf7568ab0e66e2b2a51349a7c42a8e7d5c4eb05bee8914576c4621f2c072241a",
-      "country": "US",
-      "data_size": null,
-      "description": "VIATechnik is a digital transformation leader in the AEC industry.\n\nData size: 12.5 TB",
-      "discovered": "2026-10-12T14:47:14.220522+00:00",
-      "domain": "www.viatechnik.com",
-      "group": "metaencryptor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/eeb661ed159b3e3398fec7aafc1b2c8c.png",
-      "url": "https://www.ransomware.live/id/VklBVGVjaG5pa0BtZXRhZW5jcnlwdG9y",
-      "victim": "VIATechnik"
     }
   ]
 }

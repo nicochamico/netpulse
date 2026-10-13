@@ -1,43 +1,43 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-13T05:26:02.662003+00:00",
+  "last_success": "2026-10-13T13:32:43.735344+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": "Mon, 12 Oct 2026 20:46:26 +0530"
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "published": "Tue, 13 Oct 2026 17:27:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "published": "Mon, 12 Oct 2026 17:25:00 +0530"
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "published": "Tue, 13 Oct 2026 16:39:10 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "published": "Mon, 12 Oct 2026 16:51:48 +0530"
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "published": "Tue, 13 Oct 2026 16:00:00 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "published": "Mon, 12 Oct 2026 16:06:56 +0530"
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "published": "Tue, 13 Oct 2026 14:18:41 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "published": "Mon, 12 Oct 2026 14:32:14 +0530"
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "published": "Tue, 13 Oct 2026 14:14:01 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "published": "Mon, 12 Oct 2026 12:56:12 +0530"
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "published": "Tue, 13 Oct 2026 14:13:37 +0530"
     },
     {
       "source": "BleepingComputer",
