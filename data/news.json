@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-14T00:07:53.298618+00:00",
+  "last_success": "2026-10-14T05:47:12.736771+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "published": "Wed, 14 Oct 2026 10:04:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "published": "Wed, 14 Oct 2026 07:29:25 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
@@ -26,18 +38,6 @@
       "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
       "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
       "published": "Tue, 13 Oct 2026 22:58:50 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "published": "Tue, 13 Oct 2026 21:48:18 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "published": "Tue, 13 Oct 2026 18:42:32 +0530"
     },
     {
       "source": "BleepingComputer",
