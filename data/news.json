@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-13T20:04:18.731491+00:00",
+  "last_success": "2026-10-14T00:07:53.298618+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "published": "Tue, 13 Oct 2026 18:33:02 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "published": "Tue, 13 Oct 2026 17:33:26 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "published": "Tue, 13 Oct 2026 17:16:34 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
       "published": "Tue, 13 Oct 2026 15:56:09 -0400"
@@ -56,24 +74,6 @@
       "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
       "published": "Tue, 13 Oct 2026 15:04:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "published": "Tue, 13 Oct 2026 14:19:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "published": "Tue, 13 Oct 2026 13:49:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "published": "Tue, 13 Oct 2026 12:44:18 -0400"
     }
   ]
 }
