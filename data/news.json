@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-14T20:25:59.538224+00:00",
+  "last_success": "2026-10-14T23:39:44.989517+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "published": "Wed, 14 Oct 2026 18:56:47 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
       "published": "Wed, 14 Oct 2026 15:41:43 -0400"
@@ -68,12 +74,6 @@
       "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
       "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
       "published": "Wed, 14 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "published": "Wed, 14 Oct 2026 09:12:52 -0400"
     }
   ]
 }
