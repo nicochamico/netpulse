@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-15T18:00:19.027547+00:00",
+  "last_success": "2026-10-15T21:54:57.305407+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "published": "Fri, 16 Oct 2026 01:54:36 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "published": "Fri, 16 Oct 2026 00:19:33 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
@@ -28,16 +40,22 @@
       "published": "Thu, 15 Oct 2026 18:28:05 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": "Thu, 15 Oct 2026 17:58:13 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "published": "Thu, 15 Oct 2026 16:25:04 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "published": "Thu, 15 Oct 2026 17:37:20 +0530"
+      "source": "BleepingComputer",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "published": "Thu, 15 Oct 2026 15:48:43 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "published": "Thu, 15 Oct 2026 14:20:59 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "published": "Thu, 15 Oct 2026 09:18:36 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "published": "Thu, 15 Oct 2026 07:55:38 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "published": "Thu, 15 Oct 2026 05:10:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "published": "Thu, 15 Oct 2026 04:06:47 -0400"
     }
   ]
 }
