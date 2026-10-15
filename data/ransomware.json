@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-14T23:39:44.989517+00:00",
+  "last_success": "2026-10-15T03:09:05.540786+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-10-14T22:58:37.421862+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-interiortech",
+      "country": "",
+      "data_size": null,
+      "description": "smart building & surveillance integration (US) · California, USA | The complete gateway configuration of a smart building and surveillance integration company: every client site, device, user and credential; Client site surveillance feeds: dark until settlement; Administrator access to the company's own management infrastructure: reset by us | [NOT PAID — EXPOSED]",
+      "discovered": "2026-10-14T22:59:09.912069+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/SW50ZXJpb3IgVGVjaG5vbG9naWVzQE4wbg==",
+      "victim": "Interior Technologies"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-10-14T15:30:48.004132+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/4d93d1c82c5ccaa38b50f72e198adf12.png",
       "url": "https://www.ransomware.live/id/VGhlIEdvbGRlbiBMZWdhY3kgRmluYW5jaW5nQHFpbGlu",
       "victim": "The Golden Legacy Financing"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-13T16:45:27+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "A nonprofit senior-living facility in Hildesheim, Germany, providing residential nursing care, short-term care, respite care, and assisted living",
-      "discovered": "2026-10-13T16:52:00.329570+00:00",
-      "domain": "",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TGFtYmVydGludW0gU2VuaW9yZW53b2huYW5sYWdlQFdhbGxzdHJlZXQ=",
-      "victim": "Lambertinum Seniorenwohnanlage"
     }
   ]
 }
