@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:02:31.577240+00:00",
+  "generated_at": "2026-10-15T15:01:34.566852+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -17,6 +17,7 @@
         2083,
         2086,
         2087,
+        2096,
         8080,
         8443
       ],
@@ -24,9 +25,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "ucc.vodafone.com",
-        "portal.guest.altertrading.com"
+        "usd300-ks.schoolloop.com",
+        "jks-aps-nm.schoolloop.com",
+        "one.one.one.one"
       ]
     },
     {
