@@ -1,43 +1,61 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-15T08:49:39.768723+00:00",
+  "last_success": "2026-10-15T13:55:17.582183+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "published": "Thu, 15 Oct 2026 17:37:20 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "published": "Thu, 15 Oct 2026 17:16:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "Thu, 15 Oct 2026 11:47:58 +0530"
+      "published": "Thu, 15 Oct 2026 17:16:49 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "published": "Thu, 15 Oct 2026 00:08:56 +0530"
+      "title": "Why AI Confidence Is Not Validation",
+      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "published": "Thu, 15 Oct 2026 16:34:35 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": "Wed, 14 Oct 2026 23:08:31 +0530"
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "published": "Thu, 15 Oct 2026 16:12:16 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": "Wed, 14 Oct 2026 22:39:15 +0530"
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": "Thu, 15 Oct 2026 14:15:10 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "published": "Wed, 14 Oct 2026 22:04:31 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "published": "Thu, 15 Oct 2026 09:18:36 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": "Wed, 14 Oct 2026 18:00:42 +0530"
+      "source": "BleepingComputer",
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "published": "Thu, 15 Oct 2026 07:55:38 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "published": "Thu, 15 Oct 2026 05:10:20 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
       "published": "Wed, 14 Oct 2026 15:41:43 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "published": "Wed, 14 Oct 2026 13:46:50 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "published": "Wed, 14 Oct 2026 13:29:14 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "published": "Wed, 14 Oct 2026 10:27:01 -0400"
     }
   ]
 }
