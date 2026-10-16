@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:03:01.130804+00:00",
+  "generated_at": "2026-10-16T09:50:07.899028+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -17,7 +17,6 @@
         2083,
         2086,
         2087,
-        2096,
         8080,
         8443
       ],
@@ -25,9 +24,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "usd300-ks.schoolloop.com",
-        "jks-aps-nm.schoolloop.com",
-        "one.one.one.one"
+        "one.one.one.one",
+        "webauth.phsa.ca"
       ]
     },
     {
@@ -42,7 +40,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "server.berg.net"
       ]
     }
   ],
