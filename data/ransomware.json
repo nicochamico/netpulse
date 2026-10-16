@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-16T05:25:30.574103+00:00",
+  "last_success": "2026-10-16T10:40:36.287858+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-16T01:23:25.695217+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "fintech payments · US | [PENDING EXPOSURE]",
+      "discovered": "2026-10-16T01:23:41.272921+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
+      "url": "https://www.ransomware.live/id/Q29tcGFueSAjNzVATjBu",
+      "victim": "Company #75"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-16T01:22:51.267437+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "media technology / broadcast playout · United States | [PENDING EXPOSURE]",
+      "discovered": "2026-10-16T01:23:06.889496+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
+      "url": "https://www.ransomware.live/id/Q29tcGFueSAjNzRATjBu",
+      "victim": "Company #74"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-10-16T00:22:35.221004+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/562aa7f6ddc48fa889623399e26597b9.png",
       "url": "https://www.ransomware.live/id/a2lkenJrb29sZGVudGFsLmNvbUBsb2NrYml0NQ==",
       "victim": "kidzrkooldental.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-15T14:21:00+00:00",
-      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/6ecacfad25ee6527ec3fa87ca744ef20",
-      "country": "IT",
-      "data_size": null,
-      "description": "Torcivia, Donlon, Goddeau & Rubin, P.A. continues to provide high quality, personalized, and practic...",
-      "discovered": "2026-10-15T16:11:30.850581+00:00",
-      "domain": "torcivialaw.com",
-      "group": "lockbit5",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/10003fe785c284d11832a257e8b87b58.png",
-      "url": "https://www.ransomware.live/id/dG9yY2l2aWFsYXcuY29tQGxvY2tiaXQ1",
-      "victim": "torcivialaw.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-15T13:20:06.474131+00:00",
-      "claim_url": "http://oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion/target.php?id=0x-bienestarempresarial",
-      "country": "MX",
-      "data_size": null,
-      "description": "bienestarempresarial.mx",
-      "discovered": "2026-10-15T13:20:22.223705+00:00",
-      "domain": "bienestarempresarial.mx",
-      "group": "0x00",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f173112a6d863f9bfe2fcc69e2eb44e9.png",
-      "url": "https://www.ransomware.live/id/YmllbmVzdGFyZW1wcmVzYXJpYWxAMHgwMA==",
-      "victim": "bienestarempresarial"
     }
   ]
 }
