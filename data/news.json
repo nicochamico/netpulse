@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-16T10:40:36.287858+00:00",
+  "last_success": "2026-10-16T15:10:46.729833+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -34,10 +40,16 @@
       "published": "Fri, 16 Oct 2026 00:19:33 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "published": "Thu, 15 Oct 2026 21:31:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "published": "Fri, 16 Oct 2026 09:50:59 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "published": "Fri, 16 Oct 2026 08:01:29 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "published": "Thu, 15 Oct 2026 16:25:04 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "published": "Thu, 15 Oct 2026 15:48:43 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "published": "Thu, 15 Oct 2026 14:20:59 -0400"
     }
   ]
 }
