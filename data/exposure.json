@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:06:43.236329+00:00",
+  "generated_at": "2026-10-17T15:35:24.835528+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -25,9 +25,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "wireless-login.ucsd.edu",
-        "guest.mbcb.org"
+        "usd300-ks.schoolloop.com",
+        "jks-aps-nm.schoolloop.com",
+        "one.one.one.one"
       ]
     },
     {
@@ -43,7 +43,7 @@
       "tags": [],
       "hostnames": [
         "dns9.quad9.net",
-        "other.dev.ops.dsb.no"
+        "server.berg.net"
       ]
     }
   ],
