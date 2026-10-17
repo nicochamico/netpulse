@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-17T14:55:49.321552+00:00",
+  "last_success": "2026-10-17T17:45:48.338598+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "published": "Sat, 17 Oct 2026 11:18:51 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
       "published": "Sat, 17 Oct 2026 10:32:48 -0400"
@@ -68,12 +74,6 @@
       "title": "Burger King Japan data breach exposes 11 million customer records",
       "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
       "published": "Fri, 16 Oct 2026 08:01:29 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "published": "Fri, 16 Oct 2026 04:44:22 -0400"
     }
   ]
 }
