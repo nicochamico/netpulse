@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-17T01:01:51.590364+00:00",
+  "last_success": "2026-10-17T06:31:58.551944+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-10-16T21:53:22.565417+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-prafesta",
+      "country": "BR",
+      "data_size": null,
+      "description": "packaging manufacturing (extrusion) · Brazil | Senior Sapiens ERP and Vetorh HR payroll platform; eSocial government payroll filings September and October 2026; Thousands of electronic invoices with customer and supplier data; Worker and partner CPF identification numbers; Bank integration certificates and financial records | [NOT PAID — EXPOSED]",
+      "discovered": "2026-10-16T21:53:44.751763+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/741977304a5302cfe7048afef380879c.png",
+      "url": "https://www.ransomware.live/id/UHJhZmVzdGEgSW5kLiBlIENvbS4gZGUgRW1iYWxhZ2VucyBMdGRhQE4wbg==",
+      "victim": "Prafesta Ind. e Com. de Embalagens Ltda"
+    },
     {
       "activity": "Financial Services",
       "attackdate": "2026-10-16T20:40:23.864126+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/RGF0YS1Db3JlIFN5c3RlbXNAVmV4eSBSYW5zb213YXJl",
       "victim": "Data-Core Systems"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-10-16T13:59:09+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Girl Scouts of Eastern Massachusetts, Inc. (GSEMA) is a 501(c)(3) nonprofit serving girls and young people across eastern Massachusetts. Its mission is to help girls build courage, confidence, and character so they can make the world a better place",
-      "discovered": "2026-10-16T16:00:49.271089+00:00",
-      "domain": "",
-      "group": "Wallstreet",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/R2lybCBTY291dHMgb2YgRWFzdGVybiBNYXNzYWNodXNldHRzQFdhbGxzdHJlZXQ=",
-      "victim": "Girl Scouts of Eastern Massachusetts"
     }
   ]
 }
