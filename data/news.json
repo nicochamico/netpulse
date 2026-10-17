@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-17T11:21:04.600760+00:00",
+  "last_success": "2026-10-17T14:55:49.321552+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "published": "Sat, 17 Oct 2026 16:41:56 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
@@ -34,10 +40,10 @@
       "published": "Fri, 16 Oct 2026 19:33:04 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "published": "Fri, 16 Oct 2026 17:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "published": "Sat, 17 Oct 2026 10:32:48 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Microsoft: October Windows update may break Smart App Control",
       "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
       "published": "Fri, 16 Oct 2026 04:44:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "published": "Fri, 16 Oct 2026 03:37:35 -0400"
     }
   ]
 }
