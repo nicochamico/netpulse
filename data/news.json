@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-17T06:31:58.551944+00:00",
+  "last_success": "2026-10-17T11:21:04.600760+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published": "Sat, 17 Oct 2026 11:46:46 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -32,12 +38,6 @@
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
       "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
       "published": "Fri, 16 Oct 2026 17:00:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "published": "Fri, 16 Oct 2026 12:25:55 +0530"
     },
     {
       "source": "BleepingComputer",
