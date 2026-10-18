@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:59:00.607559+00:00",
+  "generated_at": "2026-10-18T21:23:52.667145+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -25,9 +25,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "usd300-ks.schoolloop.com",
-        "jks-aps-nm.schoolloop.com",
-        "one.one.one.one"
+        "myduo.ha.utoledo.edu",
+        "one.one.one.one",
+        "n-link360.nexentire.com"
       ]
     },
     {
