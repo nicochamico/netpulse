@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-18T05:24:23.652145+00:00",
+  "last_success": "2026-10-18T10:22:09.750239+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": "Sun, 18 Oct 2026 13:53:02 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
@@ -32,12 +38,6 @@
       "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
       "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
       "published": "Fri, 16 Oct 2026 21:46:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "published": "Fri, 16 Oct 2026 19:33:04 +0530"
     },
     {
       "source": "BleepingComputer",
