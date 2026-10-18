@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-18T17:48:19.014566+00:00",
+  "last_success": "2026-10-18T20:04:52.465166+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Education",
+      "attackdate": "2026-10-18T13:49:15.832241+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=e7770bb5-0317-40ff-8e48-68fb5f38b547",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-18T13:49:38.734560+00:00",
+      "domain": "www.llanoisd.org",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5a412f64bb3a4e0f63a8f95abb8a34d1.png",
+      "url": "https://www.ransomware.live/id/TGxhbm8gSW5kZXBlbmRlbnQgU2Nob29sIERpc3RyaWN0QHFpbGlu",
+      "victim": "Llano Independent School District"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-10-18T12:36:46.083672+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/3547903db2aa0aec133b1a5b040e1fc4.png",
       "url": "https://www.ransomware.live/id/UmhlZW0gR2xvYmFsQEhlbGl4",
       "victim": "Rheem Global"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-17T06:53:18.140414+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "US",
-      "data_size": null,
-      "description": "real estate and land development · United States | [PENDING EXPOSURE]",
-      "discovered": "2026-10-17T06:53:37.963927+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjODZATjBu",
-      "victim": "Company #86"
     }
   ]
 }
