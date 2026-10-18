@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:56:42.156352+00:00",
+  "generated_at": "2026-10-18T09:23:34.956775+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -42,8 +42,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net",
-        "server.berg.net"
+        "other.dev.ops.dsb.no",
+        "dns9.quad9.net"
       ]
     }
   ],
