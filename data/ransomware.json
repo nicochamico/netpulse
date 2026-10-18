@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-17T22:52:33.476012+00:00",
+  "last_success": "2026-10-18T00:37:32.223067+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-17T19:24:10.739943+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+      "country": "US",
+      "data_size": null,
+      "description": "home healthcare services · United States | [PENDING EXPOSURE]",
+      "discovered": "2026-10-17T19:24:26.787601+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
+      "url": "https://www.ransomware.live/id/Q29tcGFueSAjODhATjBu",
+      "victim": "Company #88"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-10-17T18:21:47.769934+00:00",
@@ -115,6 +131,22 @@
       "screenshot": "https://images.ransomware.live/victims/4e7e85867a26a6831fd3d0ba2770f79f.png",
       "url": "https://www.ransomware.live/id/QnJlbm5lciBCYXNlIFR1bm5lbEBldmVyZXN0",
       "victim": "Brenner Base Tunnel"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-17T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=c4115757-95f5-48f1-bfd5-29e33075df54",
+      "country": "TH",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-17T20:16:07.976121+00:00",
+      "domain": "firstbrothers.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3f198b196d4c43b4502cd11e5f5e3c02.png",
+      "url": "https://www.ransomware.live/id/Rmlyc3QgQnJvdGhlcnMgQ28uLCBMdGRAcWlsaW4=",
+      "victim": "First Brothers Co., Ltd"
     },
     {
       "activity": "Retail & E-Commerce",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/R2lvIERlbnRhbCBNZWQgU3BhQHRoZWdlbnRsZW1lbg==",
       "victim": "Gio Dental Med Spa"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-10-16T16:48:40+00:00",
-      "claim_url": "",
-      "country": "TH",
-      "data_size": null,
-      "description": "wellingtoncollege.ac.th Wellington College Bangkok is a British international school for ages 2 to 18, opened in 2018 as part of Wellington College UK, with around 1100 students on a 28 acre campus in eastern Bangkok. The curriculum runs from the English National Curriculum to IGCSE and A Levels, with the first graduating class in 2026. Fees range from about 639000 baht per year in pre nursery up to 1283500 baht in Year 12, plus a 225000 baht registration fee and a 175000 baht refundable deposit. Results are elite level with 80 percent A star or A at IGCSE and every graduate of 2026 admitted to their first choice university including Stanford, Yale and Imperial College. Admissions are selective with CAT4 testing and interviews, and strong English is required from Year 10. The school is famous for its Olympic pool, FIFA standard pitch, 600 seat theatre, wellbeing curriculum and scholarships in music, swimming, golf and academics.",
-      "discovered": "2026-10-17T16:52:59.457321+00:00",
-      "domain": "wellingtoncollege.ac.th",
-      "group": "thegentlemen",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/V2VsbGluZ3RvbiBDb2xsZWdlIEludGVybmF0aW9uYWwgU2Nob29sIEJhbmdrb2tAdGhlZ2VudGxlbWVu",
-      "victim": "Wellington College International School Bangkok"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-10-16T16:01:48+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "polisee Inc. is a Japanese technology company that develops and operates an AI-powered policy intelligence platform. Its software automates the monitoring, collection, analysis, and sharing of government policy and regulatory information. It uses AI to summarize policy discussions, organize complex documents, and provide real-time alerts, helping businesses and institutions anticipate regulatory changes, manage compliance risks, and identify new business opportunities.",
-      "discovered": "2026-10-17T18:33:23.496159+00:00",
-      "domain": "polisee.com",
-      "group": "Vexy Ransomware",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/cG9saXNlZSBJbmNAVmV4eSBSYW5zb213YXJl",
-      "victim": "polisee Inc"
     }
   ]
 }
