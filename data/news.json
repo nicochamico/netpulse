@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-18T14:16:59.279589+00:00",
+  "last_success": "2026-10-18T17:48:19.014566+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "published": "Sun, 18 Oct 2026 10:23:16 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "published": "Sat, 17 Oct 2026 11:18:51 -0400"
@@ -68,12 +74,6 @@
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
       "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
       "published": "Fri, 16 Oct 2026 09:50:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "published": "Fri, 16 Oct 2026 08:01:29 -0400"
     }
   ]
 }
