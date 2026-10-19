@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-19T12:05:50.654261+00:00",
+  "last_success": "2026-10-19T18:59:14.860832+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "published": "Mon, 19 Oct 2026 23:02:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "published": "Mon, 19 Oct 2026 21:58:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "published": "Mon, 19 Oct 2026 19:44:07 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "published": "Mon, 19 Oct 2026 18:35:45 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "published": "Mon, 19 Oct 2026 17:20:00 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
@@ -10,70 +40,40 @@
       "published": "Mon, 19 Oct 2026 15:36:40 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "published": "Mon, 19 Oct 2026 11:59:44 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "published": "Mon, 19 Oct 2026 11:37:08 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": "Sun, 18 Oct 2026 13:53:02 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "published": "Sat, 17 Oct 2026 16:41:56 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "published": "Sat, 17 Oct 2026 11:46:46 +0530"
+      "source": "BleepingComputer",
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "published": "Mon, 19 Oct 2026 14:51:13 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "published": "Mon, 19 Oct 2026 04:58:41 -0400"
+      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+      "published": "Mon, 19 Oct 2026 13:27:15 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "published": "Sun, 18 Oct 2026 10:23:16 -0400"
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "published": "Mon, 19 Oct 2026 10:55:23 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "published": "Sat, 17 Oct 2026 11:18:51 -0400"
+      "title": "Inside the Underground Market for Know Your Client Services",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "published": "Mon, 19 Oct 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "published": "Sat, 17 Oct 2026 10:32:48 -0400"
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "published": "Mon, 19 Oct 2026 09:49:24 -0400"
     },
     {
       "source": "BleepingComputer",
-      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "published": "Fri, 16 Oct 2026 16:00:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "published": "Fri, 16 Oct 2026 13:20:03 -0400"
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "published": "Mon, 19 Oct 2026 08:44:44 -0400"
     }
   ]
 }
