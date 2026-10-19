@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-19T05:42:21.536720+00:00",
+  "last_success": "2026-10-19T12:05:50.654261+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "published": "Mon, 19 Oct 2026 15:36:40 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "published": "Mon, 19 Oct 2026 11:59:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "published": "Mon, 19 Oct 2026 11:37:08 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -22,22 +40,10 @@
       "published": "Sat, 17 Oct 2026 11:46:46 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "published": "Fri, 16 Oct 2026 23:18:45 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "published": "Fri, 16 Oct 2026 22:13:39 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "published": "Fri, 16 Oct 2026 21:46:44 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "published": "Mon, 19 Oct 2026 04:58:41 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "published": "Fri, 16 Oct 2026 13:20:03 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "published": "Fri, 16 Oct 2026 09:50:59 -0400"
     }
   ]
 }
