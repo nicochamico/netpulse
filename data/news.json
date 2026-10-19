@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-19T18:59:14.860832+00:00",
+  "last_success": "2026-10-19T22:51:50.254328+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "published": "Mon, 19 Oct 2026 17:49:48 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "published": "Mon, 19 Oct 2026 17:24:51 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "published": "Mon, 19 Oct 2026 15:40:58 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Bullhorn takes staffing platform offline to contain cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
       "published": "Mon, 19 Oct 2026 14:51:13 -0400"
@@ -56,24 +74,6 @@
       "title": "Microsoft fixes game, app crashes caused by recent Windows update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
       "published": "Mon, 19 Oct 2026 10:55:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "published": "Mon, 19 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "Mon, 19 Oct 2026 09:49:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "published": "Mon, 19 Oct 2026 08:44:44 -0400"
     }
   ]
 }
