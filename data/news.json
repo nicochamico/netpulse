@@ -1,43 +1,67 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-20T07:08:41.709766+00:00",
+  "last_success": "2026-10-20T13:18:49.369818+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "published": "Tue, 20 Oct 2026 11:23:16 +0530"
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "published": "Tue, 20 Oct 2026 17:11:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "published": "Tue, 20 Oct 2026 09:35:58 +0530"
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "published": "Tue, 20 Oct 2026 17:03:04 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "published": "Mon, 19 Oct 2026 23:02:13 +0530"
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "published": "Tue, 20 Oct 2026 17:02:59 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "published": "Mon, 19 Oct 2026 21:58:47 +0530"
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "published": "Tue, 20 Oct 2026 16:36:25 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "published": "Mon, 19 Oct 2026 19:44:07 +0530"
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "published": "Tue, 20 Oct 2026 16:26:08 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "published": "Mon, 19 Oct 2026 18:35:45 +0530"
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "published": "Tue, 20 Oct 2026 13:51:29 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "published": "Tue, 20 Oct 2026 08:16:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "published": "Tue, 20 Oct 2026 07:31:22 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "published": "Tue, 20 Oct 2026 07:18:35 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "published": "Tue, 20 Oct 2026 05:46:44 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
       "published": "Mon, 19 Oct 2026 17:24:51 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "published": "Mon, 19 Oct 2026 15:40:58 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "published": "Mon, 19 Oct 2026 14:51:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "published": "Mon, 19 Oct 2026 13:27:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "published": "Mon, 19 Oct 2026 10:55:23 -0400"
     }
   ]
 }
