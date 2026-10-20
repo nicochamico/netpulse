@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:08:09.758732+00:00",
+  "generated_at": "2026-10-20T07:34:55.457989+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -9,6 +9,7 @@
       "ip": "1.1.1.1",
       "open_ports": [
         53,
+        69,
         80,
         443,
         2052,
@@ -25,9 +26,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "myduo.ha.utoledo.edu",
         "one.one.one.one",
-        "n-link360.nexentire.com"
+        "gms.asus.com",
+        "wlc.ynap.com"
       ]
     },
     {
