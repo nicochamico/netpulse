@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:58:51.104704+00:00",
+  "generated_at": "2026-10-20T21:30:52.306723+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,9 +26,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "one.one.one.one",
-        "gms.asus.com",
-        "wlc.ynap.com"
+        "mfms.schoolloop.com",
+        "visitors.pauliggroup.com",
+        "one.one.one.one"
       ]
     },
     {
