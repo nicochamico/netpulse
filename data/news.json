@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-20T13:18:49.369818+00:00",
+  "last_success": "2026-10-20T18:19:18.721443+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "published": "Tue, 20 Oct 2026 21:08:52 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "published": "Tue, 20 Oct 2026 21:02:27 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "published": "Tue, 20 Oct 2026 19:37:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "published": "Tue, 20 Oct 2026 18:29:44 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
@@ -16,28 +40,28 @@
       "published": "Tue, 20 Oct 2026 17:03:04 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "published": "Tue, 20 Oct 2026 17:02:59 +0530"
+      "source": "BleepingComputer",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "published": "Tue, 20 Oct 2026 14:11:03 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "published": "Tue, 20 Oct 2026 16:36:25 +0530"
+      "source": "BleepingComputer",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "published": "Tue, 20 Oct 2026 10:19:05 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "published": "Tue, 20 Oct 2026 16:26:08 +0530"
+      "source": "BleepingComputer",
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "published": "Tue, 20 Oct 2026 09:51:00 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "published": "Tue, 20 Oct 2026 13:51:29 +0530"
+      "source": "BleepingComputer",
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "published": "Tue, 20 Oct 2026 09:18:36 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
       "published": "Tue, 20 Oct 2026 07:31:22 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "published": "Tue, 20 Oct 2026 07:18:35 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "published": "Tue, 20 Oct 2026 05:46:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "published": "Mon, 19 Oct 2026 17:49:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "published": "Mon, 19 Oct 2026 17:24:51 -0400"
     }
   ]
 }
