@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-21T01:15:52.166712+00:00",
+  "last_success": "2026-10-21T07:01:41.439225+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-10-21T02:12:18.035164+00:00",
+      "claim_url": "http://bravoxxwcfz5qk43ychgveprpd5mw5hvxfs4a2uz2okx7mumiht4fzyd.onion/blog/6d7ded8f-22f2-4513-88b8-49fb6fc19f13",
+      "country": "MY",
+      "data_size": null,
+      "description": "Industrial Engineering, Manufacturing Automation and Custom Machinery Solutions.",
+      "discovered": "2026-10-21T02:12:33.335286+00:00",
+      "domain": "www.gse.com.my",
+      "group": "bravox",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/354667263b0b91302ba4b495d74144e9.png",
+      "url": "https://www.ransomware.live/id/R1NFLU0gVGVjaG5vbG9neSBTZG4uIEJoZC5AYnJhdm94",
+      "victim": "GSE-M Technology Sdn. Bhd."
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-21T00:16:00+00:00",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/bruin-group-llc/",
+      "country": "US",
+      "data_size": null,
+      "description": "Bruin Group LLC is a telecom expense management (TEM) and communications auditing firm. Companies hand them carrier invoices, circuit inventories, wire instructions, letters of authorization, and internal ticket correspondence so Bruin can audit and recover overcharges. Bruin sits on a concentrated pile of third-party financial and telecom data for every client they serve.\n\nWe have your entire ticket repository. Wire instructions, account numbers, W-9s, EINs, signed LOAs, Tenet patient call traces, all of it, for every client you manage.\n\nTenet. Welltower. USDA. MarineMax. Allegis. Lincare. Salvation Army. Realogy. Delek. Quiktrip. CubeSmart. SRS. Baymark. Partial list.\n\n$1,000,000 in BTC or XMR. Pay and it ends. Don't and we contact your clients directly with their own documents, then publish one company at a time.\n\n\nemperadorlol@proton.me\nxdlmfao@morke.ru\nSession: 05651c732327b723588d47455471ee9e27feb5187a30f2933554a705aacb38358 [Sector: Telecommunications]",
+      "discovered": "2026-10-21T01:55:09.972426+00:00",
+      "domain": "",
+      "group": "emperador",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ae5313e87d53b32e4280d13415b2f4d2.png",
+      "url": "https://www.ransomware.live/id/QnJ1aW4gR3JvdXAgTExDQGVtcGVyYWRvcg==",
+      "victim": "Bruin Group LLC"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-10-20T20:04:42.872775+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
       "url": "https://www.ransomware.live/id/Q29tcGFueSAjOTdATjBu",
       "victim": "Company #97"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-20T05:53:13.615684+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "TT",
-      "data_size": null,
-      "description": "medical laboratory and diagnostics · Trinidad and Tobago | [PENDING EXPOSURE]",
-      "discovered": "2026-10-20T05:53:30.847113+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjOTZATjBu",
-      "victim": "Company #96"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-20T05:52:35.850160+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "CH",
-      "data_size": null,
-      "description": "solar energy company · Switzerland | [PENDING EXPOSURE]",
-      "discovered": "2026-10-20T05:52:54.936691+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjOTVATjBu",
-      "victim": "Company #95"
     }
   ]
 }
