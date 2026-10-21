@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-21T18:21:25.530271+00:00",
+  "last_success": "2026-10-21T22:04:37.797997+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "published": "Thu, 22 Oct 2026 00:27:34 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
@@ -34,10 +40,22 @@
       "published": "Wed, 21 Oct 2026 17:35:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "published": "Wed, 21 Oct 2026 17:23:34 +0530"
+      "source": "BleepingComputer",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "published": "Wed, 21 Oct 2026 16:31:48 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "published": "Wed, 21 Oct 2026 14:34:42 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "published": "Wed, 21 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "published": "Wed, 21 Oct 2026 08:20:34 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "published": "Wed, 21 Oct 2026 06:14:53 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "published": "Wed, 21 Oct 2026 04:36:24 -0400"
     }
   ]
 }
