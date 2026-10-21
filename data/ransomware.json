@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-21T07:01:41.439225+00:00",
+  "last_success": "2026-10-21T13:24:42.533004+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-21T07:32:07.159235+00:00",
+      "claim_url": "http://clopofffr7tth6hsvxx3cys4qkshrbbiitnxfwts6hj64mtnaovjieyd.onion/legal-records-us",
+      "country": "US",
+      "data_size": null,
+      "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company operating under the name \"LEGAL-RECORDS.US.\" This appears to be a domain name rather than a confirmed, well-documented business entity I can factually describe. Domains with names like this are sometimes associated with public records aggregation services, but without verified details on the operating company, registration, or legitimate business activity, I cannot provide an accurate description. Providing fabricated details about its operations, industry classification, or country of incorporation would risk inaccuracy, which is particularly important to avoid in a threat intelligence context where such domains can also be associated with phishing, data scraping, or scam operations. If you have additional context (such as WHOIS data, SSL certificate details, associated IP addresses, or corporate filings), I could help analyze those spec",
+      "discovered": "2026-10-21T07:32:25.078328+00:00",
+      "domain": "LEGAL-RECORDS.US",
+      "group": "clop",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/97f9091c9f116ac87acefd85d533d182.png",
+      "url": "https://www.ransomware.live/id/TEVHQUwtUkVDT1JEUy5VU0BjbG9w",
+      "victim": "LEGAL-RECORDS.US"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-21T04:24:46.072947+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-xylanpicks",
+      "country": "US",
+      "data_size": null,
+      "description": "online sports betting analytics · United States | The complete database of a sports betting analysis platform, including 108,781 historical game results; Every model-generated betting pick with model probabilities and outcomes; Live paid API keys for sports data providers | [NOT PAID — EXPOSED]",
+      "discovered": "2026-10-21T04:25:04.144451+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/59570556db8c5d944975d047efd8255f.png",
+      "url": "https://www.ransomware.live/id/WHlsYW5waWNrc0BOMG4=",
+      "victim": "Xylanpicks"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-10-21T02:12:18.035164+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/b48efc613da014fd32c3aefbe84d999a.png",
       "url": "https://www.ransomware.live/id/Y2VudHJhbHJvZ2Vycy5jb21AaW5jcmFuc29t",
       "victim": "centralrogers.com"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-20T09:28:12.994937+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "ET",
-      "data_size": null,
-      "description": "Environmental NGO · Ethiopia | [PENDING EXPOSURE]",
-      "discovered": "2026-10-20T09:28:30.225343+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjOThATjBu",
-      "victim": "Company #98"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-20T05:53:49.345510+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
-      "country": "TN",
-      "data_size": null,
-      "description": "textile manufacturing · Tunisia | [PENDING EXPOSURE]",
-      "discovered": "2026-10-20T05:54:05.013090+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
-      "url": "https://www.ransomware.live/id/Q29tcGFueSAjOTdATjBu",
-      "victim": "Company #97"
     }
   ]
 }
