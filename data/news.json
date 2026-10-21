@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-20T22:04:33.757347+00:00",
+  "last_success": "2026-10-21T01:15:52.166712+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published": "Tue, 20 Oct 2026 21:01:50 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "published": "Tue, 20 Oct 2026 20:46:42 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "published": "Tue, 20 Oct 2026 16:56:43 -0400"
@@ -62,18 +74,6 @@
       "title": "DHS bans DeepSeek products across US federal civilian agencies",
       "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "published": "Tue, 20 Oct 2026 10:19:05 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "published": "Tue, 20 Oct 2026 09:51:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "published": "Tue, 20 Oct 2026 09:18:36 -0400"
     }
   ]
 }
