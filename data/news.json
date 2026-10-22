@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-21T22:04:37.797997+00:00",
+  "last_success": "2026-10-22T01:11:34.031967+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "published": "Wed, 21 Oct 2026 18:16:26 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
       "published": "Wed, 21 Oct 2026 17:43:27 -0400"
@@ -68,12 +74,6 @@
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "published": "Wed, 21 Oct 2026 10:07:05 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "published": "Wed, 21 Oct 2026 10:00:10 -0400"
     }
   ]
 }
