@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-22T13:25:38.437319+00:00",
+  "last_success": "2026-10-22T18:15:53.721226+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-22T13:09:56.693203+00:00",
+      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/pwc",
+      "country": "GB",
+      "data_size": null,
+      "description": "[AI generated] PwC (PricewaterhouseCoopers) is a multinational professional services network headquartered in London, United Kingdom. It is one of the \"Big Four\" accounting firms, offering audit and assurance, tax, consulting, and advisory services to businesses, governments, and organizations worldwide. PwC operates across numerous industries including finance, technology, healthcare, and energy, serving clients in over 150 countries globally.",
+      "discovered": "2026-10-22T13:10:19.855983+00:00",
+      "domain": "",
+      "group": "everest",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/fa1f774c3af678d72a1d2de07aaf3e5c.png",
+      "url": "https://www.ransomware.live/id/UFdDQGV2ZXJlc3Q=",
+      "victim": "PWC"
+    },
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-10-22T09:25:59.963804+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-perford",
+      "country": "US",
+      "data_size": null,
+      "description": "automotive retail · United States | Network security configuration of an automotive retailer; Private network tunnel definitions between locations; Internal network maps and device inventory | [NOT PAID — EXPOSED]",
+      "discovered": "2026-10-22T09:26:19.729068+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3943affb7e6c68778f7973c552cb58ec.png",
+      "url": "https://www.ransomware.live/id/UGVyZm9ybWFuY2UgRm9yZCBJbmNATjBu",
+      "victim": "Performance Ford Inc"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-10-22T07:28:52.696964+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/Sy5yLi4gLi4uc0BTaWxlbnRSYW5zb21Hcm91cA==",
       "victim": "K.r.. ...s"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-10-21T20:55:43.129414+00:00",
-      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/novagroupgbc-com",
-      "country": "GB",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a company operating at \"novagroupgbc.com.\" Providing fabricated details about its industry, operations, or country would risk generating inaccurate threat intelligence. If you have additional context (screenshots, registration data, WHOIS records, or business documents related to this domain), please share them and I can help analyze that information instead.",
-      "discovered": "2026-10-21T20:55:59.593611+00:00",
-      "domain": "novagroupgbc.com",
-      "group": "BrainCipher",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/2fcb0dbc70d70531d587e8460e275e7b.png",
-      "url": "https://www.ransomware.live/id/bm92YWdyb3VwZ2JjLmNvbUBCcmFpbkNpcGhlcg==",
-      "victim": "novagroupgbc.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-21T20:55:07.322398+00:00",
-      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/oflaherty-law-com",
-      "country": "IE",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company at this domain. O'Flaherty Law appears to be the name of a law firm, potentially operating in Illinois, United States, offering legal services such as estate planning, family law, real estate, and business law. However, I cannot confirm specific details about this domain with confidence, so I'm unable to provide a fully accurate factual description.",
-      "discovered": "2026-10-21T20:55:23.367768+00:00",
-      "domain": "oflaherty-law.com",
-      "group": "BrainCipher",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f4b29d9e068d1128dc09ff367cffaa63.png",
-      "url": "https://www.ransomware.live/id/b2ZsYWhlcnR5LWxhdy5jb21AQnJhaW5DaXBoZXI=",
-      "victim": "oflaherty-law.com"
     }
   ]
 }
