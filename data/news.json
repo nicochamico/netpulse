@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-22T18:15:53.721226+00:00",
+  "last_success": "2026-10-22T22:04:12.089356+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "Fri, 23 Oct 2026 00:35:35 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "published": "Fri, 23 Oct 2026 00:35:17 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "published": "Thu, 22 Oct 2026 23:42:43 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "Thu, 22 Oct 2026 23:15:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "published": "Thu, 22 Oct 2026 22:31:53 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
@@ -10,34 +40,22 @@
       "published": "Thu, 22 Oct 2026 21:42:31 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "published": "Thu, 22 Oct 2026 19:08:22 +0530"
+      "source": "BleepingComputer",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "published": "Thu, 22 Oct 2026 17:25:31 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "Thu, 22 Oct 2026 17:15:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "published": "Thu, 22 Oct 2026 16:22:45 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "published": "Thu, 22 Oct 2026 16:45:42 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "published": "Thu, 22 Oct 2026 16:14:05 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "published": "Thu, 22 Oct 2026 13:58:48 +0530"
+      "source": "BleepingComputer",
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "published": "Thu, 22 Oct 2026 15:12:51 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Machine speed attacks require machine speed detection and response",
       "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "published": "Thu, 22 Oct 2026 10:02:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "published": "Thu, 22 Oct 2026 09:09:12 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "published": "Thu, 22 Oct 2026 07:41:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "published": "Thu, 22 Oct 2026 04:27:11 -0400"
     }
   ]
 }
