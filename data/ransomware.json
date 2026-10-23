@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-23T01:10:50.355780+00:00",
+  "last_success": "2026-10-23T06:55:54.847246+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-22T23:40:11.771502+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=9dba0158-69cd-4424-b35c-2b4b5cce4c0b",
+      "country": "MX",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-22T23:40:29.746474+00:00",
+      "domain": "sepiver.com.mx",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9a5e1b050dacb1df53360f1409f8d01b.png",
+      "url": "https://www.ransomware.live/id/U0VQSVZFUkBxaWxpbg==",
+      "victim": "SEPIVER"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-10-22T19:29:49.653510+00:00",
@@ -197,6 +213,22 @@
       "victim": "Performance Ford Inc"
     },
     {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-10-22T08:25:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/cc721543382c0d008c07a3d34d109662",
+      "country": "TR",
+      "data_size": null,
+      "description": "Istanbul Foodstuff Trading Co LLC is a company that operates in the Computer Equipment & Peripherals...",
+      "discovered": "2026-10-22T21:30:20.484598+00:00",
+      "domain": "istanbultrading.com",
+      "group": "lockbit5",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b708a5a8901b1512b8e50e9bdefff70c.png",
+      "url": "https://www.ransomware.live/id/aXN0YW5idWx0cmFkaW5nLmNvbUBsb2NrYml0NQ==",
+      "victim": "istanbultrading.com"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-10-22T07:28:52.696964+00:00",
       "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
       "url": "https://www.ransomware.live/id/Q29tcGFueSAjMTA0QE4wbg==",
       "victim": "Company #104"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-22T06:02:00.507907+00:00",
-      "claim_url": "http://5butbkrljkaorg5maepuca25oma7eiwo6a2rlhvkblb4v6mf3ki2ovid.onion/companies/80/sgla-schwartz-giannini-lantsberger-adamson",
-      "country": "US",
-      "data_size": null,
-      "description": "Schwartz, Giannini, Lantsberger & Adamson (SGLA) Accountancy Corporation is a full-service certified public accounting firm based in Stockton, California, founded in 1988. The firm provides tax planning and compliance, audits, reviews and compilations, bookkeeping, payroll, outsourced CFO support, and business consulting for individuals and companies. It has particular experience with real estate, healthcare, nonprofits, affordable housing, common-interest realty associations, and local government clients. SGLA positions itself as a hands-on local CPA practice that combines traditional accounting work with practical advice to help clients stay compliant and grow.*After the timer expires, you will be able to freely download several fragments of the full archive for review. To purchase the complete archive, please contact our manager. https://www.sglacpas.com",
-      "discovered": "2026-10-22T07:02:23.611702+00:00",
-      "domain": "www.sglacpas.com",
-      "group": "spacebears",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/971921314a6c18ed30597ed59fa6a0d2.png",
-      "url": "https://www.ransomware.live/id/U0dMQSAoU2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24pQHNwYWNlYmVhcnM=",
-      "victim": "SGLA (Schwartz, Giannini, Lantsberger & Adamson)"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-10-22T05:08:48.444125+00:00",
-      "claim_url": "http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/post/7c6fe4484732b452c49e7fb43e2c0b44",
-      "country": "DE",
-      "data_size": null,
-      "description": "German construction company specializing in custom timber houses, sustainable wood construction, and prefabricated buildings. It offers complete project planning, roofing, extensions, renovations, and turnkey solutions for residential, commercial.",
-      "discovered": "2026-10-22T05:09:06.343259+00:00",
-      "domain": "hecker-hsb.de",
-      "group": "lamashtu",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/39e4f8875980b1f4470b3ad73918d749.png",
-      "url": "https://www.ransomware.live/id/SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU=",
-      "victim": "Hecker Holzsystembau"
     }
   ]
 }
