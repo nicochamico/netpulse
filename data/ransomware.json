@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-22T22:04:12.089356+00:00",
+  "last_success": "2026-10-23T01:10:50.355780+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-22T19:29:49.653510+00:00",
+      "claim_url": "https://business-data-leaks.com/about#566e04ce945e506789bc34e7a",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-10-22T19:30:40.239379+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/49c9f24c4797d07162f7078df259c797.png",
+      "url": "https://www.ransomware.live/id/TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "M... C..."
+    },
+    {
+      "activity": "Hospitality",
+      "attackdate": "2026-10-22T18:41:07.754507+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=cc010905-a668-4910-8410-adc72cc57e25",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-22T18:41:39.974610+00:00",
+      "domain": "www.coloradokitchens.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu",
+      "victim": "United Restaurant Supply"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-10-22T17:02:45.996366+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/39e4f8875980b1f4470b3ad73918d749.png",
       "url": "https://www.ransomware.live/id/SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU=",
       "victim": "Hecker Holzsystembau"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-22T01:36:19.524185+00:00",
-      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/linebarger-goggan-blair-sampson",
-      "country": "US",
-      "data_size": null,
-      "description": "[AI generated] Linebarger Goggan Blair & Sampson LLP is a United States law firm specializing in government receivables, particularly delinquent tax collection and debt recovery for municipalities, counties, school districts, and other public entities. Headquartered in Texas, it operates across multiple states, representing public sector clients in collection litigation and related legal services. It is a prominent player in the government collections legal industry.",
-      "discovered": "2026-10-22T03:36:22.187070+00:00",
-      "domain": "",
-      "group": "everest",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0fa29dd0c4daef6af705913436f9f1d2.png",
-      "url": "https://www.ransomware.live/id/TGluZWJhcmdlciBHb2dnYW4gQmxhaXIgJiBTYW1wc29uQGV2ZXJlc3Q=",
-      "victim": "Linebarger Goggan Blair & Sampson"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-22T01:29:41.548617+00:00",
-      "claim_url": "https://business-data-leaks.com/about#71ac2cc454010821d7920cb14",
-      "country": "",
-      "data_size": null,
-      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-      "discovered": "2026-10-22T01:30:31.743420+00:00",
-      "domain": "",
-      "group": "SilentRansomGroup",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/55994ba0352e9d92d9b617bff3f4c173.png",
-      "url": "https://www.ransomware.live/id/Sy5yLmEuIC4uLnNAU2lsZW50UmFuc29tR3JvdXA=",
-      "victim": "K.r.a. ...s"
     }
   ]
 }
