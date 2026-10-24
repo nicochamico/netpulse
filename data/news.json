@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-24T03:14:15.895769+00:00",
+  "last_success": "2026-10-24T08:37:31.254807+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "published": "Sat, 24 Oct 2026 11:55:57 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
@@ -32,12 +38,6 @@
       "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "published": "Fri, 23 Oct 2026 16:55:43 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530"
     },
     {
       "source": "BleepingComputer",
