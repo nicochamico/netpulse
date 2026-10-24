@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:21:57.114473+00:00",
+  "generated_at": "2026-10-24T22:39:42.623203+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,10 +26,9 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "xln.mkmg.com",
-        "scg.com",
         "one.one.one.one",
-        "wlcry.scg.com"
+        "test.data.ebury.com",
+        "almacguest.almacgroup.com"
       ]
     },
     {
@@ -44,7 +43,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "tr.covra.nl"
       ]
     }
   ],
