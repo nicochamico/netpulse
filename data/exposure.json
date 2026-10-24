@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:36:41.645924+00:00",
+  "generated_at": "2026-10-24T06:29:24.554676+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,9 +26,10 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "xln.mkmg.com",
+        "scg.com",
         "one.one.one.one",
-        "test.data.ebury.com",
-        "almacguest.almacgroup.com"
+        "wlcry.scg.com"
       ]
     },
     {
