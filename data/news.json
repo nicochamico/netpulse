@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-24T13:05:08.283341+00:00",
+  "last_success": "2026-10-24T17:11:12.780750+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "published": "Sat, 24 Oct 2026 10:17:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "published": "Fri, 23 Oct 2026 16:55:05 -0400"
@@ -68,12 +74,6 @@
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "published": "Fri, 23 Oct 2026 11:38:05 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "published": "Fri, 23 Oct 2026 10:00:10 -0400"
     }
   ]
 }
