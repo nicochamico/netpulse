@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:23:00.117527+00:00",
+  "generated_at": "2026-10-25T17:45:48.471919+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -45,8 +45,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net",
-        "tr.covra.nl"
+        "dns9.quad9.net"
       ]
     }
   ],
