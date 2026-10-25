@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-25T14:47:13.907347+00:00",
+  "last_success": "2026-10-25T18:06:23.163980+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-10-25T11:18:53+00:00",
+      "claim_url": "http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1792927133207540290_t1VZ3aak",
+      "country": "US",
+      "data_size": null,
+      "description": "Aesthetic Dental Designs, P.A. (operating commercially as Dental Arts of Atlantis) is a fully licensed and accredited dental healthcare corporation headquartered at 5057 S Congress Ave, Suite 401, Lake Worth Beach, Florida (NPI: 1235501420). The practice is anchored by a distinguished clinical team, featuring Dr. Colleen Lam, D.M.D. and Dr. Serrano. The organization provides comprehensive clinical infrastructure specializing in advanced restorative, cosmetic, and multi-generational family dentistry. Its core competencies include high-precision digital prosthodontics, advanced smile designs, complex full-mouth reconstructions, and systematic preventive oral healthcare. Operating under a patient-centric administrative framework, Aesthetic Dental Designs, P.A. integrates cutting-edge dental technologies with rigorous clinical protocols. The enterprise maintains an established track record of therapeutic excellence, operational integrity, and superior patient outcomes within the South Florida healthcare market.",
+      "discovered": "2026-10-25T11:53:17.559073+00:00",
+      "domain": "dentalartsofatlantis.com",
+      "group": "HYFLOCK",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWVzdGhldGljIERlbnRhbCBEZXNpZ25zLCBQLkFASFlGTE9DSw==",
+      "victim": "Aesthetic Dental Designs, P.A"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-10-25T08:39:00+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/de92bb1e5cabc32b861740a2cc714741.png",
       "url": "https://www.ransomware.live/id/bWFpbnBsYWNlLmNvbS5teUBrcnliaXQ=",
       "victim": "mainplace.com.my"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-10-24T11:20:55.017583+00:00",
-      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/c04cb7e3f4662014fa8b77afc3ad0df07e9f885b7324139d20e2fdf6aeb78ae6/",
-      "country": "EG",
-      "data_size": null,
-      "description": "MODON Developments S.A.E. (MODON For Urban Development) is an innovative Egyptian real estate development and management...",
-      "discovered": "2026-10-24T11:21:10.713443+00:00",
-      "domain": "MODON Developments S.A.E",
-      "group": "krybit",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/429a2a41759dfbd15673dd02104790db.png",
-      "url": "https://www.ransomware.live/id/TU9ET04gRGV2ZWxvcG1lbnRzIFMuQS5FQGtyeWJpdA==",
-      "victim": "MODON Developments S.A.E"
     }
   ]
 }
