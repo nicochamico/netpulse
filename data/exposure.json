@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:01:06.324721+00:00",
+  "generated_at": "2026-10-25T14:23:00.117527+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -24,11 +24,13 @@
       ],
       "risky_ports": [],
       "vulns": [],
-      "tags": [],
+      "tags": [
+        "pqc"
+      ],
       "hostnames": [
+        "vfguest.vodafone.com",
         "one.one.one.one",
-        "test.data.ebury.com",
-        "almacguest.almacgroup.com"
+        "pnwle.com"
       ]
     },
     {
