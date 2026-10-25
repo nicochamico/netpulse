@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-25T05:39:24.027248+00:00",
+  "last_success": "2026-10-25T10:41:50.557211+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Agriculture and Food Production",
+      "attackdate": "2026-10-25T01:51:00+00:00",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/ab-inbev/",
+      "country": "BE",
+      "data_size": null,
+      "description": "AB InBev is the world's largest brewer, headquartered in Belgium, known for Budweiser, Corona, and Stella Artois .\n\nWe hold 329,244 AB InBev social-listening alerts, 2,510 corporate emails across all subsidiaries, 19K access logs, GBS portal records, internal PKI certificates, and 3.2GB of Azure blob assets.\n\nOur demand is $1,000,000 in BTC. [Sector: Retail, Manufacturing]",
+      "discovered": "2026-10-25T03:22:10.246426+00:00",
+      "domain": "",
+      "group": "emperador",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/9a03b3b2d337d84ad93adfa2036aa4ae.png",
+      "url": "https://www.ransomware.live/id/QUIgSW5CZXZAZW1wZXJhZG9y",
+      "victim": "AB InBev"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-10-25T00:31:20.927348+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/d3d556729552f30cdfc2186cbf66c20a.png",
       "url": "https://www.ransomware.live/id/Q29tbW9ud2VhbHRoIENvbW11bml0eSBCYW5rQHFpbGlu",
       "victim": "Commonwealth Community Bank"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-10-24T02:53:02.034575+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Trinity Custom Homes is a custom home builder that specializes in building 100% custom, solid wood homes directly on the customer’s land across several states in the Southeast, including Georgia, Alabama, North Carolina, South Carolina, and Tennessee.",
-      "discovered": "2026-10-24T02:53:03.322742+00:00",
-      "domain": "trinitycustom.com",
-      "group": "Deadlock",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s=",
-      "victim": "Trinity Custom Homes"
     }
   ]
 }
