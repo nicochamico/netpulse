@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-25T00:47:56.536703+00:00",
+  "last_success": "2026-10-25T05:39:24.027248+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-10-25T00:31:20.927348+00:00",
+      "claim_url": "http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion/r/cADQ8Jkbtn5C1uHUgOSy7MhG4AZEsyOS7U7m4RtAci7a+ZH1yzDdeAFPMZHJshlsPYVEYyCkU1bJSlIhA1NBFlxNkIxTzRW",
+      "country": "US",
+      "data_size": null,
+      "description": "Customers' personal documents and the company's internal documents.",
+      "discovered": "2026-10-25T00:31:56.643577+00:00",
+      "domain": "",
+      "group": "anubis",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/d572cbd1b2d58f9aba6d3f524da02f5f.png",
+      "url": "https://www.ransomware.live/id/TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw==",
+      "victim": "Newcomer Cremations, Funerals & Receptions"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-10-24T21:33:00+00:00",
+      "claim_url": "http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion",
+      "country": "CN",
+      "data_size": null,
+      "description": "Hisense is a Chinese multinational electronics and appliance manufacturer, founded in 1969, known globally for televisions and home appliances.\n\nWe hold Hisense's entire GCRM production document store, the full warranty-claims archive for Malaysia/Singapore: customer names, phones, emails, ID numbers, 2,549 suppliers, hundreds of invoices, payments, contracts, RMA forms, claim evidence, plus their internal CRM app binary.\n\nOur demand is $500,000 in BTC. Good luck.\n\nContact: whitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
+      "discovered": "2026-10-25T01:24:13.562658+00:00",
+      "domain": "",
+      "group": "Whitearmor",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/716108c3c9ba2b1421f15ec8afef3956.png",
+      "url": "https://www.ransomware.live/id/SGlzZW5zZUBXaGl0ZWFybW9y",
+      "victim": "Hisense"
+    },
     {
       "activity": "Hospitality",
       "attackdate": "2026-10-24T16:34:13.768572+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s=",
       "victim": "Trinity Custom Homes"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-23T23:43:19+00:00",
-      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/family-planning-association-of-pakistan",
-      "country": "PK",
-      "data_size": null,
-      "description": "Rahnuma-FPAP is one of the largest and oldest civil society organizations in Pakistan focused on reproductive health and contraceptive care. The organization aims to empower individuals to make informed decisions about their sexual and reproductive health rights. It provides a wide range of services including family planning, HIV/AIDS care, gynecology, and obstetrics, particularly targeting vulnerable and underserved populations. Rahnuma-FPAP operates a network of clinics across Pakistan, ensuring accessible and confidential health services for all individuals.",
-      "discovered": "2026-10-24T00:24:57.173779+00:00",
-      "domain": "",
-      "group": "Panzer",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/6185b9c59140d331273d3c952f244374.png",
-      "url": "https://www.ransomware.live/id/RmFtaWx5IFBsYW5uaW5nIEFzc29jaWF0aW9uIG9mIFBha2lzdGFuQFBhbnplcg==",
-      "victim": "Family Planning Association of Pakistan"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-10-23T21:50:45.674938+00:00",
-      "claim_url": "",
-      "country": "DE",
-      "data_size": null,
-      "description": "Hensel Elektrik is the Turkish subsidiary of the German company Gustav Hensel GmbH & Co. KG, which manufactures electrical installation equipment and power distribution systems. The company was founded in 1931. https://temp.sh/BcIQY/Data_list.txt",
-      "discovered": "2026-10-23T21:50:47.029484+00:00",
-      "domain": "www.hensel-electric.de/tr-tr",
-      "group": "Deadlock",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SGVuc2VsIEVsZWt0cmlrQERlYWRsb2Nr",
-      "victim": "Hensel Elektrik"
     }
   ]
 }
