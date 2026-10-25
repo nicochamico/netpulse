@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-25T21:24:37.417189+00:00",
+  "last_success": "2026-10-25T23:47:30.976115+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-25T17:18:01.112978+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=adf72c1b-5f84-4959-bf7d-f579627226d8",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-25T17:18:17.976366+00:00",
+      "domain": "www.whitecase.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/902e754014b0cd02c6fb459545c05215.png",
+      "url": "https://www.ransomware.live/id/V2hpdGUgJiBDYXNlQHFpbGlu",
+      "victim": "White & Case"
+    },
     {
       "activity": "Government & Defense",
       "attackdate": "2026-10-25T16:00:00+00:00",
@@ -67,6 +83,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QS1STVNAZW1wZXJhZG9y",
       "victim": "A-RMS"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-25T12:37:07+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/yodingenierie",
+      "country": "BJ",
+      "data_size": null,
+      "description": "YOD Engineering is an engineering company computer science, member of the NED&CO Group , a pan-African player committed to transformation digital, information systems governance and innovation by intelligence artificial.",
+      "discovered": "2026-10-25T17:55:57.455931+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6a684f6a3960944e6e5b821afd3016cd.png",
+      "url": "https://www.ransomware.live/id/WW9kaW5nZW5pZXJpZUBQYW56ZXI=",
+      "victim": "Yodingenierie"
     },
     {
       "activity": "Healthcare",
@@ -245,6 +277,22 @@
       "victim": "Newcomer Cremations, Funerals & Receptions"
     },
     {
+      "activity": "Manufacturing",
+      "attackdate": "2026-10-25T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=b81cc1f3-ee33-4523-af14-0773ff1c0a28",
+      "country": "DE",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-10-25T17:17:40.651485+00:00",
+      "domain": "www.hossner-textile.de",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/6b0cd59279063f34870a33a810852aa7.png",
+      "url": "https://www.ransomware.live/id/SG9zc25lci1UZXh0aWwgR21iSEBxaWxpbg==",
+      "victim": "Hossner-Textil GmbH"
+    },
+    {
       "activity": "Technology",
       "attackdate": "2026-10-25T00:00:00+00:00",
       "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=4312e44d-f577-4b57-a258-fd7accd876fa",
@@ -275,54 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/1a003cb69ec6fb3946c171d7ec6a27ff.png",
       "url": "https://www.ransomware.live/id/RUNPTUBxaWxpbg==",
       "victim": "ECOM"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-10-24T21:33:00+00:00",
-      "claim_url": "http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion",
-      "country": "CN",
-      "data_size": null,
-      "description": "Hisense is a Chinese multinational electronics and appliance manufacturer, founded in 1969, known globally for televisions and home appliances.\n\nWe hold Hisense's entire GCRM production document store, the full warranty-claims archive for Malaysia/Singapore: customer names, phones, emails, ID numbers, 2,549 suppliers, hundreds of invoices, payments, contracts, RMA forms, claim evidence, plus their internal CRM app binary.\n\nOur demand is $500,000 in BTC. Good luck.\n\nContact: whitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
-      "discovered": "2026-10-25T01:24:13.562658+00:00",
-      "domain": "Hisense.com",
-      "group": "Whitearmor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/716108c3c9ba2b1421f15ec8afef3956.png",
-      "url": "https://www.ransomware.live/id/SGlzZW5zZUBXaGl0ZWFybW9y",
-      "victim": "Hisense"
-    },
-    {
-      "activity": "Hospitality",
-      "attackdate": "2026-10-24T16:34:13.768572+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=65926679-0b3a-43f2-9283-4ac16718f881",
-      "country": "GB",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-10-24T16:34:49.360176+00:00",
-      "domain": "www.castlehoward.co.uk",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/42de8a59b5f01a4d3f1d9bd2ba55f35f.png",
-      "url": "https://www.ransomware.live/id/Q2FzdGxlIEhvd2FyZCBFc3RhdGVAcWlsaW4=",
-      "victim": "Castle Howard Estate"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-10-24T16:30:21.356818+00:00",
-      "claim_url": "http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/post/ad10729196bfae1e58eb75aa8ae7536f",
-      "country": "FR",
-      "data_size": null,
-      "description": "Vins Viallet is a French family-owned wine producer and distributor based in the Savoie region. Founded in 1966, the company produces and markets a range of wines, including white, red, rosé and sparkling varieties, serving retail and wholesale",
-      "discovered": "2026-10-24T16:30:40.843615+00:00",
-      "domain": "vins-viallet.com",
-      "group": "lamashtu",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8444f7bf7221107dec866c6f7ecd62e0.png",
-      "url": "https://www.ransomware.live/id/VmlucyBWaWFsbGV0QGxhbWFzaHR1",
-      "victim": "Vins Viallet"
     }
   ]
 }
