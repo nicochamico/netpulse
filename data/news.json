@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-26T16:28:05.217853+00:00",
+  "last_success": "2026-10-26T21:19:36.508163+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "published": "Mon, 26 Oct 2026 23:42:22 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": "Mon, 26 Oct 2026 23:15:57 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": "Mon, 26 Oct 2026 21:22:40 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
@@ -22,22 +40,22 @@
       "published": "Mon, 26 Oct 2026 16:53:56 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "published": "Mon, 26 Oct 2026 15:24:02 +0530"
+      "source": "BleepingComputer",
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": "Mon, 26 Oct 2026 17:08:28 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "published": "Mon, 26 Oct 2026 14:05:51 +0530"
+      "source": "BleepingComputer",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "published": "Mon, 26 Oct 2026 16:46:49 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530"
+      "source": "BleepingComputer",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "published": "Mon, 26 Oct 2026 15:26:20 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
       "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
       "published": "Mon, 26 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "published": "Mon, 26 Oct 2026 09:56:44 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "published": "Mon, 26 Oct 2026 06:26:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "published": "Mon, 26 Oct 2026 05:19:57 -0400"
     }
   ]
 }

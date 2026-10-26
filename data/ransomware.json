@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-26T16:28:05.217853+00:00",
+  "last_success": "2026-10-26T21:19:36.508163+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-26T16:53:26.015814+00:00",
+      "claim_url": "http://i7loab6thvz4lb7jdr3qoeumbvilwhbgnwsctnlfmvsv7g5s3vsiw6yd.onion/downloads/beasleyallen.7z",
+      "country": "US",
+      "data_size": null,
+      "description": "Plaintiff litigation law firm - Our 214 GB extraction includes executed agreements, final settlement participation agreements, court-signed stipulations regarding net worth, privileged internal memos, detailed litigation strategies, rough trial transcripts, comprehensive staff FAQs and much more.",
+      "discovered": "2026-10-26T16:54:28.340940+00:00",
+      "domain": "",
+      "group": "Falcon",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24=",
+      "victim": "Beasley Allen Law Firm"
+    },
     {
       "activity": "Energy & Utilities",
       "attackdate": "2026-10-26T12:03:24.836597+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/3cb78c9c05dfdcf63f5969d8d1a669ae.png",
       "url": "https://www.ransomware.live/id/TWlsZXRpYyBHbWJIQHBheWxvYWQ=",
       "victim": "Miletic GmbH"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-10-26T00:21:03.322103+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/ffd64ce9-b420-4a77-8c75-0ff036a554ea",
-      "country": "DE",
-      "data_size": null,
-      "description": "Edelstahl-Mechanik GmbH is a German manufacturing company based in Göppingen. The company specializes in laser metal processing, including 2D and 3D laser cutting and welding, as well as structural sheet metal fabrication. Its products and services are applied in industries such as mechanical engineering, the automotive sector, construction, medical technology, and the food industry.",
-      "discovered": "2026-10-26T00:21:58.628410+00:00",
-      "domain": "",
-      "group": "payload",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/8709d27b0d93c745703867b5a45702ac.png",
-      "url": "https://www.ransomware.live/id/RWRlbHN0YWhsLU1lY2hhbmlrIEdtYkhAcGF5bG9hZA==",
-      "victim": "Edelstahl-Mechanik GmbH"
     }
   ]
 }
