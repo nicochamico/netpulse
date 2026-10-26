@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:29:17.456317+00:00",
+  "generated_at": "2026-10-26T23:16:59.574772+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -28,9 +28,9 @@
         "pqc"
       ],
       "hostnames": [
-        "vfguest.vodafone.com",
+        "visitors.pauliggroup.com",
         "one.one.one.one",
-        "pnwle.com"
+        "iq.areeba.com"
       ]
     },
     {
