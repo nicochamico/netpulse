@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-26T21:19:36.508163+00:00",
+  "last_success": "2026-10-27T01:06:16.215154+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-10-26T20:26:45.941160+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=287",
+      "country": "MY",
+      "data_size": null,
+      "description": "MISC Group Incorporated in 1968, MISC Group is a world leading provider of international energy-related maritime solutions and services.29,841 files , 28.4 GBComplete command workstations: Master, Chief Officer and Bridge user folders - 16,918 files / 15.5 GB, including PST mail archives;Crew personal data (PDPA breach): IMO FAL Form 5 crew lists for ~30 seafarers with passport numbers (Malaysia/Philippines/Indonesia/India), Seafarer Employment Agreements with DOB, home addresses and salaries, a full scan of the 4th Officer's PRC passport;Every ship's password: ECDIS, CCTV, AIS, fire & gas alarm panels, door access codes, the Ship Security Plan (ISPS) password, NS5/Dualog mail accounts, domain admin credentials, OCIMF/SIRE web account;Internal investigations: complaint against the Chief Engineer (on-board assault/harassment, 25.08.2026), FR-HR25 investigative report;Incidents: vessel listing during (de-)ballasting - twice, one incident not reported to the flag state; a series of near-misses (VDR sensor failure, radar misuse during collision avoidance);Compliance gap: ~20 internal ISM non-conformities (rusted cargo pipelines, HV gloves expired since 2021) vs 'clean' statutory ABS audits of 17.10.2025; Japan PSC deficiency (Himeji, 09.12.2025) + Statements of Fact from 4 officers;Drydock & charter documentation: repair specs (SQLite MSL), ExxonMobil/APLNG delivery & redelivery certificates, CTMS custody-transfer data, full e-docs and ship plans    More",
+      "discovered": "2026-10-26T20:27:18.651315+00:00",
+      "domain": "",
+      "group": "rhysida",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TUlTQyBHcm91cEByaHlzaWRh",
+      "victim": "MISC Group"
+    },
+    {
+      "activity": "Energy & Utilities",
+      "attackdate": "2026-10-26T18:56:53.931744+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-ingelectus",
+      "country": "ES",
+      "data_size": null,
+      "description": "smart grid engineering firm · Spain | Live electrical telemetry sampled from the plant control network, with voltage, current and energy readings recorded on 23 October 2026; Complete inventory of 49 network devices including substation switches, remote terminal units, power meters and server management controllers, with locations and firmware details; Full maps of the internal control network segments and message broker metrics that carry the plant data | [NOT PAID — EXPOSED]",
+      "discovered": "2026-10-26T18:57:11.389460+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/b3eae9ab84f99feeb8a1c3db2ae5b12e.png",
+      "url": "https://www.ransomware.live/id/SW5nZWxlY3R1cyBJbm5vdmF0aXZlIEVsZWN0cmljYWwgU29sdXRpb25zIFMuTC5ATjBu",
+      "victim": "Ingelectus Innovative Electrical Solutions S.L."
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-10-26T16:53:26.015814+00:00",
@@ -19,6 +51,22 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24=",
       "victim": "Beasley Allen Law Firm"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-10-26T16:45:00+00:00",
+      "claim_url": "http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion",
+      "country": "",
+      "data_size": null,
+      "description": "Gamdom is an unregulated crypto casino and sportsbook founded in 2016. It recently suffered a hot-wallet breach, with founder Felix Romer reporting over $3 million in losses, though on-chain analysts estimate the damage closer to $4.2 million.\n\nWe hold Gamdom's full user database, 15,420,003 accounts with 146 columns, with Gamdom's total combined profit value exceeding $1 billion.\n\nThe way in was something internal, a machine account that was already sitting in their admin side (Metawin). \nIssued years back, nobody ever rotated it. Never meant to leave the building. \nIt had admin reach, and everything after that was their own stuff anyway, their control panels and secret stores.\n\nAbout your provably fair: what it promised and what it delivered were never the same thing.\n\nWe demand $15,000,000 in BTC.\n\nEmails with instructions will be sent to you directly.\n\nTo verify, a sample can be found below.",
+      "discovered": "2026-10-26T18:00:10.433408+00:00",
+      "domain": "",
+      "group": "Whitearmor",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/716108c3c9ba2b1421f15ec8afef3956.png",
+      "url": "https://www.ransomware.live/id/R2FtZG9tQFdoaXRlYXJtb3I=",
+      "victim": "Gamdom"
     },
     {
       "activity": "Energy & Utilities",
@@ -275,54 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/957f54da1aa5d55be5659553b2af5eea.png",
       "url": "https://www.ransomware.live/id/SW5zaWRlIFBhc3NhZ2UgRWxlY3RyaWMgQ29vcGVyYXRpdmUsIEluY0BkcmFnb25mb3JjZQ==",
       "victim": "Inside Passage Electric Cooperative, Inc"
-    },
-    {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-10-26T00:54:00+00:00",
-      "claim_url": "http://whitearz6uvtfdefgsc4r3mzmyswtte65k5umcmv6cu6zhi4l5k4irad.onion",
-      "country": "US",
-      "data_size": null,
-      "description": "LoveSac (LOVE) is a premium furniture retailer operating more than 250 showrooms across the United States, generating approximately $700 million in annual revenue.\n\nWe have obtained a database containing 1,113,285 order records spanning nearly seven years of transactions, from December 2019 through October 2026, with a combined recorded transaction value exceeding $1.62 billion.\n\nEach record contains detailed customer and transaction information, including full customer names, complete billing and shipping addresses, telephone numbers, order numbers, order dates, order statuses, and order grand totals.\n\nOur demand: $500,000 in BTC or XMR\n\nTo verify, samples can be found below.",
-      "discovered": "2026-10-26T02:57:17.650976+00:00",
-      "domain": "",
-      "group": "Whitearmor",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/716108c3c9ba2b1421f15ec8afef3956.png",
-      "url": "https://www.ransomware.live/id/TG92ZVNhY0BXaGl0ZWFybW9y",
-      "victim": "LoveSac"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-10-26T00:23:31.212693+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/3197b3f0-551f-4cb8-8889-a04289a9c919",
-      "country": "DE",
-      "data_size": null,
-      "description": "Glückauf-Vermessung GmbH (glueckauf-vermessung.de) is a German engineering and technical company based in Sondershausen, operating as part of the ERCOSPLAN Group and specializing in surveying and mine surveying (Bergbau-Markscheiderei). Its core business activities include geodetic support for the mining industry, geological exploration, and work related to salt and mineral deposits. The company provides services for surface and underground measurements, deformation monitoring, and the preparation of technical documentation for industrial projects.",
-      "discovered": "2026-10-26T00:24:26.372363+00:00",
-      "domain": "",
-      "group": "payload",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/02e75c05ef417018a65ddb7ff06fa795.png",
-      "url": "https://www.ransomware.live/id/R2zDvGNrYXVmLVZlcm1lc3N1bmcgR21iSEBwYXlsb2Fk",
-      "victim": "Glückauf-Vermessung GmbH"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-26T00:22:17.335654+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/567ce391-f79d-44ad-8c69-9f4eb8849ac5",
-      "country": "DE",
-      "data_size": null,
-      "description": "Miletic GmbH is a German specialized contractor headquartered in Bad Schönborn that has been operating in the construction sector since 1989. The company's core business focuses on construction and repair work for ecologically sensitive industrial facilities, including gas stations, tank farms, and operations governed by German water protection laws (WHG Class LAU facilities). Its service portfolio includes joint sealing and remediation, the application of chemical-resistant protective coatings, concrete construction, and related earthworks.",
-      "discovered": "2026-10-26T00:23:12.630470+00:00",
-      "domain": "",
-      "group": "payload",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/3cb78c9c05dfdcf63f5969d8d1a669ae.png",
-      "url": "https://www.ransomware.live/id/TWlsZXRpYyBHbWJIQHBheWxvYWQ=",
-      "victim": "Miletic GmbH"
     }
   ]
 }
