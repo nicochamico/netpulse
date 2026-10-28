@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-27T23:27:55.256934+00:00",
+  "last_success": "2026-10-28T03:56:43.135955+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
       "published": "Tue, 27 Oct 2026 18:43:27 -0400"
@@ -68,12 +74,6 @@
       "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
       "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
       "published": "Tue, 27 Oct 2026 12:15:39 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": "Tue, 27 Oct 2026 10:09:46 -0400"
     }
   ]
 }
