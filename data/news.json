@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-28T16:58:26.812179+00:00",
+  "last_success": "2026-10-28T21:34:29.473332+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "published": "Wed, 28 Oct 2026 23:38:33 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "published": "Wed, 28 Oct 2026 22:38:09 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "published": "Wed, 28 Oct 2026 21:53:34 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
@@ -22,22 +40,16 @@
       "published": "Wed, 28 Oct 2026 17:20:00 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "published": "Wed, 28 Oct 2026 16:47:22 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "published": "Wed, 28 Oct 2026 16:45:51 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0530"
+      "source": "BleepingComputer",
+      "title": "Discord to let search engines index public server messages",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "published": "Wed, 28 Oct 2026 14:44:16 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
       "published": "Wed, 28 Oct 2026 10:00:00 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "published": "Wed, 28 Oct 2026 09:50:59 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "published": "Wed, 28 Oct 2026 08:19:57 -0400"
     }
   ]
 }
