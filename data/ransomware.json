@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-28T10:23:59.236127+00:00",
+  "last_success": "2026-10-28T16:58:26.812179+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-10-28T12:28:11.974277+00:00",
+      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=289",
+      "country": "",
+      "data_size": null,
+      "description": "Broadstreet HEOR Broadstreet Health Economics & Outcomes Research (Vancouver, Canada)is a consultancy running health-economics and real-world-evidencestudies for Pfizer, Bayer, Boehringer Ingelheim, Takeda, Madrigal,Alexion/AstraZeneca, Bristol-Myers Squibb, Sarepta, Taysha, Biohavenand others.- US patient PHI: Medicaid (11.3M rows: DOB, race, diagnoses, NDCdrugs, payments), Veradigm/Allscripts EHR tables, licensed IBMMarketScan / Optum Clinformatics data.- Production Alexiondb (PostgreSQL): schema + claims rows.- Live SQL Server credentials of client Taysha Gene Therapies(production DB irsf-nhs-prod-db, public IP).- Confidential pharma materials: unpublished Boehringer Ingelheimslides, Takeda manuscript, Bayer CEM models, Madrigal reports,Pfizer/VA emails.- Staff personal documents.    More",
+      "discovered": "2026-10-28T12:28:36.839608+00:00",
+      "domain": "broadstreetheor.com",
+      "group": "rhysida",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ca99895d7220c04717ac83d31a38f124.png",
+      "url": "https://www.ransomware.live/id/QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
+      "victim": "Broadstreet HEOR"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-28T07:53:30.006400+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+      "country": "MY",
+      "data_size": null,
+      "description": "telecommunications services · Malaysia | [PENDING EXPOSURE: · settlement window open]",
+      "discovered": "2026-10-28T07:53:44.722544+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
+      "url": "https://www.ransomware.live/id/Q29tcGFueSAjMTEyQE4wbg==",
+      "victim": "Company #112"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-10-28T01:05:00+00:00",
@@ -35,6 +67,22 @@
       "screenshot": "https://images.ransomware.live/victims/716108c3c9ba2b1421f15ec8afef3956.png",
       "url": "https://www.ransomware.live/id/d2FneXUueHl6IHVuZmFpcm5lc3NAV2hpdGVhcm1vcg==",
       "victim": "wagyu.xyz unfairness"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-10-28T00:00:00+00:00",
+      "claim_url": "http://u6lieui2dakbctcjea2bz4r4q32r7t36nwljovqbv7mxs6o2smgxixid.onion/blog/meleghy-automotive-cie-gmbh-63e4f811",
+      "country": "DE",
+      "data_size": null,
+      "description": "[automotive] The exposed material includes:\n\nPassport/visa/student-admission dossiers\nTesla Model Y/Opal tooling, CAD and DFM tree\nEmployee contract and HR folders\n<redacted>\nMEB/BMW NCAR metrology and plant-layout trees\nPLC/SPS/robot backups and cross-reference DBs\nTISAX/IATF audit and corrective-action records\nRestricted management meeting/WLAN record\n<redacted>\nBrowser profile SQLite databases",
+      "discovered": "2026-10-28T10:05:41.800988+00:00",
+      "domain": "Meleghy Automotive & Cie. GmbH",
+      "group": "aurora",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/3deb64246e2c2e102752d2e733720ebe.png",
+      "url": "https://www.ransomware.live/id/TWVsZWdoeSBBdXRvbW90aXZlICYgQ2llLiBHbWJIQGF1cm9yYQ==",
+      "victim": "Meleghy Automotive & Cie. GmbH"
     },
     {
       "activity": "Transportation",
@@ -275,54 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/SHVkc29uIFJpdmVyIE11c2V1bUBCb29iYSBQcm9qZWN0",
       "victim": "Hudson River Museum"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-10-27T13:00:11.915000+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Medical Practices Stolen data: 100 GB.",
-      "discovered": "2026-10-27T13:51:59.761206+00:00",
-      "domain": "www.bassmedicalgroup.com",
-      "group": "Booba Project",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QkFTUyBNZWRpY2FsIEdyb3VwQEJvb2JhIFByb2plY3Q=",
-      "victim": "BASS Medical Group"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-10-27T12:57:41.960000+00:00",
-      "claim_url": "",
-      "country": "BE",
-      "data_size": null,
-      "description": "Hospitals and Health Care Stolen data: 10 GB.",
-      "discovered": "2026-10-27T13:52:20.590995+00:00",
-      "domain": "www.althus.be",
-      "group": "Booba Project",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/S2VyY2tzdGVkZSB2endAQm9vYmEgUHJvamVjdA==",
-      "victim": "Kerckstede vzw"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-10-27T12:50:13.128000+00:00",
-      "claim_url": "",
-      "country": "CA",
-      "data_size": null,
-      "description": "Hospitals and Health Care Stolen data: 1 GB.",
-      "discovered": "2026-10-27T13:52:40.373871+00:00",
-      "domain": "www.rcoa.ca",
-      "group": "Booba Project",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UkNPQS0gUmVnZW50IENocmlzdGlhbiBPbmxpbmUgQWNhZGVteUBCb29iYSBQcm9qZWN0",
-      "victim": "RCOA- Regent Christian Online Academy"
     }
   ]
 }
