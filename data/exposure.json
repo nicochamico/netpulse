@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:49:22.979779+00:00",
+  "generated_at": "2026-10-29T00:38:26.003942+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -12,15 +12,13 @@
         69,
         80,
         443,
-        2052,
         2053,
         2082,
-        2083,
-        2086,
         2087,
         2096,
         8080,
-        8443
+        8443,
+        8880
       ],
       "risky_ports": [],
       "vulns": [],
@@ -29,8 +27,7 @@
       ],
       "hostnames": [
         "one.one.one.one",
-        "wlc100.cabq.gov",
-        "visitors.pauliggroup.com"
+        "wtby.wlc.theeyecaregroup.com"
       ]
     },
     {
@@ -38,8 +35,7 @@
       "open_ports": [
         53,
         443,
-        853,
-        8443
+        853
       ],
       "risky_ports": [],
       "vulns": [],
