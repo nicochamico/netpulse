@@ -1,11 +1,30 @@
 {
-  "generated_at": "2026-10-29T00:38:24.253468+00:00",
+  "generated_at": "2026-10-29T06:30:12.515298+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 0,
+  "anomalies": 1,
   "churn_events": 0,
-  "signal": 0,
+  "signal": 35,
   "events": [
+    {
+      "event": "WITHDRAWN",
+      "prefix": "8.8.8.0/24",
+      "origin_asn": 15169,
+      "origins_seen": [],
+      "name": "Google DNS",
+      "holder": "AS15169",
+      "status": "WITHDRAWN",
+      "rpki": "n/a",
+      "updates_24h": {
+        "announcements": 342,
+        "withdrawals": 23
+      },
+      "updates_per_peer": 0,
+      "peers_visible": 0,
+      "is_security_anomaly": true,
+      "severity": 20,
+      "ts": "2026-10-29T06:30:07.073622+00:00"
+    },
     {
       "event": "OK",
       "prefix": "1.1.1.0/24",
@@ -18,35 +37,14 @@
       "status": "OK",
       "rpki": "valid",
       "updates_24h": {
-        "announcements": 392,
-        "withdrawals": 1
+        "announcements": 338,
+        "withdrawals": 3
       },
-      "updates_per_peer": 1.11,
-      "peers_visible": 353,
+      "updates_per_peer": 0.96,
+      "peers_visible": 354,
       "is_security_anomaly": false,
       "severity": 0,
-      "ts": "2026-10-29T00:38:24.253415+00:00"
-    },
-    {
-      "event": "OK",
-      "prefix": "8.8.8.0/24",
-      "origin_asn": 15169,
-      "origins_seen": [
-        15169
-      ],
-      "name": "Google DNS",
-      "holder": "GOOGLE - Google LLC",
-      "status": "OK",
-      "rpki": "valid",
-      "updates_24h": {
-        "announcements": 347,
-        "withdrawals": 27
-      },
-      "updates_per_peer": 1.04,
-      "peers_visible": 360,
-      "is_security_anomaly": false,
-      "severity": 0,
-      "ts": "2026-10-29T00:38:19.244996+00:00"
+      "ts": "2026-10-29T06:30:12.515234+00:00"
     }
   ]
 }
