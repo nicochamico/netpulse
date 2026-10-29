@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-29T15:09:23.519464+00:00",
+  "last_success": "2026-10-29T20:51:18.066713+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "published": "Fri, 30 Oct 2026 00:41:58 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "published": "Thu, 29 Oct 2026 21:27:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "published": "Thu, 29 Oct 2026 20:50:29 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
@@ -22,22 +40,22 @@
       "published": "Thu, 29 Oct 2026 17:09:18 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "published": "Thu, 29 Oct 2026 17:03:41 +0530"
+      "source": "BleepingComputer",
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "published": "Thu, 29 Oct 2026 15:23:41 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "published": "Thu, 29 Oct 2026 17:03:15 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "published": "Thu, 29 Oct 2026 14:38:26 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "published": "Thu, 29 Oct 2026 16:14:46 +0530"
+      "source": "BleepingComputer",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "published": "Thu, 29 Oct 2026 12:10:31 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
       "published": "Thu, 29 Oct 2026 09:59:48 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "published": "Thu, 29 Oct 2026 08:00:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "published": "Thu, 29 Oct 2026 07:10:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "published": "Wed, 28 Oct 2026 16:47:22 -0400"
     }
   ]
 }
