@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-30T13:49:24.804564+00:00",
+  "last_success": "2026-10-30T18:58:24.362773+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published": "Fri, 30 Oct 2026 22:28:44 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "published": "Fri, 30 Oct 2026 20:47:28 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "published": "Fri, 30 Oct 2026 19:38:14 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -22,22 +40,22 @@
       "published": "Fri, 30 Oct 2026 16:10:45 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "published": "Fri, 30 Oct 2026 14:25:47 +0530"
+      "source": "BleepingComputer",
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "published": "Fri, 30 Oct 2026 11:58:20 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": "Fri, 30 Oct 2026 13:15:30 +0530"
+      "source": "BleepingComputer",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "published": "Fri, 30 Oct 2026 10:36:54 -0400"
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "Fri, 30 Oct 2026 12:57:05 +0530"
+      "source": "BleepingComputer",
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "published": "Fri, 30 Oct 2026 10:00:10 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
       "published": "Fri, 30 Oct 2026 06:16:07 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "published": "Fri, 30 Oct 2026 05:18:13 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "published": "Thu, 29 Oct 2026 19:35:52 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "published": "Thu, 29 Oct 2026 18:45:23 -0400"
     }
   ]
 }
