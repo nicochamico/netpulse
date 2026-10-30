@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-30T18:58:24.362773+00:00",
+  "last_success": "2026-10-30T22:53:37.695857+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "published": "Fri, 30 Oct 2026 17:09:46 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
       "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
       "published": "Fri, 30 Oct 2026 11:58:20 -0400"
@@ -68,12 +74,6 @@
       "title": "Microsoft finally fixes VPN issues caused by September updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
       "published": "Fri, 30 Oct 2026 07:20:26 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "published": "Fri, 30 Oct 2026 06:16:07 -0400"
     }
   ]
 }
