@@ -1,43 +1,67 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-30T06:46:47.832611+00:00",
+  "last_success": "2026-10-30T13:49:24.804564+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "published": "Fri, 30 Oct 2026 09:44:59 +0530"
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "published": "Fri, 30 Oct 2026 17:51:56 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "published": "Fri, 30 Oct 2026 00:41:58 +0530"
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "published": "Fri, 30 Oct 2026 17:28:53 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "published": "Thu, 29 Oct 2026 21:27:05 +0530"
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "published": "Fri, 30 Oct 2026 16:10:45 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "published": "Thu, 29 Oct 2026 20:50:29 +0530"
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "published": "Fri, 30 Oct 2026 14:25:47 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "published": "Thu, 29 Oct 2026 19:12:40 +0530"
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "published": "Fri, 30 Oct 2026 13:15:30 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "published": "Thu, 29 Oct 2026 17:09:41 +0530"
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "published": "Fri, 30 Oct 2026 12:57:05 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "published": "Fri, 30 Oct 2026 09:00:32 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "published": "Fri, 30 Oct 2026 07:20:26 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "published": "Fri, 30 Oct 2026 06:16:07 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "published": "Fri, 30 Oct 2026 05:18:13 -0400"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Binance probes potential $5.8 billion crypto-theft hack",
       "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
       "published": "Thu, 29 Oct 2026 18:45:23 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "published": "Thu, 29 Oct 2026 18:09:24 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "published": "Thu, 29 Oct 2026 18:08:04 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "published": "Thu, 29 Oct 2026 17:47:25 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "published": "Thu, 29 Oct 2026 15:23:41 -0400"
     }
   ]
 }
