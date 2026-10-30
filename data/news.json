@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-30T00:35:18.403973+00:00",
+  "last_success": "2026-10-30T06:46:47.832611+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "published": "Fri, 30 Oct 2026 09:44:59 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -32,12 +38,6 @@
       "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
       "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
       "published": "Thu, 29 Oct 2026 17:09:41 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "published": "Thu, 29 Oct 2026 17:09:18 +0530"
     },
     {
       "source": "BleepingComputer",
