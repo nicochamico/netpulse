@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:58:01.332040+00:00",
+  "generated_at": "2026-10-31T00:37:47.331563+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -27,7 +27,8 @@
       ],
       "hostnames": [
         "one.one.one.one",
-        "wtby.wlc.theeyecaregroup.com"
+        "chsanchor.chs.net",
+        "bplwifi.bramlib.on.ca"
       ]
     },
     {
