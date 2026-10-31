@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-31T19:41:55.030097+00:00",
+  "last_success": "2026-10-31T23:03:37.237666+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Retail & E-Commerce",
+      "attackdate": "2026-10-31T17:31:00+00:00",
+      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/punta-shopping/",
+      "country": "BR",
+      "data_size": null,
+      "description": "Commercial organization in Uruguay, located in the city of Punta del Este\nField of activity: shopping center management, rental of commercial space, retail trade and services.\nThe archive contains the most important personal data and customer data. [Sector: Finance]",
+      "discovered": "2026-10-31T18:51:54.564529+00:00",
+      "domain": "",
+      "group": "emperador",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/c2b252ea310415bd82ecd327cee50db1.png",
+      "url": "https://www.ransomware.live/id/UHVudGEgU2hvcHBpbmdAZW1wZXJhZG9y",
+      "victim": "Punta Shopping"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-10-31T14:30:23.872003+00:00",
@@ -295,34 +311,18 @@
     {
       "activity": "Not Found",
       "attackdate": "2026-10-31T00:00:00+00:00",
-      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/F1C9D34ECEFE48DD",
-      "country": "NL",
+      "claim_url": "",
+      "country": "",
       "data_size": null,
-      "description": "",
-      "discovered": "2026-10-31T10:53:29.900531+00:00",
+      "description": "Data is not available now.",
+      "discovered": "2026-10-31T18:29:04.429922+00:00",
       "domain": "",
-      "group": "AuditTeam",
+      "group": "nightspire",
       "press": null,
       "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/9058ea2a86c1aed6a8a4204ef1193ba8.png",
-      "url": "https://www.ransomware.live/id/UGUqKipDVEBBdWRpdFRlYW0=",
-      "victim": "Pe***CT"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-31T00:00:00+00:00",
-      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/C656B96E14E89CCB",
-      "country": "SG",
-      "data_size": null,
-      "description": "",
-      "discovered": "2026-10-31T10:52:58.563667+00:00",
-      "domain": "",
-      "group": "AuditTeam",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/1001be2eb52c2ba5b232c3a369047e02.png",
-      "url": "https://www.ransomware.live/id/amwqKipvbUBBdWRpdFRlYW0=",
-      "victim": "jl***om"
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/KipGKkEgKi5BQG5pZ2h0c3BpcmU=",
+      "victim": "**F*A *.A"
     }
   ]
 }
