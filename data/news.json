@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-10-31T15:00:15.312724+00:00",
+  "last_success": "2026-10-31T19:41:55.030097+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "published": "Sat, 31 Oct 2026 14:01:12 -0400"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "published": "Sat, 31 Oct 2026 11:35:11 -0400"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Reddit to lock content behind logins to fight scrapers",
       "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
       "published": "Sat, 31 Oct 2026 10:05:15 -0400"
@@ -62,18 +74,6 @@
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
       "published": "Fri, 30 Oct 2026 17:09:46 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "published": "Fri, 30 Oct 2026 11:58:20 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "published": "Fri, 30 Oct 2026 10:36:54 -0400"
     }
   ]
 }
