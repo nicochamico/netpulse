@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:56:42.781330+00:00",
+  "generated_at": "2026-10-31T17:33:35.410869+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,9 +26,9 @@
         "pqc"
       ],
       "hostnames": [
-        "one.one.one.one",
-        "chsanchor.chs.net",
-        "bplwifi.bramlib.on.ca"
+        "hwp.huawei.com",
+        "gjest.kavli.no",
+        "one.one.one.one"
       ]
     },
     {
