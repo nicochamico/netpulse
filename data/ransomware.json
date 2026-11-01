@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-01T04:19:59.250384+00:00",
+  "last_success": "2026-11-01T11:39:32.155867+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-01T01:50:30.711414+00:00",
+      "claim_url": "http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/",
+      "country": "TR",
+      "data_size": null,
+      "description": "Evinoks is a Turkish company that produces and sells various products for hotel and restaurant service, such as trolleys, chairs, tables, buffet units, furniture and hygiene equipment. It has a wide range of customers and partners around the world and aims to provide innovative, aesthetic and quality.\n\nWe are beginning to release unsold data for free; it will remain available for one month, so be sure to download all the files to your own storage.\nOur storage: http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/ | Status: free | FREE",
+      "discovered": "2026-11-01T01:50:47.238640+00:00",
+      "domain": "evinoks.com",
+      "group": "Barracuda",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/1e9adca030d68f11c5bc7ab43e6bca7c.png",
+      "url": "https://www.ransomware.live/id/RVZJTk9LU0BCYXJyYWN1ZGE=",
+      "victim": "EVINOKS"
+    },
+    {
+      "activity": "Other",
+      "attackdate": "2026-11-01T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=5f1b3909-c068-4289-a191-3312e3b3938a",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-11-01T00:39:08.118503+00:00",
+      "domain": "www.danserinc.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/RGFuc2VyQHFpbGlu",
+      "victim": "Danser"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-10-31T18:43:45+00:00",
@@ -38,22 +70,6 @@
     },
     {
       "activity": "Retail & E-Commerce",
-      "attackdate": "2026-10-31T17:31:00+00:00",
-      "claim_url": "http://emprdr4p7iwlhpky33tswt3k2qdeljyjcdpoysabudmmrz4z32laexad.onion/post/punta-shopping/",
-      "country": "BR",
-      "data_size": null,
-      "description": "Commercial organization in Uruguay, located in the city of Punta del Este\nField of activity: shopping center management, rental of commercial space, retail trade and services.\nThe archive contains the most important personal data and customer data. [Sector: Finance]",
-      "discovered": "2026-10-31T18:51:54.564529+00:00",
-      "domain": "",
-      "group": "emperador",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c2b252ea310415bd82ecd327cee50db1.png",
-      "url": "https://www.ransomware.live/id/UHVudGEgU2hvcHBpbmdAZW1wZXJhZG9y",
-      "victim": "Punta Shopping"
-    },
-    {
-      "activity": "Retail & E-Commerce",
       "attackdate": "2026-10-31T14:30:23.872003+00:00",
       "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/a59d7a17-77a1-4fb0-8fd7-e654cc68e7d3",
       "country": "",
@@ -76,7 +92,7 @@
       "data_size": null,
       "description": "Kraft Lernen is a German company that specializes in supplying didactic and developmental materials for kindergartens, schools, and therapeutic institutions. Its product catalog includes educational aids, Montessori materials, board games, and supplies for motor skills, creative arts, and inclusive learning. Based in Germany, the company primarily targets educators, childcare professionals, and institutional procurement for educational centers.",
       "discovered": "2026-10-31T14:30:05.303563+00:00",
-      "domain": "",
+      "domain": "kraft-lernen.de",
       "group": "payload",
       "press": null,
       "ransom": null,
@@ -108,7 +124,7 @@
       "data_size": null,
       "description": "Phoenix Charter Academy Phoenix Charter Academy Network is a public charter school network in Massachusetts, USA, operating three campuses (Chelsea, Lawrence, Springfield) and serving mainly low-income and immigrant families.36,829 files, 445.1 GB of data.Domain controller (password hashes of ~170+ staff accounts)File server, helpdesk server, print serverPowerSchool test server � the student databaseStudent special-education records of named minors: signed IEP/504 plans for the 2025�2026 school year, BASC-3 psychological protocols, three-year re-evaluations, speech-therapy files, discipline recordsImmigration records of students' families: official CBP I-94 entry records, parole application statements, immigration cover lettersStaff personal and financial data: W-2 forms with SSNs and salaries, US passport card and foreign passport scans, bank statements with account numbers (Bank of America / Tremont Credit Union), signed direct deposit authorizations, CORI background-check filesMedical data: MassHealth cards and applications, immunization recordsMunicipal compliance files: Lawrence Board of Health licenses and inspections (2022�2024), Fire Department inspection certificatesInternal HR material: network-wide salary bands    More",
       "discovered": "2026-10-31T12:35:39.959568+00:00",
-      "domain": "",
+      "domain": "phoenixcharteracademy.org",
       "group": "rhysida",
       "press": null,
       "ransom": null,
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/57eaf76f290d764ba49528e4811a2879.png",
       "url": "https://www.ransomware.live/id/dWFhLm14QHNhZmVwYXk=",
       "victim": "uaa.mx"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-10-31T07:57:54.818319+00:00",
-      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion#v-digitaltriumph",
-      "country": "MY",
-      "data_size": null,
-      "description": "telecommunications services · Malaysia | Employee payroll records with names, national identity numbers and wages, statutory filings 2016 to 2025; Audited financial statements, tax filings and company bank account numbers; 2,552 customer invoices and delivery orders; The full customer service data room covering 309 organizations including banks, an embassy and government offices; The CRM customer database and the company mail archive, 8,700+ verified business emails with customer correspondence | [NOT PAID — EXPOSED]",
-      "discovered": "2026-10-31T07:58:16.924529+00:00",
-      "domain": "",
-      "group": "N0n",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/ad7fafe229581dc6f19e9f63fd6a2c52.png",
-      "url": "https://www.ransomware.live/id/RGlnaXRhbCBUcml1bXBoQE4wbg==",
-      "victim": "Digital Triumph"
     }
   ]
 }
