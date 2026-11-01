@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-10-31T23:03:37.237666+00:00",
+  "last_success": "2026-11-01T04:19:59.250384+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-10-31T18:43:45+00:00",
+      "claim_url": "",
+      "country": "BD",
+      "data_size": null,
+      "description": "JHAMF Group is a Colombian IT services company specializing in IT infrastructure, telecommunications, software licensing and implementation, network installation and certification, technical support outsourcing, and cloud infrastructure solutions, including Microsoft Azure.",
+      "discovered": "2026-10-31T19:04:20.888985+00:00",
+      "domain": "www.jhamf.com",
+      "group": "Vexy Ransomware",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/SkhBTUYgR3JvdXBAVmV4eSBSYW5zb213YXJl",
+      "victim": "JHAMF Group"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-10-31T18:31:03+00:00",
+      "claim_url": "",
+      "country": "BG",
+      "data_size": null,
+      "description": "systemsoft.info",
+      "discovered": "2026-10-31T19:04:42.079141+00:00",
+      "domain": "systemsoft.info",
+      "group": "Vexy Ransomware",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U3lzdGVtIFNvZnRAVmV4eSBSYW5zb213YXJl",
+      "victim": "System Soft"
+    },
     {
       "activity": "Retail & E-Commerce",
       "attackdate": "2026-10-31T17:31:00+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/ad7fafe229581dc6f19e9f63fd6a2c52.png",
       "url": "https://www.ransomware.live/id/RGlnaXRhbCBUcml1bXBoQE4wbg==",
       "victim": "Digital Triumph"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-31T06:21:09+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "bi-link.com Revenue $380.2 Million  Bi-Link US precision manufacturer founded in 1961 (HQ Bloomingdale, IL), making metal stampings and injection-molded plastics with in-house tooling and assembly for automotive, medical, wireless, and consumer electronics OEMs. It owns plants in Shanghai, Nanning, Mexico (Juárez), and a new Vietnam site (2024), offering prototype-to-production under one roof. Revenue isn't reliably public — broker estimates range wildly from ~$10M to $50M, but a TaiPEX filing suggests ~$5M+/month after consolidation. The critical development: in October 2025 family owners agreed to sell the company to Taiwan-listed Donpon Precision, closed and consolidated from Jan 2026. Despite the site still claiming \"family-owned\", control is now Donpon's, and long-time CEO Tom Harris has exited. Certifications (ISO 9001, ISO 13485, IATF 16949) support real OEM work (e.g. Teleflex via a 3D Systems case)",
-      "discovered": "2026-10-31T07:18:47.943645+00:00",
-      "domain": "bi-link.com",
-      "group": "thegentlemen",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/QmkgTGlua0B0aGVnZW50bGVtZW4=",
-      "victim": "Bi Link"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-10-31T00:00:00+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "Data is not available now.",
-      "discovered": "2026-10-31T18:29:04.429922+00:00",
-      "domain": "",
-      "group": "nightspire",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/KipGKkEgKi5BQG5pZ2h0c3BpcmU=",
-      "victim": "**F*A *.A"
     }
   ]
 }
