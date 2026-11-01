@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-01T11:39:32.155867+00:00",
+  "last_success": "2026-11-01T17:37:40.934524+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "published": "Sun, 01 Nov 2026 10:11:21 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "published": "Sun, 01 Nov 2026 08:53:11 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "published": "Sat, 31 Oct 2026 14:01:12 -0400"
@@ -62,18 +74,6 @@
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
       "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "published": "Sat, 31 Oct 2026 09:10:19 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "published": "Sat, 31 Oct 2026 08:50:09 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "published": "Fri, 30 Oct 2026 17:09:46 -0400"
     }
   ]
 }
