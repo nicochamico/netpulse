@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-01T17:37:40.934524+00:00",
+  "last_success": "2026-11-01T21:40:35.290064+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "published": "Sun, 01 Nov 2026 14:57:53 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
       "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
       "published": "Sun, 01 Nov 2026 10:11:21 -0500"
@@ -68,12 +74,6 @@
       "title": "Reddit to lock content behind logins to fight scrapers",
       "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
       "published": "Sat, 31 Oct 2026 10:05:15 -0400"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "published": "Sat, 31 Oct 2026 09:10:19 -0400"
     }
   ]
 }
