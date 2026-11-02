@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:50:44.658153+00:00",
+  "generated_at": "2026-11-02T07:20:43.962776+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -42,8 +42,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net",
-        "test.sewan.es"
+        "test.readylogistics.com",
+        "dns9.quad9.net"
       ]
     }
   ],
