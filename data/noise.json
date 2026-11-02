@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:14:58.390895+00:00",
+  "generated_at": "2026-11-02T00:50:44.481701+00:00",
   "sources": [
     "abuse.ch Feodo Tracker",
     "GreyNoise Community (optional)"
@@ -16,15 +16,6 @@
     }
   ],
   "watchlist_hits": [],
-  "greynoise": [
-    {
-      "ip": "185.220.101.1",
-      "noise": true,
-      "riot": false,
-      "classification": "malicious",
-      "name": "unknown",
-      "last_seen": "2026-10-31"
-    }
-  ],
-  "signal": 5
+  "greynoise": [],
+  "signal": 0
 }
