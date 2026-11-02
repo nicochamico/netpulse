@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-01T21:40:35.290064+00:00",
+  "last_success": "2026-11-02T01:14:52.969182+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-11-01T18:03:34.415175+00:00",
+      "claim_url": "",
+      "country": "DE",
+      "data_size": null,
+      "description": "TEMA Heizung Berlin is a company that provides heating services in Berlin. They offer a range of heating options including heating pumps, maintenance, and optimization. They also provide services for existing oil/gas heating.",
+      "discovered": "2026-11-01T18:03:35.740611+00:00",
+      "domain": "tema-hwt.de",
+      "group": "Shiba",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/VGVtYSBId3RAU2hpYmE=",
+      "victim": "Tema Hwt"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-11-01T14:55:00+00:00",
+      "claim_url": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/post/4dd29260c09708342891c8d4ea0c79bd",
+      "country": "ID",
+      "data_size": null,
+      "description": "PT Synergy Risk Management Consultants (“SYNERGY”), an independent company, established in  London,...",
+      "discovered": "2026-11-01T19:27:52.959212+00:00",
+      "domain": "synergy.co.id",
+      "group": "lockbit5",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/644867b769dcc639865b1b5b112c6788.png",
+      "url": "https://www.ransomware.live/id/c3luZXJneS5jby5pZEBsb2NrYml0NQ==",
+      "victim": "synergy.co.id"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-11-01T13:03:00+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/1107b073b6c9a4d974ea70bfb7aec6e0.png",
       "url": "https://www.ransomware.live/id/S3JhZnQgTGVybmVuQHBheWxvYWQ=",
       "victim": "Kraft Lernen"
-    },
-    {
-      "activity": "Government & Defense",
-      "attackdate": "2026-10-31T14:27:41.426874+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/9c941b48-cc0f-4d2f-830c-e18b6fee3156",
-      "country": "DE",
-      "data_size": null,
-      "description": "SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) is a state-owned land development company belonging to the German federal state of Saxony-Anhalt. The organization specializes in urban and regional planning, brownfield redevelopment, land resource management, and the support of infrastructure projects. It operates as a service partner for local municipalities, coordinating and implementing spatial development programs in the interests of the public sector.",
-      "discovered": "2026-10-31T14:28:42.041214+00:00",
-      "domain": "",
-      "group": "payload",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/4feb2866e55bfc002a806cb7434b726b.png",
-      "url": "https://www.ransomware.live/id/U0FMRUcgKFNhY2hzZW4tQW5oYWx0aXNjaGUgTGFuZGVzZW50d2lja2x1bmdzZ2VzZWxsc2NoYWZ0IG1iSClAcGF5bG9hZA==",
-      "victim": "SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH)"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-10-31T12:34:41.759536+00:00",
-      "claim_url": "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?company=296",
-      "country": "US",
-      "data_size": null,
-      "description": "Phoenix Charter Academy Phoenix Charter Academy Network is a public charter school network in Massachusetts, USA, operating three campuses (Chelsea, Lawrence, Springfield) and serving mainly low-income and immigrant families.36,829 files, 445.1 GB of data.Domain controller (password hashes of ~170+ staff accounts)File server, helpdesk server, print serverPowerSchool test server � the student databaseStudent special-education records of named minors: signed IEP/504 plans for the 2025�2026 school year, BASC-3 psychological protocols, three-year re-evaluations, speech-therapy files, discipline recordsImmigration records of students' families: official CBP I-94 entry records, parole application statements, immigration cover lettersStaff personal and financial data: W-2 forms with SSNs and salaries, US passport card and foreign passport scans, bank statements with account numbers (Bank of America / Tremont Credit Union), signed direct deposit authorizations, CORI background-check filesMedical data: MassHealth cards and applications, immunization recordsMunicipal compliance files: Lawrence Board of Health licenses and inspections (2022�2024), Fire Department inspection certificatesInternal HR material: network-wide salary bands    More",
-      "discovered": "2026-10-31T12:35:39.959568+00:00",
-      "domain": "phoenixcharteracademy.org",
-      "group": "rhysida",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/e6e84b12b7c935ccd56705833d562676.png",
-      "url": "https://www.ransomware.live/id/UGhvZW5peCBDaGFydGVyIEFjYWRlbXlAcmh5c2lkYQ==",
-      "victim": "Phoenix Charter Academy"
     }
   ]
 }
