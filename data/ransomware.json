@@ -1,7 +1,7 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-02T01:14:52.969182+00:00",
+  "last_success": "2026-11-02T08:51:22.878398+00:00",
   "count": 100,
   "items": [
     {
@@ -99,6 +99,22 @@
       "screenshot": "https://images.ransomware.live/victims/1e9adca030d68f11c5bc7ab43e6bca7c.png",
       "url": "https://www.ransomware.live/id/RVZJTk9LU0BCYXJyYWN1ZGE=",
       "victim": "EVINOKS"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-11-01T00:00:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Full Personal Identifiable Information for 1.03 million current and ex students as well as the full team in relations to MSU, we also have current and ex passwords, as well as a full compromise towards your System, don't let it scale any further, you've been given the chance to the make the right choice. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
+      "discovered": "2026-11-02T03:50:23.325193+00:00",
+      "domain": "",
+      "group": "BYOD",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eUBCWU9E",
+      "victim": "Michigan State University"
     },
     {
       "activity": "Healthcare",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/e8b19396988a4b455b8a67dfffb8f59a.png",
       "url": "https://www.ransomware.live/id/U3RyYXplIEdhcmRlbiBDZW50ZXJAcGF5bG9hZA==",
       "victim": "Straze Garden Center"
-    },
-    {
-      "activity": "Education",
-      "attackdate": "2026-10-31T14:29:00.765296+00:00",
-      "claim_url": "http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion/posts/8617c7b3-94eb-433d-b213-a1732b2f081b",
-      "country": "DE",
-      "data_size": null,
-      "description": "Kraft Lernen is a German company that specializes in supplying didactic and developmental materials for kindergartens, schools, and therapeutic institutions. Its product catalog includes educational aids, Montessori materials, board games, and supplies for motor skills, creative arts, and inclusive learning. Based in Germany, the company primarily targets educators, childcare professionals, and institutional procurement for educational centers.",
-      "discovered": "2026-10-31T14:30:05.303563+00:00",
-      "domain": "kraft-lernen.de",
-      "group": "payload",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/1107b073b6c9a4d974ea70bfb7aec6e0.png",
-      "url": "https://www.ransomware.live/id/S3JhZnQgTGVybmVuQHBheWxvYWQ=",
-      "victim": "Kraft Lernen"
     }
   ]
 }
