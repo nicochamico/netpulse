@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-03T17:31:10.286139+00:00",
+  "last_success": "2026-11-03T22:53:14.888840+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "published": "Wed, 04 Nov 2026 00:16:38 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "published": "Tue, 03 Nov 2026 23:46:19 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
@@ -28,16 +40,28 @@
       "published": "Tue, 03 Nov 2026 20:46:32 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "published": "Tue, 03 Nov 2026 16:53:53 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "published": "Tue, 03 Nov 2026 17:18:50 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "published": "Tue, 03 Nov 2026 16:48:20 +0530"
+      "source": "BleepingComputer",
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "published": "Tue, 03 Nov 2026 16:28:44 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "published": "Tue, 03 Nov 2026 15:05:50 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "published": "Tue, 03 Nov 2026 13:51:04 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
       "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
       "published": "Tue, 03 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "published": "Tue, 03 Nov 2026 09:00:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "published": "Tue, 03 Nov 2026 08:33:49 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "published": "Tue, 03 Nov 2026 07:05:52 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "published": "Tue, 03 Nov 2026 05:53:25 -0500"
     }
   ]
 }
