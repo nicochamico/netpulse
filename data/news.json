@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-03T09:23:48.681081+00:00",
+  "last_success": "2026-11-03T17:31:10.286139+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "published": "Tue, 03 Nov 2026 14:01:48 +0530"
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "published": "Tue, 03 Nov 2026 22:25:58 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "published": "Tue, 03 Nov 2026 13:13:07 +0530"
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "published": "Tue, 03 Nov 2026 21:29:19 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "published": "Tue, 03 Nov 2026 12:57:07 +0530"
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "published": "Tue, 03 Nov 2026 21:11:53 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "published": "Tue, 03 Nov 2026 11:04:41 +0530"
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "published": "Tue, 03 Nov 2026 20:46:32 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "published": "Tue, 03 Nov 2026 11:04:37 +0530"
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": "Tue, 03 Nov 2026 16:53:53 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "published": "Mon, 02 Nov 2026 22:27:56 +0530"
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "published": "Tue, 03 Nov 2026 16:48:20 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-      "published": "Mon, 02 Nov 2026 16:40:14 -0500"
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "published": "Tue, 03 Nov 2026 10:06:16 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "published": "Mon, 02 Nov 2026 14:00:45 -0500"
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "published": "Tue, 03 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "published": "Mon, 02 Nov 2026 13:16:34 -0500"
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "published": "Tue, 03 Nov 2026 09:00:00 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-      "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "published": "Mon, 02 Nov 2026 10:03:07 -0500"
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "published": "Tue, 03 Nov 2026 08:33:49 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "published": "Mon, 02 Nov 2026 10:01:11 -0500"
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": "Tue, 03 Nov 2026 07:05:52 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "published": "Mon, 02 Nov 2026 09:28:39 -0500"
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "published": "Tue, 03 Nov 2026 05:53:25 -0500"
     }
   ]
 }
