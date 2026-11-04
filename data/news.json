@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-04T02:53:47.697029+00:00",
+  "last_success": "2026-11-04T10:27:23.670854+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "published": "Wed, 04 Nov 2026 13:47:11 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "published": "Wed, 04 Nov 2026 13:16:15 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "published": "Wed, 04 Nov 2026 11:13:11 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
@@ -22,22 +40,10 @@
       "published": "Tue, 03 Nov 2026 22:25:58 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "published": "Tue, 03 Nov 2026 21:29:19 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "published": "Tue, 03 Nov 2026 21:11:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "published": "Tue, 03 Nov 2026 20:46:32 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "published": "Wed, 04 Nov 2026 04:39:54 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Barracuda warns of critical flaws allowing root access to devices",
       "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
       "published": "Tue, 03 Nov 2026 10:06:16 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "published": "Tue, 03 Nov 2026 10:00:10 -0500"
     }
   ]
 }
