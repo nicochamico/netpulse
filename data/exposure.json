@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:39:10.361093+00:00",
+  "generated_at": "2026-11-04T00:54:49.495546+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,9 +26,9 @@
         "pqc"
       ],
       "hostnames": [
-        "hwp.huawei.com",
-        "gjest.kavli.no",
-        "one.one.one.one"
+        "one.one.one.one",
+        "meusite.ifood.com.br",
+        "guestwebauth.regeneron.com"
       ]
     },
     {
