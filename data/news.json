@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-04T10:27:23.670854+00:00",
+  "last_success": "2026-11-04T18:26:26.720482+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "published": "Wed, 04 Nov 2026 13:47:11 +0530"
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "published": "Wed, 04 Nov 2026 22:30:46 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "published": "Wed, 04 Nov 2026 13:16:15 +0530"
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "Wed, 04 Nov 2026 22:30:38 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "published": "Wed, 04 Nov 2026 11:13:11 +0530"
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "published": "Wed, 04 Nov 2026 21:36:43 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "published": "Wed, 04 Nov 2026 00:16:38 +0530"
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "published": "Wed, 04 Nov 2026 19:57:52 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "published": "Tue, 03 Nov 2026 23:46:19 +0530"
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "published": "Wed, 04 Nov 2026 17:37:04 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "published": "Tue, 03 Nov 2026 22:25:58 +0530"
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "published": "Wed, 04 Nov 2026 17:16:27 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "published": "Wed, 04 Nov 2026 04:39:54 -0500"
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "published": "Wed, 04 Nov 2026 13:02:56 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "published": "Tue, 03 Nov 2026 17:18:50 -0500"
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "published": "Wed, 04 Nov 2026 11:58:46 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "published": "Tue, 03 Nov 2026 16:28:44 -0500"
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "published": "Wed, 04 Nov 2026 11:00:18 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "published": "Tue, 03 Nov 2026 15:05:50 -0500"
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "published": "Wed, 04 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "published": "Tue, 03 Nov 2026 13:51:04 -0500"
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "published": "Wed, 04 Nov 2026 09:42:25 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "published": "Tue, 03 Nov 2026 10:06:16 -0500"
+      "title": "US charges two Canadians accused of hacking US universities",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "published": "Wed, 04 Nov 2026 08:13:20 -0500"
     }
   ]
 }
