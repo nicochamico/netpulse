@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:17:54.806007+00:00",
+  "generated_at": "2026-11-04T15:39:56.557446+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -14,7 +14,9 @@
         443,
         2053,
         2082,
+        2083,
         2087,
+        2095,
         2096,
         8080,
         8443,
@@ -26,9 +28,9 @@
         "pqc"
       ],
       "hostnames": [
-        "one.one.one.one",
-        "meusite.ifood.com.br",
-        "guestwebauth.regeneron.com"
+        "guestgate.rockwool.com",
+        "vie-cp.mayr-melnhof.com",
+        "one.one.one.one"
       ]
     },
     {
