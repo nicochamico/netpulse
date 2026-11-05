@@ -1,43 +1,55 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-05T07:41:14.945751+00:00",
+  "last_success": "2026-11-05T16:06:47.034273+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "published": "Thu, 05 Nov 2026 10:47:04 +0530"
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "published": "Thu, 05 Nov 2026 20:11:10 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "published": "Thu, 05 Nov 2026 17:55:00 +0530"
     },
     {
       "source": "The Hacker News",
       "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "published": "Thu, 05 Nov 2026 10:01:16 +0530"
+      "published": "Thu, 05 Nov 2026 17:38:54 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "published": "Wed, 04 Nov 2026 22:30:46 +0530"
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "published": "Thu, 05 Nov 2026 15:36:19 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "published": "Wed, 04 Nov 2026 22:30:38 +0530"
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "published": "Thu, 05 Nov 2026 14:43:28 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "published": "Wed, 04 Nov 2026 21:36:43 +0530"
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "published": "Thu, 05 Nov 2026 14:12:03 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "published": "Wed, 04 Nov 2026 19:57:52 +0530"
+      "source": "BleepingComputer",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "published": "Thu, 05 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "published": "Thu, 05 Nov 2026 04:18:29 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "published": "Wed, 04 Nov 2026 13:02:56 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "published": "Wed, 04 Nov 2026 11:58:46 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": "Wed, 04 Nov 2026 11:00:18 -0500"
     }
   ]
 }
