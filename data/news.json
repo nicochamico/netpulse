@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-05T00:08:13.188524+00:00",
+  "last_success": "2026-11-05T07:41:14.945751+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "Thu, 05 Nov 2026 10:47:04 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "published": "Thu, 05 Nov 2026 10:01:16 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
@@ -26,18 +38,6 @@
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
       "published": "Wed, 04 Nov 2026 19:57:52 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "published": "Wed, 04 Nov 2026 17:37:04 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "published": "Wed, 04 Nov 2026 17:16:27 +0530"
     },
     {
       "source": "BleepingComputer",
