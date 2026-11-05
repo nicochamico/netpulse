@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-05T16:06:47.034273+00:00",
+  "last_success": "2026-11-05T22:30:42.724448+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "published": "Thu, 05 Nov 2026 22:12:46 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "published": "Thu, 05 Nov 2026 22:12:32 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
@@ -28,52 +40,40 @@
       "published": "Thu, 05 Nov 2026 15:36:19 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "published": "Thu, 05 Nov 2026 14:43:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "published": "Thu, 05 Nov 2026 14:12:03 +0530"
+      "source": "BleepingComputer",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "published": "Thu, 05 Nov 2026 16:30:30 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "published": "Thu, 05 Nov 2026 10:00:10 -0500"
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "published": "Thu, 05 Nov 2026 15:15:08 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "published": "Thu, 05 Nov 2026 04:18:29 -0500"
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "published": "Thu, 05 Nov 2026 14:24:26 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "published": "Wed, 04 Nov 2026 16:31:18 -0500"
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "published": "Thu, 05 Nov 2026 12:45:29 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "published": "Wed, 04 Nov 2026 15:58:19 -0500"
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "published": "Thu, 05 Nov 2026 11:24:26 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "published": "Wed, 04 Nov 2026 14:05:19 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "published": "Wed, 04 Nov 2026 13:02:56 -0500"
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "published": "Thu, 05 Nov 2026 11:12:46 -0500"
     }
   ]
 }
