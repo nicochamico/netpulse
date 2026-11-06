@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-05T22:30:42.724448+00:00",
+  "last_success": "2026-11-06T03:08:02.489034+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-11-05T22:35:24.819990+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "They offered $272.500 to keep the data from being published.",
+      "discovered": "2026-11-05T22:35:25.898328+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/U21pdGgsIEdhbWJyZWxsICYgUnVzc2VsbCwgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "Smith, Gambrell & Russell, LLP"
+    },
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-11-05T22:35:00.074469+00:00",
+      "claim_url": "https://business-data-leaks.com/about#872d9ceb474e9177c403ae538",
+      "country": "",
+      "data_size": null,
+      "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+      "discovered": "2026-11-05T22:35:05.847835+00:00",
+      "domain": "",
+      "group": "SilentRansomGroup",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/Vy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "victim": "W... R..."
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-11-05T17:54:05.681124+00:00",
@@ -197,6 +229,22 @@
       "victim": "The Container Store"
     },
     {
+      "activity": "Financial Services",
+      "attackdate": "2026-11-05T00:00:00+00:00",
+      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=8bcf33c6-ed59-41b4-90e3-d05a89c78334",
+      "country": "US",
+      "data_size": null,
+      "description": "N/A",
+      "discovered": "2026-11-05T20:46:53.207943+00:00",
+      "domain": "www.insaudit.com",
+      "group": "qilin",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/7f2856d522d02bb2e02b253c9069fe9b.png",
+      "url": "https://www.ransomware.live/id/SW5zdXJhbmNlIEF1ZGl0IFNlcnZpY2VzQHFpbGlu",
+      "victim": "Insurance Audit Services"
+    },
+    {
       "activity": "Not Found",
       "attackdate": "2026-11-05T00:00:00+00:00",
       "claim_url": "",
@@ -275,54 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/d6b8c676ac3cd3fdabd1ad4aac5d4b91.png",
       "url": "https://www.ransomware.live/id/Q2FsdmFyeSBDaHJpc3RpYW4gQ29sbGVnZUBxaWxpbg==",
       "victim": "Calvary Christian College"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-11-05T00:00:00+00:00",
-      "claim_url": "http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion/entity/3CD8464C4F83BABC",
-      "country": "CN",
-      "data_size": null,
-      "description": "",
-      "discovered": "2026-11-05T08:50:34.763915+00:00",
-      "domain": "",
-      "group": "AuditTeam",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/0549018ac07690458b8c834f4e71f4a8.png",
-      "url": "https://www.ransomware.live/id/a3gqKipvbUBBdWRpdFRlYW0=",
-      "victim": "kx***om"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-11-04T22:27:11.593521+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/bawaraa/",
-      "country": "US",
-      "data_size": null,
-      "description": "Organization with 61167 emails extracted. Domain: msn.com",
-      "discovered": "2026-11-04T22:27:24.873996+00:00",
-      "domain": "msn.com",
-      "group": "medusalocker",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/17f39cfb0bb5a8b6c3c3b48ebf371f07.png",
-      "url": "https://www.ransomware.live/id/TXNuQG1lZHVzYWxvY2tlcg==",
-      "victim": "Msn"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-11-04T22:25:38.130402+00:00",
-      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/baiapai/",
-      "country": "",
-      "data_size": null,
-      "description": "Béziers, Occitanie, France",
-      "discovered": "2026-11-04T22:25:50.790256+00:00",
-      "domain": "",
-      "group": "medusalocker",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/a7ec036f90bf83aa700860d33b3975a5.png",
-      "url": "https://www.ransomware.live/id/YmFpYXBhaUBtZWR1c2Fsb2NrZXI=",
-      "victim": "baiapai"
     }
   ]
 }
