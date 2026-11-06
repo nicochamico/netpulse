@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-06T18:52:16.698053+00:00",
+  "last_success": "2026-11-06T23:38:28.186233+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "published": "Fri, 06 Nov 2026 17:27:25 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "published": "Fri, 06 Nov 2026 15:24:19 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake security tools on GitHub push backdoors and infostealers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
       "published": "Fri, 06 Nov 2026 13:46:52 -0500"
@@ -62,18 +74,6 @@
       "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
       "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
       "published": "Fri, 06 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "published": "Fri, 06 Nov 2026 09:17:07 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "published": "Fri, 06 Nov 2026 07:37:22 -0500"
     }
   ]
 }
