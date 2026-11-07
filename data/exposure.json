@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:56:35.101842+00:00",
+  "generated_at": "2026-11-07T23:31:06.540264+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -14,9 +14,7 @@
         443,
         2053,
         2082,
-        2083,
         2087,
-        2095,
         2096,
         8080,
         8443,
@@ -29,8 +27,8 @@
       ],
       "hostnames": [
         "one.one.one.one",
-        "ssh.rajhibank-sftp.staging.deliveryhero.com",
-        "guestgate.rockwool.com"
+        "meusite.ifood.com.br",
+        "guestwebauth.regeneron.com"
       ]
     },
     {
