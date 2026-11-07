@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-06T23:38:28.186233+00:00",
+  "last_success": "2026-11-07T04:36:49.595410+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-11-06T23:58:45.159000+00:00",
+      "claim_url": "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/6aee69b5e91d0d7b3f87b188",
+      "country": "AL",
+      "data_size": null,
+      "description": "1da9100e55aqf21eb651eNea",
+      "discovered": "2026-11-07T00:15:21.235992+00:00",
+      "domain": "",
+      "group": "incransom",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ==",
+      "victim": "1da9100e55aqf21eb651eNea"
+    },
+    {
+      "activity": "Manufacturing",
+      "attackdate": "2026-11-06T21:21:10.767642+00:00",
+      "claim_url": "http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/n/Mutares-com",
+      "country": "DE",
+      "data_size": null,
+      "description": "[AI generated] Mutares SE & Co. KGaA is a German-based private equity holding company headquartered in Munich. It specializes in acquiring and turning around underperforming or non-core businesses divested by larger corporations, operating across sectors such as automotive, engineering, goods & services, and retail. The company operates internationally across Europe and North America, focusing on restructuring and sustainably developing acquired businesses.",
+      "discovered": "2026-11-06T21:21:28.464004+00:00",
+      "domain": "Mutares.com",
+      "group": "BrainCipher",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/ca48661ec3ab4465546188b49bda28dc.png",
+      "url": "https://www.ransomware.live/id/TXV0YXJlcy5jb21AQnJhaW5DaXBoZXI=",
+      "victim": "Mutares.com"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-11-06T18:58:01.954973+00:00",
@@ -277,52 +309,20 @@
       "victim": "Scry Analytics"
     },
     {
-      "activity": "Retail & E-Commerce",
-      "attackdate": "2026-11-06T00:00:00+00:00",
-      "claim_url": "",
-      "country": "FR",
-      "data_size": null,
-      "description": "Since 1973, Ligne Roset has stood by these intrinsic values and has worked with only the most e\nxciting and talented designers.\n\nWe will upload 150gb of corporate data soon. Employee personal information (passport, DLs), con\ntracts and agreements, financial, confidential files, NDAs and so on.\n",
-      "discovered": "2026-11-06T15:33:41.331617+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/TGlnbmUgUm9zZXRAYWtpcmE=",
-      "victim": "Ligne Roset"
-    },
-    {
       "activity": "Manufacturing",
       "attackdate": "2026-11-06T00:00:00+00:00",
-      "claim_url": "",
+      "claim_url": "http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion/83gm03fx03mzs3lzx02/",
       "country": "US",
       "data_size": null,
-      "description": "Houston Machine and Thread was founded by industry veterans in 2024 to bring a simplified, high\nquality experience to the procurement and manufacturing of studs, tap ends, and machined parts\n.\n\nWe will upload 10gb of corporate data soon. Employee personal information (passport, DLs, SSNs,\nI9  complete forms and so on), contracts and agreements, financial, confidential agreement, ND\nAs and so on.\n",
-      "discovered": "2026-11-06T15:33:21.442182+00:00",
-      "domain": "",
-      "group": "akira",
+      "description": "A construction management company.",
+      "discovered": "2026-11-06T20:46:11.665511+00:00",
+      "domain": "xinosconstructioncorp.com",
+      "group": "genesis",
       "press": null,
       "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/SG91c3RvbiBNYWNoaW5lIGFuZCBUaHJlYWRAYWtpcmE=",
-      "victim": "Houston Machine and Thread"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-11-06T00:00:00+00:00",
-      "claim_url": "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/blog?uuid=27b4d84f-a965-428c-9ccf-a5b9a258a06a",
-      "country": "IL",
-      "data_size": null,
-      "description": "N/A",
-      "discovered": "2026-11-06T08:42:39.282325+00:00",
-      "domain": "www.rotstein-shiffman.com",
-      "group": "qilin",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/f515b96212bbdb930fb4e8a4a12620c5.png",
-      "url": "https://www.ransomware.live/id/Um90c3RlaW4gJiBTaGlmZm1hbkBxaWxpbg==",
-      "victim": "Rotstein & Shiffman"
+      "screenshot": "https://images.ransomware.live/victims/0eec60e33e8166ca6ee49194cb92d18d.png",
+      "url": "https://www.ransomware.live/id/WGlub3MgQ29uc3RydWN0aW9uQGdlbmVzaXM=",
+      "victim": "Xinos Construction"
     }
   ]
 }
