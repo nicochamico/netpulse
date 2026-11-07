@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-07T11:29:34.386612+00:00",
+  "last_success": "2026-11-07T17:24:20.915336+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "published": "Sat, 07 Nov 2026 10:25:35 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "published": "Sat, 07 Nov 2026 09:10:19 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "published": "Fri, 06 Nov 2026 19:00:55 -0500"
@@ -62,18 +74,6 @@
       "title": "Fake security tools on GitHub push backdoors and infostealers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
       "published": "Fri, 06 Nov 2026 13:46:52 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "published": "Fri, 06 Nov 2026 12:04:23 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-      "published": "Fri, 06 Nov 2026 10:25:31 -0500"
     }
   ]
 }
