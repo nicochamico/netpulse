@@ -1,48 +1,52 @@
 {
-  "generated_at": "2026-11-08T09:32:28.968974+00:00",
+  "generated_at": "2026-11-08T16:20:43.182787+00:00",
   "source": "RIPEstat (looking-glass, rpki-validation, bgp-updates, as-overview)",
   "watchlist_size": 2,
-  "anomalies": 2,
+  "anomalies": 0,
   "churn_events": 0,
-  "signal": 50,
+  "signal": 0,
   "events": [
     {
-      "event": "WITHDRAWN",
+      "event": "OK",
       "prefix": "1.1.1.0/24",
       "origin_asn": 13335,
-      "origins_seen": [],
+      "origins_seen": [
+        13335
+      ],
       "name": "Cloudflare",
-      "holder": "AS13335",
-      "status": "WITHDRAWN",
-      "rpki": "n/a",
+      "holder": "CLOUDFLARENET - Cloudflare, Inc.",
+      "status": "OK",
+      "rpki": "valid",
       "updates_24h": {
-        "announcements": 788,
-        "withdrawals": 148
+        "announcements": 826,
+        "withdrawals": 155
       },
-      "updates_per_peer": 0,
-      "peers_visible": 0,
-      "is_security_anomaly": true,
-      "severity": 20,
-      "ts": "2026-11-08T09:32:28.968916+00:00"
+      "updates_per_peer": 2.72,
+      "peers_visible": 361,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-11-08T16:20:43.182730+00:00"
     },
     {
-      "event": "WITHDRAWN",
+      "event": "OK",
       "prefix": "8.8.8.0/24",
       "origin_asn": 15169,
-      "origins_seen": [],
+      "origins_seen": [
+        15169
+      ],
       "name": "Google DNS",
-      "holder": "AS15169",
-      "status": "WITHDRAWN",
-      "rpki": "n/a",
+      "holder": "GOOGLE - Google LLC",
+      "status": "OK",
+      "rpki": "valid",
       "updates_24h": {
-        "announcements": 143,
-        "withdrawals": 33
+        "announcements": 135,
+        "withdrawals": 31
       },
-      "updates_per_peer": 0,
-      "peers_visible": 0,
-      "is_security_anomaly": true,
-      "severity": 20,
-      "ts": "2026-11-08T09:32:25.726842+00:00"
+      "updates_per_peer": 0.45,
+      "peers_visible": 366,
+      "is_security_anomaly": false,
+      "severity": 0,
+      "ts": "2026-11-08T16:20:37.144170+00:00"
     }
   ]
 }
