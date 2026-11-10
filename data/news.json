@@ -1,8 +1,38 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-10T01:52:45.483100+00:00",
+  "last_success": "2026-11-10T09:14:00.626962+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "published": "Tue, 10 Nov 2026 14:38:20 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "published": "Tue, 10 Nov 2026 13:46:14 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "published": "Tue, 10 Nov 2026 12:22:54 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "published": "Tue, 10 Nov 2026 12:14:36 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "published": "Tue, 10 Nov 2026 12:01:42 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
@@ -10,34 +40,16 @@
       "published": "Mon, 09 Nov 2026 23:21:21 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "published": "Mon, 09 Nov 2026 23:06:28 +0530"
+      "source": "BleepingComputer",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": "Tue, 10 Nov 2026 03:51:25 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "published": "Mon, 09 Nov 2026 20:01:29 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "published": "Mon, 09 Nov 2026 18:58:25 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "published": "Mon, 09 Nov 2026 16:57:53 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "published": "Mon, 09 Nov 2026 16:26:25 +0530"
+      "source": "BleepingComputer",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "published": "Tue, 10 Nov 2026 02:49:58 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "York University breach exposed personal information dating to 2007",
       "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
       "published": "Mon, 09 Nov 2026 16:22:31 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "published": "Mon, 09 Nov 2026 13:32:42 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-      "published": "Mon, 09 Nov 2026 12:50:32 -0500"
     }
   ]
 }
