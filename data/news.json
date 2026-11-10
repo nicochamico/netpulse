@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-10T09:14:00.626962+00:00",
+  "last_success": "2026-11-10T17:28:36.010812+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "published": "Tue, 10 Nov 2026 14:38:20 +0530"
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "Tue, 10 Nov 2026 21:30:55 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "published": "Tue, 10 Nov 2026 13:46:14 +0530"
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+      "published": "Tue, 10 Nov 2026 21:28:44 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "published": "Tue, 10 Nov 2026 12:22:54 +0530"
+      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "published": "Tue, 10 Nov 2026 21:03:59 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "published": "Tue, 10 Nov 2026 12:14:36 +0530"
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "published": "Tue, 10 Nov 2026 17:45:31 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "published": "Tue, 10 Nov 2026 12:01:42 +0530"
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "published": "Tue, 10 Nov 2026 17:08:13 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "published": "Mon, 09 Nov 2026 23:21:21 +0530"
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "published": "Tue, 10 Nov 2026 15:46:51 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "published": "Tue, 10 Nov 2026 03:51:25 -0500"
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "published": "Tue, 10 Nov 2026 11:17:16 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "published": "Tue, 10 Nov 2026 02:49:58 -0500"
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "published": "Tue, 10 Nov 2026 10:59:19 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "published": "Mon, 09 Nov 2026 18:52:12 -0500"
+      "title": "Ransomware recovery is now a client retention metric",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "published": "Tue, 10 Nov 2026 10:01:11 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "published": "Mon, 09 Nov 2026 17:09:33 -0500"
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "published": "Tue, 10 Nov 2026 07:07:03 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "published": "Mon, 09 Nov 2026 16:26:25 -0500"
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "published": "Tue, 10 Nov 2026 05:10:20 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "York University breach exposed personal information dating to 2007",
-      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "published": "Mon, 09 Nov 2026 16:22:31 -0500"
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "published": "Tue, 10 Nov 2026 05:04:32 -0500"
     }
   ]
 }
