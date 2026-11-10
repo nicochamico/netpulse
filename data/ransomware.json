@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-10T17:28:36.010812+00:00",
+  "last_success": "2026-11-10T22:49:15.148161+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Other",
+      "attackdate": "2026-11-10T17:13:09+00:00",
+      "claim_url": "http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1794330789974320871_k64x9YAd",
+      "country": "AU",
+      "data_size": null,
+      "description": "https://www.tcadarwin.com.au is the official website of TCA Accountants & Bookkeepers, a firm based in Darwin, Northern Territory, Australia. The company is a reputable and innovative professional accounting, tax, and business growth advisory firm in the local area. The following is a detailed introduction to the company: Company Overview Year established: 2011. Founders: Co-founded and operated by George Giannikouris and Sarah Giannikouris. George has more than ten years of experience in the tax and accounting industry. Positioning: Committed to becoming the preferred financial and accounting services partner for local Northern Territory residents and small and medium-sized enterprises (SMEs), with the core message of “helping clients work smarter and free up more time to do what they love.” Core features: Keeps pace with technological developments and excels at using digital tools (such as cloud-based systems and automation) to optimise businesses’ financial processes. Core Services TCA provides “one-stop” financial management and business improvement solutions, mainly including: Tax & Accounting: Individual and business income tax returns, company tax returns, and tax compliance and planning for sole traders, trusts, and partnerships. Bookkeeping Solutions: Cloud-based bookkeeping (mainly using Xero), payroll management, Single Touch Payroll (STP), day-to-day business account reconciliations, and remote bookkeeping services. Business Improvement & Automation: Assists SMEs in introducing digital systems, achieving paperless invoice scanning and process automation, and helping businesses reduce costs and improve operational efficiency. Data Analytics & Visualisation: Uses tools such as Microsoft Power BI to provide financial data dashboards for businesses, helping management make wiser strategic decisions. Client Base SMEs: Assists them with day-to-day compliance, tax planning, technology consulting, and business growth issues. High-net-worth individuals (HNWIs): Provides asset structuring planning... [The original text is truncated at this point.]",
+      "discovered": "2026-11-10T18:24:14.924582+00:00",
+      "domain": "tcadarwin.com.au",
+      "group": "HYFLOCK",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/8281065d18bc0bc4c4a11f8ad1884fe3.png",
+      "url": "https://www.ransomware.live/id/dGNhZGFyd2luQEhZRkxPQ0s=",
+      "victim": "tcadarwin"
+    },
+    {
+      "activity": "Professional Services",
+      "attackdate": "2026-11-10T13:34:04.919449+00:00",
+      "claim_url": "http://krybitxdpxohsmjooeb3gbgpmdddreh6mnflzac6bnezz74b7yje67yd.onion/blog/521b67548ed69b23da88c03903e67336482670508f10ac4abea22e89e3177841/",
+      "country": "US",
+      "data_size": null,
+      "description": "Actualize Consulting Engineers  Private Limited is an engineering and digital transformation services company based in I...",
+      "discovered": "2026-11-10T13:34:23.778426+00:00",
+      "domain": "Actualize Consulting",
+      "group": "krybit",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/5863e6b3be8d78bb2559c1e4c891dba6.png",
+      "url": "https://www.ransomware.live/id/QWN0dWFsaXplIENvbnN1bHRpbmdAa3J5Yml0",
+      "victim": "Actualize Consulting"
+    },
     {
       "activity": "Healthcare",
       "attackdate": "2026-11-10T12:43:37.579000+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/a27d96c0093d8e888568da2160a4c13f.png",
       "url": "https://www.ransomware.live/id/TGFuZG1hcmsgR3JvdXBATjBu",
       "victim": "Landmark Group"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-11-10T00:00:00+00:00",
-      "claim_url": "http://climaxf4srk4qzr5g7smfodx6q5ocpiwmls5qujfl7g3j33us4cksdad.onion/p/6a8c1c79-8fca-4e45-8f93-6921494e7247/",
-      "country": "",
-      "data_size": null,
-      "description": "Sector: Medical",
-      "discovered": "2026-11-10T12:54:38.225291+00:00",
-      "domain": "",
-      "group": "Climax Inc",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/260332acb571329d0dad15e39ed0b6f8.png",
-      "url": "https://www.ransomware.live/id/UmVkYWN0ZWQgUmVkYWN0ZWRAQ2xpbWF4IEluYw==",
-      "victim": "Redacted Redacted"
-    },
-    {
-      "activity": "Energy & Utilities",
-      "attackdate": "2026-11-10T00:00:00+00:00",
-      "claim_url": "http://climaxf4srk4qzr5g7smfodx6q5ocpiwmls5qujfl7g3j33us4cksdad.onion/p/ae936406-1c42-4886-98ef-ac1a929495fe/",
-      "country": "NP",
-      "data_size": null,
-      "description": "Sector: Electricity supplier\nStatus: Published",
-      "discovered": "2026-11-10T12:54:04.109046+00:00",
-      "domain": "nea.org.np",
-      "group": "Climax Inc",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/761c01609fdbd8993ea26f0539a00cea.png",
-      "url": "https://www.ransomware.live/id/TmVwYWwgRWxlY3RyaWNpdHkgQXV0aG9yaXR5QENsaW1heCBJbmM=",
-      "victim": "Nepal Electricity Authority"
     }
   ]
 }
