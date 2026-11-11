@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-11T02:30:55.624340+00:00",
+  "last_success": "2026-11-11T10:18:09.923453+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "published": "Wed, 11 Nov 2026 13:47:53 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "published": "Wed, 11 Nov 2026 13:19:04 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "published": "Wed, 11 Nov 2026 12:51:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "published": "Wed, 11 Nov 2026 11:34:02 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
@@ -16,28 +40,16 @@
       "published": "Wed, 11 Nov 2026 00:49:39 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "published": "Tue, 10 Nov 2026 23:42:21 +0530"
+      "source": "BleepingComputer",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "published": "Wed, 11 Nov 2026 05:12:08 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "published": "Tue, 10 Nov 2026 23:13:23 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "Tue, 10 Nov 2026 21:30:55 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "published": "Tue, 10 Nov 2026 21:28:44 +0530"
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "published": "Wed, 11 Nov 2026 04:07:27 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
       "published": "Tue, 10 Nov 2026 14:31:11 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "published": "Tue, 10 Nov 2026 14:07:36 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "published": "Tue, 10 Nov 2026 13:33:26 -0500"
     }
   ]
 }
