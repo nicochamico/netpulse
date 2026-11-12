@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-12T09:15:40.089469+00:00",
+  "last_success": "2026-11-12T17:54:35.992591+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "published": "Thu, 12 Nov 2026 13:50:37 +0530"
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "published": "Thu, 12 Nov 2026 21:57:01 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "published": "Thu, 12 Nov 2026 12:12:47 +0530"
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "published": "Thu, 12 Nov 2026 21:08:49 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "published": "Thu, 12 Nov 2026 10:42:26 +0530"
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "published": "Thu, 12 Nov 2026 20:45:40 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "published": "Thu, 12 Nov 2026 10:09:48 +0530"
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "published": "Thu, 12 Nov 2026 18:38:28 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "published": "Wed, 11 Nov 2026 21:42:46 +0530"
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "published": "Thu, 12 Nov 2026 17:39:14 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "published": "Wed, 11 Nov 2026 21:04:27 +0530"
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "Thu, 12 Nov 2026 17:32:51 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "published": "Wed, 11 Nov 2026 18:01:31 -0500"
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "published": "Thu, 12 Nov 2026 11:04:00 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "published": "Wed, 11 Nov 2026 17:56:21 -0500"
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "Thu, 12 Nov 2026 10:07:20 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "published": "Wed, 11 Nov 2026 16:27:40 -0500"
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "published": "Thu, 12 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "published": "Wed, 11 Nov 2026 15:54:20 -0500"
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "published": "Thu, 12 Nov 2026 09:36:47 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "published": "Wed, 11 Nov 2026 11:24:18 -0500"
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "published": "Thu, 12 Nov 2026 07:11:11 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "published": "Wed, 11 Nov 2026 10:12:59 -0500"
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "published": "Thu, 12 Nov 2026 05:24:07 -0500"
     }
   ]
 }
