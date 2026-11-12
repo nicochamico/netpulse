@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-12T17:54:35.992591+00:00",
+  "last_success": "2026-11-12T23:11:47.189104+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-11-12T16:25:05+00:00",
+      "claim_url": "http://pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion/company/ministry-of-health-malaysia",
+      "country": "MY",
+      "data_size": null,
+      "description": "The Ministry of Health is a ministry of the Government of Malaysia that is responsible for health system including: health behavior, cancer, public health, health management, medical research, health systems research, respiratory medicine, health promotion, healthcare tourism, medical device, blood collection, leprosy control, clinical research, health care, dental care, health institution, laboratory, pharmaceutical, patient safety.",
+      "discovered": "2026-11-12T17:58:17.861886+00:00",
+      "domain": "",
+      "group": "Panzer",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/77623cc24fa2ae38648ce71e42fc708c.png",
+      "url": "https://www.ransomware.live/id/TWluaXN0cnkgb2YgSGVhbHRoIE1hbGF5c2lhQFBhbnplcg==",
+      "victim": "Ministry of Health Malaysia"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-12T13:55:29.551395+00:00",
+      "claim_url": "http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/blog/045c0a8453ce102e458e3a150f2eb7fbc86185bd40c0c22be5763681d2b02dc7/",
+      "country": "CY",
+      "data_size": null,
+      "description": "Ceytech Makina Sanayi ve Ticaret A.Ş. is a Turkish manufacturer of industrial machinery and equipment, established on A...",
+      "discovered": "2026-11-12T13:56:09.215118+00:00",
+      "domain": "cey-tech.com",
+      "group": "krybit",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/69ea127ae1b6633f07df3502105cb78a.png",
+      "url": "https://www.ransomware.live/id/Y2V5LXRlY2guY29tQGtyeWJpdA==",
+      "victim": "cey-tech.com"
+    },
     {
       "activity": "Technology",
       "attackdate": "2026-11-12T12:18:16.477026+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/7643a5e8bb028b2ff79870f3ced9da26.png",
       "url": "https://www.ransomware.live/id/bGlmZWxpbmVzY3JlZW5pbmcuY29tQEN1cmlvdXMgV29ybQ==",
       "victim": "lifelinescreening.com"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-11-11T17:07:15.161613+00:00",
-      "claim_url": "",
-      "country": "SA",
-      "data_size": null,
-      "description": "Status: Leaked | Revenue: $47M | Safco Dental Supply LLC specializes in providing a wide range of dental supplies, products, and equipment, including restorative and cosmetic dentistry supplies, endodontics, orthodontics, and infection control products. They cater to dental professionals by offering over 20,000 products, expert support, and efficient shopping solutions. The company also provides comprehensive dental equipment services and customized financing solutions to support dental practices. With a focus on reliability and safety, Safco aims to enhance patient care and streamline operations for dental professionals.",
-      "discovered": "2026-11-11T17:07:16.258455+00:00",
-      "domain": "safcodental.com",
-      "group": "Curious Worm",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/c2FmY29kZW50YWwuY29tQEN1cmlvdXMgV29ybQ==",
-      "victim": "safcodental.com"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-11-11T17:06:53.955282+00:00",
-      "claim_url": "http://hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion/download/8",
-      "country": "US",
-      "data_size": null,
-      "description": "Status: Leaked | Revenue: $590M | Marquis Companies is a family-owned provider of senior living and care solutions, offering a range of services including assisted living, memory care, post hospital care, and home health care. Established in 1989, the company focuses on delivering personalized care plans tailored to the unique needs of each resident. Their award-winning facilities are staffed by dedicated professionals who ensure high-quality, person-centered care in a comfortable environment",
-      "discovered": "2026-11-11T17:06:55.020222+00:00",
-      "domain": "marquiscompanies.com",
-      "group": "Curious Worm",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c07a2160201a9f8d5110e997feb40afd.png",
-      "url": "https://www.ransomware.live/id/bWFycXVpc2NvbXBhbmllcy5jb21AQ3VyaW91cyBXb3Jt",
-      "victim": "marquiscompanies.com"
     }
   ]
 }

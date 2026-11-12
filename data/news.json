@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-12T17:54:35.992591+00:00",
+  "last_success": "2026-11-12T23:11:47.189104+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "Thu, 12 Nov 2026 23:37:15 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "published": "Thu, 12 Nov 2026 23:32:51 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "published": "Thu, 12 Nov 2026 23:20:27 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
@@ -22,58 +40,40 @@
       "published": "Thu, 12 Nov 2026 20:45:40 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "published": "Thu, 12 Nov 2026 18:38:28 +0530"
+      "source": "BleepingComputer",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "published": "Thu, 12 Nov 2026 17:53:10 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "published": "Thu, 12 Nov 2026 17:39:14 +0530"
+      "source": "BleepingComputer",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "published": "Thu, 12 Nov 2026 17:25:30 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "published": "Thu, 12 Nov 2026 17:32:51 +0530"
+      "source": "BleepingComputer",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "published": "Thu, 12 Nov 2026 15:15:16 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "published": "Thu, 12 Nov 2026 14:51:16 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "published": "Thu, 12 Nov 2026 14:12:55 -0500"
     },
     {
       "source": "BleepingComputer",
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "published": "Thu, 12 Nov 2026 11:04:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "Thu, 12 Nov 2026 10:07:20 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "published": "Thu, 12 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "published": "Thu, 12 Nov 2026 09:36:47 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-      "published": "Thu, 12 Nov 2026 07:11:11 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "published": "Thu, 12 Nov 2026 05:24:07 -0500"
     }
   ]
 }
