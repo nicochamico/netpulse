@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-11T18:21:19.786694+00:00",
+  "last_success": "2026-11-12T01:17:30.511524+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "published": "Wed, 11 Nov 2026 18:01:31 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "Wed, 11 Nov 2026 17:56:21 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "published": "Wed, 11 Nov 2026 16:27:40 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "published": "Wed, 11 Nov 2026 15:54:20 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
       "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
       "published": "Wed, 11 Nov 2026 11:24:18 -0500"
@@ -50,30 +74,6 @@
       "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
       "published": "Wed, 11 Nov 2026 10:12:59 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "published": "Wed, 11 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "published": "Wed, 11 Nov 2026 07:32:27 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "published": "Wed, 11 Nov 2026 06:18:36 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "published": "Wed, 11 Nov 2026 05:12:08 -0500"
     }
   ]
 }
