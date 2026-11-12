@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-12T01:17:30.511524+00:00",
+  "last_success": "2026-11-12T09:15:40.089469+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "published": "Thu, 12 Nov 2026 13:50:37 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "published": "Thu, 12 Nov 2026 12:12:47 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "published": "Thu, 12 Nov 2026 10:42:26 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "published": "Thu, 12 Nov 2026 10:09:48 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
@@ -14,30 +38,6 @@
       "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
       "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
       "published": "Wed, 11 Nov 2026 21:04:27 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "published": "Wed, 11 Nov 2026 19:31:00 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "published": "Wed, 11 Nov 2026 17:49:40 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "published": "Wed, 11 Nov 2026 17:31:59 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "published": "Wed, 11 Nov 2026 17:30:53 +0530"
     },
     {
       "source": "BleepingComputer",
