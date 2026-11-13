@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-13T12:58:18.688888+00:00",
+  "last_success": "2026-11-13T20:24:52.037009+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "published": "Fri, 13 Nov 2026 22:23:08 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "published": "Fri, 13 Nov 2026 20:57:05 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "published": "Fri, 13 Nov 2026 19:58:58 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "published": "Fri, 13 Nov 2026 19:24:20 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
@@ -16,28 +40,28 @@
       "published": "Fri, 13 Nov 2026 16:40:40 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "published": "Fri, 13 Nov 2026 16:25:03 +0530"
+      "source": "BleepingComputer",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "published": "Fri, 13 Nov 2026 14:38:36 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "published": "Fri, 13 Nov 2026 13:35:49 +0530"
+      "source": "BleepingComputer",
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "published": "Fri, 13 Nov 2026 12:31:56 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "published": "Fri, 13 Nov 2026 11:13:28 +0530"
+      "source": "BleepingComputer",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "published": "Fri, 13 Nov 2026 11:21:43 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "published": "Thu, 12 Nov 2026 23:37:15 +0530"
+      "source": "BleepingComputer",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "published": "Fri, 13 Nov 2026 10:01:11 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
       "published": "Fri, 13 Nov 2026 05:44:22 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "published": "Fri, 13 Nov 2026 04:36:18 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "published": "Fri, 13 Nov 2026 03:34:20 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "published": "Thu, 12 Nov 2026 17:53:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "published": "Thu, 12 Nov 2026 17:25:30 -0500"
     }
   ]
 }

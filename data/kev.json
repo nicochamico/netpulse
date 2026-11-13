@@ -1,9 +1,46 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-11-13T12:58:18.688888+00:00",
-  "count": 1779,
+  "last_success": "2026-11-13T20:24:52.037009+00:00",
+  "count": 1781,
   "items": [
+    {
+      "cveID": "CVE-2026-114713",
+      "vendorProject": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "vulnerabilityName": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "dateAdded": "2026-11-13",
+      "shortDescription": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-11-16",
+      "knownRansomwareCampaignUse": "Unknown",
+      "forensicTriage": "Yes",
+      "notes": "https://forums.unrealircd.org/viewtopic.php?t=9487 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+      "cwes": [
+        "CWE-140"
+      ],
+      "epss": 0.00302,
+      "epss_percentile": 0.23297
+    },
+    {
+      "cveID": "CVE-2026-123039",
+      "vendorProject": "Check Point",
+      "product": "Multiple Products",
+      "vulnerabilityName": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "dateAdded": "2026-11-13",
+      "shortDescription": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.",
+      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "dueDate": "2026-11-16",
+      "knownRansomwareCampaignUse": "Unknown",
+      "forensicTriage": "Yes",
+      "notes": "https://support.checkpoint.com/results/sk/sk1000362 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+      "cwes": [
+        "CWE-732",
+        "CWE-862"
+      ],
+      "epss": 0.01274,
+      "epss_percentile": 0.70349
+    },
     {
       "cveID": "CVE-2026-124194",
       "vendorProject": "Microsoft",
@@ -20,7 +57,7 @@
         "CWE-356"
       ],
       "epss": 0.0162,
-      "epss_percentile": 0.76419
+      "epss_percentile": 0.76454
     },
     {
       "cveID": "CVE-2026-111793",
@@ -38,7 +75,7 @@
         "CWE-669"
       ],
       "epss": 0.00638,
-      "epss_percentile": 0.51066
+      "epss_percentile": 0.51127
     },
     {
       "cveID": "CVE-2026-20320",
@@ -55,8 +92,8 @@
       "cwes": [
         "CWE-611"
       ],
-      "epss": 0.0082,
-      "epss_percentile": 0.57739
+      "epss": 0.00976,
+      "epss_percentile": 0.62634
     },
     {
       "cveID": "CVE-2026-111560",
@@ -73,8 +110,8 @@
       "cwes": [
         "CWE-78"
       ],
-      "epss": 0.06196,
-      "epss_percentile": 0.93603
+      "epss": 0.09082,
+      "epss_percentile": 0.95373
     },
     {
       "cveID": "CVE-2026-116606",
@@ -91,8 +128,8 @@
       "cwes": [
         "CWE-288"
       ],
-      "epss": 0.08934,
-      "epss_percentile": 0.95313
+      "epss": 0.10947,
+      "epss_percentile": 0.95953
     },
     {
       "cveID": "CVE-2026-125350",
@@ -110,7 +147,7 @@
         "CWE-416"
       ],
       "epss": 0.00962,
-      "epss_percentile": 0.62112
+      "epss_percentile": 0.62163
     },
     {
       "cveID": "CVE-2026-102895",
@@ -130,7 +167,7 @@
         "CWE-346"
       ],
       "epss": 0.00517,
-      "epss_percentile": 0.44486
+      "epss_percentile": 0.44535
     },
     {
       "cveID": "CVE-2026-123158",
@@ -148,45 +185,7 @@
         "CWE-394"
       ],
       "epss": 0.189,
-      "epss_percentile": 0.97335
-    },
-    {
-      "cveID": "CVE-2026-116779",
-      "vendorProject": "SignalWire",
-      "product": "FreeSwitch",
-      "vulnerabilityName": "SignalWire FreeSwitch Code Injection Vulnerability",
-      "dateAdded": "2026-11-09",
-      "shortDescription": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-11-12",
-      "knownRansomwareCampaignUse": "Unknown",
-      "forensicTriage": "Yes",
-      "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/signalwire/freeswitch/security/advisories/GHSA-mg63-h38w-8p9p ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
-      "cwes": [
-        "CWE-77",
-        "CWE-78",
-        "CWE-749"
-      ],
-      "epss": 0.02473,
-      "epss_percentile": 0.84759
-    },
-    {
-      "cveID": "CVE-2026-123218",
-      "vendorProject": "IBM",
-      "product": "Aspera Faspex",
-      "vulnerabilityName": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
-      "dateAdded": "2026-11-09",
-      "shortDescription": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
-      "requiredAction": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
-      "dueDate": "2026-11-12",
-      "knownRansomwareCampaignUse": "Unknown",
-      "forensicTriage": "Yes",
-      "notes": "https://www.ibm.com/support/pages/node/7295921 ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
-      "cwes": [
-        "CWE-863"
-      ],
-      "epss": 0.00535,
-      "epss_percentile": 0.45625
+      "epss_percentile": 0.9734
     }
   ]
 }
