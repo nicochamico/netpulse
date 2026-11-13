@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:21:00.111609+00:00",
+  "generated_at": "2026-11-13T15:35:49.549040+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -27,9 +27,9 @@
         "pqc"
       ],
       "hostnames": [
+        "cv-wusd-ks.schoolloop.com",
         "one.one.one.one",
-        "wirelessguest.dsi.com",
-        "cohs2.schoolloop.com"
+        "brg-tpsd-la.schoolloop.com"
       ]
     },
     {
@@ -43,8 +43,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "tr.covra.nl",
-        "dns9.quad9.net"
+        "dns9.quad9.net",
+        "tr.covra.nl"
       ]
     }
   ],
