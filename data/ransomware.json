@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-13T05:00:02.756769+00:00",
+  "last_success": "2026-11-13T12:58:18.688888+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Not Found",
+      "attackdate": "2026-11-13T03:27:52.834211+00:00",
+      "claim_url": "http://nongzecboljwv3yfndkggsybsglfrkffw7bvk2zemuteoxe6etpusnad.onion",
+      "country": "BW",
+      "data_size": null,
+      "description": "prepaid utilities and airtime platform · Botswana | [PENDING EXPOSURE]",
+      "discovered": "2026-11-13T03:28:24.431546+00:00",
+      "domain": "",
+      "group": "N0n",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
+      "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjE2QE4wbg==",
+      "victim": "Company #216"
+    },
     {
       "activity": "Manufacturing",
       "attackdate": "2026-11-12T22:01:42.571773+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
       "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjEyQE4wbg==",
       "victim": "Company #212"
-    },
-    {
-      "activity": "Not Found",
-      "attackdate": "2026-11-11T17:51:52.598248+00:00",
-      "claim_url": "http://iacjvmxjb2ivqkxxzmde4w6g53gn6ym7c3g6mfifvejyhqtp4wrkypyd.onion/victim/k-t-h-b",
-      "country": "",
-      "data_size": null,
-      "description": "Status: upcoming | Deadline: 2026-11-20T00:00:00Z",
-      "discovered": "2026-11-11T17:52:05.208975+00:00",
-      "domain": "",
-      "group": "Doommageddon",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/7ab6624c3dd3cb5502c5debf53feccb2.png",
-      "url": "https://www.ransomware.live/id/SyoqKiogVCoqKiogSCoqKiogQioqKipARG9vbW1hZ2VkZG9u",
-      "victim": "K**** T**** H**** B****"
     }
   ]
 }
