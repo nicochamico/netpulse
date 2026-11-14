@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:49:08.334416+00:00",
+  "generated_at": "2026-11-14T08:41:17.890377+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -27,9 +27,9 @@
         "pqc"
       ],
       "hostnames": [
-        "cv-wusd-ks.schoolloop.com",
         "one.one.one.one",
-        "brg-tpsd-la.schoolloop.com"
+        "bplwifi.bramlib.on.ca",
+        "wlan.wagner-sinto.de"
       ]
     },
     {
@@ -43,8 +43,8 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns9.quad9.net",
-        "tr.covra.nl"
+        "test.readylogistics.com",
+        "dns9.quad9.net"
       ]
     }
   ],
