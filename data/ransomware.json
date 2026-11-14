@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-14T15:32:16.461520+00:00",
+  "last_success": "2026-11-14T20:23:52.536565+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-14T12:25:17.593205+00:00",
+      "claim_url": "",
+      "country": "",
+      "data_size": null,
+      "description": "Revenue: $221.7 million\n\nMomentum is a telecommunications company founded in 2001 that provides cloud-based communication solutions for businesses, specializing in cloud voice services, managed networks, SD-WAN solutions, and Microsoft Teams Phone integration. We gained access to a diagnostic and provisioning tool used by Momentum through a compromised Multi-Service Operator (MSO). Upon reconnaissance, we identified multiple critical vulnerabilities throughout the system. This tool controls internet and voice services for millions of users across global markets. We successfully accessed user data for every MSO, exposing personally identifiable information (PII) for over 7.5 million users. They didn't notice the prolonged access or the customer data dump for a while, but when we started deleting modems they noticed. They kept burning access and we gained it back, they'd burn it again. We have caused widespread outages (https://www.abc4.com/news/wasatch-front/eagle-mountain-internet-outage-cyberattack/). We now have had over 100,000 packages successfully deleted. That's 100,000+ people without internet service right now. Families, businesses, students all cut off from the digital world. This is the direct result of their negligence and failure to secure their systems. These services can be restored immediately with the click of a button on our tool but you must reach out. Click \"View Affected MSOs\" below to see the full list of compromised providers. Momentum management should contact us to discuss resolution. Affected MSOs can also contact us to have their users' data deleted from our database.",
+      "discovered": "2026-11-14T12:25:18.758864+00:00",
+      "domain": "abc4.com",
+      "group": "EndZone",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
+      "victim": "Momentum Telecom"
+    },
+    {
+      "activity": "Financial Services",
+      "attackdate": "2026-11-14T12:24:56.175704+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Revenue: $15.1 million\n\nAbsolute Bail Bonds is a surety bail bond agency that has provided 24/7 pretrial release services across California since 1987. Founded in Lancaster and headquartered in Los Angeles, the company operates statewide through a network of local branch offices and licensed bail agents. We successfully exfiltrated 5GB of Database Files and Source Code plus 3.5TB encrypted on the DC including backups.",
+      "discovered": "2026-11-14T12:24:57.389262+00:00",
+      "domain": "",
+      "group": "EndZone",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/QWJzb2x1dGUgQmFpbCBCb25kc0BFbmRab25l",
+      "victim": "Absolute Bail Bonds"
+    },
     {
       "activity": "Not Found",
       "attackdate": "2026-11-14T01:30:50.207644+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/cd9319ce146401b8763e0b86ae1f7407.png",
       "url": "https://www.ransomware.live/id/Q29tcGFueSAjMjE2QE4wbg==",
       "victim": "Company #216"
-    },
-    {
-      "activity": "Professional Services",
-      "attackdate": "2026-11-13T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Galorath Incorporated has invested more than two decades developing solutions to help governmen\nt and commercial organizations plan and manage complex software, hardware, electronics, manufac\nturing and IT projects. Its suite of SEER productivity development applications is the most com\nprehensive estimation and management solution in the industry.\n\nWe will upload 12gb of corporate data soon. Employee personal information (passport, DLs and ot\nher HR files), payment details, contracts and agreements with NASA, Airbus, Lockheed Martin, Bo\neing and others,  financials, NDAs and so on.\n",
-      "discovered": "2026-11-13T14:19:54.964178+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/R2Fsb3JhdGhAYWtpcmE=",
-      "victim": "Galorath"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-11-13T00:00:00+00:00",
-      "claim_url": "",
-      "country": "US",
-      "data_size": null,
-      "description": "Founded in 1930, Replogle Globes is a manufacturer and retailer of handcrafted globes, of diffe\nrent colors, types, and custom globes with online ordering. The company is headquartered in Hil\nlside, Illinois.\n\nWe will upload 404gb of corporate data soon. Employee personal information (passport, DLs and o\nther HR files), contracts and agreements, customer data, financials, NDAs and so on.\n",
-      "discovered": "2026-11-13T14:19:35.288814+00:00",
-      "domain": "",
-      "group": "akira",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/UmVwbG9nbGUgR2xvYmVzQGFraXJh",
-      "victim": "Replogle Globes"
     }
   ]
 }
