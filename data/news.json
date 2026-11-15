@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-15T15:18:33.013136+00:00",
+  "last_success": "2026-11-15T20:48:06.797891+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "published": "Sun, 15 Nov 2026 13:29:53 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "TSMC employee data breach linked to cloud provider",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "published": "Sun, 15 Nov 2026 10:23:48 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
       "published": "Sat, 14 Nov 2026 12:27:25 -0500"
@@ -62,18 +74,6 @@
       "title": "German military drone operations disrupted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
       "published": "Fri, 13 Nov 2026 12:31:56 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "published": "Fri, 13 Nov 2026 11:21:43 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "published": "Fri, 13 Nov 2026 10:01:11 -0500"
     }
   ]
 }
