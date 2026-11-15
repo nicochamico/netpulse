@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-15T07:31:33.156511+00:00",
+  "last_success": "2026-11-15T15:18:33.013136+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "published": "Sun, 15 Nov 2026 16:57:31 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "published": "Sun, 15 Nov 2026 13:52:04 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -26,18 +38,6 @@
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
       "published": "Fri, 13 Nov 2026 19:58:58 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "published": "Fri, 13 Nov 2026 19:24:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "published": "Fri, 13 Nov 2026 17:22:31 +0530"
     },
     {
       "source": "BleepingComputer",
