@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:13:57.227658+00:00",
+  "generated_at": "2026-11-15T12:47:31.822394+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -27,9 +27,9 @@
         "pqc"
       ],
       "hostnames": [
-        "one.one.one.one",
-        "bplwifi.bramlib.on.ca",
-        "wlan.wagner-sinto.de"
+        "wifi.novanetworks.com",
+        "ss1.conrep.com",
+        "one.one.one.one"
       ]
     },
     {
