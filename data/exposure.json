@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:27:55.610907+00:00",
+  "generated_at": "2026-11-16T02:58:25.377828+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -27,9 +27,10 @@
         "pqc"
       ],
       "hostnames": [
-        "wifi.novanetworks.com",
-        "ss1.conrep.com",
-        "one.one.one.one"
+        "one.one.one.one",
+        "wifipw.smit.ee",
+        "api.pato.today",
+        "pato.today"
       ]
     },
     {
