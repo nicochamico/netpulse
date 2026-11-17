@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-17T10:09:41.063521+00:00",
+  "last_success": "2026-11-17T19:35:16.507013+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "published": "Tue, 17 Nov 2026 12:42:13 +0530"
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": "Tue, 17 Nov 2026 20:47:36 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "published": "Tue, 17 Nov 2026 11:59:27 +0530"
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "published": "Tue, 17 Nov 2026 20:47:28 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "published": "Tue, 17 Nov 2026 10:30:34 +0530"
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": "Tue, 17 Nov 2026 17:55:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "published": "Mon, 16 Nov 2026 19:30:00 +0530"
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "published": "Tue, 17 Nov 2026 17:44:36 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "published": "Mon, 16 Nov 2026 18:57:20 +0530"
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "published": "Tue, 17 Nov 2026 16:50:18 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "published": "Mon, 16 Nov 2026 18:04:21 +0530"
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "published": "Tue, 17 Nov 2026 16:37:31 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "published": "Tue, 17 Nov 2026 04:44:22 -0500"
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "published": "Tue, 17 Nov 2026 14:24:07 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "published": "Tue, 17 Nov 2026 03:35:42 -0500"
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "published": "Tue, 17 Nov 2026 13:21:24 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "published": "Tue, 17 Nov 2026 02:25:44 -0500"
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "published": "Tue, 17 Nov 2026 13:04:15 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "published": "Mon, 16 Nov 2026 21:12:17 -0500"
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "published": "Tue, 17 Nov 2026 11:00:00 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "published": "Mon, 16 Nov 2026 17:54:00 -0500"
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "published": "Tue, 17 Nov 2026 10:01:11 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "published": "Mon, 16 Nov 2026 16:31:44 -0500"
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "published": "Tue, 17 Nov 2026 06:19:51 -0500"
     }
   ]
 }
