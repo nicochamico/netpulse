@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-17T01:34:04.041617+00:00",
+  "last_success": "2026-11-17T10:09:41.063521+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "published": "Tue, 17 Nov 2026 12:42:13 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "published": "Tue, 17 Nov 2026 11:59:27 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "published": "Tue, 17 Nov 2026 10:30:34 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -22,22 +40,28 @@
       "published": "Mon, 16 Nov 2026 18:04:21 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "published": "Mon, 16 Nov 2026 18:03:18 +0530"
+      "source": "BleepingComputer",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "published": "Tue, 17 Nov 2026 04:44:22 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "published": "Mon, 16 Nov 2026 15:02:57 +0530"
+      "source": "BleepingComputer",
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "published": "Tue, 17 Nov 2026 03:35:42 -0500"
     },
     {
-      "source": "The Hacker News",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "published": "Mon, 16 Nov 2026 13:04:21 +0530"
+      "source": "BleepingComputer",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "published": "Tue, 17 Nov 2026 02:25:44 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "published": "Mon, 16 Nov 2026 21:12:17 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
       "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
       "published": "Mon, 16 Nov 2026 16:31:44 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "published": "Mon, 16 Nov 2026 15:59:44 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "published": "Mon, 16 Nov 2026 14:57:13 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "published": "Mon, 16 Nov 2026 11:43:24 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "published": "Mon, 16 Nov 2026 10:44:21 -0500"
     }
   ]
 }
