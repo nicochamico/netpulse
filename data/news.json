@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-16T17:55:24.479481+00:00",
+  "last_success": "2026-11-17T01:34:04.041617+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "published": "Mon, 16 Nov 2026 17:54:00 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "published": "Mon, 16 Nov 2026 16:31:44 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "published": "Mon, 16 Nov 2026 15:59:44 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "published": "Mon, 16 Nov 2026 14:57:13 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
       "published": "Mon, 16 Nov 2026 11:43:24 -0500"
@@ -50,30 +74,6 @@
       "title": "Fandango says hackers stole payment card details from checkout pages",
       "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
       "published": "Mon, 16 Nov 2026 10:44:21 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "published": "Mon, 16 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "published": "Mon, 16 Nov 2026 09:00:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "published": "Mon, 16 Nov 2026 07:53:18 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "published": "Mon, 16 Nov 2026 06:18:09 -0500"
     }
   ]
 }
