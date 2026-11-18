@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:56:29.684389+00:00",
+  "generated_at": "2026-11-18T11:18:39.323840+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -43,7 +43,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "other.dev.ops.dsb.no",
+        "test.itris.ch",
         "dns9.quad9.net"
       ]
     }
