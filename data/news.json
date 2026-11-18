@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-17T19:35:16.507013+00:00",
+  "last_success": "2026-11-18T02:05:18.976729+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published": "Wed, 18 Nov 2026 01:04:20 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
@@ -34,10 +40,22 @@
       "published": "Tue, 17 Nov 2026 16:50:18 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "published": "Tue, 17 Nov 2026 16:37:31 +0530"
+      "source": "BleepingComputer",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "published": "Tue, 17 Nov 2026 18:04:21 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "published": "Tue, 17 Nov 2026 16:27:17 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "published": "Tue, 17 Nov 2026 15:51:21 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "published": "Tue, 17 Nov 2026 13:04:15 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "published": "Tue, 17 Nov 2026 11:00:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "published": "Tue, 17 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "published": "Tue, 17 Nov 2026 06:19:51 -0500"
     }
   ]
 }
