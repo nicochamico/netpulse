@@ -1,43 +1,67 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-18T11:05:35.271857+00:00",
+  "last_success": "2026-11-18T19:57:19.672536+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "published": "Wed, 18 Nov 2026 13:54:31 +0530"
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "published": "Thu, 19 Nov 2026 00:01:17 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "published": "Wed, 18 Nov 2026 13:54:23 +0530"
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "published": "Wed, 18 Nov 2026 23:45:39 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "published": "Wed, 18 Nov 2026 12:15:26 +0530"
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "published": "Wed, 18 Nov 2026 22:40:45 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "published": "Wed, 18 Nov 2026 11:28:04 +0530"
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "published": "Wed, 18 Nov 2026 19:41:28 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "published": "Wed, 18 Nov 2026 09:57:41 +0530"
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "published": "Wed, 18 Nov 2026 17:58:30 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "published": "Wed, 18 Nov 2026 01:04:20 +0530"
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "published": "Wed, 18 Nov 2026 17:45:00 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "published": "Wed, 18 Nov 2026 14:39:33 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "published": "Wed, 18 Nov 2026 11:58:42 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "published": "Wed, 18 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "published": "Wed, 18 Nov 2026 06:50:25 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -50,30 +74,6 @@
       "title": "Microsoft announces Windows Server 2028 with hardened security",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
       "published": "Wed, 18 Nov 2026 04:24:31 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "published": "Wed, 18 Nov 2026 03:24:18 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "published": "Tue, 17 Nov 2026 18:04:21 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "published": "Tue, 17 Nov 2026 16:27:17 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "published": "Tue, 17 Nov 2026 15:51:21 -0500"
     }
   ]
 }
