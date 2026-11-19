@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:13:33.850667+00:00",
+  "generated_at": "2026-11-19T18:20:35.124674+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -9,7 +9,6 @@
       "ip": "1.1.1.1",
       "open_ports": [
         53,
-        69,
         80,
         443,
         2082,
@@ -27,8 +26,8 @@
         "pqc"
       ],
       "hostnames": [
-        "www.nuevavistaes-lausd-ca.schoolloop.com",
-        "dss-djusd-ca.schoolloop.com",
+        "guest.moritthock.com",
+        "wlan.kreisklinikum-siegen.de",
         "one.one.one.one"
       ]
     },
@@ -43,7 +42,6 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "other.dev.ops.dsb.no",
         "dns9.quad9.net"
       ]
     }
