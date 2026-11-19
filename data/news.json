@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-19T09:51:43.746336+00:00",
+  "last_success": "2026-11-19T18:50:45.187054+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "published": "Thu, 19 Nov 2026 14:12:11 +0530"
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "published": "Thu, 19 Nov 2026 22:29:56 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "published": "Thu, 19 Nov 2026 13:44:00 +0530"
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "published": "Thu, 19 Nov 2026 20:48:07 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "published": "Thu, 19 Nov 2026 10:03:46 +0530"
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "published": "Thu, 19 Nov 2026 20:41:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "published": "Thu, 19 Nov 2026 00:01:17 +0530"
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "published": "Thu, 19 Nov 2026 20:03:06 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "published": "Wed, 18 Nov 2026 23:45:39 +0530"
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "published": "Thu, 19 Nov 2026 17:22:23 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "published": "Wed, 18 Nov 2026 22:40:45 +0530"
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "published": "Thu, 19 Nov 2026 15:01:26 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "published": "Thu, 19 Nov 2026 04:23:21 -0500"
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "published": "Thu, 19 Nov 2026 13:20:01 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "published": "Wed, 18 Nov 2026 18:08:33 -0500"
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "published": "Thu, 19 Nov 2026 11:28:23 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "published": "Wed, 18 Nov 2026 15:49:32 -0500"
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "published": "Thu, 19 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "published": "Wed, 18 Nov 2026 14:39:33 -0500"
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "published": "Thu, 19 Nov 2026 09:57:24 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "published": "Wed, 18 Nov 2026 11:58:42 -0500"
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "published": "Thu, 19 Nov 2026 08:08:08 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "published": "Wed, 18 Nov 2026 10:00:10 -0500"
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "published": "Thu, 19 Nov 2026 06:46:00 -0500"
     }
   ]
 }
