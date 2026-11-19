@@ -1,8 +1,26 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-19T01:46:02.195970+00:00",
+  "last_success": "2026-11-19T09:51:43.746336+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "published": "Thu, 19 Nov 2026 14:12:11 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "published": "Thu, 19 Nov 2026 13:44:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "published": "Thu, 19 Nov 2026 10:03:46 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
@@ -22,22 +40,10 @@
       "published": "Wed, 18 Nov 2026 22:40:45 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "published": "Wed, 18 Nov 2026 19:41:28 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": "Wed, 18 Nov 2026 17:58:30 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "published": "Wed, 18 Nov 2026 17:45:00 +0530"
+      "source": "BleepingComputer",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "published": "Thu, 19 Nov 2026 04:23:21 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
       "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
       "published": "Wed, 18 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "published": "Wed, 18 Nov 2026 06:50:25 -0500"
     }
   ]
 }
