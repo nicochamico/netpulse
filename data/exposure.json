@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:58:00.510993+00:00",
+  "generated_at": "2026-11-20T23:00:53.822904+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,8 +26,9 @@
         "pqc"
       ],
       "hostnames": [
-        "int.newamericanfunding.com",
-        "wirelessauth.bancroftschool.org",
+        "jo.areeba.com",
+        "hotspot.tigo.com.py",
+        "tigo.com.py",
         "one.one.one.one"
       ]
     },
