@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-19T18:50:45.187054+00:00",
+  "last_success": "2026-11-20T01:01:24.316237+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "published": "Fri, 20 Nov 2026 00:17:58 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
@@ -34,10 +40,22 @@
       "published": "Thu, 19 Nov 2026 17:22:23 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "published": "Thu, 19 Nov 2026 15:01:26 +0530"
+      "source": "BleepingComputer",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published": "Thu, 19 Nov 2026 19:26:25 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "published": "Thu, 19 Nov 2026 17:25:42 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "published": "Thu, 19 Nov 2026 16:15:59 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -56,24 +74,6 @@
       "title": "Five warning signs of ransomware breach before encryption or data theft",
       "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
       "published": "Thu, 19 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "published": "Thu, 19 Nov 2026 09:57:24 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "published": "Thu, 19 Nov 2026 08:08:08 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "published": "Thu, 19 Nov 2026 06:46:00 -0500"
     }
   ]
 }
