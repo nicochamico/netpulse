@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:47:31.714144+00:00",
+  "generated_at": "2026-11-20T08:08:04.930390+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,8 +26,8 @@
         "pqc"
       ],
       "hostnames": [
-        "guest.moritthock.com",
-        "wlan.kreisklinikum-siegen.de",
+        "int.newamericanfunding.com",
+        "wirelessauth.bancroftschool.org",
         "one.one.one.one"
       ]
     },
