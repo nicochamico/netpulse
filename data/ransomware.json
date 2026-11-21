@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-21T15:59:09.232269+00:00",
+  "last_success": "2026-11-21T21:34:01.702845+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Healthcare",
+      "attackdate": "2026-11-21T16:59:00+00:00",
+      "claim_url": "",
+      "country": "US",
+      "data_size": null,
+      "description": "Regions Behavioral Hospital is dedicated to providing a full range of mental health and substance abuse services. Our inpatient psychiatric treatment facilities and intensive outpatient programs (IOP), located in Baton Rouge, Louisiana, are designed to support stabilization, recovery, and long-term wellness in order to help patients develop strategies to manage behavioral health and substance use challenges while providing structured clinical support in a therapeutic environment.",
+      "discovered": "2026-11-21T17:20:46.157162+00:00",
+      "domain": "",
+      "group": "incransom",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/UmVnaW9ucyBCZWhhdmlvcmFsIEhvc3BpdGFsQGluY3JhbnNvbQ==",
+      "victim": "Regions Behavioral Hospital"
+    },
+    {
+      "activity": "Government & Defense",
+      "attackdate": "2026-11-21T15:38:58.619139+00:00",
+      "claim_url": "https://codice-ledger.io#County%20government%20within%20a%20U.S.%20state",
+      "country": "US",
+      "data_size": null,
+      "description": "This government provides access to county government services, departmental information, public records, tax-related materials, and community news. Sector: Government Administration. Location: United States. Revenue: tax revenue: $44.85 million. Employees: unknown. Deadline: 2026-11-24 15:30 UTC.",
+      "discovered": "2026-11-21T15:39:24.003787+00:00",
+      "domain": "",
+      "group": "SoulGroup",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/f3fdbde05af8e004520d35d77f18b51d.png",
+      "url": "https://www.ransomware.live/id/Q291bnR5IGdvdmVybm1lbnQgd2l0aGluIGEgVS5TLiBzdGF0ZUBTb3VsR3JvdXA=",
+      "victim": "County government within a U.S. state"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-11-21T10:58:00+00:00",
@@ -51,6 +83,22 @@
       "screenshot": "https://images.ransomware.live/victims/2db5443420b3bb41c69ed6b8f0f09365.png",
       "url": "https://www.ransomware.live/id/THVjaWQgTW90b3JzQEluY2VwdGlvbg==",
       "victim": "Lucid Motors"
+    },
+    {
+      "activity": "Education",
+      "attackdate": "2026-11-21T00:00:00+00:00",
+      "claim_url": "",
+      "country": "TW",
+      "data_size": null,
+      "description": "Status: Countdown (publication 2026-11-25T16:22:09+00:00) | Country: Taiwan | Revenue: $50,000,000 | Employees: 501-1000",
+      "discovered": "2026-11-21T17:23:07.745050+00:00",
+      "domain": "",
+      "group": "osiris",
+      "press": null,
+      "ransom": null,
+      "screenshot": "",
+      "url": "https://www.ransomware.live/id/S2FuZyBDaGlhbyBJbnRlcm5hdGlvbmFsIFNjaG9vbCAoTGlua291KUBvc2lyaXM=",
+      "victim": "Kang Chiao International School (Linkou)"
     },
     {
       "activity": "Technology",
@@ -275,54 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/fb2f304f9536ee0f620a88b538932c32.png",
       "url": "https://www.ransomware.live/id/UmF5cyBQb3dlciBJbmZyYUBldmVyZXN0",
       "victim": "Rays Power Infra"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-11-20T19:59:51.428977+00:00",
-      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/geesol",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company called \"Geesol.\" I'm not able to confirm its existence, industry, operations, or country of registration from credible sources. Providing a fabricated description would risk spreading inaccurate threat intelligence. If you have additional context (website, registration details, sector hints), I can help assess or verify further.",
-      "discovered": "2026-11-20T21:37:08.045741+00:00",
-      "domain": "",
-      "group": "everest",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/447dd5f93dc9b795629e6adfa0c972d5.png",
-      "url": "https://www.ransomware.live/id/R2Vlc29sQGV2ZXJlc3Q=",
-      "victim": "Geesol"
-    },
-    {
-      "activity": "Other",
-      "attackdate": "2026-11-20T19:59:51.428977+00:00",
-      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/my-american-alliance",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a specific company called \"My American Alliance.\" There are various organizations with similar names, but I cannot confirm details about what this particular entity does, its industry, or its country of operation without risking providing inaccurate information. If you have additional context or source material about this company, I'd be happy to help analyze it.",
-      "discovered": "2026-11-20T21:36:31.626246+00:00",
-      "domain": "",
-      "group": "everest",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/64a7846b051313f9fb71e72095468e1e.png",
-      "url": "https://www.ransomware.live/id/TXkgQW1lcmljYW4gQWxsaWFuY2VAZXZlcmVzdA==",
-      "victim": "My American Alliance"
-    },
-    {
-      "activity": "Technology",
-      "attackdate": "2026-11-20T19:59:51.428977+00:00",
-      "claim_url": "http://everestndkvzcibcje2cqxhre2hmmybl3rn2gwzwsblz7gx6uryn5rad.onion/news/accuver",
-      "country": "",
-      "data_size": null,
-      "description": "[AI generated] N/A\n\nAccuver is not a company I have reliable, verified information about, so I cannot provide an accurate factual description. If you can share additional context (such as the industry, location, or related entities), I would be glad to help clarify or research further based on that information.",
-      "discovered": "2026-11-20T21:35:54.832299+00:00",
-      "domain": "accuver.com",
-      "group": "everest",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/c34eb345af2ffcedf902b8c35abdc0a8.png",
-      "url": "https://www.ransomware.live/id/QWNjdXZlckBldmVyZXN0",
-      "victim": "Accuver"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-21T15:59:09.232269+00:00",
+  "last_success": "2026-11-21T21:34:01.702845+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,7 +41,13 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "published": "Sat, 21 Nov 2026 13:01:58 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
       "published": "Sat, 21 Nov 2026 10:17:27 -0500"
     },
@@ -68,12 +74,6 @@
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
       "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
       "published": "Fri, 20 Nov 2026 10:58:06 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "published": "Fri, 20 Nov 2026 10:00:10 -0500"
     }
   ]
 }
