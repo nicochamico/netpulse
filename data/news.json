@@ -1,8 +1,14 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-20T18:17:06.814389+00:00",
+  "last_success": "2026-11-21T00:35:22.888988+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published": "Fri, 20 Nov 2026 23:27:20 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
@@ -34,10 +40,10 @@
       "published": "Fri, 20 Nov 2026 16:02:50 +0530"
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "published": "Fri, 20 Nov 2026 15:08:15 +0530"
+      "source": "BleepingComputer",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "published": "Fri, 20 Nov 2026 13:51:43 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -68,12 +74,6 @@
       "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
       "published": "Fri, 20 Nov 2026 07:14:28 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "published": "Fri, 20 Nov 2026 05:57:43 -0500"
     }
   ]
 }
