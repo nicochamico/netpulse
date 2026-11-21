@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:58:47.731801+00:00",
+  "generated_at": "2026-11-21T12:25:41.898571+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -43,6 +43,7 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
+        "dns.quad9.net",
         "dns9.quad9.net"
       ]
     }
