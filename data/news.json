@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-22T09:20:10.904482+00:00",
+  "last_success": "2026-11-22T17:36:11.234926+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "published": "Sun, 22 Nov 2026 10:43:04 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "published": "Sun, 22 Nov 2026 10:15:25 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
       "published": "Sat, 21 Nov 2026 17:59:58 -0500"
@@ -62,18 +74,6 @@
       "title": "FBI reportedly hacked again, this time targeting nationwide police database",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
       "published": "Sat, 21 Nov 2026 09:26:04 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "published": "Fri, 20 Nov 2026 13:51:43 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "published": "Fri, 20 Nov 2026 12:30:00 -0500"
     }
   ]
 }
