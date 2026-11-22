@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:56:01.860871+00:00",
+  "generated_at": "2026-11-22T05:46:52.246422+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -26,10 +26,9 @@
         "pqc"
       ],
       "hostnames": [
-        "jo.areeba.com",
-        "hotspot.tigo.com.py",
-        "tigo.com.py",
-        "one.one.one.one"
+        "weihui.yy.com",
+        "one.one.one.one",
+        "captive.bsppharmaceuticals.com"
       ]
     },
     {
