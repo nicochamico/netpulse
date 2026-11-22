@@ -1,9 +1,25 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-22T01:53:45.464322+00:00",
+  "last_success": "2026-11-22T09:20:10.904482+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-21T22:16:36.962042+00:00",
+      "claim_url": "http://t33zoj4qwv455fog7qnb2azi5xcdxkixughmmduzbw2rtdgryqfbh6id.onion/company/baqayaj/",
+      "country": "MF",
+      "data_size": null,
+      "description": "Organization with 90 emails extracted. Domain: f5a.mf",
+      "discovered": "2026-11-21T22:16:49.906231+00:00",
+      "domain": "f5a.mf",
+      "group": "medusalocker",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/838012dc2ddcf12d24cacbffbf3043af.png",
+      "url": "https://www.ransomware.live/id/RjVBQG1lZHVzYWxvY2tlcg==",
+      "victim": "F5A"
+    },
     {
       "activity": "Other",
       "attackdate": "2026-11-21T18:33:07.087314+00:00",
@@ -307,22 +323,6 @@
       "screenshot": "",
       "url": "https://www.ransomware.live/id/QWl4aWEgR3JvdXAgQUIgKE5hc2RhcS1saXN0ZWQgQUkvSVQsIFN3ZWRlbilAUGl4ZWxMZWFrcw==",
       "victim": "Aixia Group AB (Nasdaq-listed AI/IT, Sweden)"
-    },
-    {
-      "activity": "Transportation",
-      "attackdate": "2026-11-20T22:53:52.698133+00:00",
-      "claim_url": "",
-      "country": "",
-      "data_size": null,
-      "description": "This disclosure concerns a verified set of records from an organization in the Logistics SME sector. The material scheduled for publication comprises a set of business records, including financial and operational material.\nDeadline: 2026-11-24 21:21 UTC",
-      "discovered": "2026-11-20T22:53:53.828949+00:00",
-      "domain": "",
-      "group": "PixelLeaks",
-      "press": null,
-      "ransom": null,
-      "screenshot": "",
-      "url": "https://www.ransomware.live/id/S2luZ3Nwb3J0IENhcmdvIChsb2dpc3RpY3MsIExhcmF2ZWwgaW50cmFuZXQpQFBpeGVsTGVha3M=",
-      "victim": "Kingsport Cargo (logistics, Laravel intranet)"
     }
   ]
 }

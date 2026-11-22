@@ -1,8 +1,20 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-22T01:53:45.464322+00:00",
+  "last_success": "2026-11-22T09:20:10.904482+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "published": "Sun, 22 Nov 2026 10:36:55 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "published": "Sun, 22 Nov 2026 10:33:41 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -26,18 +38,6 @@
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
       "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
       "published": "Sat, 21 Nov 2026 14:19:20 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "published": "Sat, 21 Nov 2026 14:19:13 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "published": "Fri, 20 Nov 2026 23:27:20 +0530"
     },
     {
       "source": "BleepingComputer",
