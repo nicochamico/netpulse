@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-21T21:34:01.702845+00:00",
+  "last_success": "2026-11-22T01:53:45.464322+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "published": "Sat, 21 Nov 2026 17:59:58 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "published": "Sat, 21 Nov 2026 13:01:58 -0500"
@@ -68,12 +74,6 @@
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "published": "Fri, 20 Nov 2026 12:30:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "published": "Fri, 20 Nov 2026 10:58:06 -0500"
     }
   ]
 }
