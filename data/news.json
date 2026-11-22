@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-22T17:36:11.234926+00:00",
+  "last_success": "2026-11-22T23:12:54.187888+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,12 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "published": "Sun, 22 Nov 2026 13:45:37 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
       "published": "Sun, 22 Nov 2026 10:43:04 -0500"
@@ -68,12 +74,6 @@
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
       "published": "Sat, 21 Nov 2026 10:17:27 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "published": "Sat, 21 Nov 2026 09:26:04 -0500"
     }
   ]
 }

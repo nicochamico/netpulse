@@ -1,9 +1,41 @@
 {
   "source": "ransomware.live",
   "status": "fresh",
-  "last_success": "2026-11-22T17:36:11.234926+00:00",
+  "last_success": "2026-11-22T23:12:54.187888+00:00",
   "count": 100,
   "items": [
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-22T14:52:13.134000+00:00",
+      "claim_url": "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/api/public/articles/144",
+      "country": "",
+      "data_size": null,
+      "description": "Business Services",
+      "discovered": "2026-11-22T15:07:43.161292+00:00",
+      "domain": "econsys.com",
+      "group": "direwolf",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/a84fd5431c60a9d6c1f859b4e7723357.png",
+      "url": "https://www.ransomware.live/id/RWNvblN5c0BkaXJld29sZg==",
+      "victim": "EconSys"
+    },
+    {
+      "activity": "Technology",
+      "attackdate": "2026-11-22T13:41:49+00:00",
+      "claim_url": "http://yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion/blog/view/1795354909505240233_iHoVbG9s",
+      "country": "KR",
+      "data_size": null,
+      "description": "Right now, our team is reviewing your security team’s report on defenses against ransomware attacks. However, it appears you haven’t adequately protected yourselves. We gained access through the initial entry point and spent two days inside, where we obtained ESX administrator privileges. After some time, you took the ESX device offline, and we thought we’d been detected. But when we checked again the next day, it seemed you hadn’t realized you’d been attacked—our access credentials hadn’t been changed, and you’d even brought the ESX device back online. We then continued our attack on your domain controllers: samsung-cps, samsung-rtm, and samsung-brn. What really surprised us was that all your passwords were set to “Samsung01!” We then began downloading 1 TB of data. Over the weekend, we encrypted your systems. A few hours after we confirmed that most of the data had been encrypted, your security team finally detected the breach, took all machines offline, and changed all access credentials. What struck us was that we remained undetected for over a month, yet your security team only reacted so quickly once the encryption had already taken place. Your security team failed to adequately protect your company against this ransomware attack. The the following countries: the Netherlands, Belgium, Luxembourg, Germany, Poland, India, the United Kingdom, and France. Samsung Group (Korean: 삼성그룹／삼성그룹, Romanization: Samseong Geurup; English: Samsung Group) is a multinational conglomerate headquartered in Seoul, South Korea, with business operations spanning a wide range of sectors including electronics, finance, insurance, biopharmaceuticals, construction, chemicals, and healthcare. Its subsidiaries include Samsung Electronics, Samsung Display, Samsung Electro-Mechanics, Samsung C&T, Samsung Heavy Industries, and Samsung Life Insurance, among others; at least three of these subsidiaries have been ranked among the Fortune Global 500 by *Fortune* magazine.",
+      "discovered": "2026-11-22T13:52:25.496056+00:00",
+      "domain": "samsung.com",
+      "group": "HYFLOCK",
+      "press": null,
+      "ransom": null,
+      "screenshot": "https://images.ransomware.live/victims/0a76fcbff7077cf3a60c8948518086b9.png",
+      "url": "https://www.ransomware.live/id/U2Ftc3VuZyBHcm91cDogMVRCIERhdGEgQnJlYWNoIGZyb20gUmFuc29td2FyZSBBdHRhY2tASFlGTE9DSw==",
+      "victim": "Samsung Group: 1TB Data Breach from Ransomware Attack"
+    },
     {
       "activity": "Professional Services",
       "attackdate": "2026-11-22T10:43:12.024266+00:00",
@@ -291,38 +323,6 @@
       "screenshot": "https://images.ransomware.live/victims/62c1617611bb63ede555e66b3f80fb4b.png",
       "url": "https://www.ransomware.live/id/Z2VuaWNhLmNvbS52ZUBsb2NrYml0NQ==",
       "victim": "genica.com.ve"
-    },
-    {
-      "activity": "Healthcare",
-      "attackdate": "2026-11-21T07:55:18.392645+00:00",
-      "claim_url": "http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/",
-      "country": "US",
-      "data_size": null,
-      "description": "An audit by Dallas Fort Worth Fertility Associates identified critical vulnerabilities in infrastructure and outdated systems that led to complete compromise of the infrastructure and leakage of all patient data - fertility data, analysis, databases and other confidential medical information.\n\nDALLASFERTILITY.txt - is complete list of files we have. | Status: selling | $300,000",
-      "discovered": "2026-11-21T07:55:50.636176+00:00",
-      "domain": "dallasivf.com",
-      "group": "Barracuda",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/1e9adca030d68f11c5bc7ab43e6bca7c.png",
-      "url": "https://www.ransomware.live/id/RGFsbGFzIEZvcnQgV29ydGggRmVydGlsaXR5IEFzc29jaWF0ZXNAQmFycmFjdWRh",
-      "victim": "Dallas Fort Worth Fertility Associates"
-    },
-    {
-      "activity": "Manufacturing",
-      "attackdate": "2026-11-21T02:51:37.644393+00:00",
-      "claim_url": "http://2xigbbzpbgtqvgjtqfcbv23gjyf6qq3br2ogmntfgwh2u5fanii7egid.onion/lucidmotors/",
-      "country": "US",
-      "data_size": null,
-      "description": "SAP service-user IDs + email distribution lists (SDES), SAP access-provisioning process docs for non-production systems, SAP VENDOR_2 data-migration template with supplier tax IDs (SSNs), HR benefits documentation (Kaiser, VSP, Ceridian/Dayforce), Fidelity NetBenefits 401(k) contact and enrollment material, Employee equity-management (stock) office-hours material, Lithium-ion battery recycling/scrap cost estimates (trade secrets), Purchase-requisition and indirect-procurement workflows, Lucid Air test-fleet VINs, Live Atlassian API token (username + token in conf.py), Supplier network: 30+ vendor domains with named contacts\nStatus: leaked\nDeadline: Expired",
-      "discovered": "2026-11-21T02:51:53.714936+00:00",
-      "domain": "lucidmotors.com",
-      "group": "Inception",
-      "press": null,
-      "ransom": null,
-      "screenshot": "https://images.ransomware.live/victims/2db5443420b3bb41c69ed6b8f0f09365.png",
-      "url": "https://www.ransomware.live/id/THVjaWQgTW90b3JzQEluY2VwdGlvbg==",
-      "victim": "Lucid Motors"
     }
   ]
 }
