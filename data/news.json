@@ -1,43 +1,55 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-24T03:47:36.185200+00:00",
+  "last_success": "2026-11-24T14:31:32.787951+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "published": "Mon, 23 Nov 2026 23:15:15 +0530"
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "published": "Tue, 24 Nov 2026 18:58:26 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "published": "Mon, 23 Nov 2026 20:40:48 +0530"
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "published": "Tue, 24 Nov 2026 18:58:21 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "published": "Mon, 23 Nov 2026 18:52:20 +0530"
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": "Tue, 24 Nov 2026 18:12:09 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "published": "Mon, 23 Nov 2026 18:11:04 +0530"
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "published": "Tue, 24 Nov 2026 17:32:00 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "published": "Mon, 23 Nov 2026 17:58:09 +0530"
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "published": "Tue, 24 Nov 2026 17:31:54 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "published": "Mon, 23 Nov 2026 14:41:56 +0530"
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "published": "Tue, 24 Nov 2026 16:14:49 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "published": "Tue, 24 Nov 2026 09:09:37 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "published": "Tue, 24 Nov 2026 08:34:23 -0500"
     },
     {
       "source": "BleepingComputer",
@@ -62,18 +74,6 @@
       "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
       "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
       "published": "Mon, 23 Nov 2026 13:38:40 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "published": "Mon, 23 Nov 2026 11:50:01 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "published": "Mon, 23 Nov 2026 10:00:10 -0500"
     }
   ]
 }
