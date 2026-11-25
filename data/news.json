@@ -1,79 +1,79 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-25T06:57:13.426430+00:00",
+  "last_success": "2026-11-25T17:51:18.523552+00:00",
   "items": [
     {
       "source": "The Hacker News",
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "published": "Wed, 25 Nov 2026 11:51:12 +0530"
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "published": "Wed, 25 Nov 2026 18:18:54 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "published": "Tue, 24 Nov 2026 22:24:07 +0530"
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "published": "Wed, 25 Nov 2026 18:00:08 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "published": "Tue, 24 Nov 2026 18:58:26 +0530"
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "published": "Wed, 25 Nov 2026 17:21:48 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "published": "Tue, 24 Nov 2026 18:58:21 +0530"
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "published": "Wed, 25 Nov 2026 16:53:26 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": "Tue, 24 Nov 2026 18:12:09 +0530"
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "published": "Wed, 25 Nov 2026 16:13:07 +0530"
     },
     {
       "source": "The Hacker News",
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "published": "Tue, 24 Nov 2026 17:32:00 +0530"
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "published": "Wed, 25 Nov 2026 14:36:59 +0530"
     },
     {
       "source": "BleepingComputer",
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "published": "Tue, 24 Nov 2026 16:37:30 -0500"
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "published": "Wed, 25 Nov 2026 11:13:40 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "published": "Tue, 24 Nov 2026 15:21:20 -0500"
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "published": "Wed, 25 Nov 2026 10:00:10 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "published": "Tue, 24 Nov 2026 13:59:52 -0500"
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "published": "Wed, 25 Nov 2026 10:00:00 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "published": "Tue, 24 Nov 2026 12:49:05 -0500"
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "published": "Wed, 25 Nov 2026 06:16:32 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "published": "Tue, 24 Nov 2026 11:30:19 -0500"
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "published": "Wed, 25 Nov 2026 05:10:20 -0500"
     },
     {
       "source": "BleepingComputer",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "published": "Tue, 24 Nov 2026 11:22:44 -0500"
+      "title": "Microsoft confirms authentication issues after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "published": "Wed, 25 Nov 2026 04:02:57 -0500"
     }
   ]
 }
