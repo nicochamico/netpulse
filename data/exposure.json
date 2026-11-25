@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:12:15.788967+00:00",
+  "generated_at": "2026-11-25T00:47:39.091723+00:00",
   "source": "Shodan InternetDB",
   "monitored": 2,
   "unique_cves": [],
@@ -22,11 +22,13 @@
       ],
       "risky_ports": [],
       "vulns": [],
-      "tags": [],
+      "tags": [
+        "pqc"
+      ],
       "hostnames": [
+        "www.springvalley-sfusd-ca.schoolloop.com",
         "one.one.one.one",
-        "mai-montebellousd-ca.schoolloop.com",
-        "api.hubspot-petition-counter.greenpeace.org"
+        "jo-ljsd-ca.schoolloop.com"
       ]
     },
     {
@@ -40,7 +42,6 @@
       "vulns": [],
       "tags": [],
       "hostnames": [
-        "dns.quad9.net",
         "dns9.quad9.net"
       ]
     }
