@@ -1,8 +1,32 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-26T01:32:11.881285+00:00",
+  "last_success": "2026-11-26T10:26:34.560915+00:00",
   "items": [
+    {
+      "source": "The Hacker News",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "published": "Thu, 26 Nov 2026 12:32:34 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "published": "Thu, 26 Nov 2026 12:14:46 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "published": "Thu, 26 Nov 2026 09:50:22 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "published": "Thu, 26 Nov 2026 09:18:52 +0530"
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -14,30 +38,6 @@
       "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
       "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
       "published": "Wed, 25 Nov 2026 18:00:08 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "published": "Wed, 25 Nov 2026 17:21:48 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "published": "Wed, 25 Nov 2026 16:53:26 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "published": "Wed, 25 Nov 2026 16:13:07 +0530"
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "published": "Wed, 25 Nov 2026 14:36:59 +0530"
     },
     {
       "source": "BleepingComputer",
