@@ -1,7 +1,7 @@
 {
   "source": "Cybersecurity RSS",
   "status": "fresh",
-  "last_success": "2026-11-25T17:51:18.523552+00:00",
+  "last_success": "2026-11-26T01:32:11.881285+00:00",
   "items": [
     {
       "source": "The Hacker News",
@@ -41,6 +41,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "published": "Wed, 25 Nov 2026 17:05:09 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "published": "Wed, 25 Nov 2026 16:33:33 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "published": "Wed, 25 Nov 2026 14:39:31 -0500"
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
       "published": "Wed, 25 Nov 2026 11:13:40 -0500"
@@ -56,24 +74,6 @@
       "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
       "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
       "published": "Wed, 25 Nov 2026 10:00:00 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "published": "Wed, 25 Nov 2026 06:16:32 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "published": "Wed, 25 Nov 2026 05:10:20 -0500"
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms authentication issues after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "published": "Wed, 25 Nov 2026 04:02:57 -0500"
     }
   ]
 }
