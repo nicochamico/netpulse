@@ -1,7 +1,7 @@
 {
   "source": "CISA KEV + FIRST EPSS",
   "status": "fresh",
-  "last_success": "2026-11-27T11:44:46.034057+00:00",
+  "last_success": "2026-11-27T20:39:55.181315+00:00",
   "count": 1805,
   "items": [
     {
@@ -20,7 +20,7 @@
         "CWE-78"
       ],
       "epss": 0.01535,
-      "epss_percentile": 0.75157
+      "epss_percentile": 0.75183
     },
     {
       "cveID": "CVE-2026-133469",
@@ -39,7 +39,7 @@
         "CWE-1287"
       ],
       "epss": 0.31768,
-      "epss_percentile": 0.987
+      "epss_percentile": 0.98701
     },
     {
       "cveID": "CVE-2025-41450",
@@ -57,7 +57,7 @@
         "CWE-305"
       ],
       "epss": 0.04271,
-      "epss_percentile": 0.91857
+      "epss_percentile": 0.91866
     },
     {
       "cveID": "CVE-2023-25914",
@@ -75,7 +75,7 @@
         "CWE-22"
       ],
       "epss": 0.01845,
-      "epss_percentile": 0.79569
+      "epss_percentile": 0.79594
     },
     {
       "cveID": "CVE-2023-25915",
@@ -93,7 +93,7 @@
         "CWE-20"
       ],
       "epss": 0.02485,
-      "epss_percentile": 0.85331
+      "epss_percentile": 0.85348
     },
     {
       "cveID": "CVE-2026-133324",
@@ -111,7 +111,7 @@
         "CWE-636"
       ],
       "epss": 0.00832,
-      "epss_percentile": 0.54808
+      "epss_percentile": 0.54848
     },
     {
       "cveID": "CVE-2026-133275",
@@ -129,7 +129,7 @@
         "CWE-434"
       ],
       "epss": 0.00771,
-      "epss_percentile": 0.52058
+      "epss_percentile": 0.52094
     },
     {
       "cveID": "CVE-2026-133311",
@@ -147,7 +147,7 @@
         "CWE-1390"
       ],
       "epss": 0.00985,
-      "epss_percentile": 0.61187
+      "epss_percentile": 0.6122
     },
     {
       "cveID": "CVE-2026-133303",
@@ -165,7 +165,7 @@
         "CWE-91"
       ],
       "epss": 0.01326,
-      "epss_percentile": 0.71078
+      "epss_percentile": 0.71112
     },
     {
       "cveID": "CVE-2026-133323",
@@ -183,7 +183,7 @@
         "CWE-78"
       ],
       "epss": 0.05628,
-      "epss_percentile": 0.93713
+      "epss_percentile": 0.9372
     }
   ]
 }
